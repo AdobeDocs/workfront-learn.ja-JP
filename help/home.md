@@ -2,7 +2,7 @@
 title: WorkfrontTutorials
 description: Workfrontの機能と設定をより深く理解するのに役立つトレーニングビデオと記事のライブラリです。  お客様とお客様の組織の両方がWorkfrontを成功に導くのに役立つ、ベストプラクティス、厳選された演習、その他のリソースの集まりが含まれています。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: e2fc2111ddb8ec5d92e643bf1ead87a669b571b4
+source-git-commit: e7d493b3686007feba1b3f6714e02f285807267e
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,8 @@ See other user landing pages to get ideas.
 
 -->
 
+<div id="whats-new-section">
+
 ## 最新情報
 
 各Workfront製品リリースのチュートリアルに加えられた最新の更新を確認します。 最新のリリースで更新された機能を次に示します。
@@ -30,6 +32,16 @@ See other user landing pages to get ideas.
 
 * 複数のオブジェクトタイプを扱うカスタムフォームを設定します。 詳しくは、 <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">カスタムフォームの作成と共有</a> チュートリアル
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## スタッフのおすすめ
 
@@ -76,3 +88,5 @@ See other user landing pages to get ideas.
     </td>
   </tr>
 </table>
+
+</div>
