@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 2%
 
 
 + カスタム データ {#custom-data}
-   + カスタム フォーム {#custom-forms}
+   + カスタムフォーム {#custom-forms}
       + [オブジェクトにカスタムフォームを添付する](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームの作成と共有](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [カスタムフォームの編集](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
@@ -107,7 +107,7 @@ ht-degree: 2%
       + [について [!UICONTROL ガント] 表示](manage-work/projects/understand-the-gantt-view.md)
       + [プロジェクト情報の表示](manage-work/projects/view-project-information.md)
       + [プロジェクトのステータスの変更](manage-work/projects/change-the-project-status.md)
-   + 件のタスク {#tasks}
+   + タスク {#tasks}
       + [タスクの作成方法](manage-work/tasks/how-to-create-tasks.md)
       + [タスクの順序付けを学ぶ](manage-work/tasks/learn-to-sequence-tasks.md)
       + [理解 [!UICONTROL 作業量]](manage-work/tasks/understand-work-effort.md)
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [高度なレポート作成パート 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [高度なレポート作成パート 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高度なレポートパート 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + 分析の強化 {#enhanced-analytics}
+   + 分析の強化機能 {#enhanced-analytics}
       + [の基本を学ぶ [!UICONTROL 分析の強化]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [追加 [!UICONTROL 分析] テンプレートをレイアウト](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -564,7 +564,7 @@ ht-degree: 2%
       + [バックログのグループ化](agile/gooming-the-backlog.md)
       + [反復の計画と作成](agile/plan-and-create-an-iteration.md)
       + [反復ページの使用](agile/using-the-iteration-page.md)
-   + カンバン {#kanban}
+   + かんばん {#kanban}
       + [かんばんチームの作成](agile/create-a-kanban-team.md)
       + [かんばんチームとして作業を管理](agile/manage-work-kanban-team.md)
    + ボード  {#boards}
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [ボードのチームメンバーの追加と管理](boards/add-and-manage-team-members-for-a-board.md)
       + [ボードへのカードの追加](boards/add-cards-to-a-board.md)
       + [基本ボードの検索と作成](boards/find-and-create-a-basic-board.md)
+      + [ボードでの検索と検索](boards/find-and-search-in-a-board.md)
       + [ボード列を管理](boards/manage-board-columns.md)
       + [ボードでのカードの管理](boards/manage-cards-on-a-board.md)
 
@@ -583,7 +584,7 @@ ht-degree: 2%
    + [API エクスプローラ](best-practices/api-explorer-bp.md)
    + [ビジネスケースとポートフォリオ管理](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [コミュニケーション](best-practices/communication-bp.md)
-   + [マイ グループのカスタム フォーム](best-practices/custom-forms-bp.md)
+   + [カスタムフォーム](best-practices/custom-forms-bp.md)
    + [カスタムレポート](best-practices/custom-reports-bp.md)
    + [ダッシュボード](best-practices/dashboards-bp.md)
    + [ドキュメント](best-practices/documents-bp.md)
@@ -599,7 +600,7 @@ ht-degree: 2%
    + [プロジェクトテンプレート](best-practices/project-templates-bp.md)
    + [Workfront Proof](best-practices/proofing-bp.md)
    + [リクエストキュー](best-practices/request-queues-bp.md)
-   + [リソース プランナ](best-practices/resource-planner-bp.md)
+   + [リソースプランナ](best-practices/resource-planner-bp.md)
    + [リソース プール](best-practices/resource-pools-bp.md)
    + [シナリオ プランナ](best-practices/scenario-planner-bp.md)
    + [スケジュール](best-practices/schedules-bp.md)
