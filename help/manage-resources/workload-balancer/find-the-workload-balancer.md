@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 4f5ef62945a0e28b80bbb9855b67817e2297a712
+source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,12 @@ ht-degree: 0%
 ![リソースのメインメニューオプション](assets/Find_01.png)
 
 * クリック [!UICONTROL リソース] 内 [!UICONTROL メインメニュー].
-* 次に移動： [!UICONTROL ワークロードバランサー] 」セクションに表示されます。
+* 次に移動： [!UICONTROL スケジュール] 」セクションに表示されます。
+* 次をクリック： [!UICONTROL &quot;ワークロード・バランサに切り替え&quot;] リンク。
 
-![ワークロードバランサーセクション](assets/Find_02.png)
+![ワークロードバランサーに切り替える](assets/Find_02.png)
+
+この [!DNL Workload Balancer] は、Workfrontツールの「リソース管理」領域に移動する場合のデフォルトのオプションです。
 
 ## ワークロードバランサー内の領域
 
@@ -38,10 +41,10 @@ ht-degree: 0%
 
 割り当てられた作業領域には、ユーザーと、Workfront内で既に割り当てられている作業のリストが表示されます。 デフォルトでは、この領域は、所属するWorkfrontチームに属するユーザーに対してフィルタリングされます。 これにより、どのチームメンバーが作業に割り当てられたかを確認できます。
 
-![割り当て済みエリアユーザ](assets/Find_04.png)
+![割り当て済みエリアユーザ](assets/Find_03b.png)
 
 「未割り当て作業」領域には、個人、職務、チームのどれに対しても、割り当てが必要な作業が表示されます。 ただし、最初は、この領域には何も表示されません。
 
-![未割り当て作業領域](assets/Find_05.png)
+![未割り当て作業領域](assets/Find_03c.png)
 
 「未割り当て作業領域」を空白のままにすると、割り当てを行う前に、「割り当て済み作業領域」で、ユーザーの現在の作業負荷に最初に焦点を当てることができます。

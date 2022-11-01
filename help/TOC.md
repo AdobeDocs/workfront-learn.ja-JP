@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2212'
+source-wordcount: '2218'
 ht-degree: 2%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 2%
 
 + 作業を管理 {#manage-work}
    + プロジェクト {#projects}
-      + [基本的なプロジェクト作成について](manage-work/projects/understand-basic-project-creation.md)
-      + [プロジェクトを作成するその他の方法について](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [プロジェクトの検索](manage-work/projects/find-projects.md)
-      + [プロジェクトの共有](manage-work/projects/share-a-project.md)
-      + [プロジェクトページに移動](manage-work/projects/navigate-the-project-page.md)
-      + [プロジェクトの計画を開始する](manage-work/projects/getting-started-plan-a-project.md)
+      + [プロジェクトのステータスの変更](manage-work/projects/change-the-project-status.md)
       + [プロジェクトの詳細を入力](manage-work/projects/fill-in-the-project-details.md)
-      + [プロジェクトを実稼働させる](manage-work/projects/take-a-project-live.md)
+      + [プロジェクトの検索](manage-work/projects/find-projects.md)
       + [プロジェクト管理の概要](manage-work/projects/getting-started-manage-a-project.md)
+      + [プロジェクトの計画を開始する](manage-work/projects/getting-started-plan-a-project.md)
+      + [プロジェクトページに移動](manage-work/projects/navigate-the-project-page.md)
+      + [プロジェクトの共有](manage-work/projects/share-a-project.md)
+      + [プロジェクトを実稼働させる](manage-work/projects/take-a-project-live.md)
       + [プロジェクト全体の進行状況の追跡](manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進行状況の追跡](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [基本的なプロジェクト作成について](manage-work/projects/understand-basic-project-creation.md)
+      + [プロジェクトを作成するその他の方法について](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [プロジェクトの通信について](manage-work/projects/understand-project-communication.md)
       + [について [!UICONTROL ガント] 表示](manage-work/projects/understand-the-gantt-view.md)
       + [プロジェクト情報の表示](manage-work/projects/view-project-information.md)
-      + [プロジェクトのステータスの変更](manage-work/projects/change-the-project-status.md)
    + タスク {#tasks}
+      + [プロジェクトプランからタスクを割り当て](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [タスクの作成方法](manage-work/tasks/how-to-create-tasks.md)
       + [タスクの順序付けを学ぶ](manage-work/tasks/learn-to-sequence-tasks.md)
       + [理解 [!UICONTROL 作業量]](manage-work/tasks/understand-work-effort.md)
       + [親子タスクについて](manage-work/tasks/understand-parent-child-tasks.md)
       + [予定時間を把握](manage-work/tasks/understand-planned-hours.md)
       + [タスク期間を理解する](manage-work/tasks/understand-task-durations.md)
-      + [プロジェクトプランからタスクを割り当て](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [タスクの操作](manage-work/tasks/work-with-tasks.md)
    + 問題/リクエスト {#issues-requests}
+      + [問題を他の作業項目に変換する](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [リクエストからのプロジェクトの作成](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [リクエストを検索](manage-work/issues-requests/find-requests.md)
       + [計画外の作業を処理する](manage-work/issues-requests/handle-unplanned-work.md)
       + [リクエストを実行](manage-work/issues-requests/make-a-request.md)
-      + [リクエストを検索](manage-work/issues-requests/find-requests.md)
       + [リクエストの管理](manage-work/issues-requests/manage-incoming-requests.md)
-      + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
-      + [リクエストからのプロジェクトの作成](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [問題を他の作業項目に変換する](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [デジタル作業のレビュー](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
       + [問題の割り当てを管理](manage-work/issues-requests/manage-issue-assignments.md)
       + [問題のレポート](manage-work/issues-requests/report-on-issues.md)
    + ポートフォリオ {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 2%
       + [日付タイプと進捗状況ステータスについて](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [プロジェクトのタイムラインを理解する](manage-work/project-timelines/understand-project-timelines.md)
    + プロジェクトを閉じる {#close-a-project}
+      + [プロジェクトを閉じる](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [タスクと問題を閉じる](manage-work/close-a-project/close-tasks-and-issues.md)
       + [承認を完了](manage-work/close-a-project/complete-approvals.md)
       + [学習したレッスンの記録](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [ログとレビューの時間](manage-work/close-a-project/log-and-review-hours.md)
       + [アセットのアップロード](manage-work/close-a-project/upload-assets.md)
-      + [プロジェクトを閉じる](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [プロジェクトアクティビティを閉じる](manage-work/close-a-project/close-a-project-activity.md)
    + プロジェクトの財政 {#project-finances}
-      + [パフォーマンス指標について](manage-work/project-finances/understand-performance-metrics.md)
-      + [タスクの売上高とコストのデフォルトを設定します](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [財務情報の検索](manage-work/project-finances/find-financial-information.md)
       + [為替レートの設定](manage-work/project-finances/set-up-exchange-rates.md)
       + [費用タイプを設定します](manage-work/project-finances/set-up-expense-types.md)
+      + [タスクの売上高とコストのデフォルトを設定します](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [金融アクセスの理解](manage-work/project-finances/understand-financial-access.md)
-      + [財務の更新とレビュー](manage-work/project-finances/update-and-review-finances.md)
-      + [財務情報の検索](manage-work/project-finances/find-financial-information.md)
       + [複数の請求率について](manage-work/project-finances/multiple-billing-rates.md)
+      + [パフォーマンス指標について](manage-work/project-finances/understand-performance-metrics.md)
+      + [財務の更新とレビュー](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 2%
       + [組み込みのタスクフィルターについて](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [組み込みの問題フィルターを理解する](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [フィルターの基本的なテキストモードについて](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [ビューの基本的なテキストモードを理解する](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [グループ化の基本的なテキストモードを理解する](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [カスタムプロンプトの作成](reporting/intermediate-reporting/custom-prompts.md)
    + 高度なレポート {#advanced-reporting}
       + [高度なレポート機能へようこそ](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 2%
       + [ボードのチームメンバーの追加と管理](boards/add-and-manage-team-members-for-a-board.md)
       + [ボードへのカードの追加](boards/add-cards-to-a-board.md)
       + [基本ボードの検索と作成](boards/find-and-create-a-basic-board.md)
-      + [ボードでの検索と検索](boards/find-and-search-in-a-board.md)
       + [ボード列を管理](boards/manage-board-columns.md)
       + [ボードでのカードの管理](boards/manage-cards-on-a-board.md)
 
