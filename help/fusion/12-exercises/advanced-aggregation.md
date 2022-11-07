@@ -1,14 +1,14 @@
 ---
 title: 高度な集計
-description: 集計時のグループ化の使用方法を説明します。 （60 ～ 160 文字の範囲で指定しますが、49 文字にする必要があります）
+description: Web サービスを呼び出して複数の国に関する詳細を返し、サブ地域ごとにグループ化された母集団を識別します。
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Web サービスを呼び出して複数の国に関する詳細を返し、す�
 
 1. 新しいシナリオを作成し、「Advanced aggregation」という名前を付けます。
 1. トリガーモジュールを HTTP に設定 — リクエストモジュールを作成します。
-1. この URL(https://restcountries.eu/rest/v2/ lang/es) を使用します。この URL は、スペイン語が話されているすべての国のリストを提供します。
+1. この URL(https://restcountries.com/v2/lang/es) を使用すると、スペイン語が話されているすべての国のリストが表示されます。
 1. 「メソッド」は「 Get 」のままにします。
 1. 「応答を解析」チェックボックスをクリックします。
 1. このモジュールの名前を「Get Countries」に変更します。
@@ -44,12 +44,12 @@ Web サービスを呼び出して複数の国に関する詳細を返し、す�
 
    **各国のサブ地域情報を収集し、追加の HTTP リクエストを実行する必要があります。**
 
-1. 別のリクエストを追加して、サブ地域情報を取得します。 最初の国しか返さないが、今は大丈夫だ。 別の HTTP リクエストモジュールを追加し、URL https://restcountries.eu/rest/v2/name/を使用します。
+1. 別のリクエストを追加して、サブ地域情報を取得します。 最初の国しか返さないが、今は大丈夫だ。 別の HTTP リクエストモジュールを追加し、URL https://restcountries.com/v2/name/を使用します。
 1. 最初の国の名前を取得するには、マッピングパネルに移動し、「 Data 」、配列内の「 Name 」の順にクリックします。 この [1] データフィールドでは、配列の最初の項目が返されます。
 
    + 数字をクリックし、必要に応じてインデックスを変更しますが、この場合は最初の項目だけを変更します。
 
-   ![高度な集計画像 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![高度な集計画像 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. マッピングパネルで「 Parse response 」をチェックし、「 OK 」をクリックします。
 1. この名前を「国の詳細を取得」に変更します。
