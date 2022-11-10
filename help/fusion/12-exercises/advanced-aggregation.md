@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # 高度な集計
 
@@ -32,7 +32,7 @@ Web サービスを呼び出して複数の国に関する詳細を返し、す�
 
 1. 新しいシナリオを作成し、「Advanced aggregation」という名前を付けます。
 1. トリガーモジュールを HTTP に設定 — リクエストモジュールを作成します。
-1. この URL(https://restcountries.com/v2/lang/es) を使用すると、スペイン語が話されているすべての国のリストが表示されます。
+1. この URL を使用する。 `https://restcountries.com/v2/lang/es`：スペイン語が話されているすべての国のリストが表示されます。
 1. 「メソッド」は「 Get 」のままにします。
 1. 「応答を解析」チェックボックスをクリックします。
 1. このモジュールの名前を「Get Countries」に変更します。
@@ -44,7 +44,7 @@ Web サービスを呼び出して複数の国に関する詳細を返し、す�
 
    **各国のサブ地域情報を収集し、追加の HTTP リクエストを実行する必要があります。**
 
-1. 別のリクエストを追加して、サブ地域情報を取得します。 最初の国しか返さないが、今は大丈夫だ。 別の HTTP リクエストモジュールを追加し、URL https://restcountries.com/v2/name/を使用します。
+1. 別のリクエストを追加して、サブ地域情報を取得します。 最初の国しか返さないが、今は大丈夫だ。 別の HTTP Make リクエストモジュールを追加し、URL を使用します `https://restcountries.com/v2/name/{country name}`.
 1. 最初の国の名前を取得するには、マッピングパネルに移動し、「 Data 」、配列内の「 Name 」の順にクリックします。 この [1] データフィールドでは、配列の最初の項目が返されます。
 
    + 数字をクリックし、必要に応じてインデックスを変更しますが、この場合は最初の項目だけを変更します。
