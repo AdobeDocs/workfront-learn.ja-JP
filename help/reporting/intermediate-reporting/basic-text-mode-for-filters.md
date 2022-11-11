@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 ログインしたユーザーが現在の担当者の 1 つ以上を割り当てたすべてのタスクが表示されます。 担当者が複数の担当者によって割り当てられた場合は、担当者を最初に割り当てた人の名前のみがタスクのランディングページに「担当者」と表示されます。
 
-## アクティビティ：テキストモードに関する質問
+### タスク — 完了したすべてのタスクを表示する — 承認待ち
 
-1. 「ID で入力済み」というタイトルのフィールドのキャメルケースを作成する方法を教えてください。
-1. 問題レポートで、フィルターを作成して、クローズ済みとマークされているが承認待ちの問題を表示します。
+```
+status=CPL:A
+status_Mod=in
+```
 
-### 回答
 
-1. 「ID 別に入力」フィールドのキャメルケースは、enteredByID のように記述する必要があります。
-1. 問題レポートフィルターのテキストモードは次のようになります。
+### 問題 — 完了したすべての問題を表示する — 承認待ち
 
-   ![テキストモードで新しいフィルターを作成するための画面の画像](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### プロジェクト — 完了したすべてのプロジェクトを表示する — 承認待ち
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 注意 — タグ付けされたすべてのコメントを表示する
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### パラメータ/カスタムフィールドレポート — カスタムフォームに添付されていないカスタムフィールドを表示する（クリーンアップ作業で非常に役立つ）
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```

@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
-
 
 # グループ化の基本的なテキストモードを理解する
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 つの親グループ
+## タスク — 4 親のグループ化
 
 次のテキストモードでは、最大 4 つのレベルの親に基づいてタスクをグループ化し、空白にない親を残します。
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![4 人の親でグループ化されたプロジェクトタスクを示す画面画像](assets/4-parents-grouping.png)
 
 
-## 割合のグループ化
+## タスク — 割合のグループ化
 
 次のテキストモードでは、完了率に基づいてタスクがグループ化されます。 タスクは、グループ化されると、次のカテゴリのいずれかに分類されます。
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![完了率でグループ化されたプロジェクトタスクを示す画面画像](assets/percent-complete-grouping.png)
 
-## statusEquatesWith、status
+## タスク — statusEquatesWith、次に status
 
 次のテキストモードは、statusEquatesWith、次に status でタスクをグループ化します。
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![statusEquatesWith でグループ化されたプロジェクトタスクを示す画面画像](assets/status-equates-with.png)
 
+
+## 配達確認の承認 — プロジェクト名でグループ化
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![プロジェクト名でグループ化された、配達確認の承認を示す画面画像](assets/proof-approvals-grouped-by-project-name.png)
 
