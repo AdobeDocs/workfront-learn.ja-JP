@@ -10,10 +10,10 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 1%
+source-wordcount: '267'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,12 @@ ht-degree: 1%
 >* レポート要素について
 >* レポートコンポーネントについて
 >* 基本グループの作成
+
+
+>[!TIP]
+>
+>* テキストモードをより深く理解するために、録画されたウェビナーイベントを見ることをお勧めします [エキスパートへの質問 — テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)（長さ 1 時間）。
+>* テキストモードの詳細については、 [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) チュートリアルは全部で 5 時間半です。
 
 
 このビデオでは、次のことを学習します。

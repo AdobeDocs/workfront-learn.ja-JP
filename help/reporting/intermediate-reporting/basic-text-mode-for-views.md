@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* レポート要素について
 >* レポートコンポーネントについて
 >* 基本ビューの作成
+
+
+>[!TIP]
+>
+>* テキストモードをより深く理解するために、録画されたウェビナーイベントを見ることをお勧めします [エキスパートへの質問 — テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)（長さ 1 時間）。
+>* テキストモードの詳細については、 [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) チュートリアルは全部で 5 時間半です。
 
 
 このビデオでは、次のことを学習します。
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![配達確認の承認のプロジェクトとタスクを示す画面画像](assets/proof-approval-project-and-task.png)
-
