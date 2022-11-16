@@ -1,6 +1,6 @@
 ---
-title: ナビゲーションの詳細
-description: このビデオでは、 [!DNL  Workfront].
+title: のナビゲーションの詳細 [!UICONTROL 分析の強化]
+description: Workfrontの各プロジェクトに対して、作業者がどのくらいの時間割り当てられているかをすばやく確認する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# ナビゲーションの詳細
+# のナビゲーションの詳細 [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

@@ -1,6 +1,6 @@
 ---
 title: フィルターの基本的なテキストモードについて
-description: テキストモードとは何か、キャメルケースとは何か、およびのレポートフィルターで使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。 [!DNL  Workfront].
+description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontのレポートフィルターで使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---

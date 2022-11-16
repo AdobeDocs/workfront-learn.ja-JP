@@ -1,6 +1,6 @@
 ---
-title: バーンダウンへのアクセスとレビューについて
-description: バーンダウングラフにアクセスし、残り時間、プロジェクト条件、プロジェクトの速度の関係を [!DNL  Workfront].
+title: でのバーンダウングラフへのアクセスとレビューについて [!UICONTROL 分析の強化]
+description: バーンダウングラフにアクセスし、Workfrontの残り時間、プロジェクトの状態、プロジェクトの速度との関係を理解する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# バーンダウンへのアクセスとレビューについて
+# でのバーンダウンへのアクセスとレビューを理解する [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

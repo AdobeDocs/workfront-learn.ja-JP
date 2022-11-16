@@ -1,6 +1,8 @@
 ---
 title: の基本を学ぶ [!UICONTROL 分析の強化]
-description: Enhanced Analytics を最大限に活用するために更新する必要がある最も重要なフィールドについて説明します。
+description: Workfrontで更新すべき最も重要なフィールドについて説明します。これにより、Workfrontでのチームやプロジェクトの進行状況を Enhanced Analytics で確認できます。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
-# の基本を学ぶ [!UICONTROL 分析の強化]
+# Adobe Workfrontの基本を学ぶ [!UICONTROL 分析の強化]
+
+拡張分析では、Workfrontでのチームやプロジェクトの進行状況や、今後のプロジェクトの計画に役立つ以前のプロジェクトで発生したことを確認できます。
 
 ## Analytics の前提条件
 

@@ -1,6 +1,6 @@
 ---
-title: コンサルティングガイダンスの理解
-description: このビデオでは、で組織がより効率的に運用されるのを支援するためのレコメンデーションの作成方法を学びます。 [!DNL  Workfront].
+title: でのコンサルティングガイダンスの理解 [!UICONTROL 分析の強化]
+description: Workfrontで組織がより効率的に運用できるように推奨する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# コンサルティングガイダンスの理解
+# でのコンサルティングガイダンスの理解 [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

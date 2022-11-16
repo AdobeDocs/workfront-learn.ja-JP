@@ -1,6 +1,6 @@
 ---
 title: レポートの送信と共有
-description: このビデオでは、ユーザー、チームまたは電子メールアドレスにレポートを送信する方法と、 [!DNL  Workfront].
+description: ユーザー、チーム、または任意の電子メールアドレスにレポートを送信する方法、およびWorkfrontの他のユーザーとレポートを共有する方法について説明します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 1. 設定 **[!UICONTROL 繰り返し]** から [!UICONTROL 毎週].
 1. を [!UICONTROL 時間] 午前 5 時まで。
 1. 設定 [!UICONTROL 繰り返し日] 月曜に。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 >[!NOTE]
 >

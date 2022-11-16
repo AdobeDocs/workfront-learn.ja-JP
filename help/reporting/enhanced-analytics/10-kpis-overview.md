@@ -1,6 +1,6 @@
 ---
-title: KPI について
-description: このビデオでは、 [!DNL  Workfront].
+title: での KPI について [!UICONTROL 分析の強化]
+description: 現在の状況や過去の傾向に関する KPI データから価値を得る方法を学びます。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# KPI について
+# での KPI について [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

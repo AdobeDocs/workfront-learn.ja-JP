@@ -1,6 +1,6 @@
 ---
 title: 基本的な条件付き書式の追加
-description: このビデオでは、ビューでの条件付き書式の概要と、 [!DNL  Workfront].
+description: 列ルールを使用して、設定した条件に基づいて、レポートまたはビューのテキストの色、書式、背景色を変更する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # ビューへの基本的な条件付き書式の追加
+
+条件付き書式は、列ルールを作成しておこないます。 列ルールを使用すると、設定した条件に基づいて、特定の形式で列を書式設定できます。
 
 このビデオでは、次のことを学習します。
 

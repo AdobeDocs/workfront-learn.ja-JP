@@ -1,6 +1,8 @@
 ---
-title: 生産資源生産能力チャートの理解
-description: '[ リソース容量 ] のグラフには、チームの合計使用可能時間数に対して、フィルタされた期間内にホームチームに割り当てられた予定時間数が表示されます。'
+title: リソース容量のグラフについては、 [!UICONTROL 分析の強化]
+description: '[ リソース容量 ] グラフで、チームの合計使用可能時間と比較して、フィルタされた期間内にホームチームに割り当てられた予定時間数を表示する方法を説明します。'
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# 生産資源生産能力チャートの理解
+# リソース容量のグラフについては、 [!UICONTROL 分析の強化]
 
 [ リソース容量 ] のグラフには、チームの合計使用可能時間数に対して、フィルタされた期間内にホームチームに割り当てられた予定時間数が表示されます。
 

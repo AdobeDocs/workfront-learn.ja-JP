@@ -1,6 +1,6 @@
 ---
-title: エンドユーザーの使用例を理解する
-description: このビデオでは、エンドユーザーがフライトプラン、バーンダウン、タスクを使用する方法を、 [!DNL  Workfront].
+title: でのエンドユーザーの使用例を理解する [!UICONTROL 分析の強化]
+description: エンドユーザーがフライトプラン、バーンダウン、タスクをフライトチャートで使用する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8712
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# エンドユーザーの使用例を理解する
+# でのエンドユーザーの使用例を理解する [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

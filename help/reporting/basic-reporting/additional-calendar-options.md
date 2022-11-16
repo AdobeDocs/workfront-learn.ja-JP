@@ -1,14 +1,16 @@
 ---
 title: その他のカレンダーオプションについて
 description: カレンダーのグループ化を編集および削除する方法と、カレンダーを共有する方法について説明します。
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -42,7 +44,7 @@ ht-degree: 0%
 1. 選択 **[!UICONTROL 共有]** から **[!UICONTROL カレンダーアクション]** ドロップダウンメニュー。
 1. カレンダーを共有するユーザー、役割、チーム、グループまたは会社の名前を入力します。
 1. ユーザーが [!UICONTROL 表示] または [!UICONTROL 管理] カレンダーレポートにアクセスします。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 カレンダーを共有する際に注意すべき点を次に示します。
 

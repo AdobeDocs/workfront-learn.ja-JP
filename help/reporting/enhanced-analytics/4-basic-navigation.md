@@ -1,6 +1,6 @@
 ---
-title: 基本的なナビゲーションについて
-description: このビデオでは、 [!UICONTROL Analytics] 作業図と人物図の概要を [!DNL  Workfront].
+title: での基本的なナビゲーションについて [!UICONTROL 分析の強化]
+description: 以下に移動する方法を説明します。 [!UICONTROL Analytics] を参照し、Workfrontの作業図と人物図の概要を確認します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# 基本的なナビゲーションについて
+# での基本的なナビゲーションについて [!UICONTROL 分析の強化]
 
 移動先 [!UICONTROL Analytics] 新しいWorkfrontエクスペリエンスで、 [!UICONTROL メインメニュー] 」ボタンをクリックします。
 

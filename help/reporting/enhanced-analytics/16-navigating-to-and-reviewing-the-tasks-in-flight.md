@@ -1,6 +1,6 @@
 ---
-title: 実行中のタスクを確認
-description: フライトチャートでタスクにアクセスする方法、およびプロジェクトで完了していないタスクをすばやく確認する方法について説明します。 [!DNL  Workfront].
+title: 実行中のタスクを [!UICONTROL 分析の強化]
+description: フライトチャートでタスクにアクセスする方法と、プロジェクトで完了していないタスクをWorkfrontですばやく確認する方法について説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# 実行中のタスクを確認
+# 実行中のタスクを [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

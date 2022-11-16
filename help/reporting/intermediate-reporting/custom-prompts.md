@@ -1,6 +1,6 @@
 ---
 title: カスタムプロンプトの作成
-description: カスタムプロンプトの概要、テキストモードを使用したカスタムプロンプトの作成方法、およびレポートで使用できる例を説明します。 [!DNL  Workfront].
+description: カスタムプロンプトの概要、テキストモードを使用したカスタムプロンプトの作成方法、およびWorkfrontでのレポートで使用できる例を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336822.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 2%
 
 ---

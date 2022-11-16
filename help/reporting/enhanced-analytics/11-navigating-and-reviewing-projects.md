@@ -1,6 +1,6 @@
 ---
-title: プロジェクト内での移動とレビューについて
-description: このビデオでは、 [!DNL  Workfront].
+title: でのプロジェクトのナビゲーションとレビューについて [!UICONTROL 分析の強化]
+description: Workfrontでのフライトプランチャートの読み方を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
 
-# プロジェクト内での移動とレビューについて
+# でのプロジェクトのナビゲーションとレビューについて [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

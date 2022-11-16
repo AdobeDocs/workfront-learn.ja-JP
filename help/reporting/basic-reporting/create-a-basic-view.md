@@ -1,6 +1,6 @@
 ---
 title: 基本ビューの作成
-description: このビデオでは、ビューの概要、ビューの作成方法、ビューを他のユーザーと共有する方法について説明します。 [!DNL  Workfront].
+description: ビューとは何か、ビューの作成方法、およびWorkfrontで他のユーザーとビューを共有する方法について説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,10 +10,10 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '298'
+ht-degree: 4%
 
 ---
 
@@ -54,6 +54,6 @@ ht-degree: 3%
 1. 内 [!UICONTROL この列に表示] フィールドに「status」と入力し、「Progress Status」を [!UICONTROL タスク] フィールドソース。
 1. クリック **[!UICONTROL 列を追加]** 再び
 1. 内 [!UICONTROL この列に表示] 「 」フィールドに「status」と入力し、「Task」フィールドのソースで「Status Icons」を選択します。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 の各アイコンの上にマウスポインターを置きます。 [!UICONTROL ステータスアイコン] 列を参照して、表す内容を確認します。 灰色表示の場合は、タスクにメモ、ドキュメント、承認プロセスなどが含まれていないことを意味します。 アイコンが色で表示される場合は、タスクに関連付けられた項目の 1 つ以上が存在します。 メモまたはドキュメントのアイコンをクリックすると、そのアイテムに移動できます。

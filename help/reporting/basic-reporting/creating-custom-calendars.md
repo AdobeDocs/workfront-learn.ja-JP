@@ -1,6 +1,8 @@
 ---
 title: カスタムカレンダーの作成
-description: 独自のカスタムカレンダーの作成方法を説明します
+description: 作業項目と個人の休日を示す独自のカスタムカレンダーの作成方法を説明します。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: create-a-custom-calendar.png
 kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -48,7 +50,7 @@ ht-degree: 0%
 1. 表示する [!UICONTROL 実際の日付] その情報が表示されたら、メニューから「はい」を選択します。 常に選択した日付タイプが必要な場合は、「いいえ」([!UICONTROL 推定], [!UICONTROL 計画済み]または [!UICONTROL カスタム]) をクリックして表示します。
 1. カレンダーに表示する項目情報の種類を選択します —[!UICONTROL タスク], [!UICONTROL プロジェクト], [!UICONTROL 問題]または [!UICONTROL オフの時間].
 1. 必要な情報を表示するフィルターを設定します。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ![カレンダーのグループ化に作業項目を追加する画面の画像](assets/calendar-2-2.png)
 
@@ -73,6 +75,6 @@ ht-degree: 0%
 1. [ 実際の日付 ] が表示されない場合、情報の表示方法を無視します。 これは当てはまりません。
 1. 選択 [!UICONTROL オフの時間] を参照してください。
 1. フィルタの場合は、チームメンバーの名前にユーザー ID を設定します。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ![カレンダーグループにオフエントリを追加する画面の画像](assets/calendar-2-3.png)

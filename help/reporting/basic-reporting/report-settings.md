@@ -1,6 +1,6 @@
 ---
 title: レポート設定について
-description: このビデオでは、 [!DNL  Workfront] レポート設定と、一般的なレポート設定の用途を示します。
+description: Workfrontのレポート設定にアクセスする方法と、一般的なレポート設定の用途について説明します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335159.png
 kt: 8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---

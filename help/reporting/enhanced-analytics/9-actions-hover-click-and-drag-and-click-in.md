@@ -1,6 +1,6 @@
 ---
 title: アクションを理解する — マウスポインターを置き、クリックしてドラッグし、
-description: グラフの上にマウスポインターを置くと、グラフの期間が作成され、さらにグラフが表示されるようにする方法について詳しくは、 [!DNL  Workfront].
+description: グラフの上にマウスポインターを置くと、グラフの期間が作成され、さらにグラフが表示されるようにする方法について詳しくは、 [!UICONTROL 分析の強化].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# アクションを理解する — マウスポインターを置き、クリックしてドラッグし、
+# でのアクションについて [!UICONTROL 分析の強化]  — マウスポインターを置き、クリックしてドラッグし、
 
 このビデオでは、次のことを学習します。
 

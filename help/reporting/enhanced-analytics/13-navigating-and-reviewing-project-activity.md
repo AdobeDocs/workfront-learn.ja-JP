@@ -1,6 +1,6 @@
 ---
-title: プロジェクトアクティビティ内での移動とレビューについて
-description: このビデオでは、ログインしたユーザー、タスクのステータスの変更、完了したタスクに基づいてプロジェクトを比較する方法を学びます。 [!DNL  Workfront].
+title: でのプロジェクトアクティビティの操作とレビューについて [!UICONTROL 分析の強化]
+description: Workfrontでログインしたユーザー、タスクステータスの変更、完了したタスクに基づいてプロジェクトを比較する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# プロジェクトアクティビティ内での移動とレビューについて
+# でのプロジェクトアクティビティの操作とレビューについて [!UICONTROL 分析の強化]
 
 このビデオでは、次のことを学習します。
 

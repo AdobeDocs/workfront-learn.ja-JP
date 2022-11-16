@@ -1,6 +1,8 @@
 ---
-title: チームの能力を理解する
-description: '[ チームの能力 ] グラフには、ホームチームが過剰割り当てされたか、割り当てられていなかったかが表示されます。'
+title: でのチームの能力を理解する [!UICONTROL 分析の強化]
+description: ホームチームが過剰割り当てまたは未割り当ての時期を示す [ チーム容量 ] グラフの表示方法を説明します。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# チームの能力を理解する
+# でのチームの能力を理解する [!UICONTROL 分析の強化]
 
 [ チームの能力 ] グラフには、ホームチームが過剰割り当てされたか、割り当てられていなかったかが表示されます。 このグラフには、特定の日にホームチームに割り当てられた作業量が表示され、燃え尽きた時や挑戦していない時に濃い青色が割り当てられます。 より明るく、より透明な色は、ワークロードのバランスがより高いことを示します。
 

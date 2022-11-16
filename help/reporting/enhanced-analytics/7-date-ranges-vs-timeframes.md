@@ -1,6 +1,8 @@
 ---
 title: 日付範囲と期間について
-description: 日付範囲は、カレンダーウィジェットを使用して指定します。 期間はグラフ内で作成されます。
+description: In [!UICONTROL 分析の強化]の場合、日付範囲はカレンダーウィジェットを使用して指定します。 期間はグラフ内で作成されます。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# 日付範囲と期間について
+# での日付範囲と期間について [!UICONTROL 分析の強化]
 
 次を表示する場合： [!DNL Enhanced analytics] グラフ、日付範囲は、カレンダーウィジェットを使用して指定します。 時間枠は、グラフ内でクリック&amp;ドラッグして特定の地域を定義するときに作成されるので、ズームインして、その期間の情報をより詳細に確認できます。
 
