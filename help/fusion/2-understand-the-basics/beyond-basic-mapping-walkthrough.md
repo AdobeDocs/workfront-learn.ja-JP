@@ -1,14 +1,17 @@
 ---
-title: 基本マッピングチュートリアルを超える
-description: このビデオでは、以前に [!DNL Adobe Workfront Fusion].
+title: 基本的なマッピングチュートリアルを超える
+description: 以前作成したシナリオで、 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 >チュートリアルの完了手順については、 [基本的なマッピングチュートリアルを超える](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) 運動。
 
 ## あなたのターン
+
+>[!NOTE]
+>
+>練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 

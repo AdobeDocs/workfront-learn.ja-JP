@@ -1,5 +1,5 @@
 ---
-title: Workfrontでの目標の作成
+title: で目標を作成 [!DNL Workfront Goals]
 description: で目標を作成する方法を説明します。 [!DNL Workfront Goals] 3 つの異なるオプションを使用する。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
-# Workfrontでの目標の作成
+# で目標を作成 [!DNL Workfront Goals]
 
 In [!DNL Workfront Goals]エグゼクティブや企業のリーダーシップチームは、個人のレベルに至るまで、組織全体の進行状況を各レベルで確認できます。 [!DNL Workfront Goals] は、最優先度を高め、リスクのある目標を特定し、問題をリアルタイムで診断し、プロアクティブにコースを修正するための重要な実用的なインサイトを提供します。
 
@@ -65,7 +65,7 @@ In [!DNL Workfront Goals]エグゼクティブや企業のリーダーシップ�
 
 1. 次を確認します。 **[!UICONTROL 結果をコピー]** 」ボックスに移動します。 コピーしたゴールの結果には、元のゴールの結果と同じ所有者、名前、測定値が含まれます。
 
-1. クリック **[!UICONTROL 保存]**. コピーした目標は、ステータスが「ドラフト」で保存されます。
+1. 「**[!UICONTROL 保存]**」をクリックします。コピーした目標は、ステータスが「ドラフト」で保存されます。
 
    ![画像 [!UICONTROL 目標の詳細] パネル内 [!DNL Workfront Goals] と [!UICONTROL コピー] オプション](assets/03-workfront-goals-copy-a-goal.png)
 

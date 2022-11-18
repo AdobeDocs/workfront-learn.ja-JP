@@ -1,5 +1,5 @@
 ---
-title: 配達確認を含む Web サイトの確認方法
+title: 配達確認を含む Web サイトのレビュー
 description: 静的またはインタラクティブな Web サイトの配達確認をで開く方法を説明します。 [!DNL  Workfront] コメントを入力します。
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335143.png
 kt: 8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---

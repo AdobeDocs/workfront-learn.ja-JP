@@ -1,5 +1,5 @@
 ---
-title: 基本ワークフローで配達確認をアップロードする方法
+title: 基本ワークフローでの配達確認のアップロード
 description: ファイルを配達確認としてアップロードする方法、ステークホルダーのレビューと承認用の基本的な校正ワークフローを追加する方法、およびで校正レビュー用の期限を設定する方法を説明します。 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 配達確認の確認および承認方法
+title: 配達確認の確認と承認
 description: 配達確認に対するアクセスとコメント、必要な変更を示すマークアップの使用、配達確認コメントに対する返信、および配達確認に関する決定をおこなう方法について説明します。 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# デジタル配達確認の確認と承認
+# 配達確認の確認と承認
 
 配達確認を確認する前に、何が期待されているかを確認してください。 校正ワークフローでの役割は何ですか？ 配達確認を確認、承認、またはその両方か？
 

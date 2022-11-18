@@ -2,13 +2,16 @@
 title: ルーターのチュートリアル
 description: ルータを使用して、Pokemon とスーパーヒーローのバンドルを正しいパスに渡す方法を学びます。 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 
 ## 演習 URL
 
-* Superhero API Web サイト：https://www.superheroapi.com/
-* 演習の最初の URL:https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* 演習の 2 番目の URL:https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Superhero API Web サイト： `https://www.superheroapi.com/`
+* 演習の最初の URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 演習の 2 番目の URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 独自のスーパーヒーロートークンへのアクセスで問題が発生した場合は、次の共有トークンを使用できます。10110256647253588. スーパーヒーロー API の呼び出し回数に気を配って、この共有トークンが引き続き全員に対して機能するようにしてください。
 
@@ -86,6 +89,10 @@ Workfront Fusion Universal Connectors の詳細と、Experience Leagueで必要�
 事前に作成されたアプリコネクタのリスト全体をExperience Leagueで確認できます。 新しいアプリコネクタをWorkfront Fusion 製品チームに提案する場合は、アイデアを Innovation Lab に送信します。 まだ提出していない場合は、イノベーションラボの詳細に加えて、アイデアに投票し、年 2 回のリーダーボードの優先順位付けに参加する方法を学びます。 既に Innovation ラボにアクセスできる場合は、ログインしてアイデアを送信します。
 
 ## あなたのターン
+
+>[!NOTE]
+>
+>練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 

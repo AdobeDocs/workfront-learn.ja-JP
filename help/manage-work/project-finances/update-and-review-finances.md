@@ -1,6 +1,8 @@
 ---
 title: 財務の更新とレビュー
 description: プロジェクトに関連する財務情報を [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: update-and-review-finances.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%

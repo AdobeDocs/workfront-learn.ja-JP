@@ -1,6 +1,8 @@
 ---
 title: プロジェクトのステータスの変更
-description: プロジェクトのステータスを変更する方法については、 [!UICONTROL  ] 作業が完了したことを示す
+description: プロジェクトのステータスを変更して、作業が完了したことを示す方法について説明します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: change-the-project-status.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---

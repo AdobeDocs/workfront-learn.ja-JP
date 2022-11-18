@@ -1,13 +1,15 @@
 ---
 title: 投稿者としてのメタデータとキーワードのベストプラクティスについて
 description: メタデータとキーワードを [!UICONTROL Workfront DAM] を参照してください。
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%

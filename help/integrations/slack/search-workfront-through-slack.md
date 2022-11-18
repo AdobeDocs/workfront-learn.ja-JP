@@ -1,5 +1,5 @@
 ---
-title: SlackでWorkfrontを検索
+title: 検索方法Workfront [!DNL Slack]
 description: 検索方法を学ぶ [!DNL Workfront] Slack
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8821
 exl-id: cb0ec783-0e2c-498d-a481-63617eddae8e
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '21'
 ht-degree: 0%
 
 ---

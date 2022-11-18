@@ -1,6 +1,8 @@
 ---
 title: 問題を他の作業項目に変換する
 description: 問題を他の作業項目に変換する方法を説明します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: convert-issues-to-other-work-items.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 0%

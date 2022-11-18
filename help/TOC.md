@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 2%
 
 ---
@@ -182,7 +182,7 @@ ht-degree: 2%
 
 
 
-+ レポート {#reporting}
++ 報告書 {#reporting}
    + 基本レポート {#basic-reporting}
       + [レポート要素について](reporting/basic-reporting/reporting-elements.md)
       + [レポートコンポーネントについて](reporting/basic-reporting/reporting-components.md)
@@ -342,7 +342,7 @@ ht-degree: 2%
       + [を通じて承認をおこなう [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [検索方法Workfront [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [最近の作業手順の表示 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [最近の作業手順を表示 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -460,7 +460,7 @@ ht-degree: 2%
    + 管理と設定 {#administration-and-setup-for-proof}
       + [配達確認コメントのアクションのカスタマイズ](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [配達確認の決定オプションをカスタマイズ](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [E メールアラートと配達確認通知の比較](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [E メールアラートと配達確認通知について](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [配達確認の役割と E メールのアラート](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [配達確認に関するレポート](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [リスク配達確認設定のデフォルトを設定](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)

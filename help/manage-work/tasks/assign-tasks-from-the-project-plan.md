@@ -1,6 +1,6 @@
 ---
 title: プロジェクトプランからタスクを割り当て
-description: インライン編集を使用して、ユーザーをタスクに割り当てる方法を説明します。 [!DNL  Workfront] プロジェクト。
+description: Adobe Analytics でのインライン編集を使用して、ユーザーをタスクに割り当てる方法を説明します [!DNL  Workfront] プロジェクト。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -10,7 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8779
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

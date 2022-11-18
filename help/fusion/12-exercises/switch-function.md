@@ -1,18 +1,21 @@
 ---
 title: 切り替え機能
 description: スイッチ機能を使用したスイッチ機能の使用方法を説明します。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11051
 thumbnail: KT1101.png
-source-git-commit: f367e016498d5c1814cab79e19e6e9001db2851f
+exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
-
 
 # 切り替え機能
 

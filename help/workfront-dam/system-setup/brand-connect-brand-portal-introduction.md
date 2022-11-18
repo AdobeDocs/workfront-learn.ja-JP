@@ -1,5 +1,5 @@
 ---
-title: でBrand Portalを操作する方法 [!UICONTROL DAM]
+title: でのBrand Portalの操作 [!UICONTROL Workfront DAM]
 description: でBrand Portalにアクセスする方法を説明します。 [!UICONTROL Workfront DAM]、フォルダーの作成、個々のアセットに対する有効期限の設定、アセット設定の編集を行います。
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---

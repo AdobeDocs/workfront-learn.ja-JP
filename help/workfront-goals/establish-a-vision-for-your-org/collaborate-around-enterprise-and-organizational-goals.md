@@ -1,5 +1,5 @@
 ---
-title: 目標に関する共同作業
+title: 目標に合わせて共同作業
 description: チームと共同作業する方法、トップレベルの目標を達成するために何をすべきかを定義し、目標階層を絞り込む方法を学びます。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

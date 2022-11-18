@@ -1,6 +1,8 @@
 ---
 title: プロジェクトタイムラインからの進行状況の追跡
 description: プロジェクトタイムラインから、 [!DNL  Workfront] 完了率、ステータス、割り当て、または制約を使用する。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%

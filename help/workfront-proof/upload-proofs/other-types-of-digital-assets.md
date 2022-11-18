@@ -1,6 +1,8 @@
 ---
 title: ビデオの配達確認のアップロード
 description: で校正用にビデオをアップロードする方法を説明します [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Beginner
 thumbnail: upload-a-proof-video.png
 kt: 10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%

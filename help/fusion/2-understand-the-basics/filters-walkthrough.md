@@ -1,14 +1,17 @@
 ---
-title: フィルタのチュートリアル
-description: このビデオでは、 [!DNL Adobe Workfront Fusion].
+title: フィルターのチュートリアル
+description: のモジュール内の 2 つのモジュール間にフィルターを追加する方法を説明します。 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -36,6 +39,10 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 >チュートリアルの完了手順については、 [フィルターのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) 運動。
 
 ## あなたのターン
+
+>[!NOTE]
+>
+>練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 

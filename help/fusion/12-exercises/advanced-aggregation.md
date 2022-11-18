@@ -1,13 +1,16 @@
 ---
 title: 高度な集計
 description: Web サービスを呼び出して複数の国に関する詳細を返し、サブ地域ごとにグループ化された母集団を識別します。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%

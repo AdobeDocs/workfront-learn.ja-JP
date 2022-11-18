@@ -1,14 +1,17 @@
 ---
-title: ウェブフックのチュートリアル
+title: Webhooks のチュートリアル
 description: Webhook を使用してアプリを作成し、顧客がお酒を購入するのに十分な年齢かどうかを判断する方法を説明します ( [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 ![スイッチモジュールを使用した画像](assets/beyond-basic-modules-6.png)
 
 ## あなたのターン
+
+>[!NOTE]
+>
+>練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 

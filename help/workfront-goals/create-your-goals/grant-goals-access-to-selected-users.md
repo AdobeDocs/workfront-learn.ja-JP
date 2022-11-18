@@ -1,5 +1,5 @@
 ---
-title: 次のアクセスレベルを編集： [!DNL Workfront Goals]
+title: 編集 [!UICONTROL アクセスレベル] 対象 [!DNL Workfront Goals]
 description: ユーザーのライセンスタイプに従ってアクセスレベルを編集する方法については、 [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# アクセスレベルを編集
+# のアクセスレベルを編集 [!DNL Workfront Goals]
 
 このビデオでは、次の方法を学習します。
 

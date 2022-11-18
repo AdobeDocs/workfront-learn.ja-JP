@@ -1,5 +1,5 @@
 ---
-title: 詳しくは、 [!UICONTROL Workfront DAM] と Brand Connect
+title: 詳細 [!UICONTROL Workfront DAM] と Brand Connect
 description: 詳細 [!UICONTROL Workfront DAM] と Brand Connect は、およびその使用方法です。
 activity: use
 feature: Digital Content and Documents
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

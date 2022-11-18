@@ -2,18 +2,21 @@
 title: 実行、サイクル、バンドルのチュートリアル
 description: 様々なシナリオ設定を使用して、の実行とサイクルを使用して調査する方法を説明します。 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 820f35af-a068-4a15-9322-98462964de61
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# 実行、サイクル、バンドルのチュートリアルの参照
+# 実行、サイクル、バンドルのチュートリアル
 
 ## 概要
 

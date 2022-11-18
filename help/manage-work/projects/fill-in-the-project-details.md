@@ -1,6 +1,8 @@
 ---
 title: プロジェクトの詳細を入力
 description: 12 個のプロジェクトの詳細フィールドについて説明します [!DNL  Workfront] では、プロジェクトを作成する際に入力することをお勧めします。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1226'
 ht-degree: 1%
@@ -89,7 +91,7 @@ ht-degree: 1%
 
    「リソースマネージャー」フィールドは、テンプレートで設定できます。
 
-1. **カスタム フォーム**
+1. **カスタムフォーム**
 
    Workfrontは、プロジェクト名や開始日など、ネイティブフィールドを提供します。 しかし、プロジェクトマネージャーとして、またはプロジェクトチームが必要とする追加情報があります。 固有のデータも同様に重要で、これらの形式で簡単に保存できます。 公開日、印刷アセットのサイズ、配信チャネルなどの詳細。
 

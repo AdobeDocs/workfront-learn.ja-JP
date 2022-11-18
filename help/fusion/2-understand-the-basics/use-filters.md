@@ -1,14 +1,17 @@
 ---
 title: フィルターを使用
-description: このビデオでは、モジュール間およびモジュール内でのフィルターの使用方法、および実行履歴の確認方法について、 [!DNL Adobe Workfront Fusion].
+description: モジュール間およびモジュール内でフィルターを使用する方法、および実行履歴を確認する方法については、 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9005
 exl-id: 1e47a475-0d20-4516-b6ef-86166263d3b5
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

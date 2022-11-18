@@ -1,6 +1,8 @@
 ---
 title: タスクの売上高とコストのデフォルトを設定します
-description: 収益タイプとコストタイプは、タスクの計画財務情報と実績財務情報の計算に使用されます。
+description: 売上高タイプとコストタイプを使用して、タスクの計画財務情報と実際の財務情報を計算する方法を説明します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 9%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

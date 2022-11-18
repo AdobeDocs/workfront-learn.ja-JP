@@ -1,13 +1,15 @@
 ---
 title: の開発 [!UICONTROL Workfront DAM] 方法
 description: 開発の分析方法と計画方法を学ぶ [!UICONTROL Workfront DAM] 戦略。
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%

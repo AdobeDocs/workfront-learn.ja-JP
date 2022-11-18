@@ -1,13 +1,15 @@
 ---
 title: プロジェクトの計画 — レビュー
 description: プロジェクトを計画する際に、タスク、期間、予定時間、先行タスク、割り当てなど、プロジェクトの 5 つのフィールドを確認します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
 kt: 10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 5%
@@ -18,7 +20,7 @@ ht-degree: 5%
 
 ダウンロード [!DNL  Workfront] プロジェクトテンプレートを使用して、すばやくプロジェクトを起動および実行します。 次に、次の 5 つのフィールドに焦点を当てて、プロジェクトを計画します。
 
-1. 件のタスク
+1. タスク
 1. 期間
 1. 予定時間数
 1. 先行タスク

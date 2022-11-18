@@ -1,5 +1,5 @@
 ---
-title: 配達確認を含むビデオを確認する方法
+title: 配達確認を含むビデオの確認
 description: での校正を使用して、ビューア設定を調整し、ビデオにタイムスタンプ付きのコメントを追加する方法を説明します。 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335144.png
 kt: 8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---

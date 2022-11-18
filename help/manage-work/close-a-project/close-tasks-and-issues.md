@@ -1,6 +1,8 @@
 ---
 title: タスクと問題を閉じる
 description: でプロジェクトを閉じる前に、タスクと問題が確実に閉じられるようにする方法を説明します。 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: close-tasks-and-issues.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

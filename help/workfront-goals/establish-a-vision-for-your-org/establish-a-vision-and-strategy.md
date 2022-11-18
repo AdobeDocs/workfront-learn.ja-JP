@@ -1,5 +1,5 @@
 ---
-title: ビジョンと戦略を確立する方法
+title: ビジョンと戦略の確立
 description: 計画段階での「何」と「理由」の関連付け、目標の例、影響力の範囲について説明します。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---

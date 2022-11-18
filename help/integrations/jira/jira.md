@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Jira] 統合'
+title: を使用して表示を作成する [!DNL Jira] 統合
 description: 次の項目について説明します。 [!DNL Jira] 統合により、チームの行動を可視化できます。
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%

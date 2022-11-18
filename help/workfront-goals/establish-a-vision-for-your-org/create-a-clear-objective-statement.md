@@ -1,5 +1,5 @@
 ---
-title: 目標または目標の定義と表現
+title: 目標または終了目標を定義し、表現する
 description: 明確な目的の声明、またはコマンダーの意図を作成し、強力な企業目標や組織目標を記述する方法を学びます。
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

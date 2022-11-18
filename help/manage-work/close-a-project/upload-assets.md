@@ -1,6 +1,8 @@
 ---
 title: アセットのアップロード
 description: ドキュメント、配達確認およびその他のアセットをプロジェクトにアップロードしてから閉じ、関連するすべてのデータがプロジェクトに関連付けられていることを確認します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

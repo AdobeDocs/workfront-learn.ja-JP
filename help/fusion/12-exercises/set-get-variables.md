@@ -1,18 +1,21 @@
 ---
 title: 変数の設定/取得
 description: 変数設定モジュールと変数の取得モジュールを使用して、1 つのパスで使用できるフィールドを別のパスで使用する方法を説明します。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11045
 thumbnail: KT11045.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # 変数の設定/取得
 

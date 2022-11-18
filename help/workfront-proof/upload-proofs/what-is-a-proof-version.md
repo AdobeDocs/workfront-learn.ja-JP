@@ -1,6 +1,8 @@
 ---
-title: 配達確認のバージョンとは
+title: 配達確認用のバージョンとは
 description: '[!DNL ''s] の校正機能を使用して、複数回のファイル繰り返しにわたってレビューと承認プロセスを管理するには、バージョンがどのように役立つかを確認します。'
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# 配達確認のバージョンとは
+# 配達確認用のバージョンとは
 
 [!DNL Workfront’s] 校正機能は、バージョンを使用した複数回のファイルの反復で、レビューと承認のプロセスを管理するのに役立ちます。
 

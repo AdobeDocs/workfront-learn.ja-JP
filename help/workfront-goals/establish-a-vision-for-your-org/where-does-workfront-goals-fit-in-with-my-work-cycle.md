@@ -1,5 +1,5 @@
 ---
-title: 場所： [!DNL Workfront Goals] 私の仕事のライフサイクルに合うか？
+title: 方法の理解 [!UICONTROL Workfront目標] 作業サイクルに適合
 description: 一般的な作業ライフサイクルの 6 つのステップと、作業ライフサイクルの「戦略フェーズ」の中核となる構成要素について説明します。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# 場所： [!DNL Workfront Goals] 私の仕事のライフサイクルに合うか？
+# 方法の理解 [!UICONTROL Workfront目標] 作業サイクルに適合
 
 このビデオでは、次の点について学習します。
 

@@ -1,5 +1,5 @@
 ---
-title: で定性的更新を行う [!DNL Workfront Goals]
+title: で定性的に更新 [!DNL Workfront Goals]
 description: '[!DNL Gools] で定性的（書き込み）を更新する方法を説明します。'
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

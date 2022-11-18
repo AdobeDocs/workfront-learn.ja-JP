@@ -1,5 +1,5 @@
 ---
-title: プロジェクトの検索方法
+title: プロジェクトの検索
 description: でプロジェクトを見つける方法を学ぶ [!DNL  Workfront] ピン、お気に入り、ダッシュボード、および [!UICONTROL プロジェクト] ページ。
 activity: use
 feature: Work Management
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---

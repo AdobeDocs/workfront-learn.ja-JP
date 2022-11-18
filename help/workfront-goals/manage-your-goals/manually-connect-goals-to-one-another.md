@@ -1,13 +1,15 @@
 ---
 title: 目標を相互に手動で接続する
 description: で目標を手動で連携させる方法を説明します。 [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10123
 exl-id: 00e2dfd6-1b6e-4352-b1c7-9953e84d03db
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

@@ -1,14 +1,17 @@
 ---
-title: 変数設定/取得のチュートリアル
-description: このビデオでは、Workfrontでプロジェクトに関する情報を検索し、関連情報を記載した電子メールを [!DNL Adobe Workfront Fusion].
+title: 変数の設定/取得のチュートリアル
+description: Workfrontでプロジェクトに関する情報を検索し、関連情報を記載した電子メールを [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 >チュートリアルの完了手順については、 [変数の設定/取得のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) 運動。
 
 ## あなたのターン
+
+>[!NOTE]
+>
+>練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 

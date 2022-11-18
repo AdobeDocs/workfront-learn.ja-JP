@@ -2,11 +2,14 @@
 title: データ構造のチュートリアル
 description: 1 つのファイルから時間ログ情報を取得し、変換して、で変換されたデータを使用して新しいファイルを作成する方法を説明します。 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

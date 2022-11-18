@@ -1,18 +1,21 @@
 ---
 title: ルーター
 description: ルータの重要性と、異なるモジュールを条件付きで処理するためにルータを使用する方法を理解します。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # ルーター
 
@@ -55,8 +58,8 @@ ht-degree: 0%
    >
    >独自のスーパーヒーロートークンへのアクセスで問題が発生した場合は、次の共有トークンを使用できます。10110256647253588. スーパーヒーロー API の呼び出し回数に気を配って、この共有トークンが引き続き全員に対して機能するようにしてください。
 
-1. スーパーヒーローの外観の取得設定を開き、URL をhttps://www.superheroapi.com/api/に変更します。[access-token]/332/appearance. 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
-1. スーパーヒーローアビリティーの設定を開き、URL をhttps://www.superheroapi.com/api/に変更します。[access-token]/332/powerstats 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
+1. スーパーヒーローの外観を取得する設定を開き、URL をに変更します。 `https://www.superheroapi.com/api/[access- token]/332/appearance`. 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
+1. スーパーヒーローアビリティーの設定を開き、URL をに変更します。 `https://www.superheroapi.com/api/[access- token]/332/powerstats`. 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
 1. 各スーパーヒーローモジュールを右クリックし、「このモジュールのみ実行」を選択します。 これにより、マッピングに必要なデータ構造が生成されます。
 1. 両方を実行した後、各 URL フィールドの数値「332」を、「 CSV を解析」モジュールからマッピングされた列 4 に変更します。
 

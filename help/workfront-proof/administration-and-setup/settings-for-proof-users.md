@@ -1,5 +1,5 @@
 ---
-title: 校正用のユーザーを設定する方法
+title: ユーザーの校正設定
 description: どちらを決定するかを学ぶ [!DNL  Workfront] ユーザーは、校正ライセンスを取得し、次に、両方の [!DNL Workfront] とバックエンドの設定に含まれています。
 activity: use
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335126.png
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

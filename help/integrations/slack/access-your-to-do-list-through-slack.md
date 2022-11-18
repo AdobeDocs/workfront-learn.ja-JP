@@ -1,5 +1,5 @@
 ---
-title: Slackから TODO リストにアクセス
+title: から TODO リストにアクセス [!DNL Slack]
 description: の TODO リストへのアクセス方法を説明します。 [!DNL Workfront]
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8818
 exl-id: ef55731b-3da3-4c9a-a93a-5dc1ced7f53d
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# Slackから TODO リストにアクセス
+# から TODO リストにアクセス [!DNL Slack]
 
 このビデオでは、次の方法を学習します。
 

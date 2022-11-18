@@ -1,6 +1,8 @@
 ---
-title: グローバル配達確認設定の設定
+title: グローバル配達確認設定を設定
 description: ユーザーのデフォルトの配達確認の役割を設定する方法を説明します。既定の校正アカウント設定；校正用のデフォルトの配達確認設定
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Intermediate
 thumbnail: setup-global-proof-settings.png
 kt: 10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---

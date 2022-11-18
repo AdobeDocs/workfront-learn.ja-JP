@@ -1,13 +1,15 @@
 ---
 title: 既存の目標のコピー
 description: での既存の目標のコピー方法を説明します。 [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%
@@ -26,7 +28,7 @@ Pro-tips graphic
 
 目標をコピーする前に考慮すべき点を次に示します。
 
-* 目標期間を除き、元の目標のすべての情報がコピーされます（過去の情報であるため）。
+* 目標期間を除き、元の目標からのすべての情報がコピーされます（過去の情報であるため）。
 * 既存の目標の結果をコピーして、新しい目標に転送できます。
 * コピーした結果は、デフォルトで同じ所有者に割り当てられます。
 * 既存の目標の進行状況を新しい目標にコピーすることはできません。
@@ -44,7 +46,7 @@ Pro-tips graphic
 
 1. 次を確認します。 **[!UICONTROL 結果をコピー]** 」ボックスに移動します。 コピーしたゴールの結果には、元のゴールの結果と同じ所有者、名前、測定値が含まれます。
 
-1. クリック **[!UICONTROL 保存]**. コピーした目標は、ステータスが「ドラフト」で保存されます。
+1. 「**[!UICONTROL 保存]**」をクリックします。コピーした目標は、ステータスが「ドラフト」で保存されます。
 
    ![画像 [!UICONTROL 目標の詳細] パネル内 [!DNL Workfront Goals] と [!UICONTROL コピー] オプション](assets/03-workfront-goals-copy-a-goal.png)
 

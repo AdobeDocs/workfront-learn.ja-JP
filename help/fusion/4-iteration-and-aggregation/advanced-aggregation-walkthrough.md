@@ -2,13 +2,16 @@
 title: 高度な集計のチュートリアル
 description: Web サービスを呼び出して、複数の国に関する詳細を返し、サブ地域ごとにグループ化された母集団を識別する方法を、 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 シナリオ内の任意のセグメントを囲むシャドウが、 **beginning-iterator** から **終了集約**. これにより、これらのセグメントをWorkfront Fusion シナリオで見つけやすくなります。
 
 ## あなたのターン
+
+>[!NOTE]
+>
+>練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 

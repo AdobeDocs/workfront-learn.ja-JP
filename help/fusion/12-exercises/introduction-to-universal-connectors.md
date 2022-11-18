@@ -1,18 +1,21 @@
 ---
 title: ユニバーサルコネクタの概要
 description: REST ユニバーサルコネクタの操作と、返されるデータの操作に関する理解を深めます。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11042
 thumbnail: KT11042.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
-
 
 # ユニバーサルコネクタの概要
 
@@ -50,7 +53,7 @@ REST ユニバーサルコネクタの操作と、返されるデータの操作
    **ユニバーサルコネクタを使用して Pokemon データを取得します。**
 
 1. HTTP Make a Request モジュールを追加します。
-1. URL フィールドで、 https://pokeapi.co/api/v2/pokemon/を使用します。[文字]で、 [文字] は、「 CSV を解析」モジュールから列 3 にマッピングされます。
+1. URL フィールドで、 `https://pokeapi.co/api/v2/pokemon/[Character]`で、 [文字] は、「 CSV を解析」モジュールから列 3 にマッピングされます。
 1. 「応答を解析」チェックボックスを選択します。
 1. 「詳細設定を表示」を選択し、「すべての状態をエラーとして評価」の横にあるチェックボックスをオンにします。
 1. 「OK」をクリックし、モジュール名を「Get Pokemon info」に変更します。

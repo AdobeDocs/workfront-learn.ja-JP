@@ -1,5 +1,5 @@
 ---
-title: の概要 [!DNL Workfront] Slack
+title: Workfront for [!DNL Slack]
 description: 他のユーザーから学ぶ内容の紹介を得る方法を学ぶ [!DNL Workfront] (Slackビデオ用 )
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
-# の概要 [!DNL Workfront] 対象 [!DNL Slack]
+# Workfront for [!DNL Slack]
 
 このビデオでは、次の操作を実行します。
 

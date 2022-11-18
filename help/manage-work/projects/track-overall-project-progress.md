@@ -1,6 +1,8 @@
 ---
 title: プロジェクト全体の進行状況の追跡
 description: プロジェクトのヘッダーに表示される情報が、プロジェクトの全体的な進行状況や正常性を追跡するのに役立つ情報を説明します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

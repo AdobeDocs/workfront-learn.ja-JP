@@ -1,5 +1,5 @@
 ---
-title: にアセットを公開する方法 [!UICONTROL Brand Connect]
+title: へのアセットの公開 [!UICONTROL Brand Connect]
 description: アセットとフォルダーをに公開する方法を説明します。 [!UICONTROL Brand Connect] in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---

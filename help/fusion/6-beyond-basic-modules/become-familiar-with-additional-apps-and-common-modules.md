@@ -1,14 +1,17 @@
 ---
-title: アプリとモジュールについて
+title: 追加のアプリと一般的なモジュールについて
 description: 様々なアプリコネクタにあるトリガー、アクション、検索の概要と、そのモジュールのタイプが [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

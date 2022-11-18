@@ -1,6 +1,8 @@
 ---
 title: 金融アクセスの理解
-description: 金融アクセス権を使用すると、管理者は、Workfrontで追跡される財務情報を誰が表示および編集できるかを制御できます。
+description: 金融アクセス権を使用して、管理者がWorkfrontで追跡される財務情報の表示と編集を行えるユーザーを制御する方法を説明します。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-financial-access.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '415'
 ht-degree: 5%
 
 ---
@@ -66,7 +68,7 @@ ht-degree: 5%
 
 ![アクセス・レベルでの財務データ・ビュー・オプションを示す画像](assets/setting-up-finances-9.png)
 
-**[!UICONTROL キャンペーンを]**
+**[!UICONTROL 編集]**
 
 これら 2 つのオプションは、 [!UICONTROL 編集] オプションと次の情報：
 

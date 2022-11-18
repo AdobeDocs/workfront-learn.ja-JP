@@ -1,6 +1,8 @@
 ---
-title: 配達確認の詳細の説明
+title: 配達確認の詳細を理解する
 description: 証拠の詳細をより深く掘り下げる [!DNL  Workfront] 概要パネルを使用し、 [!UICONTROL ドキュメントの詳細] ページ。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: understand-proof-details.png
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 0%
 
 ---
 
-# 配達確認の詳細の概要
+# 配達確認の詳細を理解する
 
 ## 配達確認の詳細を表示
 
