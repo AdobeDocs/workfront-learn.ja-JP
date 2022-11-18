@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,11 +25,11 @@ ht-degree: 0%
 1. 選択 **[!UICONTROL ステータス]**.
 1. を選択します。 **[!UICONTROL 問題]** タブをクリックします。
 1. 右上のフィールドがに設定されていることを確認します。 [!UICONTROL システムステータス]. これにより、新しいステータスを [!DNL Workfront] インスタンス。
-1. 選択**[!UICONTROL マスターリスト ]**をクリックして、すべての問題のステータスを確認します。 ここで、ステータスを作成または変更します。
+1. 選択 **[!UICONTROL マスターリスト]** をクリックして、すべての問題ステータスを確認します。 ここで、ステータスを作成または変更します。
 1. クリック **[!UICONTROL 新しいステータスの追加]**.
 1. 組織に必要に応じて、名前、説明、色、等しい、キーなどのフィールドを入力します。
 1. このステータスを使用できる問題のタイプのチェックボックスをオンにします。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ![次の日の新しいステータスウィンドウ [!UICONTROL ステータス] ページ](assets/admin-fund-create-issue-status.png)
 
