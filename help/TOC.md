@@ -3,7 +3,7 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
 workflow-type: tm+mt
 source-wordcount: '2219'
 ht-degree: 2%
@@ -68,7 +68,7 @@ ht-degree: 2%
 
 
 
-+ カスタム データ {#custom-data}
++ カスタムデータ {#custom-data}
    + カスタムフォーム {#custom-forms}
       + [オブジェクトにカスタムフォームを添付する](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームの作成と共有](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
@@ -428,7 +428,7 @@ ht-degree: 2%
       + [ルーター](fusion/12-exercises/routers.md)
       + [ルーティングパターン](fusion/12-exercises/routing-patterns.md)
       + [変数の設定/取得](fusion/12-exercises/set-get-variables.md)
-      + [イテレータの概要](fusion/12-exercises/introduction-to-iterators.md)
+      + [イテレータの概要](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [集計](fusion/12-exercises/aggregation.md)
       + [高度な集計](fusion/12-exercises/advanced-aggregation.md)
       + [実行履歴](fusion/12-exercises/execution-history.md)
