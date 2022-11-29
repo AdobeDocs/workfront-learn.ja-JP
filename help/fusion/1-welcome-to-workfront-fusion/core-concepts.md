@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 多くのWorkfront Fusion ユーザーは、使用するすべてのシステムについて考え、最終的に「Workfront Fusion には、ソフトウェアに対するコネクタがありま____か？」と問いかける場所に到達します。 （使用するシステムの空白を入力します）。
 
-Workfront Fusion に事前にビルドされたコネクタがあるかどうかを判断する最も簡単な方法は、アプリを追加機能を使用し、名前でアプリを検索することです。 また、 **アプリとそのモジュール** Workfront Fusion が接続できるExperience Leagueの一覧に関する記事。
+Workfront Fusion に事前にビルドされたコネクタがあるかどうかを判断する最も簡単な方法は、アプリを追加機能を使用し、名前でアプリを検索することです。 また、 [アプリとそのモジュール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) Workfront Fusion が接続できるExperience Leagueの一覧に関する記事。
 
 コネクタは、この記事のアプリに限定されません。 操作するアプリに事前にビルドされたコネクタがない場合は、次のモジュールを使用して Web サービスに直接接続できます。
 

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 各Workfront Fusion セクションには複数のチュートリアルが含まれています。各チュートリアルでは、次のチュートリアルに進む前に理解しておく必要のある概念について説明します。 チュートリアルの演習を使用すると、ほとんどの概念を習得できます。
 
-このビデオでは、各演習の完了手順を順を追って示し、新しいWorkfront Fusion シナリオを作成する方法について説明します。 次に、独自のWorkfront Fusion 環境でこの演習を完了し、独自のシナリオのコレクションに追加できます。 この **Adobe Workfront Fusion アクティビティブック** には、手順を追った手順が含まれています。
+このビデオでは、各チュートリアルの演習の完了方法を示します。この練習では、通常、新しいWorkfront Fusion シナリオを作成します。 次に、独自のWorkfront Fusion 環境でこの演習を完了し、独自のシナリオのコレクションに追加できます。
 
-一部のチュートリアルでは、新しいシナリオを一から作成します。 他の節では、先ほど作成したシナリオのコピーを作成して開始します。
+一部のチュートリアルでは、新しいシナリオを一から作成します。 他のチュートリアルでは、先ほど作成したシナリオのコピーを作成して開始します。
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Workfront Fusion の学習パスの演習を完了するには、Workfrontのテ
 
 ### Workfront Fusion にアクセスして実際に使用
 
-Workfrontは、Workfront Fusion テストドライブを提供していません。 学習パスを完了したら、組織のWorkfront Fusion 管理者にWorkfront Fusion へのアクセス権を要求して、学習パスを修正してください。
+Workfrontは、Workfront Fusion テストドライブを提供していません。 チュートリアルを完了しながら練習するには、組織のWorkfront Fusion 管理者にWorkfront Fusion へのアクセス権をリクエストしてください。
 
 ### チュートリアルの演習の完了手順
 
