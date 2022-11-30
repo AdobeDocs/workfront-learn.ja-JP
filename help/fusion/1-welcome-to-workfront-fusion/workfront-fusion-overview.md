@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfrontは、Workfront Fusion テストドライブを提供していません
 
 チュートリアルの演習を完了する手順があります。 これらには、Fusion > Exercises の下の左側のナビゲーションバーからアクセスするか、チュートリアルの下部にあるリンクを使用します。
 
+### オプションのプラクティスの演習
+
+演習や課題のいくつかは、チュートリアルの演習の後に提供されます。
+
+練習を解決する方法は様々です。 この目的は、従う手順や「正しい答え」を踏まずに、シナリオの目標を達成するように挑戦することです。これは、会社でシナリオを作成する際に実行する必要がある操作です。
+
+練習の練習は、ウォークスルーアクティビティに関連しています。
+
+課題は、学んだ他の概念に関わる何かを試してみたい人々にとってです。
+
+### ヘルプの参照方法
+
+手順の演習を進めるための手順が用意されています。
+
+また、 [Workfront Fusion 2.0 コミュニティ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) ここで質問を投稿できます。

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Workfrontは、独自の環境で演習を再作成する前に、演習のチ�
 
 >[!NOTE]
 >
->練習の練習はオプションで、Fusion トレーニングを完了するのに必要ではありません。
+>練習の演習や課題は任意で、Fusion トレーニングを完了するのに必要ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 
