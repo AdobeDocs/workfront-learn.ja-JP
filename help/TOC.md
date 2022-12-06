@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
+source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
 workflow-type: tm+mt
-source-wordcount: '2219'
+source-wordcount: '2262'
 ht-degree: 2%
 
 ---
@@ -330,6 +330,11 @@ ht-degree: 2%
    + Adobe Creative Cloud {#adobe-creative-cloud}
       + [Workfront for Adobe Creative Cloudで配達確認をアップロード](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
       + [Workfront for Adobe Creative Cloudの使用](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
+   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
+      + [構成中](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [バージョン履歴](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
    + G スイート {#g-suite-integrations}
       + [G Suite 統合によるワークフローの強化](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
    + Jira {#jira}
@@ -343,6 +348,7 @@ ht-degree: 2%
       + [検索方法Workfront [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [最近の作業手順を表示 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 
