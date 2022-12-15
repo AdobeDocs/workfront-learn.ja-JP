@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
-source-wordcount: '2262'
+source-wordcount: '2369'
 ht-degree: 2%
 
 ---
@@ -341,6 +341,14 @@ ht-degree: 2%
       + [を使用して表示を作成する [!DNL Jira] 統合](integrations/jira/jira.md)
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインをインストールする](integrations/outlook/integrations-microsoft-outlook.md)
+   + Microsoft Teams {#ms-teams}
+      + [Adobe Workfront forMicrosoft Teamsの概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Adobe Workfront forMicrosoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft TeamsからAdobe Workfrontにアクセス](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft TeamsでAdobe Workfront項目を検索して共有する](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft TeamsからのAdobe Workfrontタスクの作成](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft TeamsからAdobe Workfront要求を送信](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft TeamsでのAdobe Workfront通知の管理](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
    + Slack {#slack}
       + [から TODO リストにアクセス [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [を通じてタスクを割り当て [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
@@ -348,6 +356,7 @@ ht-degree: 2%
       + [検索方法Workfront [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [最近の作業手順を表示 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 

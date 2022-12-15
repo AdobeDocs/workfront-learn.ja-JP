@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -37,6 +37,3 @@ ht-degree: 0%
 * **メールアラート —** 配達確認に対するアクティビティがある場合の通知。
 * **配達確認ユーザー —** a [!DNL Workfront] デジタル配達確認をアップロード、確認、承認、管理などをおこなえるプランまたは作業用ライセンス。
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->
