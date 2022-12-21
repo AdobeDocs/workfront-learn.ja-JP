@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ CONTAINS 式と ISBLANK 式の両方を使用して、単純な true または f
 
 ISBLANK テキスト式には、式の名前と 1 つのデータポイントが含まれます。
 
-**ISBLANK（データポイント）**
+**ISBLANK({data point})**
 
 ![使用率レポートを含むワークロードバランサー](assets/isblank03.png)
 
 上の例（プロジェクトに説明が含まれているかどうかを知りたい場所）では、式は次のようになります。
 
-ISBLANK（説明）
+ISBLANK({description})
 
 ## 含む
 
 「次を含む」のテキスト式には、式の名前、検索する単語または語句、検索するフィールドが含まれます。
 
-**CONTAINS(&quot;phrase&quot;,field)**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
 探している単語やフレーズを必ず引用符で囲んでください。引用符を付けないと、式が無効になります。
 
 上記の例（プロジェクトの説明で「チャリティーイベント」を探す場合）では、式は次のようになります。
 
-**CONTAINS（&quot;チャリティイベント&quot;，説明）**
+**CONTAINS（&quot;チャリティイベント&quot;,{description}）**
 
 ![使用率レポートを含むワークロードバランサー](assets/isblank04.png)
 
 **注意**:CONTAINS 式では大文字と小文字が区別されます。 例えば、「Charity Event」が説明フィールドで大文字になっている場合、式の中でそのフレーズを大文字にします。
 
-**CONTAINS（&quot;チャリティイベント&quot;，説明）**
+**CONTAINS（&quot;チャリティイベント&quot;,{description}）**
 
 ISBLANK 式と CONTAINS 式は、値が存在するかどうかを調べる場合に使用すると便利です。 ただし、値が何かを知ると、実際に値を確認したり、ある種の記述子を持ってより良いインサイトを提供したりすると、より有用な場合があります。
 
