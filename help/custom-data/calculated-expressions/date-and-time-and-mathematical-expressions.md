@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 利用可能な日付と時間の式を見ると、利用可能なオプションがいくつか表示されます。
 
-![リソース管理の設定（1 ページ）](assets/DTM01.png)
+![日付と時間の式のサンプル](assets/datetimeexpressions01.png)
 
 最も頻繁に使用される日付と時間の式セットは 2 つあります。 [!DNL Workfront] のお客様：
 
@@ -37,9 +37,11 @@ ht-degree: 0%
 
 利用可能な日付と時間の式を見ると、利用可能なオプションがいくつかあることがわかります。
 
-![リソース管理の設定（1 ページ）](assets/math01.png)
+![数式のサンプル](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] のお客様は、一般に、次の 2 つの数式セットを使用します。
+Workfrontのお客様は、一般的に次の 2 つの数式セットを使用します。
 
 * SUB、SUM、DIV、PROD
 * ROUND
+
+<b>注意</b>:式の完全なリストと各式の詳細については、「計算データ式」のドキュメントページを参照してください。
