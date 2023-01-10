@@ -1,6 +1,6 @@
 ---
 title: タスクレポートの作成
-description: 複雑なフィルターを使用してタスクレポートを作成し、Workfrontで作成するレポートを見つける方法を説明します。 アクティビティ — プロンプト付きのメモレポートを作成します。
+description: 複雑なフィルターを使用してタスクレポートを作成し、Workfront で作成したレポートを見つける方法について説明します。アクティビティ - プロンプト付きのメモレポートを作成します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 

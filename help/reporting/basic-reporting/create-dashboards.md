@@ -1,6 +1,6 @@
 ---
 title: ダッシュボードの作成
-description: 様々なリストレポート、グラフ、カレンダー、外部 Web ページを組み合わせて、Workfrontのダッシュボードにする方法を説明します。
+description: 様々なリストレポート、グラフ、カレンダー、外部 web ページを組み合わせて、Workfront のダッシュボードにする方法について説明します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
