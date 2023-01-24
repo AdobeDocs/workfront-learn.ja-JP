@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
+source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
 workflow-type: tm+mt
-source-wordcount: '2379'
+source-wordcount: '2385'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 2%
       + [レイアウトテンプレートへのアクセスを割り当てて管理](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [レイアウトテンプレートを使用してオブジェクト領域をカスタマイズする](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [レイアウトテンプレートを使用してプロジェクトの詳細をカスタマイズ](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [レイアウトテンプレートを使用したプロジェクトヘッダーのカスタマイズ](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [レイアウトテンプレートを使用したレポートリストのカスタマイズ](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
    + 電子メールおよびアプリ内通知 {#email-and-in-app-notifications}
       + [アプリ内通知と電子メール通知の管理](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
