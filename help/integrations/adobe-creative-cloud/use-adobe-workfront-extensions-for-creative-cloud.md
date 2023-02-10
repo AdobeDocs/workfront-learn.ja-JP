@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Creative CloudにAdobe Workfront Extensions を使用
 
-Photoshop、XD、InDesign、Illustrator、Premiere Pro、After Effectsなど、Adobe Workfrontの各アプリケーションから離れずに、Adobe Creative Cloudで割り当てられた作業を検索し、更新します。
+以下のAdobe Creative Cloudアプリケーションを使用することなく、Adobe Workfrontで割り当てられた作業を検索し、更新します。
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 使用しているAdobe Creative Cloudアプリケーション用の正しいプラグインをインストールする必要があります。
 
@@ -27,7 +34,7 @@ Photoshop、XD、InDesign、Illustrator、Premiere Pro、After Effectsなど、A
 
 >[!NOTE]
 >
->なお、 **Premiere Pro** および **After Effects** Workfrontのビデオのアップロードとレビューおよび承認は、現時点では、このプラグインを通じて使用できません。
+>**Premiere Pro** および **After Effects** Workfrontでのビデオのアップロード、レビューおよび承認は、現時点では、このプラグインを通じて使用できません。
 
 
 このビデオでは、Creative Cloudアプリ内で次の操作をおこなう方法を学びます。
