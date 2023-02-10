@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2378'
 ht-degree: 2%
 
 ---
@@ -330,8 +330,7 @@ ht-degree: 2%
 
 + 統合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Workfront for Adobe Creative Cloudの使用](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [Workfront for Adobe Creative Cloudで配達確認をアップロード](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [Creative CloudにAdobe Workfront Extensions を使用](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [構成中](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
