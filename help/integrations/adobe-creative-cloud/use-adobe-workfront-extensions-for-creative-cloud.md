@@ -1,5 +1,5 @@
 ---
-title: Creative CloudにAdobe Workfront Extensions を使用
+title: Creative CloudにAdobe Workfrontプラグインを使用
 description: Photoshop、XD、InDesign、Illustrator、Premiere Pro、After Effectsの各Adobe Creative Cloudアプリケーションから、Adobe Workfrontで割り当てられた作業を検索し、更新します
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Creative CloudにAdobe Workfront Extensions を使用
+# Creative CloudにAdobe Workfrontプラグインを使用
 
 以下のAdobe Creative Cloudアプリケーションを使用することなく、Adobe Workfrontで割り当てられた作業を検索し、更新します。
 
@@ -41,8 +41,10 @@ ht-degree: 0%
 
 * Workfrontの割り当てを検索
 * ファイルをWorkfrontにアップロード
+* コメントの追加とチームメンバーへのタグ付け
 * ドキュメント承認のリクエスト
 * 配達確認をアップロードして校正ワークフローを割り当てる
+* ログ時間
 * 作業を完了済みにする
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
