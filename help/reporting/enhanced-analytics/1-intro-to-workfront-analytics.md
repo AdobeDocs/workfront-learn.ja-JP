@@ -7,8 +7,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+doc-type: video
 kt: 8870
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

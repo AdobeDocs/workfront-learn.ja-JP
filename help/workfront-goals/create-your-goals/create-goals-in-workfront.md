@@ -8,8 +8,9 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 10122
+doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '921'
 ht-degree: 0%
@@ -47,7 +48,7 @@ In [!DNL Workfront Goals]エグゼクティブや企業のリーダーシップ�
 
 目標をコピーする前に考慮すべき点を次に示します。
 
-* 目標期間を除き、元の目標のすべての情報がコピーされます（過去の情報であるため）。
+* 目標期間を除き、元の目標からのすべての情報がコピーされます（過去の情報であるため）。
 * 既存の目標の結果をコピーして、新しい目標に転送できます。
 * コピーした結果は、デフォルトで同じ所有者に割り当てられます。
 * 既存の目標の進行状況を新しい目標にコピーすることはできません。

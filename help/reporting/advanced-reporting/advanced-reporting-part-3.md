@@ -9,7 +9,9 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11202
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

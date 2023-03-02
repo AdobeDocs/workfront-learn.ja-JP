@@ -8,7 +8,9 @@ team: Technical Marketing
 kt: 10813
 role: User, Leader
 level: Beginner
-source-git-commit: 4f1554f41bad77b048dd823dd25764873c3c108a
+exl-id: e6070383-abda-466a-b490-ed9699a4befe
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%

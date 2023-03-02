@@ -7,7 +7,8 @@ level: Intermediate
 kt: 10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
-source-git-commit: eaa6aed422fedae9d78425f9ba9a55b0742ad58c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%

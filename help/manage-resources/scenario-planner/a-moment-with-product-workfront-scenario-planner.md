@@ -9,7 +9,8 @@ activity: use
 team: Technical Marketing
 kt: 9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%

@@ -12,7 +12,8 @@ hide: true
 hidefromtoc: true
 kt: null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
-source-git-commit: cec56c154fd578d6c3d8177073546d8b024b078d
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 1%

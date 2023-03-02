@@ -9,7 +9,8 @@ role: User
 level: Beginner
 kt: 9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

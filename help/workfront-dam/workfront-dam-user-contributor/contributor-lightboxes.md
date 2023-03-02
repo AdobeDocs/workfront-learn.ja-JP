@@ -9,7 +9,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -30,6 +31,6 @@ ht-degree: 0%
 
 ## フォルダーとライトボックス
 
-アセットの保存と整理に使用されるフォルダー。 アセットへのアクセスはフォルダーによって許可されます。 に他のフォルダーが存在する可能性があります [!UICONTROL Workfront DAM] 君が見ているよりも
+アセットの保存と整理に使用されるフォルダー。 アセットへのアクセスはフォルダーによって許可されます。 次の場所に他のフォルダーが存在する可能性があります： [!UICONTROL Workfront DAM] 君が見ているよりも
 
 ライトボックスは、 [!UICONTROL Workfront DAM] を使用して、必要なアセットを収集および整理できます。 自分用に 1 つの Lightbox を作成することも、作業する割り当てごとに Lightbox を作成することもできます。 自分が作成した Lightbox のみが表示されます。ただし、他のユーザーが Lightbox を共有している場合や、Lightbox で共同作業するように求められた場合は除きます。

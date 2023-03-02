@@ -10,7 +10,8 @@ activity: deploy
 team: Technical Marketing
 kt: 8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

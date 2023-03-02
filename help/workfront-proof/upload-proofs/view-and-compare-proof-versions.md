@@ -9,8 +9,9 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335142.png
 kt: 8845
+doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

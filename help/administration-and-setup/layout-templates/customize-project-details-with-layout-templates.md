@@ -10,7 +10,8 @@ type: Tutorial
 thumbnail: 335076.png
 kt: 8764
 exl-id: af6ff5c1-a2c4-4440-b31d-c33726a7fee1
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%

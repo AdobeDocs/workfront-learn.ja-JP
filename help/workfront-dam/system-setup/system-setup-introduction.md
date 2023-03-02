@@ -8,7 +8,8 @@ role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8964
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

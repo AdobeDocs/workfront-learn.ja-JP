@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

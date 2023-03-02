@@ -5,7 +5,8 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8806
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%

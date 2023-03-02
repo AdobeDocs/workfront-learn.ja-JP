@@ -8,7 +8,8 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8811
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
