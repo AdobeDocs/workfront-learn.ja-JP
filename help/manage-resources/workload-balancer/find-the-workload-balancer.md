@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,13 @@ ht-degree: 0%
 
 その目的は、管理する人々の日次および週次のワークロードに関するより詳細なインサイトと管理を提供することです。 これにより、複数のプロジェクトにわたって、役割と可用性に基づいて、より適切な割り当てをおこなうことができます。
 
-![リソースのメインメニューオプション](assets/Find_01.png)
+![メインメニューでのリソース](assets/Find_01.png)
 
 * クリック [!UICONTROL リソース] 内 [!UICONTROL メインメニュー].
 * 次に移動： [!UICONTROL スケジュール] 」セクションに表示されます。
-* 次をクリック： [!UICONTROL &quot;ワークロード・バランサに切り替え&quot;] リンク。
+* 次をクリック： [!UICONTROL &quot;ワークロード・バランサ&quot;] 」セクションが表示されます。
 
-![ワークロードバランサーに切り替える](assets/Find_02.png)
-
-この [!DNL Workload Balancer] は、Workfrontツールの「リソース管理」領域に移動する場合のデフォルトのオプションです。
+![ワークロードバランサーセクション](assets/Find_02.png)
 
 ## ワークロードバランサー内の領域
 
