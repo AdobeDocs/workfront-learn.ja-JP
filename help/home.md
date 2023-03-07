@@ -2,7 +2,7 @@
 title: WorkfrontTutorials
 description: Workfrontの機能と設定をより深く理解するのに役立つトレーニングビデオと記事のライブラリです。  お客様とお客様の組織の両方がWorkfrontを成功に導くのに役立つ、ベストプラクティス、厳選された演習、その他のリソースの集まりが含まれています。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -45,7 +45,7 @@ See other user landing pages to get ideas.
 
 ## スタッフのおすすめ
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ See other user landing pages to get ideas.
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>レイアウトテンプレートの検索と作成</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         基本的なレイアウトテンプレートの作成方法を説明します。
+         <em>基本的なレイアウトテンプレートの作成方法を説明します。</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ See other user landing pages to get ideas.
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>リクエストを実行</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         リクエストの作成、表示、編集方法を説明します。
+         <em>リクエストの作成、表示、編集方法を説明します。</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ See other user landing pages to get ideas.
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>シンプルなレポートの作成</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         シンプルなカスタムレポートの作成方法を説明します。
+         <em>シンプルなカスタムレポートの作成方法を説明します。</em>
       </p>
     </td>
   </tr>
