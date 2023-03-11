@@ -1,6 +1,7 @@
 ---
 title: アプリ内イベントおよび電子メールイベント通知の管理
-description: 受信するアプリ内通知とメール通知を制御して、自分の仕事に関連する有用なメールを受信できるようにする方法を説明します。
+description: ユーザーが受け取るアプリ内通知と電子メール通知を制御して、作業に関して関連性の高い有用な電子メールを受け取る方法を説明します。
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 9%
+source-wordcount: '616'
+ht-degree: 8%
 
 ---
 
@@ -85,12 +86,12 @@ Workfrontからユーザーに送信できる通知には、いくつかのタ�
 * [!UICONTROL 担当タスクの先行タスクが完了した]
 * [!UICONTROL 自分が更新を受信する対象者として追加された]
 * [!UICONTROL 誰かが自分の作業項目にコメントを投稿しました]
-* [!UICONTROL 自分が割り当てられているタスクの期限が変更されます]
+* [!UICONTROL 自分に割り当てられているタスクの完了予定日が変更した]
 
 
 特に、プロジェクトマネージャー向け：
 
-* [!UICONTROL 自分のプロジェクトがアクティブになる]
+* [!UICONTROL 自分が参加するプロジェクトの状況がアクティブになった]
 * [!UICONTROL 自分が所有するプロジェクトに遅延が発生した]
 * [!UICONTROL 自分が所有するプロジェクトに問題が追加された]
 * [!UICONTROL マイルストーンタスクが自分のプロジェクトで完了しました]
