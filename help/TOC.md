@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [グループとサブグループの作成](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [グループ管理の必要性の理解](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [会社を作成](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [ライセンス、アクセスレベル、およびジョブロールを持つユーザーを設定する](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [ライセンスとアクセスレベルを持つユーザーを設定する](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [ジョブの役割の作成と管理](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [別のユーザーとしてログイン](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + 削除された項目を管理 {#manage-deleted-items}
       + [ごみ箱からオブジェクトを復元する](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
@@ -467,7 +468,7 @@ ht-degree: 2%
 
 
 
-+ Workfront Proof {#workfront-proof}
++ Workfront プルーフ {#workfront-proof}
    + [校正の利点を学ぶ](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [ドキュメントと配達確認の違いを理解する](workfront-proof/document-vs-proof.md)
    + [校正ビューアの説明](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -617,7 +618,7 @@ ht-degree: 2%
    + [サンドボックスをプレビュー](best-practices/preview-sandbox-bp.md)
    + [プロジェクト、タスクおよび問題の環境設定](best-practices/project-task-issue-preferences-bp.md)
    + [プロジェクトテンプレート](best-practices/project-templates-bp.md)
-   + [Workfront Proof](best-practices/proofing-bp.md)
+   + [Workfront プルーフ](best-practices/proofing-bp.md)
    + [リクエストキュー](best-practices/request-queues-bp.md)
    + [リソースプランナ](best-practices/resource-planner-bp.md)
    + [リソース プール](best-practices/resource-pools-bp.md)
