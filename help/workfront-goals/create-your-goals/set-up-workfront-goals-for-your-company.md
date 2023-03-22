@@ -1,6 +1,6 @@
 ---
-title: 設定 [!UICONTROL Workfront目標] 組織の
-description: 設定方法を学ぶ [!DNL Workfront Goals] 組織にとっての役割を果たし、作業の実行を戦略と一致させることができます。
+title: 組織の [!UICONTROL Workfront Goals] の設定
+description: 組織で  [!DNL Workfront Goals]  を設定する方法を確認し、作業を戦略に関連付けて確実に実行できるようにします。
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -10,45 +10,45 @@ level: Beginner
 kt: 10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
 source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '352'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 設定 [!UICONTROL Workfront目標] 組織の
+# 組織の [!UICONTROL Workfront Goals] の設定
 
-*このセクションは、 [!DNL Workfront] ユーザーのWorkfront目標の設定を担当するシステム管理者です。*
+*このセクションは、Workfront Goals のユーザー向け設定を担当する [!DNL Workfront] のシステム管理者を対象としています。*
 
-組織が迅速に進むよう保証するには、業務の実行が企業の戦略と一致していることを確認する必要があります。 [!DNL   Goals] 戦略、目標、作業を調整し、組織全体での実行を促進し、測定可能なビジネス成果を実現します。
+組織が迅速に前進することを保証するには、作業が企業戦略に関連付けて実行されていることを確認する必要があります。[!DNL   Goals] は、戦略、目標、作業を調整し、組織全体での実行を促進し、測定可能なビジネス成果を実現します。
 
-目標のベストプラクティスは、最上位レベルの企業目標から始まり、グループ、チーム、個人レベルに段階的に適用されます。 結果として得られる目標は、企業の優先事項の達成に向けて、調整し、貢献し、支援する必要がある。 In [!DNL Workfront]の場合、目標は、目標の達成方法を示す結果またはアクティビティによってサポートされます。
+目標のベストプラクティスは、最上位レベルの企業目標から始まり、グループ、チーム、個人のレベルに段階的に適用されます。結果として得られる目標は、企業の優先事項の達成に向けて、関連付けられ、貢献し、サポートされている必要があります。 [!DNL Workfront] では、目標は、どのように達成したかの指標となる結果またはアクティビティによってサポートされています。
 
 ## [!DNL Workfront Goals] チェックリスト
 
-次の条件を満たしてから、にアクセスする必要があります [!DNL   Goals]:
+[!DNL   Goals] にアクセスするには、次の条件を満たす必要があります。
 
-* 組織では、 [!DNL Workfront Goals] ライセンス ( [!DNL Workfront] ライセンス。
-* 組織が新しい [!DNL Workfront] エクスペリエンスインターフェイス。 [!DNL Workfront Goals] はクラシックでは使用できません [!DNL Workfront] インターフェイス。
-* お使いの [!DNL Workfront Goals] ユーザーには、次のアクセス権が付与されている必要があります： [!DNL Workfront Goals] 」と表示されます。
-* レイアウトテンプレートを割り当てる必要があります。 [!DNL Workfront Goals] 」領域に表示されます。
+* [!DNL Workfront] ライセンスに加え、[!DNL Workfront Goals] ライセンスを購入する必要があります。
+* 新しい [!DNL Workfront] エクスペリエンスインターフェイスを使用する必要があります。[!DNL Workfront Goals] は、従来の [!DNL Workfront] インターフェイスでは使用できません。
+* [!DNL Workfront Goals] ユーザーには、アクセスレベルで [!DNL Workfront Goals] へのアクセス権を付与する必要があります。
+* ユーザーが機能にアクセスするには、レイアウトテンプレート（メインメニューに [!DNL Workfront Goals] エリアを含める）を割り当てる必要があります。
 
-## 使用できるユーザー [!DNL Workfront Goals]
+## [!DNL Workfront Goals] を使用できるユーザー
 
-個々のコントリビューターは、多くの場合、個人の目標を持ちますが、 [!DNL Workfront Goals] 戦略目標の達成に向けて組織の作業を支援する 組織の全員が、企業の戦略全体に合わせ、日々の活動に結び付く目標を設定するよう奨励する必要があります。
+個々のコントリビューターは個人的な目標を持っていることが多いですが、戦略的目標を達成するための組織の作業を、[!DNL Workfront Goals] を使用してサポートすることをお勧めします。組織の全員が、企業の戦略全体に合わせ、日々の活動に結び付く目標を設定するよう奨励する必要があります。
 
-以下の役割の説明を読み、の役割を決定します [!DNL Workfront Goals].
+以下の役割の説明を読み、[!DNL Workfront Goals] での自分の役割を判断してください。
 
-エグゼクティブとマネージャは、 [!DNL Workfront Goals] 移動先：
+役員と管理職は、[!DNL Workfront Goals] を使用して以下を行います。
 
-* 企業全体に広がる戦略目標の階層を構築します。
-* 成功の見え方と測定方法を統一された明確なビジョンで提供します。
+* 企業全体に連鎖する戦略的目標の階層を確立します。
+* 成功の概要と測定方法を、統一された明確なビジョンで提供します。
 * 目標の進行を促進するために、戦略的な調整が行えるかについてのインサイトを得ます。
 
-個々のコントリビューターは、 [!DNL Workfront Goals] 移動先：
+個々のコントリビューターは、[!DNL Workfront Goals] を使用して以下を行います。
 
-* 企業の戦略的イニシアチブ全体に目標を合わせます。
+* 企業の戦略的イニシアチブ全体に目標を関連付けます。
 * 戦略目標に関連して、進捗と達成を測定します。
-* ビジネスの方向性に合わせて個人の目標を必要に応じて調整します。
+* ビジネスの方向性に合わせて個人の目標を必要に応じて関連付けます。
 
-![Workfront目標の様々な役割の図](assets/01-workfront-goals-choose-your-role.png)
+![Workfront Goals の様々な役割の図](assets/01-workfront-goals-choose-your-role.png)
