@@ -1,6 +1,6 @@
 ---
 title: マイルストーンの作成
-description: このビデオでは、マイルストーンパスとは何か、マイルストーンパスの作成方法、マイルストーンステップの追加方法を説明します。
+description: このビデオでは、マイルストーンパスの概要、マイルストーンパスの作成方法、マイルストーン手順の追加方法を説明します。
 topic: null
 activity: deploy
 doc-type: feature video
@@ -8,9 +8,9 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 このビデオでは、次のことを学習します。
 
-* マイルストーンパス
+* マイルストーンパスの概要
 * マイルストーンパスの作成方法
-* マイルストーンパスにマイルストーンステップを追加する方法
+* マイルストーンパスへのマイルストーン手順の追加方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12)
