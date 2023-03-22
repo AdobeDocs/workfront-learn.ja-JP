@@ -1,13 +1,13 @@
 ---
-title: 電子メールおよびアプリ内通知
-description: 電子メールおよびアプリ内通知
+title: メール通知およびアプリ内通知
+description: メール通知およびアプリ内通知
 source-git-commit: 3bba6af04e9f28f00935ada4dad569da232d4b42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールおよびアプリ内通知
+# メール通知およびアプリ内通知
 
 テキストのプレースホルダー
