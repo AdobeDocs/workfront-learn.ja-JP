@@ -8,17 +8,17 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # テンプレートの共有
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* プロジェクトテンプレートを他のユーザーと共有する
+* プロジェクトテンプレートを他のユーザーと共有
 * テンプレートを使用して作成されたプロジェクトを共有
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12)
