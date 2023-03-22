@@ -1,6 +1,6 @@
 ---
-title: のメタデータマッピングを設定 [!UICONTROL Workfront DAM]
-description: のメタデータマッピングを設定する方法を説明します。 [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Workfront DAM] のメタデータマッピングの設定'
+description: '[!UICONTROL Workfront DAM] のメタデータマッピングを設定する方法について説明します。'
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -10,41 +10,41 @@ level: Intermediate
 kt: 10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
 source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '276'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# メタデータのマッピング
+# メタデータマッピング
 
-[!DNL Workfront] — アセットに関する関連情報は、次の場所から転送できます： [!DNL Workfront] into [!UICONTROL Workfront DAM] をアセットに置き換えます。 のメタデータマッピングオプション [!DNL Workfront] [!UICONTROL 設定] 領域では、情報をこのように転送できます。
+アセットに関する [!DNL Workfront] 関連の情報は、アセットと共に [!DNL Workfront] から [!UICONTROL Workfront DAM] に転送できます。[!DNL Workfront] [!UICONTROL 設定]エリアのメタデータマッピングオプションにより、この情報の転送が可能になります。
 
-お問い合わせ [!DNL Workfront] コンサルタントを参照してください。
+メタデータマッピングの設定に関するベストプラクティスの推奨事項については、[!DNL Workfront] コンサルタントにお問い合わせください。
 
-次の条件を満たす必要があります。 [!DNL Workfront] 管理者と [!UICONTROL Workfront DAM] 管理者：メタデータマッピングを設定します。 開始する前に、 [!DNL Workfront] および [!UICONTROL Workfront DAM] アカウント。
+メタデータマッピングを設定するには、[!DNL Workfront] 管理者および [!UICONTROL Workfront DAM] 管理者である必要があります。開始する前に、[!DNL Workfront] と [!UICONTROL Workfront DAM] アカウントを接続する必要があります。
 
 ## アカウントの接続
 
-1. にログインします。 [!DNL Workfront].
-1. プロジェクト、タスクまたはイシューを開き、 **[!UICONTROL ドキュメント]** タブをクリックします。
-1. 次をクリック： **[!UICONTROL 新規追加]** ボタンと選択 **[!UICONTROL Workfront DAM から]** を選択します。
-1. ログイン名とパスワードを [!UICONTROL Workfront DAM] 表示される認証ボックス。
-1. 次に、「 **[!UICONTROL はい]** 与える [!DNL Workfront] へのアクセス [!UICONTROL DAM] アカウント
-1. 必要に応じて、ページを更新し、アクセス権を更新します。 [!UICONTROL Workfront DAM].
+1. [!DNL Workfront] にログインします。
+1. プロジェクト、タスクまたはイシューを開き、「**[!UICONTROL ドキュメント]**」タブをクリックします。
+1. 「**[!UICONTROL 新規追加]**」ボタンをクリックし、ドロップダウンメニューから「**[!UICONTROL Workfront DAM から]**」を選択します。
+1. 表示される [!UICONTROL Workfront DAM] 認証ボックスにログイン名とパスワードを入力します。
+1. 次に、「**[!UICONTROL はい]**」をクリックして、[!UICONTROL DAM] アカウントに [!DNL Workfront] のアクセス権を付与します。
+1. 必要に応じて、ページを更新し、[!UICONTROL Workfront DAM] へのアクセス権を更新します。
 
-この接続が確立されたので、2 つのシステム間でメタデータのマッピングを開始できます。 必要なメタデータフィールドが既にに [!UICONTROL Workfront DAM] マッピングを開始する前に
+この接続が確立されると、2 つのシステム間でメタデータのマッピングを開始できるようになります。マッピングを開始する前に、必要なメタデータフィールドが [!UICONTROL Workfront DAM] に既に作成されていることを確認します。
 
 ## マッピングの設定
 
-1. にログインします。 [!DNL Workfront].
-1. 選択 **[!UICONTROL 設定]** から [!UICONTROL メインメニュー].
-1. を展開します。 **[!UICONTROL ドキュメント]** 」セクションを使用して、
-1. 次に、 **[!UICONTROL メタデータマッピング]**.
-1. Workfrontフィールドに、 [!DNL Workfront] マップするフィールド。
-1. 次に、対応するまたはターゲットを選択します。 **[!UICONTROL Workfront DAM]** メタデータフィールド。
-1. 次をクリック： **[!UICONTROL マッピングを追加]** 」ボタンをクリックします。
-1. 次の項目が表示されます。 [!UICONTROL Workfront Field Source] および [!UICONTROL Workfront DAM ターゲットフィールド] をクリックします。
-1. 必要なすべてのメタデータフィールドに対してこの手順を繰り返します。
+1. [!DNL Workfront] にログインします。
+1. [!UICONTROL メインメニュー]から「**[!UICONTROL 設定]**」を選択します。
+1. 左側のパネルメニューで「**[!UICONTROL ドキュメント]**」セクションを展開します。
+1. 次に、「**[!UICONTROL メタデータマッピング]**」をクリックします。
+1. Workfront フィールドに、マッピングする [!DNL Workfront] フィールドのフィールドソースを入力します。
+1. 次に、対応するまたはターゲットの **[!UICONTROL Workfront DAM]** メタデータフィールドを選択します。
+1. 「**[!UICONTROL マッピングを追加]**」ボタンをクリックします。
+1. ウィンドウの下部にあるグラフに、[!UICONTROL Workfront フィールドソース]と [!UICONTROL Workfront DAM ターゲットフィールド]が表示されます。
+1. 必要なすべてのメタデータフィールドに対して繰り返します。
 
-![のスクリーンショット [!UICONTROL メタデータマッピング] スクリーンイン [!DNL Workfront]](assets/01-metadata-mapping.png)
+![ の[!UICONTROL メタデータマッピング]画面のスクリーンショット[!DNL Workfront]](assets/01-metadata-mapping.png)
