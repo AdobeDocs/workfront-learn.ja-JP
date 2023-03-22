@@ -1,6 +1,6 @@
 ---
-title: ログとレビューの時間
-description: 未処理の時間を記録し、プロジェクトを閉じる前にログに記録された時間を確認する [!DNL  Workfront].
+title: 時間のログ記録とレビュー
+description: ' [!DNL  Workfront] でプロジェクトを終了する前に、未処理の時間を記録し、記録された時間を確認します。'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,21 +11,21 @@ level: Intermediate
 kt: 10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ログとレビューの時間
+# 時間のログ記録とレビュー
 
-実際の作業時間のログが組織のワークフローの一部である場合は、 [!UICONTROL 時間] プロジェクト上のセクション（左のパネルメニューから選択）に表示されます。 これにより、個々のタスクとプロジェクト自体にログオンしたすべての時間が表示されます。 このページから時間を記録することもできます。
+実際の作業時間を記録することが組織のワークフローの一部である場合は、プロジェクトの「[!UICONTROL 時間]」セクション（左側のパネルメニューから選択）でそれらの時間を確認できます。これにより、個々のタスクとプロジェクト自体にログオンしたすべての時間が表示されます。このページから時間を記録することもできます。
 
 ![時間エントリを示す時間ページ](assets/planner-fund-log-and-review-hours.png)
 
 >[!NOTE]
 >
->組織は、数時間を経過して承認するように要求する場合があります [!DNL Workfront] タイムシート 社内の [!DNL Workfront] チームに問い合わせて、使用する必要のあるプロセスを確認してください。
+>組織から、[!DNL Workfront] タイムシートで時間の承認を求められる場合があります。社内 [!DNL Workfront] チームに問い合わせて、どのプロセスを使用する必要があるかを確認してください。
 
 <!---
 learn more url
