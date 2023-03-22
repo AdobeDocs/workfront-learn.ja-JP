@@ -1,6 +1,6 @@
 ---
 title: カスタムフォームコースの概要
-description: このビデオでは、カスタムフォームを使用して組織固有の情報を取り込む方法を学びます。
+description: このビデオでは、カスタムフォームを使用して組織固有の情報を取り込む方法を説明します。
 topic: null
 activity: use
 doc-type: intro video
@@ -8,9 +8,9 @@ team: Technical Marketing
 kt: Jira ticket
 role: User, Admin
 source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
