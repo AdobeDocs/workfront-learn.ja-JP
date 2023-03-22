@@ -1,6 +1,6 @@
 ---
-title: タスクと問題を閉じる
-description: でプロジェクトを閉じる前に、タスクと問題が確実に閉じられるようにする方法を説明します。 [!DNL  Workfront].
+title: タスクおよびイシューを閉じる
+description: ' [!DNL  Workfront]でプロジェクトを終了する前に、タスクとイシューが終了していることを確認する方法を学びます。'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,21 +11,21 @@ level: Intermediate
 kt: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# タスクと問題を閉じる
+# タスクおよびイシューを閉じる
 
-最初に、 [!DNL Workfront] プロジェクトでは、すべてのタスクと問題のステータスが「完了」か、同等のステータスになっていることを確認しています。
+[!DNL Workfront] プロジェクトを終了するための最初の手順の 1 つは、すべてのタスクとイシューのステータスが完了、または同等のステータスになっていることを確認することです。
 
-タスクリストから開始し、 [!UICONTROL 表示] この [!UICONTROL 完了率] または [!UICONTROL ステータス] 列またはその両方。 タスクリストを下にすばやくスキャンすると、ステータスが変更されていないタスクを特定できます。
+タスクリストから開始し、[!UICONTROL 完了率]または[!UICONTROL ステータス]列またはその両方を表示する[!UICONTROL 表示]を選択します。タスクリストに素早く目を通すと、ステータスが変更されていないタスクを特定できます。
 
-![プロジェクト表示中 [!UICONTROL 完了率] 列](assets/planner-fund-close-tasks-and-issues.png)
+![[!UICONTROL 完了率]の列を表示しているプロジェクト](assets/planner-fund-close-tasks-and-issues.png)
 
-すべての組織が [!DNL Workfront’s] は、プロジェクト中に発生した問題、変更管理などを記録または解決する機能を発行します。 しかし、実行する場合は、 [!UICONTROL 問題] を参照し、すべての問題が解決されていることを確認してください。
+すべての組織が [!DNL Workfront’s] のイシュー機能を使用して、プロジェクト中に発生した問題、変更指示などを記録や解決しているわけではありません。しかし、使用する場合は、「[!UICONTROL イシュー]」セクションを参照し、すべての問題が解決されていることを確認します。
 
 <!---
 learn more
