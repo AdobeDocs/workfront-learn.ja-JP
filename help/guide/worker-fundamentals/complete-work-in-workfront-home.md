@@ -1,15 +1,15 @@
 ---
 title: ホームの workfront-dam/brand-connect-user
-description: このビデオでは、作業の進行状況をステータスと伝え、作業リストをフィルタリングして完了した作業を確認する方法を学びます。
+description: このビデオでは、ステータスで作業の進捗を伝える方法と、完了した作業を確認するために作業リストをフィルタリングする方法を説明します。
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 このビデオでは、次のことを学習します。
 
-* 作業の進行状況をステータスと伝える方法
+* 作業の進捗をステータスで伝える方法
 * ステータスが重要な理由
 * 作業リストをフィルタリングして完了した作業を確認する方法
 
