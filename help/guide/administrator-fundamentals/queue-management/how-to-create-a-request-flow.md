@@ -1,6 +1,6 @@
 ---
 title: リクエストフローの作成方法
-description: このビデオでは、キューのトピック、トピックグループ、ルーティングルールを設定する方法を説明します。
+description: この動画では、キューのトピック、トピックグループ、ルーティングルールを設定する方法を説明します。
 topic: null
 activity: deploy
 doc-type: feature video
@@ -8,9 +8,9 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
