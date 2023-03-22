@@ -1,8 +1,8 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '424'
+ht-degree: 100%
 
 ---
 # 記事の投稿
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## アドビコンテンツへの投稿について
 
-詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 投稿方法は、投稿者と、投稿したい変更の種類に応じて異なります。
 
 ### 軽微な変更
 
-善意で軽微な更新を行う場合は、記事にアクセスして記事内の&#x200B;**編集**&#x200B;リンクをクリックすると、GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。一般的な[アドビのドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+善意で軽微な更新を行う場合は、記事にアクセスして記事内の&#x200B;**編集**&#x200B;リンクをクリックすると、GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。一般的な[アドビのドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 このリポジトリのドキュメントおよびコード例について投稿者が送信した軽微な修正や説明は、アドビの利用条件の適用を受けます。
 
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### アドビ従業員からの大きな変更
 
-Adobe Experience Cloudソリューションの製品チーム、プログラムマネージャーまたは開発者で、技術記事の投稿や作成が職務となっている場合は、次のプライベートリポジトリを使用する必要があります。 `https://git.corp.adobe.com/AdobeDocs`.
+Adobe Experience Cloud ソリューションの製品チームのテクニカルライター、プログラム マネージャー、または開発者であり、技術記事の投稿または作成を担当している場合は、`https://git.corp.adobe.com/AdobeDocs` のプライベートリポジトリを使用する必要があります。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -43,7 +43,7 @@ Adobe Experience Cloudソリューションの製品チーム、プログラム�
 
 コミュニティの投稿者は、GitHub UI を使用して基本的な編集を行ったり、リポジトリをフォークして大規模な投稿をすることができます。
 
-詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 ## Markdown を使用してトピックをフォーマットする方法
 
