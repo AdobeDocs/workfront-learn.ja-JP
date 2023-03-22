@@ -8,15 +8,15 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # プロジェクトの設定
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * カスタムステータスの変更
 * グローバルプロジェクト環境設定の指定
