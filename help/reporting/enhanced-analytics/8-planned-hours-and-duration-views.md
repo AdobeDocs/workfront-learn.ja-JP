@@ -1,6 +1,6 @@
 ---
-title: での予定時間および期間表示を把握します。 [!UICONTROL 分析の強化]
-description: '[Burndown] グラフと [Project] ツリーマップグラフでは、予定時間または期間別に情報を表示できます。'
+title: '[!UICONTROL Enhanced Analytics] の予定時間数ビューと期間ビューについて'
+description: 燃え尽きとプロジェクトツリーマップのグラフでは、予定時間数または期間で情報を表示できます。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,16 +11,16 @@ level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# での予定時間および期間表示を把握します。 [!UICONTROL 分析の強化]
+# [!UICONTROL Enhanced Analytics] の予定時間数ビューと期間ビューについて
 
-Burndown グラフと Project ツリーマップグラフでは、Workfront環境でより正確と見なす内容に応じて、予定時間または期間別に情報を表示できます。
+バーンダウングラフとプロジェクトツリーマップのグラフでは、Workfront 環境でより正確と思える内容に応じて、予定時間数または期間で情報を表示できます。
 
-![期間ではなく計画時間を選択する画像](assets/section-1-5.png)
+![期間ではなく予定時間数を選択する画像](assets/section-1-5.png)
 
-デフォルトは予定時間です。 期間に切り替えた場合、 [!DNL Analytics] Workfrontログインの間や戻ってくる
+デフォルトは予定時間数です。期間に切り替えると、 [!DNL Analytics] から他へ移動して戻ってきた場合や、Workfront にログインし直した場合でも、期間に固定されています。
