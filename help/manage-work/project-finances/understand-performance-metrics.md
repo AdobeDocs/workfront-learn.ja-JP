@@ -1,6 +1,6 @@
 ---
 title: パフォーマンス指標について
-description: パフォーマンス指標の使用方法を説明します。 [!UICONTROL パフォーマンスインデックスメソッド] ([!UICONTROL PIM]) および [!UICONTROL 完了時の推定] ([!UICONTROL EAC]) をクリックします。
+description: '[!UICONTROL パフォーマンスインデックスメソッド]（[!UICONTROL PIM]）と[!UICONTROL 完了時の見積もり]（[!UICONTROL EAC]）のパフォーマンス指標の使用方法について説明します。'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,55 +11,55 @@ level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # パフォーマンス指標について
 
-プロジェクトマネージャーが使用する 2 つのパフォーマンス指標には、 [!UICONTROL パフォーマンスインデックスメソッド] ([!UICONTROL PIM]) および [!UICONTROL 完了時の推定] ([!UICONTROL EAC]) をクリックします。 システム全体のデフォルト値は、 [!DNL Workfront] 新しく作成されたプロジェクトに適用します。 [!UICONTROL PIM] その後、個々のプロジェクトで変更できます。
+プロジェクト管理者が使用する 2 つのパフォーマンス指標には、[!UICONTROL パフォーマンスインデックスメソッド]（[!UICONTROL PIM]）と[!UICONTROL 完了時の見積もり]（[!UICONTROL EAC]）があります。システム全体のデフォルトは [!DNL Workfront] で設定でき、新しく作成したプロジェクトに適用します。その後、個々のプロジェクトで [!UICONTROL PIM] を変更できます。
 
-**[!UICONTROL パ イ メ]**
+**[!UICONTROL PIM]**
 
-の設定 [!UICONTROL PIM] ～を制御する [!DNL Workfront] 次のような他のプロジェクト効果指標を計算します。 [!UICONTROL コスト効果指数] ([!UICONTROL CPI]), [!UICONTROL 原価計画実績インデックス] ([!UICONTROL CSI]), [!UICONTROL スケジュール効果インデックス] ([!UICONTROL SPI]) および [!UICONTROL 完了時の推定] ([!UICONTROL EAC]) をクリックします。
+[!UICONTROL PIM] の設定は、[!DNL Workfront] で[!UICONTROL コストパフォーマンスインデックス]（[!UICONTROL CPI]）、[!UICONTROL コストスケジュールパフォーマンスインデックス]（[!UICONTROL CSI]）、[!UICONTROL スケジュールパフォーマンスインデックス]（[!UICONTROL SPI]）、[!UICONTROL 完了時の見積もり]（[!UICONTROL EAC]）などの他のプロジェクトパフォーマンス指標を計算する方法をコントロールします。
 
-のオプション [!UICONTROL PIM] は時間ベースとコストベースです。
+[!UICONTROL PIM] のオプションは、時間ベースとコストベースです。
 
-* **時間ベース** Workfrontは、計画時間を使用して、CPI と EAC を算出している。 プロジェクトの EAC は、数値（時間単位）で表示されます。
-* **コストベース** Workfront氏は、CPI と EAC の算出に、計画された人件費を使用している。 EAC は通貨値として表示されます。 このオプションを使用する場合は、タスクの担当者（ユーザーやジョブの役割）がコスト率に関連付けられていることを確認します。
+* **時間ベース** - Workfront では、プロジェクトの CPI と EAC を計算する際に予定時間数を使用します。プロジェクトの EAC は、時間単位の数値として表示されます。
+* **コストベース** - Workfront では、プロジェクトの CPI と EAC の計算に予定労力コストを使用します。EAC は、通貨値として表示されます。このオプションを使用する場合は、タスクの担当者（ユーザーや担当業務）がコスト率に関連付けられていることを確認します。
 
 **[!UICONTROL 完成時総コスト見積り (EAC)]**
 
-[!UICONTROL EAC] タスクまたはプロジェクトの完了時の推定総コストを表します。 オプションは、プロジェクトレベルで計算され、タスク/サブタスクからロールアップされます。
+[!UICONTROL EAC] は、タスクまたはプロジェクトが完了すると見込まれる合計コストを表します。オプションは、プロジェクトレベルで計算され、タスク／サブタスクからロールアップされます。
 
-* **プロジェクトレベルで計算** — [!UICONTROL EAC] 親タスクとプロジェクトの場合、実際の時間/実際の人件費を使用して、 [!UICONTROL EAC] 式。 計算には、実際の時間/コストと費用が、親タスクまたはプロジェクトに直接追加されます。
-* R **タスク/サブタスクからのロールアップ** — [!UICONTROL EAC] 親タスクとプロジェクトの場合、 [!UICONTROL EAC] 各子タスク この計算では、親タスクまたはプロジェクトに直接追加された実際の時間/コストは除外されます。
+* **プロジェクトレベルでの計算** - 親タスクとプロジェクトの [!UICONTROL EAC] は、[!UICONTROL EAC] 式の実際の時間数／実際の労力コストを使用して決定されます。計算には、親タスクまたはプロジェクトに直接追加された実際の時間数／コストと費用が含まれます。
+* **タスク／サブタスクからのロールアップ** - 親タスクとプロジェクトの [!UICONTROL EAC] は、各子タスクの [!UICONTROL EAC] を合計することによって決定されます。この計算では、親タスクまたはプロジェクトに直接追加された実際の時間数／コストは除外されます。
 
-この [!UICONTROL EAC] 計算は、「完了時の見積もりの計算 (EAC)」にリストされます。 <!-- link to article -->記事 [!UICONTROL [!DNL Workfront] 1].
+[!UICONTROL EAC] の計算は、<!-- link to article -->[!UICONTROL [!DNL Workfront] One の記事] の「完了時の見積もり（EAC）の計算」に記載されています。
 
 **パフォーマンス指標：設定**
 
-設定するには [!UICONTROL PIM] および [!UICONTROL EAC] システムのデフォルト：
+[!UICONTROL PIM] および [!UICONTROL EAC] システムのデフォルトを設定するには：
 
-1. 選択 **[!UICONTROL 設定]** を選択します。
-1. クリック **[!UICONTROL プロジェクト環境設定]** 左側のパネルメニューで、 **[!UICONTROL プロジェクト]**
-1. 内 [!UICONTROL プロジェクトステータス] セクション、検索 [!UICONTROL パフォーマンスインデックスメソッド]. 「時間ベース」または「コストベース」を選択します。
-1. の場合 [!UICONTROL 完了時の推定]、「プロジェクトレベルで計算」または「タスク/サブタスクからロールアップ」を選択します。
-1. クリック **[!UICONTROL 保存]** 窓の下に
+1. メインメニューから「**[!UICONTROL 設定]**」を選択します。
+1. 左側のパネルメニューで「**[!UICONTROL プロジェクト環境設定]**」をクリックし、「**[!UICONTROL プロジェクト]**」をクリックします
+1. 「[!UICONTROL プロジェクトステータス]」セクションで、[!UICONTROL パフォーマンスインデックスメソッド]を検索します。「時間ベース」または「コストベース」を選択します。
+1. [!UICONTROL 完了時の見積もり]については、プロジェクトレベルでの「計算」またはタスク／サブタスクからの「ロールアップ」を選択します。
+1. ウィンドウの下部にある「**[!UICONTROL 保存]**」をクリックします。
 
-![画像 [!UICONTROL プロジェクト環境設定] screen](assets/setting-up-finances-1.png)
+![[!UICONTROL プロジェクト環境設定]画面の画像](assets/setting-up-finances-1.png)
 
-**設定 [!UICONTROL PIM] 個々のプロジェクトで**
+**個々のプロジェクトでの [!UICONTROL PIM] の設定**
 
 1. プロジェクトのランディングページに移動します。
-1. クリック **[!UICONTROL プロジェクトの詳細]** を左側のパネルからクリックします。
-1. を開きます。 **[!UICONTROL 金融]** 」セクションに入力します。
-1. 下のテキストをダブルクリックします。 **[!UICONTROL パフォーマンスインデックスメソッド]** をクリックして編集します。
+1. 左側のパネルから「**[!UICONTROL プロジェクト詳細]**」をクリックします。
+1. 「**[!UICONTROL 財務]**」セクションを開きます。
+1. **[!UICONTROL パフォーマンスインデックスメソッド]**&#x200B;の下にあるテキストをダブルクリックして編集します。
 1. 「時間ベース」または「コストベース」を選択します。
-1. クリック **[!UICONTROL 保存]** 変更が完了しました。
+1. 「**[!UICONTROL 変更を保存]**」をクリックして終了します。
 
-![画像 [!UICONTROL プロジェクトの詳細] screen](assets/setting-up-finances-2.png)
+![[!UICONTROL プロジェクト詳細]画面の画像](assets/setting-up-finances-2.png)
 
-[!UICONTROL PIM] は、プロジェクトテンプレートの [!UICONTROL 金融] 」セクションに表示されます。
+[!UICONTROL PIM] は、プロジェクトテンプレートのテンプレート詳細の「[!UICONTROL 財務]」セクションで設定できます。
