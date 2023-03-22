@@ -1,6 +1,6 @@
 ---
-title: 理解 [!UICONTROL 作業量]
-description: 使用方法 [!UICONTROL 作業量] を使用して、プロジェクトタイムラインで予定時間を簡単に見積もることができます。
+title: ' [!UICONTROL 作業量]について'
+description: '[!UICONTROL 作業量]を使用して、プロジェクトのタイムラインで予定時間数を簡単に見積もる方法を説明します。'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,26 +11,26 @@ level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 0c7a19edf43baae69ab78edf7b344641de97912b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 理解 [!UICONTROL 作業量]
+# [!UICONTROL 作業量]について
 
-[!DNL Workfront] では、一部の組織では、プロジェクトの作成時に予定時間を使用しないことを理解しています。 しかし、 [!DNL Workfront's] リソース管理ツールと、作業用ユーザーの割り当て量をより深く理解すること、プロジェクトの計画時間は必須です。
+[!DNL Workfront] を使用すると、プロジェクト作成時の予定時間数を消費していない組織があることを把握できます。いっぽう、[!DNL Workfront's] リソース管理ツールの利点を最大限に活用し、ユーザーに割り当てられた作業量への理解を深めるには、プロジェクトの予定時間数を把握することが必須です。
 
-両方の概念を念頭に置いて [!DNL Workfront] 作成済み [!UICONTROL 作業量] オプション。
+それらの考え方を踏まえて、[!DNL Workfront] では[!UICONTROL 作業量]というオプションを設けました。
 
-プロジェクトの各タスクに特定の時間を入力する代わりに、 [!UICONTROL 作業量] タスクが小規模か中規模か大規模かを判断する場合。 [!DNL Workfront] 予定時間を自動的にこれらのタスクに関連付けます。
+プロジェクトの各タスクに特定の時間を入力する代わりに、[!UICONTROL 作業量]を使用して、タスクの規模が大、中、小のどれであるかを判断します。[!DNL Workfront] は、予定時間数を自動的にこれらのタスクに関連付けます。
 
-次のいずれかを使用する場合は、 [!DNL Workfront’s] リソース管理ツールを使用すると、必要な数値が既に入力されており、ユーザーは作業量に関して注意を払う必要があります。
+[!DNL Workfront’s] リソース管理ツールを使用する予定があれば、必要な数値は既に入力されており、ユーザーは今後の作業量を把握できます。
 
-![次を使用したプロジェクトタスクリスト [!UICONTROL 作業量] 列](assets/planner-fund-work-effort.png)
+![「[!UICONTROL 作業量]」列を使用したプロジェクトタスクのリスト](assets/planner-fund-work-effort.png)
 
 <!---
 need hyperlink below
 --->
 
-詳しくは、 [!UICONTROL 作業量]を参照し、 [作業量の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) 記事。
+[!UICONTROL 作業量]の詳細については、[作業量の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=ja)の記事を参照してください。
