@@ -1,5 +1,5 @@
 ---
-title: ユーザー組織に関する詳細
+title: ユーザー組織の詳細について
 description: このビデオでは、会社、グループ、チームについて説明します。
 topic: null
 activity: deploy
@@ -8,13 +8,13 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '29'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# ユーザー組織に関する詳細
+# ユーザー組織の詳細について
 
 このビデオでは、次の点について学習します。
 
