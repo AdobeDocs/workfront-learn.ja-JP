@@ -1,6 +1,6 @@
 ---
-title: Workfrontの用語のカスタマイズ
-description: このビデオでは、レイアウトテンプレートを使用してタスク、プロジェクト、その他の項目の用語をカスタマイズする方法を説明します。
+title: Workfront の用語のカスタマイズ
+description: このビデオでは、レイアウトテンプレートを使用して、タスク、プロジェクト、その他の項目の用語をカスタマイズする方法について説明します。
 topic: null
 activity: deploy
 doc-type: feature video
@@ -9,14 +9,14 @@ kt: Jira ticket
 role: Admin
 thumbnail: 335074.jpeg
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfrontの用語のカスタマイズ
+# Workfront の用語のカスタマイズ
 
-このビデオでは、レイアウトテンプレートを使用して用語を設定する方法を学びます。
+このビデオでは、レイアウトテンプレートを使用して用語を設定する方法を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12)
