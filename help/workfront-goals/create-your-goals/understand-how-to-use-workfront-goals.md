@@ -1,6 +1,6 @@
 ---
-title: 理解 [!DNL Workfront Goals]
-description: システム管理者が、誰がアクセスできるかを確認します [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] レイアウトテンプレートを使用する。
+title: Workfront目標の概要
+description: 目標リスト、グラフ、目標の整列のナビゲート方法を説明します。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,20 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 683b3291033ff87dacae8b670e5a54a203cc2743
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '32'
+ht-degree: 28%
 
 ---
 
 # [!DNL Workfront Goals] 概要
 
-このビデオでは、次のことを学習します。
+このビデオでは、次の方法を学習します：
 
-* アクセスできるユーザー [!DNL Workfront Goals]
-* システム管理者が持つ権限 [!DNL Workfront Goals]
-* 有効にする方法 [!DNL Workfront Goals] レイアウトテンプレートを使用
+* 目標リストを移動
+* グラフの操作
+* 目標の整列をナビゲート
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)
