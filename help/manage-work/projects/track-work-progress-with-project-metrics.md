@@ -1,6 +1,6 @@
 ---
-title: プロジェクト指標を使用した作業の進行状況の追跡
-description: プロジェクト指標グラフを使用して、でのプロジェクト作業の進行状況を追跡する方法を説明します。 [!DNL  Workfront].
+title: プロジェクト指標を使用した作業の進捗の追跡
+description: ' [!DNL  Workfront]で、プロジェクト指標グラフを使用してプロジェクト作業の進捗を追跡する方法について説明します。'
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg
@@ -12,24 +12,24 @@ kt: 8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プロジェクト指標を使用した作業の進行状況の追跡
+# プロジェクト指標を使用した作業の進捗の追跡
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * プロジェクト指標グラフへのアクセス
-* グラフの情報をカスタマイズする
+* グラフの情報のカスタマイズ
 
 >[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12)
 
-プロジェクト指標ダッシュボード全体を.png ファイルとして、 [!UICONTROL 書き出し] 」ボタンをクリックします。 これにより、電子メールやプレゼンテーションを通じて、データを他のユーザーと簡単に共有できます。
+「[!UICONTROL 書き出し]」ボタンを使用して、プロジェクト指標ダッシュボード全体を .png ファイルとして書き出すことができます。これにより、メールやプレゼンテーションを通じて他のユーザーとデータを簡単に共有できます。
 
-![エクスポートされたプロジェクト指標ページ](assets/planner-fund-metrics-export.png)
+![書き出されたプロジェクト指標ページ](assets/planner-fund-metrics-export.png)
 
 <!---
 Overview of project metrics
