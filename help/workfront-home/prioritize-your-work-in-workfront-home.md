@@ -1,6 +1,6 @@
 ---
-title: で作業を優先順位付けする方法 [!UICONTROL ホーム]
-description: 項目を [!UICONTROL 作業用リスト] 優先度の割り当てを [ ホーム ] ページで指定します。 次に、リストをフィルタリングして、優先度の高い作業を [!DNL  Workfront].
+title: '[!UICONTROL ホーム]で作業の優先順位を付ける方法'
+description: 「ホーム」ページで、[!UICONTROL ワークリスト]の項目を優先割り当てとしてマークする方法を説明します。次に、リストをフィルタリングして、 [!DNL  Workfront] で優先度の高い作業を確認します。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ kt: 8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# の作業を優先する [!DNL Workfront] [!UICONTROL ホーム]
+# [!DNL Workfront] の[!UICONTROL ホーム]で作業の優先順位を付ける
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 作業を優先順位割り当てとしてマーク
-* フィルター [!UICONTROL 作業用リスト] 優先仕事だけを見る
+* 作業を優先割り当てとしてマークする
+* [!UICONTROL 作業リスト]をフィルタリングして優先度の高い仕事だけを表示する
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12)
