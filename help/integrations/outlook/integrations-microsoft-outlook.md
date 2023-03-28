@@ -1,6 +1,6 @@
 ---
-title: のインストール [!UICONTROL Microsoft Outlook アドイン]
-description: をインストールする方法を説明します。 [!UICONTROL Microsoft Outlook アドイン]
+title: '[!UICONTROL Microsoft Outlook アドイン]のインストール'
+description: '[!UICONTROL Microsoft Outlook アドイン]のインストール方法を説明します。'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -13,15 +13,15 @@ doc-type: video
 source-git-commit: e902bae4c4dae0c7800d1a97c1835eff3bb6d924
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 69%
 
 ---
 
-# Microsoft Outlook アドインをインストールする
+# Microsoft Outlook アドインのインストール
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* Microsoft Outlook アドインをインストールする
+* Microsoft Outlook アドインのインストール
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
 
@@ -29,10 +29,10 @@ ht-degree: 0%
 >
 >このビデオで説明されているWorkfrontアドインが見つからない場合は、IT 部門が最初に設定作業をおこなう必要が生じる場合があります。 詳細な手順については、 [Outlook 用のAdobe Workfrontのセットアップ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 
-## Microsoft Outlook の予定表と [!DNL Workfront] ホームカレンダー
+## Microsoft Outlook のカレンダーと [!DNL Workfront] のホームのカレンダーの統合
 
-次の項目を設定できます。 [!DNL Workfront] [!UICONTROL ホームカレンダー] 次の操作を行う設定を指定します。
+[!DNL Workfront] の[!UICONTROL ホームのカレンダー]を設定して、次の項目を実行できます。
 
-* Web ベースバージョンのとの統合 [!DNL Outlook] クラウドでホストされている [!DNL Office 365] または [!DNL Outlook Live]. すべてのイベントを [!DNL Outlook] カレンダーと、誕生日や休日のカレンダーなど、選択した関連するカレンダーを [!DNL Workfront] [!UICONTROL ホームカレンダー].
+* クラウドでホストされている [!DNL Office 365] または [!DNL Outlook Live] の web ベースバージョンの [!DNL Outlook] と統合する[!DNL Outlook] のカレンダーおよび選択した関連カレンダー（誕生日や祝日のカレンダーなど）のすべてのイベントを、[!DNL Workfront] の[!UICONTROL ホームのカレンダー]に表示できます。
 
-* 割り当てバーの使用可能な作業時間に対するワークロードの追跡に役立ちます。
+* 作業可能な時間に対する作業量を配分バーで追跡するのに役立ちます。
