@@ -1,6 +1,6 @@
 ---
-title: でのコンサルティングガイダンスの理解 [!UICONTROL 分析の強化]
-description: Workfrontで組織がより効率的に運用できるように推奨する方法を説明します。
+title: '[!UICONTROL Enhanced Analytics] のコンサルティングガイダンスについて'
+description: 組織が Workfront でより効率的に運営できるようにするためのレコメンデーションを作成する方法について説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -12,16 +12,16 @@ kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# でのコンサルティングガイダンスの理解 [!UICONTROL 分析の強化]
+# [!UICONTROL Enhanced Analytics] のコンサルティングガイダンスについて
 
 このビデオでは、次のことを学習します。
 
-* 組織の運用効率を高めるためのレコメンデーションの方法
+* 組織がより効率的に運営できるようにするためのレコメンデーションを作成する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12)
