@@ -1,6 +1,6 @@
 ---
 title: リクエストキューについて
-description: リクエストキューが [!DNL  Workfront] リクエストを送信する方法を説明します。
+description: ' [!DNL  Workfront] でリクエストキューを構造化する方法とリクエストを送信する方法について説明します。'
 activity: use
 feature: Work Management
 type: Tutorial
@@ -12,9 +12,9 @@ kt: 8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,41 +22,41 @@ ht-degree: 0%
 
 このビデオでは、次のことを学習します。
 
-* を通じてリクエストを送信する方法 [!DNL  Workfront] リクエストキュー
-* リクエストキューの構造
+* [!DNL  Workfront] リクエストキューを通じてリクエストを送信する方法
+* リクエストキューを構造化する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
 
-## 下書きの自動保存を要求
+## リクエストドラフトの自動保存
 
-リクエストフォームに入力し始めると、 [!DNL Workfront] 次の項目に入力した後、下書きが自動的に保存されます： [!UICONTROL 件名] フィールドに入力します。 つまり、 [!UICONTROL リクエスト] 他の操作を行う領域、またはリクエストの途中で一時停止して詳細を収集する必要がある場合。
+リクエストフォームへの入力を開始すると、「[!UICONTROL 件名]」フィールドに入力した後、[!DNL Workfront] は自動的にドラフトを保存します。つまり、[!UICONTROL リクエスト]領域から別の操作を行う必要がある場合や、リクエストの途中で一時停止して詳細情報を収集する必要がある場合でも、データが失われることはありません。
 
-下書きがウィンドウの上部に保存されたことを示すメッセージが表示されます。 [!DNL Workfront] は、必須フィールドにまだ入力されていない場合でも、リクエストの下書きを保存します。
+ウィンドウの上部にドラフトが保存されたことを示すメッセージが表示されます。[!DNL Workfront] は、必須フィールドがまだ入力されていない場合でも、リクエストのドラフトを保存します。
 
-![要求下書きの作成を示す画像](assets/queue-mgt-make-a-request-draft-1.png)
+![リクエストドラフトの作成の画像](assets/queue-mgt-make-a-request-draft-1.png)
 
-リクエストを送信する準備が整ったら、次の場所で見つけます。 [!UICONTROL ドラフト] タブをクリックします。 名前をクリックして開き、フォームの入力を完了します。 次に、 [!UICONTROL リクエストを送信] 終わったら
+リクエストを送信する準備が整ったら、「[!UICONTROL ドラフト]」タブで検索します。名前をクリックして開き、フォームへの入力を完了します。完了したら、「[!UICONTROL リクエストを送信]」をクリックします。
 
-![要求下書きの呼び出しの画像](assets/queue-mgt-make-a-request-draft-2.png)
+![リクエストドラフトの呼び出しの画像](assets/queue-mgt-make-a-request-draft-2.png)
 
-## あなたのターン
+## やってみよう
 
-少し時間を割いて、先ほど提示した情報を確認しましょう。
+先ほど提示された情報を確認してみましょう。
 
-**質問：** Workfrontでリクエストをおこなう方法 手順を順にリストします。
+**質問：** Workfront でリクエストを作成するには、どうすればよいですか？手順を説明します。
 
 * 作成する必要があるリクエストタイプを選択します
-* 送信リクエストをクリック
+* 「リクエストを送信」をクリックします
 * フォームに関する情報を入力します
-* 「新しいリクエスト」をクリックします。
-* リクエスト領域に移動
+* 「新規リクエスト」をクリックします
+* リクエストエリアに移動する
 
 
-**回答：** リクエスト領域に移動して、新規リクエストをクリックし、作成する必要のあるリクエストタイプを選択します。/フォームの情報を入力し、「リクエストを送信」をクリックします
+**回答：** リクエスト領域に移動して、新規リクエストをクリックし、作成する必要があるリクエストタイプを選択し、フォームの情報を入力し、「リクエストを送信」をクリックします
 
-**質問：** リクエストは実際には…
+**質問：**&#x200B;リクエストは実際には何ですか？
 
-**回答：** 問題
+**回答：**&#x200B;イシューです
 
 <!---
 You can also access request drafts from the [!UICONTROL Select a Request Type] menu at the top of the window. Select an option from the [!UICONTROL Recent Drafts] section, or start a new request by picking a queue from the [!UICONTROL New Requests] section. Fill everything out like normal, then submit the request.
