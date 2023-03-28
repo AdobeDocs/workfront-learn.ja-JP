@@ -1,6 +1,6 @@
 ---
-title: リソースプランナーのユーザー別表示
-description: 「ユーザー別に表示」オプションの使用方法と、このビューでのリソース情報の表示方法を参照してください。
+title: リソースプランナーでユーザー別に表示
+description: 「ユーザー別に表示」オプションの使用方法と、そのビューでのリソース情報を表示する方法について説明します。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ kt: 8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ユーザー別に表示： [!DNL Resource Planner]
+# [!DNL Resource Planner] でユーザー別に表示
 
 このビデオでは、次の操作を実行します。
 
-* 詳しくは、 [!UICONTROL ユーザー別に表示 ]表示
-* このビューでのリソース情報の表示方法を説明します
+* [!UICONTROL ユーザー別に表示]ビューを確認する
+* そのビューにリソース情報を表示する方法を確認する
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12)
