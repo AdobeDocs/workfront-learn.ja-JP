@@ -1,6 +1,6 @@
 ---
-title: 外観のカスタマイズ [!UICONTROL Brand Connect]
-description: ナビゲーションバーとフッターをカスタマイズし、ホームページとログインページをカスタマイズする方法については、 [!UICONTROL Brand Connect] 対象 [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Brand Connect] の外観のカスタマイズ'
+description: '[!UICONTROL Workfront DAM] の [!UICONTROL Brand Connect] で、ナビゲーションバーとフッターをカスタマイズする方法、ホームページとログインページをカスタマイズする方法を説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,53 +11,53 @@ kt: 8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 外観のカスタマイズ [!UICONTROL Brand Connect]
+# [!UICONTROL Brand Connect] の外観のカスタマイズ
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * ナビゲーションバーとフッターのカスタマイズ
 * ホームページとログインページのカスタマイズ
 
 >[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12)
 
-## 追加 [!UICONTROL 外観] 設定
+## その他の[!UICONTROL 外観]設定
 
-この [!UICONTROL フォント] オプションを [!UICONTROL 外観] メニューを使用すると、 [!UICONTROL Brand Portal] を選択します。 800 個を超えるGoogleフォントがサポートされています。
+[!UICONTROL 外観]メニューの[!UICONTROL フォント]オプションで、[!UICONTROL Brand Portal] 全体のすべてのテキストを選択したフォントでスタイルを設定します。800 種類を超える Google フォントがサポートされています。
 
-![この [!UICONTROL フォント] オプションを [!UICONTROL 外観] メニューのスタイル [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![Brand Portal の[!UICONTROL 外観]メニュースタイルの[!UICONTROL フォント]オプション](assets/02-brand-connect-appearance-font.png)
 
 ## ホームページウィジェット
 
-外観をカスタマイズする [!UICONTROL Brand Connect] ホームページを開き、組織に合わせて表示します。 ウィジェットを使用して、フォルダーや画像スライダーなどの要素を追加できます。 組織に複数の [!UICONTROL ブランドの接続]の場合は、それぞれ独自のホームページを使用し、見た目を明確に設定できます。
+[!UICONTROL Brand Connect] ホームページのルック＆フィールを組織に合わせてカスタマイズします。ウィジェットを使用して、フォルダーや画像スライダーなどの要素を追加できます。組織に複数の [!UICONTROL Brand Connects] がある場合、それぞれにホームページを用意し、見た目を差別化することができます。
 
-![使用するウィジェットのスクリーンショット [!UICONTROL Brand Connect] homepage](assets/03-brand-connect-home-page-widgets.png)
+![[!UICONTROL Brand Connect] ホームページで利用可能なウィジェットのスクリーンショット](assets/03-brand-connect-home-page-widgets.png)
 
 次のウィジェットを使用できます。
 
-**A.カルーセル** — 画像スライダーに複数のアセットを表示します。 各アセットに説明を追加できます。 追加アイコンをクリックして、カルーセルに表示する画像を選択します。
+**A. カルーセル** - 画像スライダーに複数のアセットを表示します。各アセットに説明を追加できます。追加アイコンをクリックして、カルーセルに表示する画像を選択します。
 
-**B.フォルダー** — 選択したアセットを含むフォルダーを表示します。 追加アイコンをクリックして、 [!UICONTROL アセット選択] フォルダーを選択できます。 フォルダー内のアセットは、次の場所に表示されます。 [!UICONTROL Brand Connect] ユーザーのみがダウンロードできます。
+**B. フォルダー** - 選択したアセットを含むフォルダーを表示します。追加アイコンをクリックして[!UICONTROL アセット選択]を開くと、フォルダーを選択できます。フォルダー内のアセットは、[!UICONTROL Brand Connect] ユーザーに表示されますが、許可されたユーザーのみがダウンロードできます。
 
-**C. Lightbox** — 既存の [!UICONTROL Lightbox]. のアセット [!UICONTROL Lightbox] は次の場所に表示されます： [!UICONTROL Brand Connect] ユーザーのみがダウンロードできます。
+**C. ライトボックス** - 既存の[!UICONTROL ライトボックス]を表示します。[!UICONTROL ライトボックス]内のアセットは、[!UICONTROL Brand Connect] ユーザーに表示されますが、許可されたユーザーのみがダウンロードできます。
 
-**D.ブランドガイドライン** — 上部のナビゲーションバーではなく、ホームページにブランドガイドラインを表示します。
+**D. ブランドガイドライン** - 上部のナビゲーションバーの代わりに、または、上部のナビゲーションバーに加えて、ホームページにブランドガイドラインを表示します。
 
-**E.説明** — 短いテキストを表示する場合に使用します。
+**E. 説明** - 短いテキストを表示する場合に使用します。
 
-**F.入力済み説明** — グレーの背景に表示するテキストコピーブロックを入力します。
+**F. 入力済み説明** - グレーの背景に表示するテキストコピーブロックを入力します。
 
-**G.HTML**—HTMLと CSS を使用してカスタムコンテンツを作成します。 例えば、ビデオへのリンクを埋め込むことができます。 いくつかあります [HTMLタグを使用しない](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML** - HTML と CSS を使用してカスタムコンテンツを作成します。例えば、画像へのリンクを埋め込むことができます。[避けるべき HTML タグ](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html)がいくつかあります。
 
 ## 検索バーの追加
 
-組織の [!UICONTROL Brand Connect]をクリックすると、 [!UICONTROL Assets] 検索を実行する領域。
+組織の [!UICONTROL Brand Connect] のホームページをカスタムで設計する場合、ユーザーは[!UICONTROL アセット]エリアをクリックして検索を実行する必要があります。
 
-ただし、システム管理者は検索ウィジェットとこのHTMLタグを使用して検索バーを作成できます。
+ただし、システム管理者は HTML ウィジェットとこの HTML タグを使用して検索バーを作成できます。
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>
