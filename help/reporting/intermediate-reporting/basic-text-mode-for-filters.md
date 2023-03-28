@@ -1,6 +1,6 @@
 ---
 title: フィルターの基本的なテキストモードについて
-description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontのレポートフィルターで使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
+description: テキストモードとは何か、キャメルケースとは何か、Workfront のレポートフィルターで使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -31,23 +31,23 @@ ht-degree: 0%
 
 >[!TIP]
 >
->* テキストモードをより深く理解するために、録画されたウェビナーイベントを見ることをお勧めします [エキスパートへの質問 — テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)（長さ 1 時間）。
->* テキストモードの詳細については、 [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) チュートリアルは全部で 5 時間半です。
+>* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ja)」（所要時間：1 時間）の視聴をお勧めします。
+>* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
 
 
 
 このビデオでは、次のことを学習します。
 
-* テキストモード
-* ラクダの例とは
-* レポートフィルターで使用できる基本的な「プラグアンドプレイ」テキストモード
+* テキストモードとは
+* キャメルケースとは
+* レポートフィルターで使用できる基本的な「プラグ＆プレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12)
 
 
-## タスク — 「自分の部分で完了」とマークしたタスクを除外します
+## タスク -「自分の担当部分を完了」とマークしたタスクをフィルタリングで除外します
 
-次のテキストモードでは、ユーザーが「Done with My Part」とマークしたタスクが除外されます。 必要な操作は、タスクフィルターを作成し、必要なフィルタールールを追加してから、テキストモードに切り替えて、フィルターに表示される任意のテキストモードの後に下のコードを貼り付けるだけです。
+次のテキストモードでは、ユーザーが「自分の担当部分を完了」とマークしたタスクが除外されます。必要な操作は、タスクフィルターを作成し、必要なフィルタールールを追加してから、テキストモードに切り替えて、フィルターに表示されるテキストモードの後に以下のコードをペーストするだけです。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -57,7 +57,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## タスク — 承認待ちのすべてのタスクを表示する
+## タスク - 承認待ちのすべてのタスクの表示
 
 ```
 approvalProcessID_Mod=notblank
@@ -66,9 +66,9 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## タスク — 自分が承認したすべてのタスクを表示する
+## タスク - 承認したすべてのタスクの表示
 
-任意のフィルターでタスクレポートを作成し、「フィルター」タブに移動して、「テキストモードに切り替え」をクリックします。 既に存在するものにこのコードを追加します。
+必要なフィルターを使用してタスクレポートを作成し「フィルター」タブに移動して、「テキストモードに切り替える」をクリックします。既に存在するものにこのコードを追加します。
 
 ```
 approvalProcessID_Mod=notblank
@@ -76,7 +76,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## タスク — 少なくとも 1 つのプロジェクト間の先行タスクを持つすべてのタスクを表示する
+## タスク - 少なくとも 1 つのクロスプロジェクトの先行タスクを持つすべてのタスクの表示
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -84,9 +84,9 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## タスク — 自分が割り当てたすべてのタスクを表示する
+## タスク - 他のユーザーに割り当てたすべてのタスクの表示
 
-任意のフィルターでタスクレポートを作成し、「フィルター」タブに移動して、「テキストモードに切り替え」をクリックします。 既に存在するものにこのコードを追加します。
+必要なフィルターを使用してタスクレポートを作成し「フィルター」タブに移動して、「テキストモードに切り替える」をクリックします。既に存在するものにこのコードを追加します。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
@@ -94,17 +94,9 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-ログインしたユーザーが現在の担当者の 1 つ以上を割り当てたすべてのタスクが表示されます。 担当者が複数の担当者によって割り当てられた場合は、担当者を最初に割り当てた人の名前のみがタスクのランディングページに「担当者」と表示されます。
+これにより、ログインしたユーザーが現在の担当者の少なくとも 1 人を割り当てたすべてのタスクが表示されます。担当者が複数の人物によって割り当てられた場合、最初に誰かを割り当てたユーザーの名前のみが、タスクのランディングページに「リクエストしたユーザー」として表示されます。
 
-## タスク — 完了したすべてのタスクを表示する — 承認待ち
-
-```
-status=CPL:A
-status_Mod=in
-```
-
-
-## 問題 — 完了したすべての問題を表示する — 承認待ち
+## タスク - 完了 - 承認待ちのすべてのタスクの表示
 
 ```
 status=CPL:A
@@ -112,7 +104,7 @@ status_Mod=in
 ```
 
 
-## プロジェクト — 完了したすべてのプロジェクトを表示する — 承認待ち
+## イシュー - 完了 - 承認待ちのすべてのイシューの表示
 
 ```
 status=CPL:A
@@ -120,7 +112,15 @@ status_Mod=in
 ```
 
 
-## 注意 — タグ付けされたすべてのコメントを表示する
+## プロジェクト - 完了 - 承認待ちのすべてのプロジェクトの表示
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+## メモ - タグ付けされたすべてのコメントの表示
 
 ```
 tags:userID=$$USER.ID
@@ -128,7 +128,7 @@ tags:userID_Mod=in
 ```
 
 
-## パラメータ/カスタムフィールドレポート — カスタムフォームに添付されていないカスタムフィールドを表示する（クリーンアップ作業で非常に役立つ）
+## パラメーター／カスタムフィールドレポート - カスタムフォームに添付されていないカスタムフィールドの表示（クリーンアップ作業で非常に役立ちます）
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
