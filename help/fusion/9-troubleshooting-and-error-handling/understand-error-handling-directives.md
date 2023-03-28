@@ -1,6 +1,6 @@
 ---
-title: エラー処理ディレクティブを理解する
-description: 実行を続行できるエラーハンドラーディレクティブと、実行を停止するエラーハンドラーディレクティブについて説明します。 [!DNL Adobe Workfront Fusion].
+title: エラー処理ディレクティブについて
+description: ' [!DNL Adobe Workfront Fusion] で、実行を続行できるエラーハンドラーディレクティブと、実行を停止するエラーハンドラーディレクティブについて説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,13 +11,13 @@ kt: 9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# エラー処理ディレクティブを理解する
+# エラー処理ディレクティブについて
 
 このビデオでは、次のことを学習します。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12)
 
-## ディレクティブ — シナリオは続行します
+## ディレクティブ - シナリオは続行します
 
 ### 再開
 
@@ -34,26 +34,26 @@ ht-degree: 0%
 * 以降のモジュールが処理されます。
 * シナリオの実行ステータスは「成功」とマークされます。
 
-![Resume ディレクティブのイメージ](assets/troubleshooting-and-error-handling-2.png)
+![再開ディレクティブの画像](assets/troubleshooting-and-error-handling-2.png)
 
-### 改行
+### 一時停止
 
 * シナリオの実行状態は、不完全な実行のキューに保存されます。このキューでは、エラーを手動で解決できます。 ただし、ここで言及する例外もいくつかあります。
 * 後続のモジュールは処理されません。
 * 未処理のバンドルがある場合、シナリオの実行は通常どおり続行されます。
 * シナリオの実行ステータスは、「警告」とマークされます。
 
-![Break ディレクティブのイメージ](assets/troubleshooting-and-error-handling-3.png)
+![一時停止ディレクティブの画像](assets/troubleshooting-and-error-handling-3.png)
 
-### 無視する
+### 無視
 
 * エラーは無視され、後続のモジュールは処理されません。
 * 未処理のバンドルがある場合、シナリオの実行は通常どおり続行されます。
 * シナリオの実行ステータスは「成功」とマークされます。
 
-![Ignore ディレクティブのイメージ](assets/troubleshooting-and-error-handling-4.png)
+![無視ディレクティブの画像](assets/troubleshooting-and-error-handling-4.png)
 
-## Directive：シナリオが停止します。
+## ディレクティブ - シナリオが停止する
 
 ### ロールバック
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 >
 >これは、モジュールにエラーハンドラールートが添付されておらず、「シナリオ」設定の「不完全な実行の保存を許可」設定がオフの場合のデフォルトの動作です。
 
-![Rollback ディレクティブのイメージ](assets/troubleshooting-and-error-handling-5.png)
+![ロールバックディレクティブの画像](assets/troubleshooting-and-error-handling-5.png)
 
 ### コミット
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 * 未処理のバンドルがある場合、シナリオの実行は通常どおり続行されます。
 * シナリオの実行ステータスは「成功」とマークされます。
 
-![コミットディレクティブのイメージ](assets/troubleshooting-and-error-handling-6.png)
+![コミットディレクティブの画像](assets/troubleshooting-and-error-handling-6.png)
