@@ -1,5 +1,5 @@
 ---
-title: ボード列を管理
+title: ボードの列の管理
 description: ボード上の列の編集、追加、並べ替え、削除の方法について説明します。
 feature: Agile
 activity: deploy
@@ -11,13 +11,13 @@ level: Beginner
 exl-id: 50a1b0f4-1857-43cf-a8ae-1ebb2344afa0
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ボード列を管理
+# ボードの列の管理
 
 ボード上の列の編集、追加、並べ替え、削除の方法について説明します。
 
