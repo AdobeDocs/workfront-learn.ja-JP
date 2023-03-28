@@ -1,6 +1,6 @@
 ---
 title: ボードのチームメンバーの追加と管理
-description: 個人やチームをボードに追加したり、ボード情報にアクセスしたりする方法を説明します。
+description: 個人やチームをボードに追加および削除して、ボード情報にアクセスできるようにする方法を説明します。
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -11,14 +11,14 @@ level: Beginner
 exl-id: 2ed7d5b5-e795-42cb-8a36-af6e8801a3b5
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # ボードのチームメンバーの追加と管理
 
-個人やチームをボードに追加したり、ボード情報にアクセスしたりする方法を説明します。
+個人やチームをボードに追加および削除して、ボード情報にアクセスできるようにする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346808)
