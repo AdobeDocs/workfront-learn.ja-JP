@@ -1,6 +1,6 @@
 ---
 title: 開発ツールのチュートリアル
-description: 様々な領域を [!DNL Adobe Workfront Fusion Dev Tool] より深く掘り下げてシナリオ設計のテクニックを掘り下げる
+description: ' [!DNL Adobe Workfront Fusion Dev Tool]  をインストールして様々なエリアを使用し、詳細なシナリオ設計手法を掘り下げる方法について説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 ## 概要
 
-Workfront開発ツールの様々な領域をインストールして使用し、おこなわれたリクエストと応答、および高度なシナリオ設計のテクニックを詳しく掘り下げます。
+Workfront 開発ツールの様々なエリアをインストールして使用し、作成したリクエスト／応答と詳細なシナリオデザインのテクニックを詳しく調べます。
 
-![Fusion シナリオと開発ツールのイメージ](assets/troubleshooting-and-error-handling-1.png)
+![Fusion シナリオと開発ツールの画像](assets/troubleshooting-and-error-handling-1.png)
 
 ## 開発ツールのチュートリアル
 
-Workfrontは、独自の環境で演習を再作成する前に、演習のチュートリアルのビデオを見ることをお勧めします。
+Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12)
 
 >[!TIP]
 >
->チュートリアルの完了手順については、 [開発ツールのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) 運動。
+>チュートリアルを完了するための段階的な手順については、[開発ツールのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=ja)演習にアクセスしてください。
 
 
 ## 開発ツールのダウンロード
 
-開発ツールには、シナリオの理解とトラブルシューティングの能力を向上させる、多数の高度な機能が用意されています。 テストドライブの Fusion Exercise Files フォルダにある&quot;workfront-fusion-devtool.zip&quot;ドキュメントをダウンロードします。
+開発ツールには、シナリオの理解とトラブルシューティングの能力を向上させる多くの高度な機能が用意されています。体験版の Fusion Exercise Files フォルダーにある「workfront-fusion-devtool.zip」ドキュメントをダウンロードします。
 
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
