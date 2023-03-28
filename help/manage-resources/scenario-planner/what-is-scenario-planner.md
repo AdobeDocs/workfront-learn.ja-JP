@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Scenario Planner] 説明済み'
-description: 方法 [!DNL Scenario Planner] は、他のリソース計画ツールとのフィットを作成します。 次に、 [!DNL Scenario Planner].
+title: 「[!DNL Scenario Planner] について」
+description: ' [!DNL Scenario Planner]  を他のリソースプランニングツールと適合させる方法について説明します。次に、 [!DNL Scenario Planner] の設定方法について説明します。'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,22 +12,22 @@ kt: 9075
 exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 説明 [!DNL Scenario Planner]?
+# [!DNL Scenario Planner] とは
 
-[!DNL Scenario Planner] その欠点は [!DNL Workfront’s] 組織の全体的なビジョンと戦略に基づいてイニシアチブを特定し優先順位付けし、配信用にリソースを最適化することで、既に堅牢なリソース計画と管理スイートを実現しています。
+[!DNL Scenario Planner] は、既に堅牢なリソースプランニングとツールの管理スイートである [!DNL Workfront’s] に欠けている部分です。これを使用するには、配信用にリソースを最適化するために掘り下げる前に、組織の全体的なビジョンと戦略に基づいてイニシアチブを特定し、優先順位を付けます。
 
-の目的 [!DNL Scenario Planner] は、組織レベルのプランの実行を迅速に進め、予測可能で望ましい結果をビジネスにもたらす重要な決定を下すのに役立ちます。
+[!DNL Scenario Planner] の目的は、組織レベルのプランを迅速に実行し、ビジネスに予測可能で望ましい結果をもたらす重要な意思決定を支援することです。
 
 このビデオでは、次のことを学習します。
 
-* 方法 [!DNL Scenario Planner] 他のリソース計画ツールとの適合
-* 組織内でのシナリオ計画
-* を使用するために必要な設定にアクセス [!DNL Scenario Planner]
+* [!DNL Scenario Planner] を他のリソースプランニングツールと適合させる方法
+* 組織内でのシナリオプランニング
+* [!DNL Scenario Planner] の使用に必要な設定へのアクセス
 
 >[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12)
