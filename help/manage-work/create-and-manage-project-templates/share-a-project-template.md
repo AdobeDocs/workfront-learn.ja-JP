@@ -12,17 +12,17 @@ kt: 8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # プロジェクトテンプレートの共有
 
-次の方法を学習します。
+以下の方法について説明します。
 
-* 他のユーザーとテンプレートを共有する
+* 他のユーザーとテンプレートの共有
 * テンプレートを使用して作成されたプロジェクトを共有
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12)
