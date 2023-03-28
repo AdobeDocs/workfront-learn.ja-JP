@@ -1,6 +1,6 @@
 ---
 title: 親子タスクについて
-description: タスクが、 [!DNL  Workfront] プロジェクト。
+description: ' [!DNL  Workfront]  プロジェクトで親子関係を使用してタスクを構造化する方法について説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -12,9 +12,9 @@ kt: 8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 このビデオでは、次のことを学習します。
 
-* タスクが [!DNL Workfront] プロジェクト
+* [!DNL Workfront] プロジェクトでタスクを構造化する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12)
