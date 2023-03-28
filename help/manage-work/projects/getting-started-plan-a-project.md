@@ -1,6 +1,6 @@
 ---
-title: プロジェクトの計画を開始する
-description: プロジェクトの 5 つの主要コンポーネント、ステータスが示すもの、 [!UICONTROL 表示] は、関連情報や、開始日または期限の設定方法を確認するのに役立ちます。
+title: プロジェクトのプランニングの基本を学ぶ
+description: プロジェクトの 5 つのメインコンポーネント、ステータスが示すもの、[!UICONTROL ビュー]を使用して関連情報を表示する方法、開始日または期日を設定する方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 335086.jpeg
@@ -12,19 +12,19 @@ kt: 8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プロジェクトの計画を開始する
+# プロジェクトのプランニングの基本を学ぶ
 
 このビデオでは、次のことを学習します。
 
-* プロジェクトの 5 つの主要なコンポーネント
-* 計画ステータスが示すもの
-* 方法 [!UICONTROL 表示] は、必要な情報を確認するのに役立ちます
-* 開始日または完了日の設定方法
+* プロジェクトの 5 つのメインコンポーネント
+* 「計画中」ステータスが示すもの
+* [!UICONTROL ビュー]を使用して必要な情報を表示する方法
+* 開始日または完了日を設定する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12)
