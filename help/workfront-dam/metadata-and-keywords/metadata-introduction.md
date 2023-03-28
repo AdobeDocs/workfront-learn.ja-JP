@@ -1,6 +1,6 @@
 ---
-title: のメタデータとキーワード [!UICONTROL Workfront DAM]
-description: 対象となる内容については、 [!UICONTROL Workfront DAM] 管理者、第 2 部メタデータとキーワードに関するコース
+title: '[!UICONTROL Workfront DAM] のメタデータとキーワード'
+description: '[!UICONTROL Workfront DAM] 管理者、第 2 部、メタデータとキーワードコースで取り上げる内容について説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,22 +11,22 @@ kt: 8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # メタデータとキーワード：コースの概要
 
-メタデータは、アセットの記述に使用されるすべてのデータです。 メタデータフィールドには名前が付けられており、ユーザーは、これらの多くのフィールドの情報を編集または変更できます。 一部のメタデータフィールドは、そのアセットの送信元のアプリケーションまたはデバイスによって入力され、編集できません。
+メタデータは、アセットの記述に使用されるすべてのデータです。メタデータフィールドには名前が付けられており、ユーザーは、多くのフィールドの情報を編集または変更することができます。一部のメタデータフィールドは、アセットの取得元のアプリケーションまたはデバイスによって入力されており、編集することができません。
 
-キーワードは、メタデータのサブセットです。 キーワードは、アセットの内容を説明する一般的な用語です。 この情報はアセットに追加されます。多くの場合、アップロード後に手動で追加します。
+キーワードは、メタデータのサブセットです。キーワードは、アセットのコンテンツに関する一般的な説明用語になる傾向があります。この情報は多くの場合、アップロード後に手動でアセットに追加されます。
 
-一貫性のあるメタデータとキーワードを使用すると、 [!UICONTROL Workfront DAM].
+一貫性のあるメタデータとキーワードを使用すると、[!UICONTROL Workfront DAM] でのアセットの検索性が向上します。
 
 このビデオでは、次の操作を実行します。
 
-* の概要 [!UICONTROL Workfront DAM] コース
+* [!UICONTROL Workfront DAM] コースの概要の確認
 
 >[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12)
