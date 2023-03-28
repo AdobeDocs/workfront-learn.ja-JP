@@ -1,6 +1,6 @@
 ---
 title: レポート設定について
-description: Workfrontのレポート設定にアクセスする方法と、一般的なレポート設定の用途について説明します。
+description: Workfront のレポート設定にアクセスする方法と、一般的なレポート設定の用途について説明します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,9 +12,9 @@ kt: 8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このビデオでは、次のことを学習します。
 
-* レポート設定へのアクセス方法
-* 使用される一般的なレポート設定
+* レポート設定にアクセスする方法
+* 一般的なレポート設定の用途
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12)
