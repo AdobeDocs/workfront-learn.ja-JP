@@ -1,6 +1,6 @@
 ---
-title: プロジェクトタイムラインの一部としての配達確認ワークフローについて
-description: 配達確認ワークフローを作成するために収集する情報、および配達確認の基本ワークフローと高度なワークフローの違いについて説明します。 [!DNL  Workfront].
+title: プロジェクトタイムラインの一部としてのプルーフワークフローについて
+description: プルーフワークフローを作成するために収集する情報と、 [!DNL  Workfront] でのプルーフの基本ワークフローと高度なワークフローの違いについて説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ kt: 8824
 exl-id: 8e8871a8-866e-4c9a-9f30-578d3b5639c5
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プロジェクトタイムラインの一部としての配達確認ワークフローについて
+# プロジェクトタイムラインの一部としてのプルーフワークフローについて
 
 このビデオでは、次のことを学習します。
 
-* 配達確認ワークフローを作成するために収集する情報
-* 基本ワークフローと高度な配達確認ワークフローの違い
+* プルーフワークフローを作成するために収集する情報
+* プルーフの基本ワークフローと高度なワークフローの違い
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12)
 
