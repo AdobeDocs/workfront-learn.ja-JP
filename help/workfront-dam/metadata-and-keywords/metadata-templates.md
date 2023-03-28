@@ -1,6 +1,6 @@
 ---
-title: でのメタデータテンプレートの設定 [!UICONTROL Workfront DAM]
-description: メタデータテンプレートを使用して時間を節約し、メタデータテンプレートを設定し、のフォルダーにテンプレートを適用する方法を説明します。 [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Workfront DAM] でのメタデータテンプレートの設定'
+description: メタデータテンプレートを使用して時間を節約する方法、メタデータテンプレートを設定する方法、[!UICONTROL Workfront DAM] のフォルダーにテンプレートを適用する方法について説明します。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ kt: 8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # メタデータとキーワード：メタデータテンプレート
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* メタデータテンプレートに伴う時間の節約
+* メタデータテンプレートを使用した時間の節約
 * メタデータテンプレートの設定
 * フォルダーへのテンプレートの適用
 
