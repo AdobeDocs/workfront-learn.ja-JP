@@ -1,25 +1,25 @@
 ---
-title: 作業承認の委任方法
-description: プロジェクト、タスク、問題およびタイムカードの承認を別のユーザーに委任する方法について説明します。
+title: 作業承認権限の委任方法
+description: プロジェクト、タスク、イシュー、タイムカードの承認を別のユーザーに委任する方法について説明します。
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8810
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 承認をから委任 [!DNL Home]
+# [!DNL Home] からの承認権限の委任
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 他のユーザーに承認を割り当て
-* デリゲーション期間を終了
-* 委任された承認の検索
+* 他のユーザーに承認を割り当てる
+* 委任期間を終了する
+* 委任された承認を検索する
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12)
 
