@@ -1,6 +1,6 @@
 ---
-title: Lightbox をダウンロードして共有する方法を説明します
-description: Brand Connect で Lightbox とアセットをダウンロードして共有する方法については、 [!UICONTROL Workfront DAM].
+title: ライトボックスのダウンロード方法と共有方法について学ぶ
+description: '[!UICONTROL Workfront DAM] の Brand Connect でのライトボックスとアセットのダウンロード方法と共有方法について説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ kt: 8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ブランドコネクト：Lightbox のダウンロードと共有方法
+# Brand Connect：ライトボックスのダウンロード方法と共有方法
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* Lightbox を Brand Connect ユーザーや外部の関係者と共有する
+* Brand Connect ユーザーまたは外部関係者とのライトボックスの共有
 * 1 つまたは複数のアセットのダウンロード
 
 >[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12)
