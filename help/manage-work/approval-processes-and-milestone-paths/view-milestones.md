@@ -1,6 +1,6 @@
 ---
 title: マイルストーンの表示
-description: マイルストーンを表示する方法については、 [!DNL  Workfront] プロジェクトに追加し、 [!UICONTROL プロジェクト] 領域
+description: ' [!DNL  Workfront]  プロジェクトでマイルストーンを表示する方法と、[!UICONTROL プロジェクト]エリアでマイルストーンビューを使用する方法について説明します。'
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -12,17 +12,17 @@ kt: 8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # マイルストーンの表示
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 特定のプロジェクトのマイルストーンを表示する
-* マイルストーン表示を読み取る [!UICONTROL プロジェクト] 領域
+* 特定のプロジェクトでマイルストーンを確認する
+* [!UICONTROL プロジェクト]エリアのマイルストーンビューを読み取る
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12)
