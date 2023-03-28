@@ -1,6 +1,6 @@
 ---
 title: レイアウトテンプレートを使用したレポートリストのカスタマイズ
-description: レイアウトテンプレートを使用して、レポートリストにフィルター、ビュー、およびグループを追加および削除する方法について説明します。
+description: レイアウトテンプレートを使用して、フィルター、ビュー、グループをレポートリストに追加および削除する方法について説明します。
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,45 +12,45 @@ kt: 8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # レイアウトテンプレートを使用したレポートリストのカスタマイズ
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
-* レイアウトテンプレート内のレポートリスト設定に移動します
-* フィルター、ビュー、およびグループを削除する
-* フィルター、ビュー、グループを追加する
+* レイアウトテンプレートのレポートリスト設定へのナビゲーション
+* フィルター、ビュー、グループの削除
+* フィルター、ビュー、グループ化の追加
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12)
 
-## リストのデフォルトを設定
+## リストのデフォルトの設定
 
-ユーザーにデフォルトのフィルター、表示、グループを設定すると、作業を迅速に進めるための重要な情報にユーザーがすばやくアクセスできるようになります。
+ユーザーにデフォルトのフィルター、ビュー、グループ化を設定すると、重要な情報に素早くアクセスできるようになり、作業をより迅速に進めることができます。
 
-システム管理者またはグループ管理者は、レイアウトテンプレートを使用してデフォルトのフィルター、表示、グループ化を設定することで、プロジェクト、タスク、問題などの一覧を見るときに最初に表示するユーザーを決定できます。
+システム管理者またはグループ管理者は、レイアウトテンプレートを使用してデフォルトのフィルター、ビュー、グループ化を設定することで、プロジェクト、タスク、イシューなどの一覧を参照するときに最初に表示するユーザーを決定できます。
 
-![レイアウトテンプレート [!UICONTROL リスト] window](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+![レイアウトテンプレート[!UICONTROL リスト]ウィンドウ](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
->デフォルトのフィルター、表示、グループ化を設定できますが、システムは固定であり、ユーザーが最後に使用したフィルター、表示、グループが表示されます。
+>デフォルトのフィルター、ビュー、グループ化を設定できますが、システムは固定であり、ユーザーが最後に使用したフィルター、ビュー、グループ化が表示されます。
 
 
 リストのデフォルトを設定する場合は、次のいずれかを実行できます。
 
-* 既に表示されているオプションの上にマウスポインターを置いて、 [!UICONTROL デフォルトとして設定].
+* 既にリストされているオプションの上にポインタを合わせ、「[!UICONTROL デフォルトとして設定]」をクリックします。
 
-![レイアウトテンプレート [!UICONTROL リスト] ～との窓 [!UICONTROL デフォルトとして設定] 表示](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+![[!UICONTROL デフォルトとして設定]が表示されたレイアウトテンプレート[!UICONTROL リスト]ウィンドウ](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
-* または、カスタムのフィルター、表示、グループ化を追加して、の横にあるチェックボックスをオンにします。 [!UICONTROL デフォルトを設定].
+* または、カスタムフィルター、ビュー、グループ化を追加して、[!UICONTROL デフォルトとして設定]の横にあるチェックボックスをオンにします。
 
-![[!UICONTROL 既存のビューを追加] window](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+![[!UICONTROL 既存のビューを追加]ウィンドウ](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-完了すると、 [!UICONTROL デフォルト] タグを使用します。
+完了すると、[!UICONTROL デフォルト]タグが表示されます。
 
-![[!UICONTROL デフォルト] タグをリストオプションの横に表示](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+![リストオプションの横にあるデフォルトタグ](assets/admin-fund-layout-template-default-lists-1-4.JPG)
