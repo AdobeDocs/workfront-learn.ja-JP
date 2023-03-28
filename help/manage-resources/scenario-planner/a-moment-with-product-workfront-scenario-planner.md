@@ -1,6 +1,6 @@
 ---
-title: の概要 [!DNL Scenario Planner]
-description: 詳しくは、 [!DNL Scenario Planner] は、お客様のビジネスの成果と意思決定を一致させるのに役立ちます。 ナビゲーション方法を学ぶ [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] の概要'
+description: お客様のビジネスの成果と意思決定を一致させる上で  [!DNL Scenario Planner]  がいかに役立つかを説明します。 [!DNL Scenario Planner] をナビゲートする方法を説明します。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,17 +11,17 @@ kt: 9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 製品に関する注意事項：の概要 [!DNL Scenario Planner]
+# 製品に関する重要性：[!DNL Scenario Planner] の概要 
 
 このビデオでは、次の操作を実行します。
 
-* ナビゲーションの概要 [!DNL Scenario Planner]
-* を [!DNL Scenario Planner] は、お客様のビジネスの成果と意思決定を一致させるのに役立ちます。
+* [!DNL Scenario Planner] のナビゲーションの概要を把握する
+* お客様のビジネスの成果と意思決定を一致させる上で [!DNL Scenario Planner] がいかに役立つかを理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12)
