@@ -1,6 +1,6 @@
 ---
-title: での割り当て済み作業のステータスの変更 [!UICONTROL ホーム]
-description: 割り当てのステータスを変更して、作業中であることを「 [!UICONTROL ホーム] ページ。 ステータスが重要な理由を [!DNL  Workfront].
+title: '[!UICONTROL ホーム]での割り当てられた作業のステータスの変更'
+description: '[!UICONTROL ホーム]ページから作業が処理中であることを示すように、割り当てのステータスを変更する方法について説明します。 [!DNL  Workfront]でステータスが重要な理由を理解します。'
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,30 +12,30 @@ kt: 8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 作業割り当てのステータスの変更 [!DNL Workfront] [!UICONTROL ホーム]
+# [!DNL Workfront] [!UICONTROL ホーム]での作業割り当てのステータスの変更
 
 このビデオでは、次のことを学習します。
 
-* のステータスの目的 [!DNL  Workfront]
+* [!DNL  Workfront] でのステータスの目的
 * 作業割り当てのステータスを変更する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12)
 
-## 開始と作業
+## 開始と作業対象
 
-現在、 [!UICONTROL ホーム]をクリックすると、次のようなボタンが表示される場合があります。 [!UICONTROL タスクを開始] または [!UICONTROL 問題の開始].
+[!UICONTROL ホーム]で作業割り当てを確認していると、「[!UICONTROL タスクを開始]」または「[!UICONTROL イシューを開始]」というボタンに気付くかもしれません。
 
-![[!DNL Workfront] [!UICONTROL ホーム] ボタンが表示されるページ [!UICONTROL タスクを開始].](assets/worker-fundamentals-1.png)
+![[!DNL Workfront]ボタンに「[!UICONTROL タスクを開始]」と表示されている[!UICONTROL ホーム]ページ。](assets/worker-fundamentals-1.png)
 
-クリック時 [!UICONTROL タスクを開始]をクリックすると、タスクのステータスが自動的に「処理中」（または組織内の同等のステータス）に変わります。
+「[!UICONTROL タスクを開始]」をクリックすると、タスクのステータスが自動的に処理中（または組織で同等のステータス）に変更されます。
 
-一部のチームでは、 [!UICONTROL 作業] ボタンを使用します。 この場合、割り当てを受け入れたが、まだ項目の作業を開始していないというメッセージが表示されます。 タスクのステータスは変わりません。
+一部のチームには、代わりに「[!UICONTROL 作業対象]」ボタンが表示される場合があります。この場合、割り当てを受け入れたが、まだ項目の作業を開始していないというメッセージが表示されます。タスクのステータスは変更されません。
 
 ボタンの名前と機能は、システム管理者またはグループ管理者と、組織のワークフローおよびプロセスによって決まります。
 
