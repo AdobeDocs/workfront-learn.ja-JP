@@ -1,24 +1,24 @@
 ---
 title: プロジェクトを作成する 4 つの方法
-description: このビデオでは、テンプレートからプロジェクトを作成し、プロジェクトをゼロから作成し、既存のプロジェクトをコピーし、Microsoftプロジェクトファイルをインポートする方法を説明します
+description: このビデオでは、テンプレートからのプロジェクトの作成、ゼロからのプロジェクトの作成、既存のプロジェクトのコピー、Microsoft Project ファイルのインポート方法を説明します
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 4 つのプロジェクトの作成方法
+# プロジェクトを作成する 4 つの方法
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
-* テンプレートからプロジェクトを作成する
-* プロジェクトをゼロから作成する
+* テンプレートからのプロジェクトの作成
+* ゼロからのプロジェクトの作成
 * 既存のプロジェクトのコピー
-* Microsoft Project ファイルの読み込み
+* Microsoft Project ファイルのインポート
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12)
