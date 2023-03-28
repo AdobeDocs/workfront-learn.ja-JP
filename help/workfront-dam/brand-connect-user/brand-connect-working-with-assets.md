@@ -1,6 +1,6 @@
 ---
 title: Brand Connect でアセットを操作する方法
-description: Brand Connect でアセットを表示する方法、およびアセットに関するデータ（内のメタデータやキーワードを含む）を表示する方法について説明します。 [!UICONTROL Workfront DAM].
+description: Brand Connect でアセットを表示する方法、および [!UICONTROL Workfront DAM] でメタデータやキーワードを含むアセットに関するデータを表示する方法について説明します。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,15 +11,15 @@ kt: 8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ブランドコネクト：アセットの操作
+# Brand Connect：アセットの操作
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * Brand Connect でのアセットの表示
 * メタデータやキーワードなど、アセットに関するデータの表示
