@@ -12,15 +12,15 @@ kt: 8878
 exl-id: ec3dd98e-4944-4d6a-9936-be83c390fa2e
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# で作業を割り当てる [!DNL Workload Balancer]
+# [!DNL Workload Balancer] での作業の割り当て
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * タスクの詳細を確認するには、タスクの概要パネルを表示します
 * 未割り当てタスクに割り当てを行う
