@@ -1,6 +1,6 @@
 ---
-title: Workfrontアプリのチュートリアル
-description: Workfrontアプリの様々な便利なトリガー、アクション、検索モジュールについて説明します。詳しくは、 [!DNL Adobe Workfront Fusion].
+title: Workfront アプリのチュートリアル
+description: ' [!DNL Adobe Workfront Fusion] の Workfront アプリの様々な便利なトリガー、アクション、検索モジュールについて説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,21 +11,21 @@ kt: 9056
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfrontアプリのチュートリアル
+# Workfront アプリのチュートリアル
 
-このビデオでは、次の点について学習します。
+このビデオでは、次のことについて説明します。
 
-* Workfrontアプリケーションで役に立つ様々なトリガー、アクション、検索モジュール
+* Workfront アプリの様々な便利なトリガー、アクション、検索モジュール
 
 >[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12)
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
