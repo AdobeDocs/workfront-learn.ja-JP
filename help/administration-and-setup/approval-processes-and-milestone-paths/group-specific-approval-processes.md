@@ -1,6 +1,6 @@
 ---
-title: グループ固有の承認プロセスの理解
-description: グループ管理者が管理するグループの承認プロセスを作成または編集する方法について説明します。
+title: グループ特有の承認プロセスについて
+description: グループ管理者が管理対象のグループの承認プロセスをどのように作成または編集できるかについて説明します。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,29 +10,29 @@ level: Intermediate
 kt: 10017
 exl-id: 138989b2-32d7-43e5-9660-d7b4172f232a
 source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# グループ固有の承認プロセスの理解
+# グループ特有の承認プロセスについて
 
-システム管理者とグループ管理者の両方が、 [!DNL Workfront]. システム管理者は、 [!DNL Workfront] 特定のグループのシステムまたはシステム。 グループ管理者は、管理対象のグループに対してのみ、プロセスを作成または編集できます。
+[!DNL Workfront] では、システム管理者とグループ管理者の両方が承認プロセスを作成できます。システム管理者は、[!DNL Workfront] システム全体で使用するプロセスや、特定のグループのみのプロセスを作成できます。グループ管理者は、管理対象のグループのプロセスのみを作成または編集できます。
 
-承認プロセスの場合： [!DNL Workfront]、 [!UICONTROL 「この承認プロセスは次のユーザーが使用できます」] フィールドが [!UICONTROL すべてのグループ].
+[!DNL Workfront] で全員が使用できる承認プロセスの場合、必ず「[!UICONTROL この承認の利用者]」フィールドを[!UICONTROL すべてのグループ]に設定してください。
 
-![[!UICONTROL 承認プロセスの編集] グループフィールドが強調表示されたウィンドウ](assets/admin-fund-approval-processes-1.png)
+![[!UICONTROL グループフィールドがハイライトされた承認プロセスを編集]ウィンドウ](assets/admin-fund-approval-processes-1.png)
 
-以下に示す [!UICONTROL ステータスがに設定されたら承認プロセスを開始します] メニューは、「使用者」フィールドでの選択に応じて異なります。 を使用 [!UICONTROL すべてのグループ] オンにした場合、システム全体でロックされたステータスのみを使用できます。
+「[!UICONTROL ステータスが次のように設定された場合、承認プロセスを開始]」で使用できるステータスは、「この承認の利用者」フィールドでの選択によって異なります。[!UICONTROL すべてのグループ]が選択されている場合、システム全体でロックされているステータスのみを使用できます。
 
-特定のグループの承認プロセスを制限するには、リストからそのグループの名前を選択し、 [!UICONTROL 「この承認プロセスは次のユーザーが使用できます」] フィールドに入力します。
+特定のグループの承認プロセスを制限するには、「[!UICONTROL この承認の利用者]」フィールドのリストからそのグループの名前を選択します。
 
-![[!UICONTROL 承認プロセスの編集] グループフィールドが展開されたウィンドウ](assets/admin-fund-approval-processes-2.png)
+![[!UICONTROL グループフィールドが展開された承認プロセスを編集]ウィンドウ](assets/admin-fund-approval-processes-2.png)
 
-この [!UICONTROL すべてのグループ] オプションは、グループ管理者は使用できません。
+[!UICONTROL すべてのグループ]オプションは、グループ管理者に対しては使用できません。
 
-特定のグループを選択すると、そのグループに対して使用可能なステータスのみが [!UICONTROL ステータスがに設定されたら承認プロセスを開始します] メニュー
+特定のグループが選択されている場合、そのグループに対して使用できるステータスのみが、「[!UICONTROL ステータスが次のように設定された場合、承認プロセスを開始]」に表示されます。
 
-![[!UICONTROL 承認プロセスの編集] ステータスフィールドが強調表示されたウィンドウ](assets/admin-fund-approval-processes-3.png)
+![[!UICONTROL ステータスフィールドがハイライトされた承認プロセスを編集]ウィンドウ](assets/admin-fund-approval-processes-3.png)
 
