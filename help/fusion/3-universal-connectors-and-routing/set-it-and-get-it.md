@@ -1,6 +1,6 @@
 ---
-title: 設定して取得
-description: 異なるパス間でデータを共有し、変数の設定と取得を使用する方法については、 [!DNL Adobe Workfront Fusion].
+title: 設定（Set）と取得（Get）
+description: 異なるパス間でのデータの共有や、Set 変数と Get 変数の使用を、 [!DNL Adobe Workfront Fusion] 内ですべて行う方法について説明します。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ kt: 9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 設定して取得
+# 設定（Set）と取得（Get）
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 異なるパス間でのデータの共有
-* Set および Get 変数の使用
+* 異なるパス間でデータを共有する
+* Set 変数と Get 変数を使用する
 
 >[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12)
