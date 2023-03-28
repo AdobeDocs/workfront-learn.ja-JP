@@ -1,6 +1,6 @@
 ---
-title: 基本的なマッピングチュートリアルを超える
-description: 以前作成したシナリオで、 [!DNL Adobe Workfront Fusion].
+title: 基本マッピングを超えるチュートリアル
+description: ' [!DNL Adobe Workfront Fusion] のマッピングパネル式を使用して、以前に作成したシナリオのいくつかのプロジェクトフィールドを変更します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,50 +11,50 @@ kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 基本的なマッピングチュートリアルを超える
+# 基本マッピングを超えるチュートリアル
 
 ## 概要
 
-マッピングパネルの数式を使用して、最初のチュートリアルで作成した「初期シナリオデザイン」から、プロジェクト名、計画開始日、優先度を変更します。
+マッピングパネル式を使用して、最初のチュートリアルで作成した「最初のシナリオデザイン」から、プロジェクト名、開始予定日、優先度を変更します。
 
-![Fusion シナリオのイメージ](assets/understand-the-basics-1.png)
+![Fusion シナリオの画像](assets/understand-the-basics-1.png)
 
-## 基本的なマッピングチュートリアルを超える
+## 基本マッピングを超えるチュートリアル
 
-Workfrontは、独自の環境で演習を再作成する前に、演習のチュートリアルのビデオを見ることをお勧めします。
+Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12)
 
 >[!TIP]
 >
->チュートリアルの完了手順については、 [基本的なマッピングチュートリアルを超える](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) 運動。
+>チュートリアルの実施手順については、「[基本マッピングを超える](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=ja)」の演習にアクセスしてください。
 
-## あなたのターン
+## やってみよう
 
 >[!NOTE]
 >
->練習の演習や課題は任意で、Fusion トレーニングを完了するのに必要ではありません。
+>練習の演習や課題は任意で、Fusion トレーニングを完了するのに必須ではありません。
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 
-完了した「基本マッピングを超えた」ウォークスルーのクローンを作成します。 次のチュートリアルでは、このシナリオを引き続き使用するので、この演習で変更する必要はありません。
+実施した「基本マッピングを超える」チュートリアルのクローンを作成します。このシナリオは次のチュートリアルでも引き続き使用するので、この演習で変更する必要はありません。
 
 前のチュートリアルの一部として作成した各プロジェクトにタスクを作成します。
 
-* タスク名として「（プロジェクトの色）プロジェクトの初期計画」を使用します。
-* 計画開始日をプロジェクトの計画開始日と同じに設定します。
-* 期間を 3 日に、期間のタイプを「計算された割り当て」に設定します。
-* 計画時間を信頼性評価の 10%（時間単位）に設定します。
-* タスクの制約をできるだけ早くにに設定します。
+* タスク名として「（プロジェクトカラー）プロジェクトの初期計画」を使用します。
+* 開始予定日をプロジェクトの開始予定日と同じ設定にします。
+* 期間を 3 日に、期間タイプを「予定割り当て時間」に設定します。
+* 予定時間数を時間単位で信頼性評価の 10% に設定します。
+* タスクの制約を「できるだけ早く」に設定します。
 
-**課題：** プロジェクトの色が赤の場合は、タスクを Rick Kuvec に割り当てます。 プロジェクトの色が黄色の場合は、タスクを Mary Smith に割り当てます。 プロジェクトの色が緑の場合は、タスクを Ida Blankenship に割り当てます。
+**課題：** プロジェクトカラーが赤の場合は、タスクを Rick Kuvec さんに割り当てます。プロジェクトカラーが黄色の場合は、タスクを Mary Smith さんに割り当てます。プロジェクトカラーが緑の場合は、タスクを Ida Blankenship さんに割り当てます。
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
