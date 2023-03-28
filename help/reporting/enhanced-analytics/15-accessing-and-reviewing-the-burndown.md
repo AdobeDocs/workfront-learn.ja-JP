@@ -12,7 +12,7 @@ kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
