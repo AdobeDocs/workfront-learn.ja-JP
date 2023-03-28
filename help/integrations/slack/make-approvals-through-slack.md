@@ -1,6 +1,6 @@
 ---
-title: を通じて承認をおこなう [!DNL Slack]
-description: 承認を通じてSlackする方法
+title: ' [!DNL Slack] 経由で承認する'
+description: Slack 経由で承認する方法を説明します
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ kt: 8819
 exl-id: abe86ef4-8090-44ca-bf4b-115c14e95515
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# を通じて承認をおこなう [!DNL Slack]
+# [!DNL Slack] 経由で承認する
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* を通じて承認をおこなう [!DNL Slack]
+* [!DNL Slack] 経由で承認する
 
 >[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12)
