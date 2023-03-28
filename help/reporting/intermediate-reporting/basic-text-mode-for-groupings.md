@@ -1,6 +1,6 @@
 ---
-title: グループ化の基本的なテキストモードを理解する
-description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontでのグループ化で使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
+title: グループ化の基本的なテキストモードについて
+description: テキストモードとキャメルケースの概要、および Workfront のグループ化で使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,13 +12,13 @@ kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# グループ化の基本的なテキストモードを理解する
+# グループ化の基本的なテキストモードについて
 
 >[!IMPORTANT]
 >
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 >[!TIP]
 >
->* テキストモードをより深く理解するために、録画されたウェビナーイベントを見ることをお勧めします [エキスパートへの質問 — テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)（長さ 1 時間）。
->* テキストモードの詳細については、 [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) チュートリアルは全部で 5 時間半です。
+>* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ja)」（所要時間：1 時間）の視聴をお勧めします。
+>* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
 
 
 このビデオでは、次のことを学習します。
 
-* テキストモード
-* ラクダの例とは
-* グループ化で使用できる基本的な「プラグアンドプレイ」テキストモード
+* テキストモードとは
+* キャメルケースとは
+* グループ化で使用できる基本的な「プラグ＆プレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## タスク — 4 親のグループ化
+## タスク - 4 つの親のグループ化
 
-次のテキストモードでは、最大 4 つのレベルの親に基づいてタスクをグループ化し、空白にない親を残します。
+次のテキストモードでは、最大 4 つ上の親のレベルに基づいてタスクをグループ化し、存在しない親を空白のままにします。
 
 ```
 textmode=true
@@ -57,18 +57,18 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![4 人の親でグループ化されたプロジェクトタスクを示す画面画像](assets/4-parents-grouping.png)
+![4 つ上の親でグループ化されたプロジェクトタスクを示す画面の画像](assets/4-parents-grouping.png)
 
 
-## タスク — 割合のグループ化
+## タスク - 完了率のグループ化
 
-次のテキストモードでは、完了率に基づいてタスクがグループ化されます。 タスクは、グループ化されると、次のカテゴリのいずれかに分類されます。
+次のテキストモードでは、完了率に基づいてタスクをグループ化します。 タスクはグループ化されると、次のカテゴリのいずれかに分類されます。
 
-* 0%
-* 1%～ 25%
-* 26%から 50%
-* 51%～75%
-* 76%～99%
+* 0％
+* 1～25％
+* 26～50％
+* 51～75％
+* 76～99％
 * 100%
 
 ```
@@ -79,11 +79,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![完了率でグループ化されたプロジェクトタスクを示す画面画像](assets/percent-complete-grouping.png)
+![完了率でグループ化されたプロジェクトタスクを示す画面の画像](assets/percent-complete-grouping.png)
 
-## タスク — statusEquatesWith、次に status
+## タスク - statusEquatesWith、ステータスの順
 
-次のテキストモードは、statusEquatesWith、次に status でタスクをグループ化します。
+次のテキストモードは、タスクを statusEquatesWith でグループ化してから、ステータスでグループ化します。
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -103,10 +103,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![statusEquatesWith でグループ化されたプロジェクトタスクを示す画面画像](assets/status-equates-with.png)
+![statusEquatesWith でグループ化されたプロジェクトタスクを示す画面の画像](assets/status-equates-with.png)
 
 
-## 配達確認の承認 — プロジェクト名でグループ化
+## プルーフの承認 - プロジェクト名でグループ化
 
 ```
 group.0.valueformat=HTML
@@ -114,5 +114,5 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![プロジェクト名でグループ化された、配達確認の承認を示す画面画像](assets/proof-approvals-grouped-by-project-name.png)
+![プロジェクト名でグループ化された、プルーフの承認を示す画面の画像](assets/proof-approvals-grouped-by-project-name.png)
 
