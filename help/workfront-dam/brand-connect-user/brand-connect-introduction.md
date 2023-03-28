@@ -1,6 +1,6 @@
 ---
-title: 詳細 [!UICONTROL Workfront DAM] と Brand Connect
-description: 詳細 [!UICONTROL Workfront DAM] と Brand Connect は、およびその使用方法です。
+title: '[!UICONTROL Workfront DAM] と Brand Connect について'
+description: '[!UICONTROL Workfront DAM] と Brand Connect の概要とその使用方法について説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,19 +11,19 @@ kt: 8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ブランドコネクト：はじめに
+# Brand Connect：概要
 
-[!UICONTROL Brand Connect] 次の [!UICONTROL Workfront DAM]：マーケティング、クリエイティブ、プロフェッショナルサービス、その他のアセットを管理、制御および公開するために作成されたデジタルアセット管理 (DAM) ソリューション。 用途 [!DNL Workfront] ：アセットリクエストを作成し、アセットの実稼動環境とレビュー環境を管理します。 を使用して、完了したアセットと承認済みアセットをキュレーション、保存および配布します。 [!UICONTROL Workfront DAM]. へのアセットの公開 [!UICONTROL Brand Connect] 適切なメッセージを適切なオーディエンスに提供し、その場所と方法を確認する。
+[!UICONTROL Brand Connect] は [!UICONTROL Workfront DAM] の一部であり、マーケティング、クリエイティブ、Professional Services などのアセットを管理、制御、公開するために作成されたデジタルアセット管理（DAM）ソリューションです。[!DNL Workfront] を使用してアセットリクエストを作成し、アセットの制作とレビューを管理します。[!UICONTROL Workfront DAM] を使用して、完成し承認されたアセットを調整、保存、配布します。アセットを [!UICONTROL Brand Connect] に公開して、適切なメッセージが適切な対象者に、必要な場所と方法で提供されるようにします。
 
 このビデオでは、次のことを学習します。
 
-* 説明 [!UICONTROL Workfront DAM] と Brand Connect
-* 方法 [!UICONTROL Brand Connect] が使用されています
+* [!UICONTROL Workfront DAM] と Brand Connect とは
+* [!UICONTROL Brand Connect] の使い方
 
 >[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12)
