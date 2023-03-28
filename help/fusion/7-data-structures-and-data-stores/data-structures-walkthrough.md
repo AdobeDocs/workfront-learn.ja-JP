@@ -1,6 +1,6 @@
 ---
 title: データ構造のチュートリアル
-description: 1 つのファイルから時間ログ情報を取得し、変換して、で変換されたデータを使用して新しいファイルを作成する方法を説明します。 [!DNL Adobe Workfront Fusion].
+description: 1 つのファイルから時間ログ情報を取得して変換し、変換されたデータを含む新しいファイルを  [!DNL Adobe Workfront Fusion] で生成する方法について説明します。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,21 +21,21 @@ ht-degree: 0%
 
 ## 概要
 
-時間エントリのリストを含む CSV ファイルを開きます。 これらの時間エントリは、複数のユーザーが特定の日を通じて記録する分数です。 目標は、この情報を取得し、新しい CSV を作成して、各ユーザーが毎日記録した合計時間（時間単位）を示すことです。
+時間エントリのリストを含む CSV ファイルを開きます。これらの時間エントリは、複数のユーザーによって特定の日にログ記録された分です。目標は、この情報を取得して、各ユーザーが毎日ログ記録した合計時間を時間単位で示す新しい CSV を作成することです。
 
-![Fusion シナリオのイメージ](assets/data-structures-and-data-stores-1.png)
+![Fusion シナリオの画像](assets/data-structures-and-data-stores-1.png)
 
 ## データ構造のチュートリアル
 
-Workfrontは、独自の環境で演習を再作成する前に、演習のチュートリアルのビデオを見ることをお勧めします。
+Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12)
 
 >[!TIP]
 >
->チュートリアルの完了手順については、 [データ構造のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=en) 運動。
+>チュートリアルを完了するための段階的な手順については、[データ構造のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=ja)演習にアクセスしてください。
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
