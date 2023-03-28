@@ -1,6 +1,6 @@
 ---
 title: 実行、サイクル、バンドルのチュートリアル
-description: 様々なシナリオ設定を使用して、の実行とサイクルを使用して調査する方法を説明します。 [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion] で様々なシナリオ設定を使用して、実行とサイクルを使用して探索する方法を説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ kt: 9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 実行とサイクルを使用して調べる様々なシナリオ設定を実習します。
 
-![実行とサイクルの設定のイメージ](assets/execution-history-and-scheduling-6.png)
+![実行とサイクルの設定の画像](assets/execution-history-and-scheduling-6.png)
 
 ## 実行、サイクル、バンドルのチュートリアル
 
-Workfrontは、独自の環境で演習を再作成する前に、演習のチュートリアルのビデオを見ることをお勧めします。
+Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12)
 
 >[!TIP]
 >
->チュートリアルの完了手順については、 [実行、サイクル、バンドルのチュートリアルの参照](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=en) 運動。
+>チュートリアルを完了するための段階的な手順については、「[実行、サイクル、バンドルのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=ja)」演習にアクセスしてください。
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
