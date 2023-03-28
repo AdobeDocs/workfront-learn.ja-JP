@@ -1,24 +1,24 @@
 ---
-title: リクエストをプロジェクトに変換する
-description: このビデオでは、リクエスト情報を確認し、適切なプロジェクトテンプレートを選択し、リクエストをプロジェクトに変換する方法を説明します。
+title: リクエストのプロジェクトへの変換
+description: このビデオでは、リクエスト情報の確認方法、適切なプロジェクトテンプレートの選択方法、リクエストからプロジェクトへの変換方法を説明します。
 topics: Project management
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# リクエストをプロジェクトに変換する
+# リクエストのプロジェクトへの変換
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
 * リクエスト情報の確認
-* 適切なプロジェクトテンプレートを選択
-* 要求をプロジェクトに変換する
+* 適切なプロジェクトテンプレートの選択
+* リクエストからプロジェクトへの変換
 
 >[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12)
