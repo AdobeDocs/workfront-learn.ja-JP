@@ -12,18 +12,18 @@ kt: 9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # リクエストからのプロジェクトの作成
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* リクエストと共に送信された情報を確認します
-* 適切なプロジェクトテンプレートを選択します。
-* リクエストからプロジェクトへの変換を完了する
+* リクエストで送信された情報を確認する
+* 適切なプロジェクトテンプレートを選択する
+* リクエストからプロジェクトへの変換を実施する
 
 >[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12)
