@@ -1,6 +1,6 @@
 ---
-title: 切り替え機能のチュートリアル
-description: Switch 関数を使用して、 [!DNL Adobe Workfront Fusion].
+title: switch 関数のチュートリアル
+description: switch 関数を使用して、 [!DNL Adobe Workfront Fusion] のモジュールフィールド内のある値を別の値に変換する方法を説明します。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,31 +11,31 @@ kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 切り替え機能のチュートリアル
+# switch 関数のチュートリアル
 
 ## 概要
 
-単純なデータ変更の場合は、 Switch 関数を使用して、モジュールフィールド内の値を別の値に変換します。 この練習では、2 文字のキーを、電子メールで送信されたプロジェクトの進捗状況ステータスの実際の名前に変更します。
+単純なデータ変更の場合は、スイッチ関数を使用して、モジュールフィールド内の値を別の値に変換します。この演習では、2 文字のキーを、メールで送信されたプロジェクトの進捗ステータスの実際の名前に変更します。
 
-![切り替え機能を使用した画像](assets/beyond-basic-modules-3.png)
+![switch 関数を使用した画像](assets/beyond-basic-modules-3.png)
 
-## 切り替え機能のチュートリアル
+## switch 関数のチュートリアル
 
-Workfrontは、独自の環境で演習を再作成する前に、演習のチュートリアルのビデオを見ることをお勧めします。
+Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12)
 
 >[!TIP]
 >
->チュートリアルの完了手順については、 [切り替え機能のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=en) 運動。
+>チュートリアルの実施手順については、[switch 関数のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=ja)にアクセスしてください。
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
