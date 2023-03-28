@@ -1,6 +1,6 @@
 ---
 title: Brand Connect のライトボックスの説明
-description: Brand Connect の [!UICONTROL Workfront DAM].
+description: '[!UICONTROL Workfront DAM] の Brand Connect でライトボックスを作成、使用、管理、共有、共同作業する方法について説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,24 +11,24 @@ kt: 8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ブランドコネクト：ライトボックス
+# Brand Connect：ライトボックス
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* Lightbox を使用したアセットの収集によるアクセスの容易化
-* Lightbox の作成とファイルの追加
-* Lightbox の共有
+* ライトボックスを使用してアセットをまとめ、アクセスを容易にする
+* ライトボックスの作成とファイルの追加
+* ライトボックスの共有
 * ライトボックスの監視と管理
-* Lightbox での共同作業
+* ライトボックスでの共同作業
 
 >[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12)
 
-## Lightbox とフォルダー
+## ライトボックスとフォルダー
 
-アセットの保存と整理に使用されるフォルダー。 Brand Connect にフォルダーを作成することはできません。 Lightbox を使用すると、様々なフォルダーから 1 か所にアセットへのリンクを収集できます。 例えば、Lightbox を使用して、冬物向け販売の広告資料に関連するアセットを収集できます。
+フォルダーは、アセットの保存と整理に使用します。Brand Connect では、フォルダーを作成できません。ライトボックスを使用すると、様々なフォルダーからアセットへのリンクを 1 か所に収集できます。例えば、ライトボックスを使用して、冬物向け販売の広告資料に関連するアセットを収集できます。
