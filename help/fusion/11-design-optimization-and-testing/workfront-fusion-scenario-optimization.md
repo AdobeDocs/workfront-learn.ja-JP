@@ -1,6 +1,6 @@
 ---
 title: Workfront Fusion シナリオの最適化
-description: の操作を少なくし、API 呼び出しを少なくし、使用するモジュールを少なくする方法を説明します。 [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion] で、操作を減らし、より少ない API 呼び出しを送信し、使用するモジュールを減らす方法について説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,28 +11,28 @@ kt: 9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Workfront Fusion シナリオの最適化
 
-「シナリオの最適化」とは何ですか？また、シナリオを最適化するには何をすればよいですか？
+「シナリオの最適化」とは何ですか？また、シナリオを最適化する方法を教えてください。
 
-シナリオの最適化は、開発に時間と専念を要する実践的なスキルです。 ビジネス成果のシナリオを構築しようとする最初の試みは、最後の試みではありません。 シナリオは、日 1 以降、統合が開始されるまで繰り返す必要があります。 立ち上げ後も、ビジネスや行動の変化に追いつくために、シナリオを一定期間にわたって確認し、更新する必要があります。
+シナリオの最適化とは、開発に時間と労力を要する実践的なスキルです。 ビジネス成果のシナリオを構築しようとする最初の試みは、最後ではありません。 1 日目から統合が開始されるまで、多数のシナリオを繰り返す必要があります。 立ち上げ後も、ビジネスや行動の変化に対応するために、シナリオを一定期間にわたって確認し、更新する必要があります。
 
-シナリオにはメンテナンスが必要です。 Workfront Fusion 開発者は、再構築、再構築、最適化をおこなう機会に対して、シナリオを定期的にレビューする必要があります。 Workfront Fusion のシナリオでは、定期的な注意、維持、メンテナンスが必要です。
+シナリオにはメンテナンスが必要です。 Workfront Fusion 開発者は、再構築、再編、最適化を行う機会に対して、シナリオを定期的にレビューする必要があります。 Workfront Fusion のシナリオでは、定期的な注意、維持、メンテナンスが必要です。
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * より少ない操作を実行
-* API 呼び出しの少ない送信
+* API 呼び出しの送信を減らす
 * 使用するモジュール数を減らす
 
 >[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12)
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
