@@ -1,6 +1,6 @@
 ---
 title: メタデータとキーワードの用語の確認
-description: メタデータとは何か、メタデータ戦略を策定する際に質問するべき質問などについては、 [!UICONTROL Workfront DAM].
+description: '[!UICONTROL Workfront DAM] で、メタデータに関してや、メタデータ戦略を策定する際に尋ねるべき質問などについて学びます。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ kt: 8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# メタデータとキーワード：用語を見直す
+# メタデータとキーワード：用語の確認
 
 このビデオでは、次のことを学習します。
 
-* メタデータとは何で、どこから来るのか
+* メタデータに関して、またその由来
 * メタデータ戦略を策定する際に尋ねる質問
 * キーワードとメタデータの違い
 * キーワード分類のメリット
