@@ -1,6 +1,6 @@
 ---
-title: での KPI について [!UICONTROL 分析の強化]
-description: 現在の状況や過去の傾向に関する KPI データから価値を得る方法を学びます。
+title: '[!UICONTROL Enhanced Analytics] での KPI について'
+description: 過去の傾向だけでなく、現在の状況に関する KPI データから価値を取得する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -12,13 +12,13 @@ kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# での KPI について [!UICONTROL 分析の強化]
+# [!UICONTROL Enhanced Analytics] での KPI について
 
 このビデオでは、次のことを学習します。
 
@@ -26,10 +26,10 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12)
 
-## KPI を比較
+## KPI の比較
 
-KPI は、現在の状況に関する貴重な情報を提供するだけでなく、時間の経過に伴うアクティビティの変化や、ポートフォリオ、プログラム、プロジェクト所有者、または使用するその他のフィルターの違いを比較する力をユーザーに提供します。
+KPI は、現在の状況に関する貴重な情報を提供するだけでなく、時間の経過に伴うアクティビティの変化や、ポートフォリオ、プログラム、プロジェクト所有者、または使用されているその他のフィルターの違いをユーザーが比較できるようにします。
 
 ![2 つのブラウザータブを並べて表示する画像](assets/section-2-0.png)
 
-例えば、2 つのブラウザータブで分析を取り込み、KPI を比較できます。
+例えば、2 つのブラウザータブに分析を取り込むと、KPI を比較できます。
