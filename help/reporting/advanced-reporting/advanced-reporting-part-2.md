@@ -1,6 +1,6 @@
 ---
-title: 高度なレポート作成パート 2
-description: テキストモードビューの詳細な調査、テキストモードの構造、計算されたカスタムデータ、計算された列に関する追加の詳細を理解します。
+title: 詳細レポート第 2 部
+description: テキストモードビュー、テキストモードの構造に関するその他の詳細、計算されたカスタムデータ、計算された列に関する詳細について説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -12,24 +12,24 @@ kt: 11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 高度なレポート作成パート 2
+# 詳細レポート第 2 部
 
 このビデオでは、次のことを学習します。
 
-* テキストモードビューの詳細なスタディ
-* テキストモードの構造に関する追加の詳細
-* 計算済みカスタムデータフィールドと計算列の作成方法
+* テキストモードビューの詳細
+* テキストモードの構造に関するその他の詳細
+* 計算されたカスタムデータフィールドと計算された列の作成方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12)
 
-## 便利なリンク
+## 役に立つリンク
 
-[[!UICONTROL API エクスプローラ]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL API エクスプローラー]](https://developer.adobe.com/workfront/api-explorer/)
 
 [高度なレポートマニュアル](/help/assets/advanced-reporting-manual.pdf)
