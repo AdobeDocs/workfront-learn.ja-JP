@@ -1,6 +1,6 @@
 ---
-title: 単一使用の承認プロセスの作成
-description: 単一使用の承認プロセスを [!DNL  Workfront].
+title: 1 回限りの承認プロセスの作成
+description: ' [!DNL  Workfront] でオブジェクトに対して 1 回限りの承認プロセスを作成する方法を説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335225.jpeg
@@ -12,15 +12,15 @@ kt: 8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 単一使用の承認プロセスの作成
+# 1 回限りの承認プロセスの作成
 
-このビデオでは、 [!DNL  Workfront].
+この動画では、[!DNL  Workfront] でオブジェクトに対して 1 回限りの承認プロセスを作成する方法を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12)
 
