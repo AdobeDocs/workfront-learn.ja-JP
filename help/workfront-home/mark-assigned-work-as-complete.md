@@ -1,6 +1,6 @@
 ---
-title: 割り当て済み作業を完了としてマーク ( ) [!UICONTROL ホーム]
-description: 割り当てられたタスクまたはタスクのステータスを変更し、タスクが完了したことを示す方法について、 [!UICONTROL 作業用リスト]. 次に、リストをフィルターして、完了した作業のみを表示します。
+title: '[!UICONTROL ホーム]で割り当てられた作業を完了としてマークする'
+description: '[!UICONTROL 作業リスト]から割り当てられたタスクまたはイシューのステータスを変更して、タスクやイシューが完了したことを示す方法について説明します。次に、リストをフィルターして、完了した作業のみを表示します。'
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ kt: 8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ステータスを使用して、作業が完了したことを示します。 [!DNL Workfront] [!UICONTROL ホーム]
+# [!DNL Workfront] の[!UICONTROL ホーム]でステータスを使用して、作業が完了したことを示します。
 
 このビデオでは、次のことを学習します。
 
-* 作業の進行状況をステータスと伝える方法
-* ステータスが [!DNL  Workfront]
-* フィルタリング方法 [!UICONTROL 作業用リスト] 完成した仕事を見る
+* 作業の進捗をステータスで伝える方法
+* [!DNL  Workfront] でステータスが重要な理由
+* [!UICONTROL 作業リスト]をフィルタリングして、完了した作業を表示する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12)
 
 
 ## 作業が完了したことを示す他の 2 つの方法
 
-* を [!UICONTROL ステータス] ドロップダウンメニューから「完了」を選択します。
-* を更新します。 [!UICONTROL 完了率] を 100%に設定します。 これにより、ステータスが自動的に「完了」に変わります。
+* 「[!UICONTROL ステータス]」ドロップダウンメニューを「完了」に変更します。
+* [!UICONTROL 完了率]を 100％に更新します。すると、ステータスが自動的に「完了」に変わります。
 
 <!---
 learn more URLs
