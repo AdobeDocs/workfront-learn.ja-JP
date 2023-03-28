@@ -1,6 +1,6 @@
 ---
-title: 左/右の式を作成
-description: Adobeの計算フィールドで LEFT/RIGHT 式を使用する方法を説明します [!DNL Workfront].
+title: LEFT／RIGHT 式の作成
+description: Adobe [!DNL Workfront] の計算フィールドで LEFT／RIGHT 式を使用する方法を説明します。
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -12,17 +12,17 @@ kt: 8885
 exl-id: 6d0ad842-e354-465c-8b9c-88eb75d47fbc
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 左/右の式を作成
+# LEFT／RIGHT 式の作成
 
 このビデオでは、次のことを学習します。
 
-* LEFT/RIGHT 式の機能
-* 計算フィールドで左/右のテキスト式を使用する方法
+* LEFT／RIGHT 式の概要
+* 計算フィールドでの LEFT／RIGHT テキスト式の使い方
 
 >[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12)
