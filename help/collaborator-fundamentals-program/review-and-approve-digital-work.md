@@ -1,26 +1,26 @@
 ---
-title: デジタル作業の確認と承認方法
-description: プロジェクト、タスク、タスク、問題、ドキュメント、配達確認を検索して承認する方法を説明します。
+title: デジタル作品のレビューおよび承認方法
+description: プロジェクト、タスク、イシュー、ドキュメント、プルーフを探し、承認を行う方法を説明します。
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8808
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# デジタル作業の確認と承認
+# デジタル作品のレビューと承認
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 承認を検索
-* プロジェクト、タスク、問題に対する承認を行う
+* 承認を見つける
+* プロジェクト、タスク、イシューの承認を行う
 * ドキュメントの承認を行う
-* 配達確認の承認を行う
+* プルーフの承認を行う
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
 
