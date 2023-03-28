@@ -1,6 +1,6 @@
 ---
 title: レポートコンポーネントについて
-description: レポートの主な要素と、Workfrontのレポート要素での使用方法について説明します。
+description: レポートの主なコンポーネントと、Workfront のレポート要素での使用方法について説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -12,9 +12,9 @@ kt: 8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このビデオでは、次のことを学習します。
 
-* Workfrontレポートの主な構成要素
+* Workfront のレポートの主なコンポーネント
 * レポート要素でのこれらのコンポーネントの使用方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12)
