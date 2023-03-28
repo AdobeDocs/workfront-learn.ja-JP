@@ -1,6 +1,6 @@
 ---
-title: プロジェクトのタイムラインを理解する
-description: 開始日または完了日からプロジェクトをスケジュールする方法を説明します。 次に、期間、先行タスク、タスクの制約がプロジェクト計画に与える影響を学びます。
+title: プロジェクトタイムラインについて
+description: 開始日または完了日からプロジェクトをスケジュールする方法を説明します。 次に、期間、先行タスク、タスクの制約がプロジェクトプランに与える影響を説明します。
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -12,15 +12,15 @@ kt: 8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プロジェクトのタイムラインを理解する
+# プロジェクトタイムラインについて
 
-このビデオでは、次の点について学習します。
+このビデオでは、次のことについて説明します。
 
 * 基本的なプロジェクトタイムライン管理
 * 開始日または完了日からのプロジェクトのスケジュール
