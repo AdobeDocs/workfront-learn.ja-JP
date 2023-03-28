@@ -1,6 +1,6 @@
 ---
 title: レイアウトテンプレートを使用したメインメニューのカスタマイズ
-description: このビデオでは、 [!UICONTROL メインメニュー] レイアウトテンプレートを使用します。
+description: このビデオでは、レイアウトテンプレートを使用した[!UICONTROL メインメニュー]のカスタマイズ方法を説明します。
 topic: null
 activity: deploy
 doc-type: feature video
@@ -9,19 +9,19 @@ kt: Jira ticket
 role: Admin
 thumbnail: 335073.jpeg
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# のカスタマイズ [!UICONTROL メインメニュー] レイアウトテンプレートを使用
+# レイアウトテンプレートを使用した[!UICONTROL メインメニュー]のカスタマイズ
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
-* 設定 [!UICONTROL メインメニュー]
-* 項目を [!UICONTROL メインメニュー]
-* 項目を [!UICONTROL メインメニュー]
+* [!UICONTROL メインメニュー]の設定
+* [!UICONTROL メインメニュー]からの項目の削除
+* [!UICONTROL メインメニュー]への項目の追加
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12)
