@@ -1,6 +1,6 @@
 ---
-title: 高度なレポート作成パート 1
-description: レポート作成の概要と概要について [!UICONTROL API エクスプローラー] とテキストモード、およびテキストモードフィルタの詳細なスタディ。
+title: 詳細レポート第 1 部
+description: レポート作成の復習、[!UICONTROL API エクスプローラー]とテキストモードの紹介、テキストモードフィルターの詳細について確認します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -12,24 +12,24 @@ kt: 11196
 exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 高度なレポート作成パート 1
+# 詳細レポート第 1 部
 
 このビデオでは、次のことを学習します。
 
-* レポート作成のレビュー
+* レポート作成の復習
 * API エクスプローラーとテキストモードの使用方法
-* テキストモードフィルタの詳細な調査
+* テキストモードフィルターの詳細
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12)
 
-## 便利なリンク
+## 役に立つリンク
 
-[[!UICONTROL API エクスプローラ]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL API エクスプローラー]](https://developer.adobe.com/workfront/api-explorer/)
 
 [高度なレポートマニュアル](/help/assets/advanced-reporting-manual.pdf)
