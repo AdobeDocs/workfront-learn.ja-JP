@@ -1,6 +1,6 @@
 ---
-title: 配達確認コメントを確認して返信
-description: 配達確認ビューアおよび [!UICONTROL 更新] セクション [!DNL  Workfront].
+title: プルーフコメントを確認して返信する
+description: プルーフビューアおよび  [!DNL  Workfront] の[!UICONTROL 更新]セクションから、プルーフコメントを表示して応答する方法を学びます。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ kt: 8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 配達確認コメントを確認して返信
+# プルーフコメントを確認して返信する
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 配達確認ビューアでコメントを表示し、返信する
-* で配達確認コメントを表示 [!UICONTROL 更新] セクション
-* 次からの配達確認コメントに応答 [!UICONTROL 更新] セクション
+* プルーフビューアでコメントを表示して返信する
+* 「[!UICONTROL 更新]」セクションでプルーフコメントを表示する
+* 「[!UICONTROL 更新]」セクションからのプルーフコメントに返信する
 
 >[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12)
