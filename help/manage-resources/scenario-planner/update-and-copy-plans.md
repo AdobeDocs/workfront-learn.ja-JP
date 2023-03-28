@@ -1,6 +1,6 @@
 ---
-title: のプランの更新とコピー [!DNL Scenario Planner]
-description: プランを更新する方法、または [!DNL  Workfront] [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] でのプランの更新とコピー'
+description: ' [!DNL  Workfront] [!DNL Scenario Planner] でプランの更新やコピーを行う方法を説明します。'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ kt: 9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # プランの更新とコピー
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* でのプランの更新 [!DNL Scenario Planner]
-* プランを [!DNL Scenario Planner]
+* [!DNL Scenario Planner] でプランを更新する
+* [!DNL Scenario Planner] でプランをコピーする
 
 >[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12)
