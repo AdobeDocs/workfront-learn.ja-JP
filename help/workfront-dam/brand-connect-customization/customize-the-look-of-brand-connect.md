@@ -1,6 +1,6 @@
 ---
-title: 外観のカスタマイズ [!UICONTROL Brand Connect]
-description: 詳細 [!UICONTROL Brand Connect] は、およびにアクセスする方法で使用されます [!UICONTROL Brand Connect] 設定 [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Brand Connect] の外観のカスタマイズ'
+description: '[!UICONTROL Brand Connect] の使用目的と [!UICONTROL Workfront DAM] での [!UICONTROL Brand Connect] へのアクセス方法について説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ kt: 8979
 exl-id: 97b51b63-0ad3-4751-aed8-afc77a9560bc
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 外観のカスタマイズ [!UICONTROL Brand Connect]
+# [!UICONTROL Brand Connect] の外観のカスタマイズ
 
 このビデオでは、次のことを学習します。
 
-* What [!UICONTROL Brand Connect] は次の場合に使用されます。
-* アクセス方法 [!UICONTROL Brand Connect] 設定 [!UICONTROL Workfront DAM]
+* [!UICONTROL Brand Connect] の使用目的
+* [!UICONTROL Workfront DAM] における [!UICONTROL Brand Connect] 設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12)
