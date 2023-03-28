@@ -1,6 +1,6 @@
 ---
-title: 切り替えろ！
-description: スイッチ機能とスイッチモジュールの概要、およびスイッチ機能とスイッチモジュールを使用するタイミングについては、 [!DNL Adobe Workfront Fusion].
+title: スイッチでの切り替え
+description: ' [!DNL Adobe Workfront Fusion] の switch 関数とスイッチモジュールの概要、およびスイッチ機能とスイッチモジュールの使い分けについて説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ kt: 9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 切り替えろ！
+# スイッチでの切り替え
 
 このビデオでは、次のことを学習します。
 
-* スイッチの機能とモジュールの概要と相違点
-* スイッチモジュールとスイッチ機能を使用する場合
+* switch 関数とモジュールの概要と相違点
+* スイッチモジュールと switch 機能の使い分け
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12)
