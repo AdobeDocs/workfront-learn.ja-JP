@@ -1,6 +1,6 @@
 ---
 title: ユニバーサルコネクタの演習の概要
-description: ユニバーサルコネクタの機能を活用し、外部 API に接続し、配列から情報を抽出する方法を、 [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion] で、ユニバーサルコネクタの機能を利用する方法、外部 API に接続する方法、配列から情報を抽出する方法を説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,18 +11,18 @@ kt: 9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # ユニバーサルコネクタの演習の概要
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* ユニバーサルコネクタの機能を活用
-* 外部 API への接続
-* 数式エディターを使用して、配列から情報を抽出します。
+* ユニバーサルコネクタの機能を利用する方法
+* 外部 API に接続する方法
+* 式エディターを使用して、配列から情報を抽出する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12)
