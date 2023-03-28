@@ -1,6 +1,6 @@
 ---
-title: 次に移動： [!UICONTROL パルス] のストリームを更新 [!DNL Goals]
-description: ページの [!UICONTROL パルス] [!DNL Gools] のストリームを更新します。
+title: ' [!DNL Goals] で [!UICONTROL Pulse] の更新ストリームを操作する'
+description: '[!DNL Goals] で [!UICONTROL Pulse] 更新ストリームを操作する方法を説明します。'
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 次に移動： [!UICONTROL パルス] ストリームを更新
+# [!UICONTROL Pulse] の更新ストリームを操作する
 
-以下を使用： [!UICONTROL パルス] の節を参照して、目標の進行状況に影響を与える可能性のある目標（一致した目標とその結果またはアクティビティを含む）の確認と更新のリクエストをおこないます。 自分、チーム、グループまたは組織に属する目標を指定できます。
+[!UICONTROL Pulse] セクションを使用して、目標の進捗に影響を与える可能性のある、目標の更新を確認してリクエストします。これには、関連付けられた目標とその結果または活動が含まれます。自分、自分のチーム、グループ、組織に属する目標を指定できます。
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* 次に移動： [!UICONTROL パルス] ストリームを更新
+* [!UICONTROL Pulse] の更新ストリームを操作する
 
 >[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12)
