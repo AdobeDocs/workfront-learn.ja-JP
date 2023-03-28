@@ -1,6 +1,6 @@
 ---
-title: でプラン情報を更新 [!DNL Scenario Planner]
-description: プランまたはイニシアチブを [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] での計画情報の更新'
+description: ' [!DNL Scenario Planner] で計画またはイニシアチブを作成した後で、担当業務、予算またはコスト情報を変更または更新する方法を説明します。'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ kt: 9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
 source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ジョブの役割、予算、およびコスト情報を [!DNL Scenario Planner]
+# [!DNL Scenario Planner] での担当業務、予算およびコスト情報の調整
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
-* プランまたはイニシアチブに対するジョブの役割の追加または削除
+* 計画またはイニシアチブへの担当業務の追加または削除
 * 予算情報の調整
 * コスト情報の調整
 
