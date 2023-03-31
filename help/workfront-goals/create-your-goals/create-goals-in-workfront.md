@@ -10,10 +10,10 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
-ht-degree: 77%
+source-wordcount: '886'
+ht-degree: 76%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 77%
 
    ![[!DNL Workfront Goals] の[!UICONTROL 目標の詳細]パネルと[!UICONTROL コピー]オプションの画像](assets/03-workfront-goals-copy-a-goal.png)
 
-1. 「**[!UICONTROL アクティベート]**」をクリックすると、目標のステータスが「アクティブ」に更新されます。 目標を「アクティベート」するには、目標にアクティビティまたは結果が関連付けられている必要があります。
+1. 3 ドットアイコンをクリックし、「  **[!UICONTROL 有効化]**：目標のステータスを「アクティブ」に更新します。 目標を「アクティベート」するには、目標にアクティビティまたは結果が関連付けられている必要があります。
 
 前の期間に完了していない目標をコピーし、次の期間にその目標を引き続き使用する場合は、次の手順を実行します。
 
