@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 「進行中のタスク」チャート内から更新を行う方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on)

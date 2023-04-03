@@ -1,6 +1,6 @@
 ---
 title: レイアウトテンプレートへのアクセス権の割り当てと管理
-description: このビデオでは、レイアウトテンプレートをユーザーに割り当て、アクセスを管理できるユーザーを制御する方法について説明します。
+description: このビデオでは、ユーザーへのレイアウトテンプレートの割り当て方法や、アクセス権を管理できるユーザーの制御方法を説明します。
 topic: Administration
 activity: deploy
 doc-type: feature video
@@ -9,8 +9,8 @@ kt: Jira ticket
 role: Admin
 level: Beginner
 thumbnail: 335081.jpeg
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
@@ -18,10 +18,10 @@ ht-degree: 100%
 
 # レイアウトテンプレートへのアクセス権の割り当てと管理
 
-このビデオでは、次の方法を学習します：
+このビデオでは、以下の方法を説明します。
 
-* 割り当てに移動する
-* レイアウトテンプレートをユーザー、グループまたはチームに割り当てる
-* アクセスを管理できるユーザーを制御する
+* 割り当てへのナビゲーション
+* ユーザー、グループまたはチームへのレイアウトテンプレートの割り当て
+* アクセス権を管理できるユーザーの制御
 
->[!VIDEO](https://video.tv.adobe.com/v/MPC#/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/MPC#/?quality=12&learn=on)

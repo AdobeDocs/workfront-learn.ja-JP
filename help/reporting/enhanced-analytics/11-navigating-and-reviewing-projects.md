@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * フライトプランチャートの読み方
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on)
 
 ## フライトプランチャート
 

@@ -11,7 +11,7 @@ thumbnail: 335144.png
 kt: 8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ビデオにタイムスタンプ付きのコメントを追加する
 * ビューア設定を調整する
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on)
 
 <!--
 ## Learn more

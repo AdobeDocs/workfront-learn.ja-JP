@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * Brand Connect ユーザーまたは外部関係者とのライトボックスの共有
 * 1 つまたは複数のアセットのダウンロード
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on)

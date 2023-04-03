@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 100%
@@ -42,7 +42,7 @@ ht-degree: 100%
 * キャメルケースとは
 * レポートフィルターで使用できる基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 
 ## タスク -「自分の担当部分を完了」とマークしたタスクをフィルタリングで除外します

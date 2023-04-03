@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 76%
@@ -36,7 +36,7 @@ ht-degree: 76%
 
 * [!UICONTROL 目標リスト]セクションをナビゲートして新しい目標を追加する
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## 既存の目標をコピーする
 
@@ -94,5 +94,5 @@ ht-degree: 76%
 
 * アクティビティを追加し、整列した目標に変換する
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 

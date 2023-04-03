@@ -10,16 +10,16 @@ team: Technical Marketing
 kt: 8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # システム設定：グループとユーザー
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
 * グループ設定がアセットへのアクセスに与える影響について
 * 特定の順序でフォルダ、グループ、ユーザーを作成する
@@ -28,7 +28,7 @@ ht-degree: 0%
 * グループの作成と編集
 * ユーザーの追加と編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
 
 ## グループとユーザーのレビュー
 

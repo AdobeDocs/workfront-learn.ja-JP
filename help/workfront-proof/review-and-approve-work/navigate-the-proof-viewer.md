@@ -1,5 +1,5 @@
 ---
-title: 配達確認ビューアに移動
+title: プルーフビューアの移動
 description: 配達確認の移動、コンテンツのズームイン/ズームアウト、サムネール列の使用、配達確認のコメントのフィルターなどを [!DNL  Workfront] 校正ビューア
 activity: use
 feature: Workfront Proof
@@ -11,23 +11,23 @@ thumbnail: 335140.png
 kt: 8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# 配達確認ビューアに移動
+# プルーフビューアの移動
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
 * 配達確認の移動とコンテンツの拡大/縮小
 * 「サムネール」列を使用した配達確認のページのプレビューと移動
 * コメント列をフィルター
 * 配達確認を閉じる
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)
 
 <!-- 
 ## Learn more

@@ -11,7 +11,7 @@ thumbnail: 335162.png
 kt: 8874
 exl-id: 5a9ea239-9f20-4ccc-9fc3-8a7e21178664
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * リソース管理ツールを最適化する方法（期間、予定日、予定時間数、担当業務の割り当て）
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on)

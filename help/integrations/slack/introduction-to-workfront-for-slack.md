@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * その他の [!DNL Workfront] for [!DNL Slack] のビデオから学ぶ概要を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)

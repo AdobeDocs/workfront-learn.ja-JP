@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * KPI データから値を取得する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on)
 
 ## KPI の比較
 

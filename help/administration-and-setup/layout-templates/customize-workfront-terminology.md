@@ -11,7 +11,7 @@ thumbnail: 335074.jpeg
 kt: 8761
 exl-id: fc8f31ae-61f8-4705-9cc4-18068bc25fc9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 このビデオでは、レイアウトテンプレートを使用して用語を設定する方法を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on)

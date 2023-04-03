@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * 今後および既存の作業割り当ての検索
 * 割り当て情報のレビュー
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

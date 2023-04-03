@@ -11,7 +11,7 @@ thumbnail: 336094.png
 kt: 8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 100%
@@ -32,7 +32,7 @@ ht-degree: 100%
 * 委任期間を終了する
 * 委任された承認を検索する
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
 <!---
 learn more URLS

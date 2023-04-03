@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 通知設定の変更
 * アドレス帳の作成
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on)

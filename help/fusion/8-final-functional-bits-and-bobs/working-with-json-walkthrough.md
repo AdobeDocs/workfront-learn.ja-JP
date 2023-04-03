@@ -10,7 +10,7 @@ level: Beginner
 kt: 9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
@@ -33,7 +33,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 * シナリオ内で JSON を作成および解析して、デザインのニーズに応えます
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
 
 >[!TIP]
 >

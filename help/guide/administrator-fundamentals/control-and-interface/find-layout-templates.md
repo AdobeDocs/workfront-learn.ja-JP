@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 * レイアウトテンプレートとは
 * レイアウトテンプレートが役立つ理由
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)

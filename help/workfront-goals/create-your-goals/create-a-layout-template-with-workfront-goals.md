@@ -10,10 +10,10 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 内 **[!UICONTROL 設定]** 領域には、 [!DNL Workfront Goals] したがって、ユーザーとユーザーは、より簡単にアクセスできます。
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
 * レイアウトテンプレートの作成
 * レイアウトテンプレートをユーザーに割り当てる
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 変更 [!DNL Goals] 組織に合った用語
 * 追加 [!DNL Goals] から [!DNL Workfront] [!UICONTROL メインメニュー]
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
 <!--
 Learn more graphic

@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * ライセンスタイプに応じたアクセスレベルを編集する
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
 システム管理者は、Workfront の&#x200B;**[!UICONTROL 設定]**&#x200B;エリアを通じて、使用された [!DNL Workfront Goals] のライセンス数を追跡できます。
 

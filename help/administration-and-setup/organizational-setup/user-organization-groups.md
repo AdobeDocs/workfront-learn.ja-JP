@@ -11,7 +11,7 @@ thumbnail: 335070.png
 kt: 8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * グループを関連付ける
 * サブグループを作成して関連付ける
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on)
 
 ## グループ管理者
 

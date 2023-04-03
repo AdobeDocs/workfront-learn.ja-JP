@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * ビューの条件付き書式とは
 * 条件付き書式の作成および変更方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 ## アクティビティ：ビューに条件付き書式を追加
 

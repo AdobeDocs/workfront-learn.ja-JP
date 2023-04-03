@@ -11,7 +11,7 @@ thumbnail: 335103.png
 kt: 8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ログインしている時間の値
 * 作業の割り当てに関する時間の記録方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
 
 ## [!DNL Home] での作業時間を記録するためのヒント
 

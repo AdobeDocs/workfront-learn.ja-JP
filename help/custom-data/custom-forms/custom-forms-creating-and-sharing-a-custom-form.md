@@ -11,7 +11,7 @@ thumbnail: 335172.png
 kt: 8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * セクションとロジックを使用したフィールドの整理
 * 他のユーザーとのフォームの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)
 
 ## カスタムフォームが複数のオブジェクトタイプで動作する
 

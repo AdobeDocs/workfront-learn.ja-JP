@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * Workfront のレポートの主なコンポーネント
 * レポート要素でのこれらのコンポーネントの使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)

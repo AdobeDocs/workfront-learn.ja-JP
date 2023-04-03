@@ -11,7 +11,7 @@ thumbnail: 335156.png
 kt: 8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * マトリックスレポートが役立つ場面
 * マトリックスレポートの作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## アクティビティ：マトリックスレポートの作成
 

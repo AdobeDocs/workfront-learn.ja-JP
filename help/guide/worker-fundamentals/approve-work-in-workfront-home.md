@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 335105.png
 kt: Jira ticket
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 * 作業を承認または却下
 * プルーフの確認
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on)

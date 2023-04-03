@@ -5,19 +5,19 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # 家庭での仕事についてのコミュニケーション
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
 * 作業割り当ての更新を通じてコミュニケーション
 * Workfrontの更新でのユーザーのタグ付け
 * 既存の更新に返信
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)

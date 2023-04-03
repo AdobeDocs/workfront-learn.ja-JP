@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 期間と先行タスクを使用してタイムラインを作成する方法
 * 先行タスクの変更または入力方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
 <!---
 Learn more urls

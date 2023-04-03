@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 100%
@@ -42,7 +42,7 @@ ht-degree: 100%
 * キャメルケースとは
 * ビューで使用できる基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## タスク - 4 つ上の親のビュー
 

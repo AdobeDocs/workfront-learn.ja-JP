@@ -11,23 +11,23 @@ team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 50%
 
 ---
 
 # 電子メールのレビューと作業の承認
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
-* で承認を検索 [!DNL  Workfront]
-* プロジェクト、タスク、問題に対する承認を行う
+* 承認を見つける[!DNL  Workfront] の 
+* プロジェクト、タスク、イシューの承認を行う
 * ドキュメントの承認を行う
-* 配達確認の承認を行う
+* プルーフの承認を行う
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 <!---
 learn more URLS

@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 * 職務を横断するチームの使用方法
 * チームの作成と関連付けの方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on)

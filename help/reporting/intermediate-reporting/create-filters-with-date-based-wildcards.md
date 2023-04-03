@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * ワイルドカード、属性、演算子、修飾子を使用してカスタム日付を作成する
 * ワイルドカードを使用してカスタムの日付範囲を作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 ## アクティビティの設問
 

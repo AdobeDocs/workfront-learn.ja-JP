@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
@@ -27,4 +27,4 @@ ht-degree: 100%
 * ダウンロードに関するルールの作成
 * レポートと監査ログの表示
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on)

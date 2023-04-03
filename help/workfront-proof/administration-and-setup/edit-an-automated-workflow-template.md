@@ -11,7 +11,7 @@ thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 100%
@@ -46,7 +46,7 @@ Lean More URLs
 
 このビデオでは、[!UICONTROL ワークフロー]エリアで実行できる変更のいくつかを簡潔に実演します。このビデオの下にある箇条書きリストを参照してください。このビデオでは、これらの設定を確認します。このビデオにはオーディオがありません。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 確認として、「[!UICONTROL ワークフロー]」セクションで実行できるプルーフテンプレートの変更は次の通りです。
 

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * プロジェクトの作業を監視する際に確認すべき内容
 * プロジェクトマネージャーとしての役割
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
 ## プロジェクトの管理 - レビュー
 

@@ -10,7 +10,7 @@ level: Beginner
 kt: 8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 手順 2：これらのファイルを Workfront のフォルダーにアップロードする方法について、ビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)

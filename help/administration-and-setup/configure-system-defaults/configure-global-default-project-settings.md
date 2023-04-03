@@ -11,26 +11,26 @@ thumbnail: 335065.png
 kt: 8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# グローバル既定のプロジェクト設定を構成する
+# グローバルなデフォルトのプロジェクト設定の指定
 
 <!---
 21.4 updates have been made
 --->
 
-このビデオでは、次の方法を学習します。
+このビデオでは、次の方法を学習します：
 
 * カスタムステータスの変更
 * グローバルプロジェクト環境設定の指定
 * スケジュールの作成と使用
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on)
 
 ## プロジェクト、タスク、問題の設定をグローバルおよびグループ化します
 

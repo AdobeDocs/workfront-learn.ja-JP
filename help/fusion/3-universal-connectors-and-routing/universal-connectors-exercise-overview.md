@@ -10,7 +10,7 @@ level: Beginner
 kt: 9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 外部 API に接続する方法
 * 式エディターを使用して、配列から情報を抽出する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on)

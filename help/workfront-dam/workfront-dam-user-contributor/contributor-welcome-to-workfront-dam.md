@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8991
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * このコースで学習する内容
 * [!UICONTROL Workfront DAM] の概要と使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on)

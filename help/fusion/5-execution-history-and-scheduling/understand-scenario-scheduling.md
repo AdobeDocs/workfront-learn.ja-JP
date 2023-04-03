@@ -10,7 +10,7 @@ level: Beginner
 kt: 9043
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * Workfront Fusion のシナリオのスケジュール、サイクル、実行
 
->[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on)

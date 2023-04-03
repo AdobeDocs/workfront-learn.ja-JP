@@ -6,8 +6,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: User
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 * カスタムフォームをオブジェクトへ添付
 * カスタムフィールドをレポートへ追加
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on)

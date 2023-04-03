@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 * 会社の定義
 * 会社と関連団体の作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on)

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 特定のプロジェクトでマイルストーンを確認する
 * [!UICONTROL プロジェクト]エリアのマイルストーンビューを読み取る
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)

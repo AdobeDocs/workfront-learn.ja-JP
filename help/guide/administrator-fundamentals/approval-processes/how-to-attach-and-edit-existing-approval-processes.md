@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: User
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 * 既存の承認プロセスの使用
 * 特定のプロジェクト、タスクまたは問題用に既存の承認プロセスを編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on)

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 100%
@@ -33,7 +33,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 * モジュール内の 2 つのモジュール間にフィルターを追加する
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
 >[!TIP]
 >

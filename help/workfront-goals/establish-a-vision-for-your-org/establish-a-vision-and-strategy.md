@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目標の例
 * 影響力の範囲
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on)
 
 ## 定期的なチェックアップおよびメンテナンスの頻度を計画する
 

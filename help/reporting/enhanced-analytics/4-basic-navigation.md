@@ -10,8 +10,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -33,4 +33,4 @@ ht-degree: 100%
 * 作業チャートの概要
 * 人物チャートの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on)

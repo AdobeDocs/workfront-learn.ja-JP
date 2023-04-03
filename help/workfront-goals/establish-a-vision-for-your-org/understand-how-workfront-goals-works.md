@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目標の例
 * 影響力の範囲
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
 
 ## 責任を持つ担当者の指定
 

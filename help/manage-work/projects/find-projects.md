@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
@@ -45,24 +45,24 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 
 プロジェクトの作業中には、プロジェクトをピン留めしてメニューバーが見つけやすくなるようにし、ワンクリックで開くことができるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## プロジェクトをお気に入りに登録
 
 複数のプロジェクトを管理する場合は、星形アイコンをクリックして「お気に入り」に設定することできます。 そうすると、メインメニューバーの「[!UICONTROL お気に入り]」アイコンの下にリストが表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
 ## ダッシュボードからプロジェクトを開く
 
 多数の [!DNL Workfront] の顧客は、ダッシュボード上に集めたレポートを使用して、作業中のレポートを検索します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
 ## プロジェクトページからプロジェクトを開く
 
 そしてもちろん、プロジェクトは常にメインの[!UICONTROL プロジェクト]領域で利用することができます。プロジェクト名をクリックすれば開きます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)

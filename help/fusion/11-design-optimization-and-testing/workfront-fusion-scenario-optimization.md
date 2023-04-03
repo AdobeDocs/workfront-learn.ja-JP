@@ -10,7 +10,7 @@ level: Beginner
 kt: 9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * API 呼び出しの送信を減らす
 * 使用するモジュール数を減らす
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
 
 ## 詳細情報 以下をお勧めします。
 

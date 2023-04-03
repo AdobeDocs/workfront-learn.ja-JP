@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 * プロジェクトテンプレートを最初から作成する
 * プロジェクトテンプレートを既存のプロジェクトから作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)

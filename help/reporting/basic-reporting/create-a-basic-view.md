@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * ビューの作成および変更方法
 * 他の Workfront ユーザーとビューを共有する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## アクティビティ：基本ビューの作成
 

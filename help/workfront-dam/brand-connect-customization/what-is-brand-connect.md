@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 * [!UICONTROL Brand Connect] コースの概要の確認
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
 <!-- Learn more graphic and link to article, below
 * Workfront DAM within Workfront

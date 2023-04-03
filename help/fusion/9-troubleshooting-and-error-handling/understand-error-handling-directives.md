@@ -10,7 +10,7 @@ level: Beginner
 kt: 9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 実行を続行できる 3 つのエラーハンドラーディレクティブ
 * 実行を停止する 2 つのエラーハンドラーディレクティブ
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
 ## ディレクティブ - シナリオは続行します
 

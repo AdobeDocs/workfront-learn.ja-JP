@@ -1,5 +1,5 @@
 ---
-title: 不完全な実行を理解する
+title: 不完全な実行について
 description: 実行が不完全な部分と、で実行が不完全になるエラーを処理する方法について説明します。 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -10,23 +10,23 @@ level: Beginner
 kt: 9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 不完全な実行を理解する
+# 不完全な実行について
 
 不完全な実行は、Workfront Fusion に保存され、後で確認および解決できます。 この素晴らしい機能を活用する方法を学びます。
 
-このビデオでは、次のことを学習します。
+このビデオでは、以下について説明します。
 
 * 実行が不完全な部分は何か
 * 実行が不完全になるエラーの処理方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
 
 ## 実行が不完全な原因となるエラー
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)

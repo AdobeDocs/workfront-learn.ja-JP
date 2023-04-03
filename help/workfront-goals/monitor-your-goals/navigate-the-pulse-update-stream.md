@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * [!UICONTROL Pulse] の更新ストリームを操作する
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)

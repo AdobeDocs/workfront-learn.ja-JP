@@ -10,7 +10,7 @@ level: Beginner
 kt: 9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -44,4 +44,4 @@ ht-degree: 100%
 * トリガー、アクション、検索の概要とその違い
 * 様々なアプリコネクタにあるモジュールの種類とその機能
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on)

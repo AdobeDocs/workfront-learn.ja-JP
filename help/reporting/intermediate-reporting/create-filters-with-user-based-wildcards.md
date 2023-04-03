@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ワイルドカードを使用する理由について
 * ユーザーベースのワイルドカードを使用してフィルターを作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >

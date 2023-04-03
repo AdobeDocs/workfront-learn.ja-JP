@@ -11,7 +11,7 @@ thumbnail: 335104.png
 kt: 8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL  Workfront] でステータスが重要な理由
 * [!UICONTROL 作業リスト]をフィルタリングして、完了した作業を表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
 
 
 ## 作業が完了したことを示す他の 2 つの方法

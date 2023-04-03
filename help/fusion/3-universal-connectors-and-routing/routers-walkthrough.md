@@ -10,7 +10,7 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '879'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on)
 
 ## 演習 URL
 

@@ -11,7 +11,7 @@ thumbnail: 335075.png
 kt: 8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -26,4 +26,4 @@ ht-degree: 100%
 * 左側のパネルメニューへの項目の追加
 * パネルメニューでの項目の並べ替え
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)

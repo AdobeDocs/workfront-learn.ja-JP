@@ -11,21 +11,21 @@ thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # グラフを使用したレポートの作成
 
-このビデオでは、次のことを学習します。
+このビデオでは、以下について説明します。
 
 * グラフによるデータのビジュアライゼーションの改善方法
 * Workfrontのグラフツールの使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## アクティビティ：レポートへのグラフの追加
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 回答
 
-1. 選択 **[!UICONTROL レポート]** から **[!UICONTROL メインメニュー]**.
+1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
 1. 次をクリック： **[!UICONTROL 新しいレポート]** メニューと選択 **[!UICONTROL プロジェクト]**.
 1. 内 **[!UICONTROL 列（表示）]** タブ、クリック **[!UICONTROL 列を追加]**.
 1. 選択 [!UICONTROL プロジェクト] > [!UICONTROL 計画コスト] この列を以下のように要約します。 **[!UICONTROL 合計]**.
-1. クリック **[!UICONTROL 列を追加]** 再び
+1. 「**[!UICONTROL 列を追加]**」を再度クリックします。
 1. 選択 [!UICONTROL プロジェクト] > [!UICONTROL 実費] この列を以下のように要約します。 **[!UICONTROL 合計]**.
 
    ![レポートに列を追加する画面の画像](assets/chart-report-columns.png)
@@ -58,6 +58,6 @@ ht-degree: 0%
 1. の [!UICONTROL 下 (X) 軸]選択 [!UICONTROL プロジェクト] > [!UICONTROL 名前].
 1. 次をクリック： **[!UICONTROL 組み合わせグラフ]** ボタンと選択 [!UICONTROL プロジェクト] > [!UICONTROL 実費] 内 **[!UICONTROL 値]** フィールドに入力します。
 1. 色ボックスの横にある矢印をクリックして、 [!UICONTROL 実費] 色 表示される色の 1 つを選択するか、右下隅のボックスをクリックしてカラーパレットを表示します。
-1. クリック **[!UICONTROL 保存して閉じる]**. レポート名の入力を求められたら、「プロジェクト完了前四半期の計画原価と実績原価」と呼びます。
+1. 「**[!UICONTROL 保存して閉じる]**」をクリックします。レポート名の入力を求められたら、「プロジェクト完了前四半期の計画原価と実績原価」と呼びます。
 
    ![レポートにグラフを追加する画面の画像](assets/chart-report-chart.png)

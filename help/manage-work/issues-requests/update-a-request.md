@@ -11,7 +11,7 @@ thumbnail: 336091.png
 kt: 8807
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 送信したリクエストの検索
 * リクエストの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)

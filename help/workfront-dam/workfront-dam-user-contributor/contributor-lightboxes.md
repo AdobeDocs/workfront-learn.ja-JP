@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * ライトボックスを使用した共同作業
 * ライトボックスのコンテンツの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on)
 
 ## フォルダーとライトボックス
 

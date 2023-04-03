@@ -10,7 +10,7 @@ level: Beginner
 kt: 9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 高いパフォーマンスを実現する適切なデザインの決定
 * 前提条件に異議を唱え、利害関係者に最善のアドバイスを与える
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
 
 ## 詳細情報 以下をお勧めします。
 

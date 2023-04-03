@@ -11,7 +11,7 @@ thumbnail: 335165.png
 kt: 8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -26,4 +26,4 @@ ht-degree: 100%
 * あるユーザーから別のユーザーへの作業の再割り当て
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

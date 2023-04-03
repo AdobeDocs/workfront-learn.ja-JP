@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * テキストモードを使用したカスタムプロンプトの作成方法
 * レポートで使用できる例
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
 ## アクティビティ：カスタムプロンプトの作成
 

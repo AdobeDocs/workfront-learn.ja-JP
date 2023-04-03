@@ -10,7 +10,7 @@ level: Beginner
 kt: 9018
 exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * イテレーションと集計の使用方法
 * 様々なタイプのイテレータ
 
->[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on)

@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 kt: 8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!DNL  Workfront] リクエストキューを通じてリクエストを送信する方法
 * リクエストキューを構造化する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## リクエストドラフトの自動保存
 

@@ -11,7 +11,7 @@ thumbnail: 335161.png
 kt: 8873
 exl-id: a1ecee82-11f4-4b10-ba0d-49eff4c337c0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
@@ -28,4 +28,4 @@ ht-degree: 100%
 * 個人の休暇
 * 担当業務
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on)

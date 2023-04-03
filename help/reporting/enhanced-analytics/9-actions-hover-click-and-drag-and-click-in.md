@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * グラフに時間枠を作成する
 * 追加のグラフを表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
 
 ## 詳しくは、グラフをクリックしてください
 

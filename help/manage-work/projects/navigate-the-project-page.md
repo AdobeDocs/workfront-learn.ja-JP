@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * ドキュメントをアップロードする場所
 * 更新履歴の表示方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on)
 
 ## プロジェクトページの主要な部分
 

@@ -10,17 +10,17 @@ level: Beginner
 kt: 9014
 exl-id: dbf95ede-8b11-4b9e-a87a-a0e4db863e9c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 40%
 
 ---
 
 # 一般的なルーティングパターン
 
-このビデオでは、次のことを学習します。
+このビデオでは、以下について説明します。
 
 * 相互に排他的で非排他的なルータパスの違い。
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on)

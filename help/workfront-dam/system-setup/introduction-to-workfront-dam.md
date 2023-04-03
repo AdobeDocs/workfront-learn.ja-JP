@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%
@@ -35,4 +35,4 @@ ht-degree: 100%
 * アセットを検索して表示する
 * フォルダー構造がアセットの編成とアクセスに与える影響を確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on)

@@ -11,7 +11,7 @@ thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * SUB、SUM、DIV、PROD 式の機能
 * 計算フィールドで SUB データ式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on)
 
 ## 追加情報：ROUND 式
 

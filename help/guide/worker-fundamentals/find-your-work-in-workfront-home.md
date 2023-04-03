@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 335098.png
 kt: Jira ticket
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 * 今後および既存の作業割り当ての検索
 * 割り当て情報のレビュー
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

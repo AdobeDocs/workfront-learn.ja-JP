@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * Brand Connect の操作方法
 * アセットの検索方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on)
 
 ## 基本検索条件
 

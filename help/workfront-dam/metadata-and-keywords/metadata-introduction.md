@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 * [!UICONTROL Workfront DAM] コースの概要の確認
 
->[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on)

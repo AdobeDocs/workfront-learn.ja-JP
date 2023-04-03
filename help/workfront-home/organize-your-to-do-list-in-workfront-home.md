@@ -11,7 +11,7 @@ thumbnail: 335099.png
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 開始する準備が整った作業を特定する
 * 作業の割り当てを承認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
 
 >[!NOTE]
 >

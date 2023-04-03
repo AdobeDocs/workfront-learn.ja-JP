@@ -11,7 +11,7 @@ thumbnail: 335320.jpeg
 kt: 9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -26,4 +26,4 @@ ht-degree: 100%
 * 予算情報の調整
 * コスト情報の調整
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)

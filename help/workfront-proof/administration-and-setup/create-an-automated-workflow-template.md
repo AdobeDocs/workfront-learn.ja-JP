@@ -11,7 +11,7 @@ thumbnail: 335130.png
 kt: 8830
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * レビューおよび承認プロセスの期限の設定
 * 他のユーザーとの自動ワークフローテンプレートの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on)
 
 ## 追加のステージアクティベーションオプション
 

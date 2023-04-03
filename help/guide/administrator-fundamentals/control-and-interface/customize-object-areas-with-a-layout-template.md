@@ -7,8 +7,8 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 * 左側のパネルメニューへの項目の追加
 * パネルメニューでの項目の並べ替え
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: 組み込みの問題フィルターを理解する
+title: ビルトインイシューフィルターについて
 description: 組み込みの問題フィルターを確認して、その構築方法を確認し、Workfrontで独自の問題フィルターを作成する方法を説明します。
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 組み込みの問題フィルターを理解する
+# ビルトインイシューフィルターについて
 
 このビデオでは、次の操作を実行します。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 役に立つ問題のレポート要素について説明します。
 * 独自のイシューフィルターの作成方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 ## アクティビティ：問題レポートの作成
 

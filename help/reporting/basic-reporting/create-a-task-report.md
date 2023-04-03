@@ -11,21 +11,21 @@ thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 11%
+ht-degree: 17%
 
 ---
 
 # タスクレポートの作成
 
-このビデオでは、次のことを学習します。
+このビデオでは、以下について説明します。
 
 * 複雑なフィルターを使用したタスクレポートの作成方法
 * 作成するレポートの見つけ方
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## アクティビティ：プロンプトを含む注記レポートを作成する
 
@@ -58,7 +58,7 @@ ht-degree: 11%
 
 ## 回答
 
-1. 選択 **[!UICONTROL レポート]** から **[!UICONTROL メインメニュー]**.
+1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
 1. 次をクリック： **[!UICONTROL 新しいレポート]** メニューと選択 **[!UICONTROL 注意]**.
 1. In **[!UICONTROL 列（表示）]** 列を設定して以下を含めます。
 

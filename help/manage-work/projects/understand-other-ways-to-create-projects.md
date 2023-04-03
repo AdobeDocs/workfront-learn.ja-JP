@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 既存のプロジェクトのコピー
 * [!DNL Microsoft Project] ファイルの読み込み
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
 ## プロのヒント
 

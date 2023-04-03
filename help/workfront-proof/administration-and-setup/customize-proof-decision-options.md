@@ -11,7 +11,7 @@ thumbnail: 335127.png
 kt: 8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフ決定オプションの名前を変更する方法
 * 不要なプルーフ決定オプションを非表示にする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on)
 
 ## やってみよう
 
