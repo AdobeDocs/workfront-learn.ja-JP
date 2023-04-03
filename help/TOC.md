@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '2345'
+source-wordcount: '2341'
 ht-degree: 99%
 
 ---
@@ -302,7 +302,6 @@ ht-degree: 99%
       + [選択したユーザーに対する目標へのアクセス権の付与](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [[!UICONTROL Workfront Goals] ユーザー用のレイアウトテンプレートの作成](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [目標の作成](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-      + [既存の目標をコピーする](workfront-goals/create-your-goals/copy-an-existing-goal.md)
    + 目標のアクティベート {#activate-goals}
       + [目標のアクティベート](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [目標を別の目標に合わせたアクティベート](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
