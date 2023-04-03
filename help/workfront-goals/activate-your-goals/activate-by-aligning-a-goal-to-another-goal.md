@@ -9,10 +9,10 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 43%
+source-wordcount: '251'
+ht-degree: 34%
 
 ---
 
@@ -32,3 +32,10 @@ ht-degree: 43%
 1. 「[!UICONTROL 変更を保存]」をクリックします。
 
 目標を別の目標に合わせると、子目標が作成されます。 子目標は、組織またはチームの親目標の進捗に貢献する個人の目標と考えます。 子目標はアクティベートして、親目標の進歩に影響を与えることができます。
+
+## 親目標を有効化
+
+子目標を作成したら、親目標の進捗状況インジケーターになります。 親目標名の横の 3 ドットメニューをクリックすると、「アクティブ化」オプションが表示されます。
+
+![親目標のアクティブ化方法を示すスクリーンショット。](assets/activate-the-parent-goal.png)
+

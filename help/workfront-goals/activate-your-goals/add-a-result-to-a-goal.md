@@ -1,5 +1,5 @@
 ---
-title: 目標に結果を追加
+title: 目標への結果の追加
 description: 結果を [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 52%
 
 ---
 
-# 目標に結果を追加
+# 目標への結果の追加
 
-このビデオでは、次の方法を学習します。
+このビデオでは、以下の方法を説明します。
 
 * 結果を追加して目標をアクティブ化
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on)
