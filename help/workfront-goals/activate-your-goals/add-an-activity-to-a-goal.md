@@ -1,6 +1,6 @@
 ---
-title: 目標へのアクティビティの追加
-description: アクティビティを [!DNL Workfront Goals].
+title: 目標へのアクティビティとプロジェクトの追加
+description: でアクティビティやプロジェクトを追加して目標をアクティブ化する方法を説明します。 [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
 doc-type: video
-source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 35%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 目標にアクティビティを追加する方法
+# 目標へのアクティビティとプロジェクトの追加
 
 このビデオでは、以下の方法を説明します。
 
-* アクティビティを追加して目標をアクティブ化
+* 目標へのアクティビティとプロジェクトの追加
 
 >[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on)

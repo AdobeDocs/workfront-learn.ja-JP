@@ -1,5 +1,5 @@
 ---
-title: 追加 [!DNL Workfront Goals] レイアウトテンプレートに
+title: レイアウトテンプレートの作成 [!DNL Workfront Goals] ユーザー
 description: を使用してレイアウトテンプレートを作成する方法を説明します。 [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 用語を組織に合わせて使用します。
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 9%
 
 ---
 
-# を使用したレイアウトテンプレートの作成 [!DNL Workfront Goals]
+# レイアウトテンプレートの作成 [!DNL Workfront Goals] ユーザー
 
 内 **[!UICONTROL 設定]** 領域には、 [!DNL Workfront Goals] したがって、ユーザーとユーザーは、より簡単にアクセスできます。
 

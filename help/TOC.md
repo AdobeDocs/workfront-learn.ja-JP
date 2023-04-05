@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '2341'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -306,7 +306,7 @@ ht-degree: 99%
       + [目標のアクティベート](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [目標を別の目標に合わせたアクティベート](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [目標への結果の追加](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [目標へのアクティビティの追加](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [目標へのアクティビティとプロジェクトの追加](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + 目標の管理 {#manage-goals}
       + [目標の整列](workfront-goals/manage-your-goals/align-your-goals.md)
       + [目標の整合性の削除](workfront-goals/manage-your-goals/remove-goal-alignment.md)
