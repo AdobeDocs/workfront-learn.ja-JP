@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Workfront Goals] の[!UICONTROL アクセスレベル]の編集'
+title: 選択したユーザーに対する目標へのアクセス権の付与
 description: ' [!DNL Workfront Goals] で、ユーザーのライセンスタイプに応じたアクセスレベルを編集する方法を説明します。'
 activity: use
 feature: Workfront Goals
@@ -10,18 +10,18 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Goals] のアクセスレベルの編集
+# 選択したユーザーに対する目標へのアクセス権の付与
 
-このビデオでは、次の方法を学習します：
+このビデオでは、以下の方法を説明します。
 
-* ライセンスタイプに応じたアクセスレベルを編集する
+* 選択したユーザーに対する目標へのアクセス権の付与
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 

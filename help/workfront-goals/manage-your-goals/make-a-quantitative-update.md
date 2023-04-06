@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Workfront Goals] で定量的な更新を行う'
-description: '[!DNL Goals] の定量的な更新方法を説明します。'
+title: の結果とアクティビティの進行状況を更新 [!DNL Workfront Goals]
+description: での結果とアクティビティの進行状況を更新する方法を説明します。 [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 19%
 
 ---
 
-# 定量的なアップデートの実行
+# 結果とアクティビティの進行状況の更新方法
 
-このビデオでは、次の方法を学習します：
+このビデオでは、以下の方法を説明します。
 
-* 定量的な更新、または進捗指標（結果、アクティビティ、関連付けられた目標など）の更新を行い、目標の達成を推進します
+* 結果とアクティビティの進行状況の更新方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

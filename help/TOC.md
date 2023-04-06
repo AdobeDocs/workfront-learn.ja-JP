@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2346'
+ht-degree: 98%
 
 ---
 
@@ -310,7 +310,7 @@ ht-degree: 0%
    + 目標の管理 {#manage-goals}
       + [目標の整列](workfront-goals/manage-your-goals/align-your-goals.md)
       + [目標の整合性の削除](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [定量的なアップデートの実行](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [結果とアクティビティの進行状況を更新](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [完了後に目標を閉じる](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + 目標の監視 {#monitor-goals}
       + [「グラフ」セクションについて](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
