@@ -9,10 +9,10 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
-source-wordcount: '271'
-ht-degree: 100%
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 87%
 
 ---
 
@@ -34,11 +34,8 @@ ht-degree: 100%
 
 ![ の様々な進捗状況ラベルをカバーしている画像[!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![ の「[!UICONTROL チェックイン]」セクションの目標の進捗率列のスクリーンショット[!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>目標の進行状況の計算に使用する数式の詳細については、次の記事を参照してください。 [Adobe Workfront目標の目標の達成状況と条件の概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* 目標の進捗の計算に使用される数式の詳細については、[!DNL   Goals] にある、目標の進捗の計算の記事を参照してください。
-
-
-<!-- need link to documentation article, above -->

@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 19%
+source-wordcount: '37'
+ht-degree: 21%
 
 ---
 
-# 結果とアクティビティの進行状況の更新方法
+# 結果とアクティビティの進行状況を更新
 
 このビデオでは、以下の方法を説明します。
 
-* 結果とアクティビティの進行状況の更新方法
+* 結果とアクティビティの進行状況を更新
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)
