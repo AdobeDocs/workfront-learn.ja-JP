@@ -11,9 +11,9 @@ thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
 source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 93%
 
 その目的は、管理する人物の日次および週次のワークロードをより深く理解し、管理できるようにすることです。これにより、複数のプロジェクトにわたって、役割と可用性に基づいて、より適切な割り当てを行うことができます。
 
-![メインメニューでのリソース](assets/Find_01.png)
+![メインメニューのリソース](assets/Find_01.png)
 
 * [!UICONTROL メインメニュー]で「[!UICONTROL リソース]」をクリックします。
 * リソース管理エリアの「[!UICONTROL スケジュール]」セクションに移動します。
-* 次をクリック： [!UICONTROL &quot;ワークロード・バランサ&quot;] 」セクションが表示されます。
+* 表示される「[!UICONTROL ワークロードバランサー]」セクションをクリックします。
 
 ![ワークロードバランサーセクション](assets/Find_02.png)
 
