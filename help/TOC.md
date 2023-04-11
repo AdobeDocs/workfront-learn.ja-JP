@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
-ht-degree: 97%
+source-wordcount: '2360'
+ht-degree: 98%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 97%
 + [Workfront チュートリアル](home.md)
 + 管理と設定 {#administration-and-setup}
    + 組織セットアップ {#organizational-setup}
-      + [チームの作成](administration-and-setup/organizational-setup/user-organization-teams.md)
+      + [チームを作成](administration-and-setup/organizational-setup/user-organization-teams.md)
       + [グループとサブグループを作成する](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [グループ管理の必要性について](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [会社の作成](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [ライセンスとアクセスレベルを持つユーザーを設定する](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
-      + [ジョブの役割の作成と管理](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
+      + [ユーザーへのライセンスとアクセスレベルの設定](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [担当業務の作成と管理](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [別のユーザーとしてのログイン](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + 削除された項目の管理 {#manage-deleted-items}
       + [ごみ箱からのオブジェクトの復元](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
@@ -141,6 +141,7 @@ ht-degree: 97%
       + [フローリクエストの設定について](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [リクエストキューの作成](manage-work/request-queues/create-a-request-queue.md)
       + [リクエストフローの作成](manage-work/request-queues/create-a-request-flow.md)
+      + [リクエストキューに関するよくある質問への回答](manage-work/request-queues/request-queue-faq.md)
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [1 回限りの承認プロセスの作成](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [既存の承認プロセスの添付と編集](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
@@ -298,7 +299,7 @@ ht-degree: 97%
       + [企業や組織の目標に関する共同作業](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [グループやチームの戦略に対する足並みを揃える](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + 目標の作成 {#create-goals}
-      + [[!UICONTROL Workfront目標] 概要](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Workfront Goals] の概要](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [組織の [!UICONTROL Workfront Goals] の設定](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [選択したユーザーに対する目標へのアクセス権の付与](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [[!UICONTROL Workfront Goals] ユーザー用のレイアウトテンプレートの作成](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -325,7 +326,7 @@ ht-degree: 97%
 
 + 統合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Creative CloudにAdobe Workfrontプラグインを使用](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Creative Cloud 用の Adobe Workfront プラグインの使用](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja)
       + [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ja)
