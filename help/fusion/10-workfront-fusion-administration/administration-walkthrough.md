@@ -10,16 +10,14 @@ level: Beginner
 kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
 
 # 管理のチュートリアル
-
-## 概要
 
 様々な組織またはチームを切り替えて、システムにユーザーを追加する方法について説明します。
 

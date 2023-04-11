@@ -10,18 +10,16 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 72%
 
 ---
 
 # イテレータの概要のチュートリアル
 
-## 概要
-
-Workfront で特定のプロジェクトを確認してから、そのプロジェクト内のすべてのタスクを確認します。次に、増分ツールモジュールを使用してプロジェクト内のタスクの数をカウントします。最後に、変数を設定モジュールを使用して、未完了イシューの数から子の数を減算し、各タスクバンドルの数値を生成します。
+Workfront で特定のプロジェクトを確認してから、そのプロジェクト内のすべてのタスクを確認します。次に、増分ツールモジュールを使用してプロジェクト内のタスクの数をカウントします。最後に、変数を設定モジュールを使用して、オープンイシューの数から子の数を減算し、各タスクバンドルの数値を生成します。
 
 ![Fusion シナリオの画像](assets/iteration-and-aggregation-1.png)
 

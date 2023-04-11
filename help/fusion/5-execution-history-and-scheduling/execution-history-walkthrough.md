@@ -10,18 +10,16 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
 
 # 実行履歴のチュートリアル
 
-## 概要
-
-「強力なフィルターを使用する」シナリオの実行履歴を確認して、実行が発生したときに何が起こったのか、実行時にどのように構成されていたのかを理解します。
+「強力なフィルターの使用」シナリオの実行履歴を確認して、実行時に何が起こったのか、どのような構造で実行されたのかを理解します。
 
 ![Fusion シナリオの実行履歴の画像](assets/execution-history-and-scheduling-1.png)
 

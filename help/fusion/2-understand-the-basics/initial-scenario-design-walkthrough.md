@@ -10,16 +10,14 @@ level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
 
 # 初期シナリオデザインのチュートリアル
-
-## 概要
 
 Workfront で、プロジェクトリストの CSV ファイルの各レコードに対して新しいプロジェクトを作成します。
 

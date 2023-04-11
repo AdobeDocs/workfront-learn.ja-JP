@@ -10,16 +10,14 @@ level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 90%
 
 ---
 
 # 開発ツールのチュートリアル
-
-## 概要
 
 Workfront 開発ツールの様々なエリアをインストールして使用し、作成したリクエスト／応答と詳細なシナリオデザインのテクニックを詳しく調べます。
 
@@ -38,7 +36,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 ## 開発ツールのダウンロード
 
-開発ツールには、シナリオの理解とトラブルシューティングの能力を向上させる多くの高度な機能が用意されています。体験版の Fusion Exercise Files フォルダーにある「workfront-fusion-devtool.zip」ドキュメントをダウンロードします。
+開発ツールには、シナリオの理解とトラブルシューティングの能力を向上させる多くの高度な機能が用意されています。テストドライブの Fusion Exercise Files フォルダにある&quot;workfront-fusion-devtool.zip&quot;ドキュメントをダウンロードします。
 
 
 

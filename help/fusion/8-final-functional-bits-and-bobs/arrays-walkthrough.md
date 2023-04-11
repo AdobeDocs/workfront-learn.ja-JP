@@ -10,16 +10,14 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # 配列のチュートリアル
-
-## 概要
 
 単純な配列と複雑な配列を使用した、以前のチュートリアル演習をレビューします。これらを見つけた方法と、必要に応じて配列関数を使用して情報を利用する方法をレビューします。
 

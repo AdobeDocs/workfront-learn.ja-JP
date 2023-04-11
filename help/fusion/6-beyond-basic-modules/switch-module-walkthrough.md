@@ -10,16 +10,14 @@ level: Beginner
 kt: 9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 # スイッチモジュールのチュートリアル
-
-## 概要
 
 より複雑なデータ変換や動的なデータ変換を実行する必要がある場合にスイッチモジュールを使用する方法について説明します。
 
