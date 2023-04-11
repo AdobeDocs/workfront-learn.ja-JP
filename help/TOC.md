@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
-ht-degree: 98%
+source-wordcount: '2353'
+ht-degree: 97%
 
 ---
 
@@ -222,6 +222,7 @@ ht-degree: 98%
       + [詳細レポート第 2 部](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高度なレポート第 3 部](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Enhanced Analytics {#enhanced-analytics}
+      + [製品に関する情報 [!UICONTROL 分析の強化]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [レイアウトテンプレートへの[!UICONTROL 分析]の追加](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 98%
       + [タスクの割り当て時の休暇の表示](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [リソース管理ツールでの表示](manage-resources/pto/visibility-in-resource-management-tools.md)
    + シナリオプランナー {#scenario-planner}
-      + [シナリオプランナーに関する製品の重要性](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [シナリオ・プランナに関する製品の瞬間](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [シナリオプランナーとは](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [シナリオプランナーでのプランへのアクセス](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [シナリオプランナーでのプランの作成](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
