@@ -1,7 +1,7 @@
 ---
 title: アプリ内通知およびメールイベント通知の管理
 description: 受信するアプリ内通知とメール通知を制御して、自分の作業に関連する有用なメールを受信できるようにする方法を説明します。
-short-description: Learn how users can control which in-app and email notifications they receive.
+short-description: ユーザーが受信するアプリ内通知と電子メール通知を制御する方法を説明します。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,9 +12,9 @@ thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
-workflow-type: ht
-source-wordcount: '616'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '628'
+ht-degree: 98%
 
 ---
 
