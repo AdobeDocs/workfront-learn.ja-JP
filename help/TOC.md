@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
+source-wordcount: '2368'
 ht-degree: 98%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 98%
       + [レイアウトテンプレートの検索](administration-and-setup/layout-templates/find-layout-templates.md)
       + [レイアウトテンプレートを使用した用語のカスタマイズ](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [レイアウトテンプレートを使用した[!UICONTROL メインメニュー]のカスタマイズ](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [レイアウトテンプレートを介してピンを追加および管理する](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [レイアウトテンプレートを使用したホームのカスタマイズ](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [レイアウトテンプレートへのアクセス権の割り当てと管理](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [レイアウトテンプレートを使用したオブジェクトエリアのカスタマイズ](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 98%
       + [マイルストーンの作成](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + システムのパフォーマンスとメンテナンス {#system-perfomance-and-maintenance}
       + [既存の Adobe Workfront インスタンスの担当](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
