@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '2368'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 98%
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
       + [基本的なプロジェクト作成について](manage-work/projects/understand-basic-project-creation.md)
-      + [その他のプロジェクト作成方法について](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [プロジェクトを作成する 4 つの方法を説明します](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [プロジェクト詳細の入力](manage-work/projects/fill-in-the-project-details.md)
       + [プロジェクトページの移動](manage-work/projects/navigate-the-project-page.md)
       + [プロジェクトのプランニングの基本を学ぶ](manage-work/projects/getting-started-plan-a-project.md)
