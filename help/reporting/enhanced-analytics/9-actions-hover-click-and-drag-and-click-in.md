@@ -11,10 +11,10 @@ team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '321'
+ht-degree: 51%
 
 ---
 
@@ -37,3 +37,19 @@ ht-degree: 100%
 * **プロジェクトツリーマップ** - プロジェクトボックスをクリックして、フライトグラフにバーンダウンとタスクを取り込みます。
 * **チーム別アクティビティ** - チーム名をクリックしてグラフを展開し、ユーザー別のアクティビティを表示します。
 * **リソース処理能力** - チーム名をクリックして、チーム処理能力グラフを表示します。
+
+## より暗く、より明るい日差しは、チームアクティビティに関して何を意味しますか？
+
+**ログインしたユーザー：** 紫色のボックスは、ホームチームの人がその日にログインしたことを示します。 濃い色は、ログインする人の数が多いことを示します。
+
+![紫の影付きのボックスのイメージ](assets/purple-shaded-boxes.png)
+
+**タスクステータスの変更：** ピンク色のボックスは、ホームチームの人がその日のタスクのステータスを変更したことを示します。 濃い色は、タスクステータスの数が多く変化することを示します。
+
+![ピンク色の影付きのボックスのイメージ](assets/pink-shaded-boxes.png)
+
+**完了したタスク：** 青いボックスは、ホームチームの人がその日にタスクを完了したことを示します。 濃い色は、完了するタスクの数が多いことを示します。
+
+![青い影付きのボックスのイメージ](assets/blue-shaded-boxes.png)
+
+詳しくは、 [チームごとのアクティビティのビジュアライゼーションについて](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).

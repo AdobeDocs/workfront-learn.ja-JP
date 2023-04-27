@@ -10,10 +10,10 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 67%
 
 ---
 
@@ -23,4 +23,10 @@ ht-degree: 100%
 
 ![期間ではなく予定時間数を選択する画像](assets/section-1-5.png)
 
+
+
 デフォルトは予定時間数です。期間に切り替えると、 [!DNL Analytics] から他へ移動して戻ってきた場合や、Workfront にログインし直した場合でも、期間に固定されています。
+
+## ボックスのサイズと色合いの意味は何ですか？
+
+より小さく、より明るい青色のボックスは、より少ない時間を表し、大きいボックスとより濃い青色のボックスは、比較してより多くの時間を表します。 詳しくは、 [プロジェクトツリーマップビジュアライゼーションについて](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
