@@ -10,10 +10,10 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '409'
+ht-degree: 90%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 ## グラフへの移動方法
 
 1. をクリックします。 [!UICONTROL 人] 」タブをクリックします。
-1. 以下を使用： [!UICONTROL フィルター] をクリックして、調査するホームチームを選択します。
+1. 以下を使用： [!UICONTROL フィルター] をクリックして、調査する 1 つ以上のホームチームを選択します。
 1. 次の項目が表示されます。 [!UICONTROL リソース容量] チャートは、チームアクティビティチャートの下に表示されます。
 
 ## グラフの使用方法
