@@ -1,5 +1,5 @@
 ---
-title: Fusion 練習用ファイルの設定手順
+title: Workfront Fusion 演習ファイルの設定
 description: ' [!DNL Adobe Workfront Fusion] で、練習用ファイルをダウンロードし、これらのファイルを Workfront のフォルダーにアップロードする方法を説明します。'
 activity: use
 team: Technical Marketing
@@ -10,17 +10,19 @@ level: Beginner
 kt: 8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6ec03ead3b0c15b2987c1930871282a4f6d2658b
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 51%
 
 ---
 
-# Fusion 練習用ファイルの設定手順
+# Workfront Fusion 演習ファイルの設定
 
-手順 1：[Fusion 練習用ファイル](/help/assets/fusion-exercise-files.zip)をダウンロードします。
+Fusion 演習ファイルの設定方法を説明します。
 
-手順 2：これらのファイルを Workfront のフォルダーにアップロードする方法について、ビデオをご覧ください。
+1. をダウンロードします。 [Fusion 練習ファイル](/help/assets/fusion-exercise-files.zip).
+
+1. これらのファイルをWorkfrontのフォルダーにアップロードする方法については、ビデオをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
