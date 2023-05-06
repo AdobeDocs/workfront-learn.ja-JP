@@ -1,6 +1,6 @@
 ---
 title: プロジェクトのコミュニケーションについて
-description: プロジェクト、タスク、イシュー、ドキュメントの更新を利用して、プロジェクトの作業について伝える方法を説明します。それから、 [!DNL  Workfront] の既存の更新を確認します。
+description: 適切なプロジェクト計画、更新、タスクの状態、完了率、問題、レポートを使用して、プロジェクトの作業についてのコミュニケーション方法を説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 8%
 
 ---
 
 # プロジェクトのコミュニケーションについて
 
-よく言われるように、プロジェクト管理の 9 割はコミュニケーションです。プロジェクトチームやマネージャー、プロジェクトの関係者とのコミュニケーションです。
+このビデオでは、以下を使用して、すべてのプロジェクト関係者とのコミュニケーション方法を学びます。
 
-しかし、プロジェクトチームがプロジェクトのコミュニケーションに、メールやインスタントメッセージ、ミーティング、付箋メモを使用すると、情報があちこちに散乱してしまい、忘れられる可能性もあります。プロジェクトの作業に関するコミュニケーションは、更新を利用しながら、[!DNL Workfront] のプロジェクト自体の上で行うようにしましょう。
+* プロジェクト計画の立案
+* アップデート
+* タスクのステータスと完了率
+* 問題
+* レポート
 
-プロジェクトチームのメンバーが割り当てに取り組んでいる際は、割り当てられたタスクに対する更新を、[!DNL Workfront] の[!UICONTROL ホーム]から行うことができます。
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![プロジェクトの「更新」セクション](assets/planner-fund-project-communication.png)
-
-タスク、イシュー、ドキュメントからの更新は、プロジェクトレベルの「[!UICONTROL 更新]」タブに展開されるので、情報をすばやく簡単に確認できます。
-
-その後は、ボタンをクリックするだけで更新に返信できます。これにより、すべての会話が 1 か所にまとめられ、後で振り返ることができます。
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>このビデオに表示されるメモの検索レポートを作成するには、 [タスクレポートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) チュートリアル
+>
+>メモの検索レポートをプロジェクトパネルに追加するには、 [ダッシュボードの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) チュートリアル
