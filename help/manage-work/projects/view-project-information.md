@@ -10,16 +10,16 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
-source-wordcount: '181'
-ht-degree: 100%
+source-git-commit: d85820a7516bfde170ec1df8ce96b16dafab2cf1
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # プロジェクト情報の表示
 
-メイン[!UICONTROL プロジェクト]ページを見ている場合でも、個々のプロジェクトを見ている場合でも、[!UICONTROL フィルター]、[!UICONTROL 表示]、[!UICONTROL グループ化]を使用して、必要な情報を表示するようにリストを微調整します。
+メインを見ているかどうか [!UICONTROL プロジェクト] ページまたは個々のプロジェクトで、リストを微調整して、 [!UICONTROL フィルター], [!UICONTROL 件数]、および [!UICONTROL グループ化].
 
 [!UICONTROL プロジェクト]ページで、すべてのプロジェクトの進捗の概要を確認することができます。
 
@@ -27,8 +27,16 @@ ht-degree: 100%
 
 [!UICONTROL フィルター]を使用して、特定の基準に基づいてリストを絞り込みます。[!UICONTROL 表示]を選択して、プロジェクトに関連する情報の列を表示します。最後に[!UICONTROL グループ化]を選択して、意味のある方法でプロジェクトを整理します。
 
-プロジェクトの「[!UICONTROL タスク]」セクションにいるときは、[!UICONTROL フィルター]、[!UICONTROL 表示]、[!UICONTROL グループ化]を再び活用すると、実行中の作業を監視するのに役立ちます。プロジェクトではなくタスクを見ているため、まったく別の選択肢を持つことになります。
+を使用して [!UICONTROL タスク] プロジェクトのセクション、 [!UICONTROL フィルター], [!UICONTROL 件数]、および [!UICONTROL グループ化] 再び、実行中の作業を監視するのに役立ちます。 プロジェクトではなくタスクを見ているので、選択肢は全く異なります。
 
 ![ビューが表示されているプロジェクトタスクリスト](assets/planner-fund-task-list-fvg.png)
 
 [!DNL Workfront] の多くの顧客は、カスタムフォーム情報や実行中の作業に関連するその他のフィールドを表示するカスタムビューを作成しています。
+
+## カスタムフィルター、表示およびグループ化を作成する方法を説明します
+
+[基本フィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+
+[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+
+[基本グループの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
