@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2366'
+ht-degree: 97%
 
 ---
 
@@ -113,9 +113,9 @@ ht-degree: 0%
       + [プロジェクト全体の進捗の追跡](manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL ガント]ビューについて](manage-work/projects/understand-the-gantt-view.md)
-      + [プロジェクトステータスの変更](manage-work/projects/change-the-project-status.md)
+      + [プロジェクトを閉じる](manage-work/projects/change-the-project-status.md)
    + タスク {#tasks}
-      + [タスクの作成方法](manage-work/tasks/how-to-create-tasks.md)
+      + [タスクの作成](manage-work/tasks/how-to-create-tasks.md)
       + [親子タスクについて](manage-work/tasks/understand-parent-child-tasks.md)
       + [タスクの操作](manage-work/tasks/work-with-tasks.md)
       + [プロジェクトプランからのタスクの割り当て](manage-work/tasks/assign-tasks-from-the-project-plan.md)
