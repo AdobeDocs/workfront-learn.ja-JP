@@ -10,27 +10,23 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 0c7a19edf43baae69ab78edf7b344641de97912b
-workflow-type: ht
-source-wordcount: '173'
-ht-degree: 100%
+source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 29%
 
 ---
 
 # [!UICONTROL 作業量]について
 
-[!DNL Workfront] を使用すると、プロジェクト作成時の予定時間数を消費していない組織があることを把握できます。いっぽう、[!DNL Workfront's] リソース管理ツールの利点を最大限に活用し、ユーザーに割り当てられた作業量への理解を深めるには、プロジェクトの予定時間数を把握することが必須です。
+Workfrontは、一部の組織では、プロジェクトの作成時に予定時間を使用していないことを理解しています。 ただし、Workfrontのリソース管理ツールを最大限に活用し、ユーザーに割り当てられる作業量をより深く理解するには、プロジェクトの予定時間が必要です。
 
-それらの考え方を踏まえて、[!DNL Workfront] では[!UICONTROL 作業量]というオプションを設けました。
+両方の概念を念頭に置いて、Workfrontは [!UICONTROL 作業量] オプション。
 
-プロジェクトの各タスクに特定の時間を入力する代わりに、[!UICONTROL 作業量]を使用して、タスクの規模が大、中、小のどれであるかを判断します。[!DNL Workfront] は、予定時間数を自動的にこれらのタスクに関連付けます。
+プロジェクトの各タスクに特定の時間を入力する代わりに、 [!UICONTROL 作業量] タスクが小規模か中規模か大規模かを示す Workfrontは、プロジェクト内の設定に基づいて、予定時間を自動的に見積もります。
 
-[!DNL Workfront’s] リソース管理ツールを使用する予定があれば、必要な数値は既に入力されており、ユーザーは今後の作業量を把握できます。
+これにより、Workfrontのリソース管理ツールを使用する予定がある場合は、必要な見積もりが既に入力されており、ユーザーは作業量に関して注意を払う必要があります。
 
 ![「[!UICONTROL 作業量]」列を使用したプロジェクトタスクのリスト](assets/planner-fund-work-effort.png)
-
-<!---
-need hyperlink below
---->
 
 [!UICONTROL 作業量]の詳細については、[作業量の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=ja)の記事を参照してください。
