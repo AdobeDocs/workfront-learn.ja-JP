@@ -1,6 +1,6 @@
 ---
 title: グループ化の基本的なテキストモードについて
-description: テキストモードとキャメルケースの概要、および Workfront のグループ化で使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
+description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontでのグループ化で使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,10 +11,10 @@ team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 100%
+source-wordcount: '283'
+ht-degree: 84%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 * テキストモードとは
 * キャメルケースとは
-* グループ化で使用できる基本的な「プラグ＆プレイ」テキストモード
+* グループ化で使用できる基本的な「プラグアンドプレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
@@ -115,4 +115,15 @@ group.0.displayname=Project Name
 ```
 
 ![プロジェクト名でグループ化された、プルーフの承認を示す画面の画像](assets/proof-approvals-grouped-by-project-name.png)
+
+
+## 配達確認の承認 — ドキュメント名でグループ化
+
+```
+group.0.displayname=Document Name
+group.0.valuefield=documentVersion:document:name
+group.0.valueformat=HTML
+```
+
+![プロジェクト名でグループ化された、プルーフの承認を示す画面の画像](assets/proof-approvals-grouped-by-doc-name.png)
 

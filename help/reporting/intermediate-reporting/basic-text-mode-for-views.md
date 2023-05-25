@@ -1,6 +1,6 @@
 ---
 title: ビューの基本的なテキストモードについて
-description: テキストモードとは何か、キャメルケースとは何か、Workfront のビューで使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
+description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontのビューで使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,10 +11,10 @@ team: Technical Marketing
 kt: 11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 * テキストモードとは
 * キャメルケースとは
-* ビューで使用できる基本的な「プラグ＆プレイ」テキストモード
+* ビューで使用できる基本的な「プラグアンドプレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
@@ -303,7 +303,7 @@ valueformat=HTML
 width=90
 ```
 
-### タスク - プロジェクト間の先行タスクのプロジェクト完了率を表示
+### タスク — プロジェクト間の先行プロジェクトのプロジェクトの完了率を表示します
 
 ```
 displayname=Predecessor project percent complete
@@ -490,10 +490,10 @@ valueformat=HTML
 
 ![ドキュメントレポートの親フォルダーを示す画面の画像](assets/parent-folder-in-a-document-report.png)
 
-## ドキュメント - ドキュメントの承認日
+## ドキュメント — ドキュメントの承認日
 
 ```
-displayname=Document Approval Dates
+displayname=Document approval dates
 valueformat=HTML
 listdelimiter=<br>
 linkedname=direct
@@ -506,7 +506,7 @@ shortview=false
 section=0
 ```
 
-![ドキュメントの承認日ビューを示す画面の画像](assets/document-approval-dates.png)
+![ドキュメントの承認日ビューを示す画面画像](assets/document-approval-dates.png)
 
 ## プルーフの承認
 
