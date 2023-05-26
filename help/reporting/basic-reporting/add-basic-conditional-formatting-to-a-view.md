@@ -11,10 +11,10 @@ team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0ee80dceb8208bd0360fd8c9ab68fb8a73677a9d
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 100%
+source-wordcount: '449'
+ht-degree: 81%
 
 ---
 
@@ -29,9 +29,22 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
+## 概要
+
+条件付き書式を作成するには：
+
+1. 書式を表示する列を選択します
+1. 書式を変更する条件を決定します
+1. どのような書式の変更が最適かを決定します
+
+   * 背景色
+   * テキストの色
+   * 置換テキスト
+   * アイコンを表示
+
 ## アクティビティ：ビューに条件付き書式を追加
 
-既存の標準ビューを使用し、この条件付き書式を[!UICONTROL 名前]列に追加して、「標準 + 進捗」という名前のタスクビューを作成します。
+既存の標準ビューを使用し、この条件付き書式を [!UICONTROL 名前] 列。
 
 1. タスクの進捗ステータスが遅延の場合にフィールドの背景を赤くする段間罫線を追加します。
 1. 進捗ステータスが遅れているまたはリスクありの場合にフィールドの背景を黄にする段間罫線を追加します。
@@ -43,13 +56,13 @@ ht-degree: 100%
 ![新しい段間罫線を作成する画面の画像](assets/conditional-formatting-exercise.png)
 
 1. タスクリストレポートで、「**[!UICONTROL ビュー]**」ドロップダウンメニューに移動し、「**[!UICONTROL 新規ビュー]**」を選択します。
-1. ビューに「標準 + 進捗」という名前を付けます。
+1. ビューに「Standard + Progress」と名前を付けます。
 1. 指定したデフォルトの列を使用します。
 1. [!UICONTROL タスク名]列を選択します。これは条件付き書式を適用する列なので、タスクの進捗ステータスが時間どおりでない場合は赤または黄で表示されます。
 1. Report Builder ウィンドウの右上隅にある「**[!UICONTROL 詳細オプション]**」をクリックします。
 1. 「**[!UICONTROL この列にルールを追加]**」をクリックします。
 1. ウィンドウの上部にある[!UICONTROL タスク]／[!UICONTROL 名前]を[!UICONTROL タスク]／[!UICONTROL 進捗ステータス]に変更して、段間罫線を開始します。[!UICONTROL タスク]／[!UICONTROL 名前]の横にある「**[!UICONTROL X]**」アイコンをクリックするだけで、フィールドから削除できます。
-1. フィールドに「進捗」と入力し、「[!UICONTROL タスク]」フィールドソースの下にある「[!UICONTROL 進捗ステータス]」を選択します。
+1. フィールドに「進行状況」を入力し、「 」を選択します。 [!UICONTROL 進捗状況ステータス] の下に [!UICONTROL タスク] フィールドソース。
 1. [!UICONTROL 次と等しい]修飾子の右側にあるフィールドで「**[!UICONTROL 遅延]**」を選択します。
 1. [!UICONTROL テキストのカラー]行で赤の背景を選択します。
 1. 「**[!UICONTROL ルールを追加]**」をクリックして、段間罫線を保存します。
