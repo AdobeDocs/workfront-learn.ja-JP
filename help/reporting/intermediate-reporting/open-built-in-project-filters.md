@@ -11,10 +11,10 @@ team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 11%
+ht-degree: 40%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 11%
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 
-## アクティビティ：プロジェクトファイラーの作成
+## アクティビティ：プロジェクトフィルターの作成
 
 所有するすべてのアクティブなプロジェクトを表示したい場合。「アクティブ」は、プロジェクトのステータスが Planning または Current と同じであることを意味します。 「プロジェクト」領域で、「自分が所有するアクティブなプロジェクト」という名前のプロジェクトフィルタを作成します。
 
@@ -38,4 +38,4 @@ ht-degree: 11%
 
 ![プロジェクトフィルターを作成する画面の画像](assets/opening-built-in-project-filters-1.png)
 
-特定のプログラムやポートフォリオ内のプロジェクトを探すなど、追加のフィルタールールを含めることができます。 その場合、Workfrontでは、フィルターの名前を、「マーケティングPortfolioで所有するアクティブなプロジェクト」など、適切に説明的な名前に変更することをお勧めします。
+特定のプログラムやポートフォリオ内のプロジェクトを検索するなど、追加のフィルタールールを含めることができます。その場合、Workfrontでは、フィルターの名前を、「マーケティングPortfolioで所有するアクティブなプロジェクト」など、適切に説明的な名前に変更することをお勧めします。

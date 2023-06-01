@@ -10,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+workflow-type: tm+mt
+source-wordcount: '433'
+ht-degree: 94%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 * **プロジェクトレベルでの計算** - 親タスクとプロジェクトの [!UICONTROL EAC] は、[!UICONTROL EAC] 式の実際の時間数／実際の労力コストを使用して決定されます。計算には、親タスクまたはプロジェクトに直接追加された実際の時間数／コストと費用が含まれます。
 * **タスク／サブタスクからのロールアップ** - 親タスクとプロジェクトの [!UICONTROL EAC] は、各子タスクの [!UICONTROL EAC] を合計することによって決定されます。この計算では、親タスクまたはプロジェクトに直接追加された実際の時間数／コストは除外されます。
 
-[!UICONTROL EAC] の計算は、<!-- link to article -->[!UICONTROL [!DNL Workfront] One の記事] の「完了時の見積もり（EAC）の計算」に記載されています。
+この [!UICONTROL EAC] 計算のリストは [完了時の推定 (EAC) を計算](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
 
 **パフォーマンス指標：設定**
 

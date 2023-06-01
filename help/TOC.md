@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '2366'
+source-wordcount: '2367'
 ht-degree: 97%
 
 ---
@@ -478,10 +478,10 @@ ht-degree: 97%
       + [プルーフの役割とメールアラート](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [プルーフに関するレポート](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [リスクありプルーフ設定のデフォルトの指定](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [グローバル配達確認設定の設定](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [デフォルトのプルーフの役割を設定](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [プルーフアカウントのデフォルト設定の指定](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [プルーフユーザーの設定](workfront-proof/administration-and-setup/settings-for-proof-users.md)
-      + [プルーフのグローバル設定](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
    + プルーフのアップロード {#upload-proofs}
       + [プルーフのバージョンとは](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [プルーフのバージョンをアップロードするユーザー](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)

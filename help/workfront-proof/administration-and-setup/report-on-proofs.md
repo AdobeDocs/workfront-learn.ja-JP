@@ -10,18 +10,18 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
-source-wordcount: '429'
-ht-degree: 100%
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 76%
 
 ---
 
 # プルーフに関するレポート
 
-[!DNL Workfront] のデジタルプルーフ機能を使用すると、プロジェクトと関連するレビューワークフローを [!DNL Workfront] で一元管理できます。レビューおよび承認情報を表示するレポートタイプ、フィールドソース、フィールド名を使用して行なわれるプルーフ作業に関する有益な情報を得ます。
+[!DNL Workfront]のデジタル校正機能を使用すると、プロジェクトと関連するレビューワークフローを 1 か所で管理できます。 [!DNL Workfront]. レビューおよび承認情報を表示するレポートタイプ、フィールドソース、フィールド名を使用して行なわれるプルーフ作業に関する有益な情報を得ます。
 
-[!DNL Workfront] コンサルタントと協力して、組織の要件を満たすレポートを作成することをお勧めします。一部のレポートでは、[!DNL Workfront] のテキストモードレポートに関する十分な知識が必要です。
+を [!DNL Workfront] コンサルタントに問い合わせて、組織の要件を満たすレポートを作成してもらいます。 一部のレポートでは、 [!DNL Workfront]のテキストモードレポート。
 
 これらの基本的で標準的なレポートから始めて、チームが [!DNL Workfront] のレビューと承認プロセスを経たプルーフを管理できるようにします。
 
@@ -31,15 +31,15 @@ ht-degree: 100%
 
 ![[!UICONTROL 新しいレポート]ドロップダウンメニューから「[!UICONTROL プルーフの承認]」を選択する](assets/proof-system-setups-proof-approval-report.png)
 
-表示およびフィルターのオプションには、[!UICONTROL 決定日]、[!UICONTROL プルーフの承認]、[!UICONTROL 承認者ステージ]、[!UICONTROL ワークフローテンプレート]、[!UICONTROL 依頼者情報]が含まれます。テキストモードのレポートを使用すると、ドキュメント名でリストを整理するグループ化を作成できます。
+表示およびフィルターのオプションには、[!UICONTROL 決定日]、[!UICONTROL プルーフの承認]、[!UICONTROL 承認者ステージ]、[!UICONTROL ワークフローテンプレート]、[!UICONTROL 依頼者情報]が含まれます。テキストモードのレポートを使用すると、ドキュメント名でリストを整理するグループ化を作成できます。詳しくは、 [グループ化の基本的なテキストモードを理解する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
 
-プルーフ確認の承認レポートを作成する場合は、プルーフ確認の最新バージョンに関する情報を持っているようにしてください。[!DNL Workfront] では、このフィールドのソースとフィールド名をフィルターに含めることをお勧めします。
+配達確認の承認レポートを作成する場合は、配達確認の最新バージョンに関する情報を取得していることを確認してください。 [!DNL Workfront] では、このフィールドのソースとフィールド名をフィルターに含めることをお勧めします。
 
 **[!UICONTROL プルーフの承認]／[!UICONTROL 現在のドキュメントのバージョン]**
 
 ![Report Builder の「フィルター」タブ](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-承認が必要な各プルーフの現在のバージョンのみがレポートにリストされるように、複数のバージョンがあるプルーフについてレポートする場合に便利です。これにより、作業する必要がなくなった以前のバージョンが除外されます。
+これは、複数のバージョンを持つ配達確認のレポートで、承認が必要な各配達確認の現在のバージョンのみがレポートに表示されるようにする場合に役立ちます。 これにより、作業する必要がなくなった以前のバージョンが除外されます。
 
 ## [!UICONTROL ドキュメント バージョン]
 
