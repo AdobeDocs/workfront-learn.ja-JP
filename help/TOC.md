@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2368'
 ht-degree: 97%
 
 ---
@@ -364,10 +364,10 @@ ht-degree: 97%
 
 + Fusion {#fusion}
    + Workfront Fusion へようこそ {#welcome-to-workfront-fusion}
-      + [Workfront Fusion の概要](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+      + [概要と技術戦略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [Workfront Fusion トレーニングの概要](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Workfront Fusion 演習ファイルの設定](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [新規ユーザーとしてログイン](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-      + [概要と技術戦略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [コア概念](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
    + 基本について {#understand-the-basics}
       + [初期シナリオデザインのチュートリアル](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
