@@ -1,19 +1,19 @@
 ---
-title: ホームで TODO リストを整理する
+title: ホームで TODO リストを整理
 description: このビデオでは、作業の割り当てを並べ替える方法、タイプ別に割り当てをフィルタリングする方法、開始する準備が整った作業を特定する方法、および作業の割り当てを承認する方法について説明します。
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 
-# ホームで TODO リストを整理する
+# ホームで TODO リストを整理
 
 このビデオでは、次の方法を学習します：
 
