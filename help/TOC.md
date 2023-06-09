@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '2368'
+source-wordcount: '2370'
 ht-degree: 97%
 
 ---
@@ -23,8 +23,10 @@ ht-degree: 97%
       + [ユーザーへのライセンスとアクセスレベルの設定](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
       + [担当業務の作成と管理](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [別のユーザーとしてのログイン](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
+
    + 削除された項目の管理 {#manage-deleted-items}
       + [ごみ箱からのオブジェクトの復元](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
+
    + システムのデフォルトの設定 {#configure-system-defaults}
       + [グローバルなデフォルトのプロジェクト設定の指定](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
       + [デフォルトのイシュータイプについて](administration-and-setup/configure-system-defaults/default-issue-types.md)
@@ -33,6 +35,7 @@ ht-degree: 97%
       + [イシューの重要度の作成と管理](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [イシューのタイプと用語をカスタマイズする](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [グローバルなデフォルトのイシュー環境設定を構成する](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+
    + レイアウトテンプレート {#layout-templates}
       + [レイアウトテンプレートとは](administration-and-setup/layout-templates/what-are-layout-templates.md)
       + [レイアウトテンプレートの検索](administration-and-setup/layout-templates/find-layout-templates.md)
@@ -45,6 +48,8 @@ ht-degree: 97%
       + [レイアウトテンプレートを使用したプロジェクト詳細のカスタマイズ](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
       + [レイアウトテンプレートを使用したプロジェクトヘッダーのカスタマイズ](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [レイアウトテンプレートを使用したレポートリストのカスタマイズ](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
+
+
    + メール通知およびアプリ内通知 {#email-and-in-app-notifications}
       + [アプリ内通知およびメール通知の管理](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
       + [イベント通知の設定](administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
@@ -53,6 +58,7 @@ ht-degree: 97%
       + [作業アイテムにリマインダー通知を添付](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
       + [自動リマインダーの設定](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [作業アイテムの購読](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
+
    + ユーザーの作成と管理 {#create-and-manage-users}
       + [ユーザーを追加](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [個々のユーザーの作成](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
@@ -60,19 +66,13 @@ ht-degree: 97%
       + [ユーザー情報の変更](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [ユーザーをディアクティベートまたは削除するタイミングと方法](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [システム監査ログについて](administration-and-setup/create-and-manage-users/system-audit-log.md)
+
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グループ固有の承認プロセスについて](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [マイルストーンの作成](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+
    + システムのパフォーマンスとメンテナンス {#system-perfomance-and-maintenance}
       + [既存の Adobe Workfront インスタンスの担当](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
-
-
-
-
-
-
-
-
 
 
 + カスタムデータ {#custom-data}
@@ -82,6 +82,7 @@ ht-degree: 97%
       + [カスタムフォームの編集](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [カスタムフォームをオブジェクトへ添付](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォーを PDF として書き出し](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+
    + 計算式 {#calculated-expressions}
       + [計算フィールドと式の基本を学ぶ](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
       + [データ式の構造を学ぶ](custom-data/calculated-expressions/data-expression-structure.md)
@@ -95,7 +96,6 @@ ht-degree: 97%
       + [ISBLANK 式と CONTAINS 式の使用](custom-data/calculated-expressions/isblank-and-contains.md)
       + [IF テキスト式の作成](custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [計算フィールドの式に関する注意事項](custom-data/calculated-expressions/things-to-know-about-expressions.md)
-
 
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
@@ -114,6 +114,7 @@ ht-degree: 97%
       + [プロジェクト指標を使用した作業の進捗の追跡](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL ガント]ビューについて](manage-work/projects/understand-the-gantt-view.md)
       + [プロジェクトを閉じる](manage-work/projects/change-the-project-status.md)
+
    + タスク {#tasks}
       + [タスクの作成](manage-work/tasks/how-to-create-tasks.md)
       + [親子タスクについて](manage-work/tasks/understand-parent-child-tasks.md)
@@ -123,6 +124,7 @@ ht-degree: 97%
       + [タスクの順序付けを学ぶ](manage-work/tasks/learn-to-sequence-tasks.md)
       + [予定時間数について](manage-work/tasks/understand-planned-hours.md)
       + [[!UICONTROL 作業量]について](manage-work/tasks/understand-work-effort.md)
+
    + イシュー／リクエスト {#issues-requests}
       + [予定外作業の処理](manage-work/issues-requests/handle-unplanned-work.md)
       + [リクエストする](manage-work/issues-requests/make-a-request.md)
@@ -132,33 +134,39 @@ ht-degree: 97%
       + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
       + [リクエストからのプロジェクトの作成](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [イシューを他の作業アイテムに変換](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [デジタル作業のレビュー](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [デジタル作品のレビューと承認](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [イシューに関するレポート](manage-work/issues-requests/report-on-issues.md)
+
    + ポートフォリオ {#portfolios}
       + [ポートフォリオの概要](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [ビジネスケースの概要](portfolios-and-programs/introduction-to-the-business-case.md)
       + [ポートフォリオを使用した作業の優先順位と管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+
    + リクエストキュー {#request-queues}
       + [リクエストキューについて](manage-work/request-queues/understand-request-queues.md)
       + [フローリクエストの設定について](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [リクエストキューの作成](manage-work/request-queues/create-a-request-queue.md)
       + [リクエストフローの作成](manage-work/request-queues/create-a-request-flow.md)
       + [リクエストキューに関するよくある質問への回答](manage-work/request-queues/request-queue-faq.md)
+
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [1 回限りの承認プロセスの作成](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [既存の承認プロセスの添付と編集](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [タスク、イシュー、承認を委任する](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [マイルストーンの適用](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
       + [プロジェクトテンプレートの作成](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトのコピー](manage-work/manage-projects/copy-an-existing-project.md)
+
    + プロジェクトタイムライン {#project-timelines}
       + [プロジェクトタイムラインについて](manage-work/project-timelines/understand-project-timelines.md)
       + [日付タイプと進捗ステータスについて](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [プロジェクトタイムラインからの進捗の追跡](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトを閉じる](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [タスクおよびイシューを閉じる](manage-work/close-a-project/close-tasks-and-issues.md)
@@ -167,6 +175,7 @@ ht-degree: 97%
       + [教訓の記録](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [時間のログ記録とレビュー](manage-work/close-a-project/log-and-review-hours.md)
       + [プロジェクトアクティビティを閉じる](manage-work/close-a-project/close-a-project-activity.md)
+
    + プロジェクトの財務 {#project-finances}
       + [パフォーマンス指標について](manage-work/project-finances/understand-performance-metrics.md)
       + [タスクの収益とコストのデフォルトの設定](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
@@ -176,15 +185,6 @@ ht-degree: 97%
       + [財務の更新とレビュー](manage-work/project-finances/update-and-review-finances.md)
       + [財務情報の検索](manage-work/project-finances/find-financial-information.md)
       + [複数の請求レートについて](manage-work/project-finances/multiple-billing-rates.md)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -208,6 +208,7 @@ ht-degree: 97%
       + [カスタムカレンダーの作成](reporting/basic-reporting/creating-custom-calendars.md)
       + [追加のカレンダーオプションについて](reporting/basic-reporting/additional-calendar-options.md)
       + [カレンダーを作成してみましょう](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+
    + 中間レポート {#intermediate-reporting}
       + [ユーザーベースのワイルドカードを使用してフィルターを作成する](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [日付ベースのワイルドカードを使用したフィルターの作成](reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
@@ -219,11 +220,13 @@ ht-degree: 97%
       + [ビューの基本的なテキストモードについて](reporting/intermediate-reporting/basic-text-mode-for-views.md)
       + [グループ化の基本的なテキストモードについて](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [カスタムプロンプトの作成](reporting/intermediate-reporting/custom-prompts.md)
+
    + 詳細レポート {#advanced-reporting}
       + [詳細レポート機能へようこそ](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
       + [詳細レポート第 1 部](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [詳細レポート第 2 部](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高度なレポート第 3 部](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
    + Enhanced Analytics {#enhanced-analytics}
       + [製品に関する情報 [!UICONTROL 分析の強化]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
@@ -249,15 +252,13 @@ ht-degree: 97%
       + [エンドユーザーのユースケースについて](reporting/enhanced-analytics/22-end-user-use.md)
       + [コンサルティングガイダンスについて](reporting/enhanced-analytics/23-consulting-guidance.md)
 
-
-
-
 + リソースの管理 {#manage-resources}
    + リソース管理 {#resource-management}
       + [リソース管理の成熟度](manage-resources/resource-management/resource-management-maturity.md)
       + [プロジェクトのリソース管理設定](manage-resources/resource-management/settings-for-projects.md)
       + [ユーザーのリソース管理設定](manage-resources/resource-management/settings-for-users.md)
       + [リソース管理の設定、ワークロードバランサー、稼働率レポート](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+
    + ワークロードバランサー {#workload-balancer}
       + [ワークロードバランサーの検索](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [ワークロードバランサーのフィルタリング](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
@@ -265,18 +266,21 @@ ht-degree: 97%
       + [ワークロードバランサーでの毎日の割り当ての調整](manage-resources/workload-balancer/adjust-daily-allocations.md)
       + [ワークロードバランサーで考慮すべき設定](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
       + [ワークロードバランサーでの作業の割り当て](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
+
    + リソースプランニング {#resource-planning}
       + [リソースプランナーとは](manage-resources/resource-planning/what-is-the-resource-planner.md)
       + [稼働率の表示](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
       + [ユーザー別に表示](manage-resources/resource-planning/view-by-users/view-by-users.md)
       + [担当業務別に表示](manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [プロジェクト別に表示](manage-resources/resource-planning/view-by-project/view-by-project.md)
+
    + 個人の休暇カレンダー {#personal-time-off-calendar}
       + [休暇カレンダーを使用する理由](manage-resources/pto/why-use-time-off-calendar.md)
       + [休暇がプロジェクトのタイムラインに与える影響](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [他のユーザーの休暇の管理](manage-resources/pto/manage-other-users-time-off.md)
       + [タスクの割り当て時の休暇の表示](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [リソース管理ツールでの表示](manage-resources/pto/visibility-in-resource-management-tools.md)
+
    + シナリオプランナー {#scenario-planner}
       + [シナリオ・プランナに関する製品の瞬間](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [シナリオプランナーとは](manage-resources/scenario-planner/what-is-scenario-planner.md)
@@ -287,10 +291,6 @@ ht-degree: 97%
       + [プランの更新とコピー](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [シナリオの公開](manage-resources/scenario-planner/publish-a-scenario.md)
 
-
-
-
-
 + Workfront Goals {#workfront-goals}
    + 組織のビジョンの確立 {#establish-a-vision-and-strategy}
       + [Workfront Goals の背後にあるビジョンについて](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
@@ -300,46 +300,51 @@ ht-degree: 97%
       + [明確な目的ステートメントの作成](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [企業や組織の目標に関する共同作業](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [グループやチームの戦略に対する足並みを揃える](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+
    + 目標の作成 {#create-goals}
       + [[!UICONTROL Workfront Goals] の概要](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [組織の [!UICONTROL Workfront Goals] の設定](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [選択したユーザーに対する目標へのアクセス権の付与](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [[!UICONTROL Workfront Goals] ユーザー用のレイアウトテンプレートの作成](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [目標の作成](workfront-goals/create-your-goals/create-goals-in-workfront.md)
+
    + 目標のアクティベート {#activate-goals}
       + [目標のアクティベート](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [目標を別の目標に合わせたアクティベート](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [目標への結果の追加](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [目標へのアクティビティとプロジェクトの追加](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+
    + 目標の管理 {#manage-goals}
       + [目標の整列](workfront-goals/manage-your-goals/align-your-goals.md)
       + [目標の整合性の削除](workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [結果とアクティビティの進行状況を更新](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [完了後に目標を閉じる](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
+
    + 目標の監視 {#monitor-goals}
       + [「グラフ」セクションについて](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
       + [目標の進捗の計算](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [目標ステータスを伝える](workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
 
-
-
-
-
 + 統合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
       + [Creative Cloud 用の Adobe Workfront プラグインの使用](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja)
       + [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ja)
       + [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ja)
       + [バージョン履歴](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ja)
+
    + G Suite {#g-suite-integrations}
       + [G Suite 統合によるワークフローの強化](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+
    + Jira {#jira}
       + [ [!DNL Jira]  統合によって視認性を高める](integrations/jira/jira.md)
+
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](integrations/outlook/integrations-microsoft-outlook.md)
+
    + Microsoft Teams {#ms-teams}
       + [Adobe Workfront for Microsoft Teams の概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ja)
       + [Adobe Workfront for Microsoft Teams のインストール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ja)
@@ -348,6 +353,7 @@ ht-degree: 97%
       + [Microsoft Teams からの Adobe Workfront タスクの作成](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ja)
       + [Microsoft Teams からの Adobe Workfront リクエストの送信](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ja)
       + [Microsoft Teams での Adobe Workfront 通知の管理](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ja)
+
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] について](integrations/slack/introduction-to-workfront-for-slack.md)
       + [[!UICONTROL Slack] での最近の作業の表示](integrations/slack/view-recent-work-through-slack.md)
@@ -356,19 +362,14 @@ ht-degree: 97%
       + [[!UICONTROL Slack] での承認の実行](integrations/slack/make-approvals-through-slack.md)
       + [[!UICONTROL Slack] での Workfront の検索](integrations/slack/search-workfront-through-slack.md)
 
-
-
-
-
-
-
 + Fusion {#fusion}
    + Workfront Fusion へようこそ {#welcome-to-workfront-fusion}
       + [概要と技術戦略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [新規ユーザーとしてログイン](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [Workfront Fusion トレーニングの概要](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Workfront Fusion 演習ファイルの設定](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
-      + [新規ユーザーとしてログイン](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [コア概念](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
+
    + 基本について {#understand-the-basics}
       + [初期シナリオデザインのチュートリアル](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
       + [マッピングパネルと数式エディター](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
@@ -377,6 +378,7 @@ ht-degree: 97%
       + [フィルターの使用](fusion/2-understand-the-basics/use-filters.md)
       + [フィルターのチュートリアル](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [以前のバージョンへのアクセスのチュートリアル](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+
    + ユニバーサルコネクタとルーティング {#universal-connectors-and-routing}
       + [ユニバーサルコネクタの演習の概要](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [ユニバーサルコネクタの概要のチュートリアル](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
@@ -386,18 +388,21 @@ ht-degree: 97%
       + [ルーティングパターンのチュートリアル](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [設定と取得](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [get／set 変数のチュートリアル](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+
    + イテレーションと集計 {#iteration-and-aggregation}
       + [イテレータの概要](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [イテレータの概要のチュートリアル](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
       + [集計の概要](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [集計のチュートリアル](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
       + [高度な集計のチュートリアル](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+
    + 実行履歴とスケジュール {#execution-history-and-scheduling}
       + [実行履歴の概要](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [実行履歴のチュートリアル](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
       + [シナリオスケジュールについて](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [実行、サイクル、バンドルのバランス](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [実行、サイクル、バンドルのチュートリアル](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+
    + 基本モジュールを超える {#beyond-basic-modules}
       + [追加のアプリと一般的なモジュールについて](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [switch 関数の使用](fusion/6-beyond-basic-modules/switch-it-up.md)
@@ -405,17 +410,20 @@ ht-degree: 97%
       + [スイッチモジュールのチュートリアル](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [Webhook の世界について](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhook のチュートリアル](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+
    + データ構造とデータストア {#data-structures-and-data-stores}
       + [データ構造について](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [データ構造のチュートリアル](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
       + [データストアについて](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [データストアのチュートリアル](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+
    + 最終的な機能の断片的な情報 {#final-functional-bits-and-bobs}
       + [Workfront アプリのチュートリアル](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
       + [配列のコレクションと要素について](fusion/8-final-functional-bits-and-bobs/understand-arrays-collections-and-elements.md)
       + [配列のチュートリアル](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [シナリオでの JSON について](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [JSON の操作のチュートリアル](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+
    + トラブルシューティングとエラー処理 {#troubleshooting-and-error-handling}
       + [開発ツールを使用した詳細なトラブルシューティング](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [開発ツールのチュートリアル](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
@@ -424,9 +432,11 @@ ht-degree: 97%
       + [エラー処理のチュートリアル](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
       + [不完全な実行について](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
       + [不完全な実行のチュートリアル](fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
+
    + Workfront Fusion 管理 {#workfront-fusion-administration}
       + [組織のチームおよびユーザーについて](fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
       + [管理のチュートリアル](fusion/10-workfront-fusion-administration/administration-walkthrough.md)
+
    + デザインの最適化とテスト {#design-optimization-and-testing}
       + [明確なユースケースの定義、および最適なアプローチの検索](fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
       + [Workfront Fusion シナリオの最適化](fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
@@ -455,16 +465,6 @@ ht-degree: 97%
       + [JSON の操作](fusion/12-exercises/working-with-json.md)
       + [開発ツール](fusion/12-exercises/devtool.md)
 
-
-
-
-
-
-
-
-
-
-
 + Workfront プルーフ {#workfront-proof}
    + [プルーフのメリットを学ぶ](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [ドキュメントとプルーフの違いについて](workfront-proof/document-vs-proof.md)
@@ -482,6 +482,7 @@ ht-degree: 97%
       + [デフォルトのプルーフの役割を設定](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [プルーフアカウントのデフォルト設定の指定](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [プルーフユーザーの設定](workfront-proof/administration-and-setup/settings-for-proof-users.md)
+
    + プルーフのアップロード {#upload-proofs}
       + [プルーフのバージョンとは](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [プルーフのバージョンをアップロードするユーザー](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
@@ -495,12 +496,14 @@ ht-degree: 97%
       + [自動ワークフローでのプルーフのアップロード](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [ドラッグ＆ドロップでアップロード](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [複数ファイルを単一プルーフに結合](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
+
    + プルーフワークフロー {#proof-workflows}
       + [プロジェクトタイムラインの一部としてのプルーフワークフローについて](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [プルーフワークフローの編集](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [テンプレートグループの作成と自動ワークフローテンプレートの整理](workfront-proof/administration-and-setup/create-template-groups.md)
       + [自動ワークフローテンプレートの作成](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [自動ワークフローテンプレートの編集](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
+
    + 作業のレビューと承認 {#review-and-approve-work-for-proof}
       + [プルーフビューアの移動](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
       + [プルーフの確認と承認](workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
@@ -511,9 +514,6 @@ ht-degree: 97%
       + [プルーフのコメントの管理](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [プルーフの進捗状態を追跡する](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-
-
-
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
       + [ [!DNL Workfront DAM]について](workfront-dam/system-setup/introduction-to-workfront-dam.md)
@@ -523,6 +523,7 @@ ht-degree: 97%
       + [グループとユーザーの設定](workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [ [!DNL Workfront DAM]のカスタマイズ](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [キーワード分類の有効化と適用](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
@@ -532,6 +533,7 @@ ht-degree: 97%
       + [メタデータマッピングの設定](workfront-dam/metadata-and-keywords/metadata-mapping.md)
       + [メタデータキーワードの設定](workfront-dam/metadata-and-keywords/keyword-setup.md)
       + [メタデータの設定](workfront-dam/metadata-and-keywords/metadata-setup.md)
+
    + Brand Connect のカスタマイズ {#brand-connect-customization}
       + [[!UICONTROL Brand Connect] とは](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [[!UICONTROL Brand Connect] でのシステム設定の確立](workfront-dam/brand-connect-customization/establish-system-settings.md)
@@ -539,6 +541,7 @@ ht-degree: 97%
       + [[!UICONTROL Brand Connect] でのブランドガイドラインの作成](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
       + [[!UICONTROL Brand Connect] の外観のカスタマイズ](workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [[!UICONTROL Brand Connect] の外観のカスタマイズ](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
+
    + Workfront DAM ユーザー：コントリビューター {#workfront-dam-contributor}
       + [コントリビューターとして [!UICONTROL Workfront DAM] を理解する](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [コントリビューターとしてのアセット管理を理解する](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
@@ -549,6 +552,7 @@ ht-degree: 97%
       + [コントリビューターとしてのファイルの送信](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [コントリビューターとしてのアセットの公開](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [[!UICONTROL Workfront DAM] リンク](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
+
    + Brand Connect ユーザー {#brand-connect}
       + [ユーザーとしての [!UICONTROL Brand Connect] について](workfront-dam/brand-connect-user/brand-connect-introduction.md)
       + [[!UICONTROL Brand Connect] の通知について](workfront-dam/brand-connect-user/brand-connect-notifications.md)
@@ -556,10 +560,6 @@ ht-degree: 97%
       + [ユーザーとしてのライトボックスについて](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [ユーザーとしてのナビゲーションと検索について](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [ユーザーとしてのアセットの操作](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
-
-
-
-
 
 + ホーム {#home}
    + [作業の検索](workfront-home/find-your-work-in-workfront-home.md)
@@ -582,9 +582,11 @@ ht-degree: 97%
       + [バックログの調整](agile/gooming-the-backlog.md)
       + [イテレーションと作成](agile/plan-and-create-an-iteration.md)
       + [イテレーションページの使用](agile/using-the-iteration-page.md)
+
    + かんばん {#kanban}
       + [かんばんチームの作成](agile/create-a-kanban-team.md)
       + [かんばんチームとしての作業の管理](agile/manage-work-kanban-team.md)
+
    + ボード {#boards}
       + [基本ボードの検索と作成](boards/find-and-create-a-basic-board.md)
       + [ボードの列の管理](boards/manage-board-columns.md)
@@ -593,8 +595,6 @@ ht-degree: 97%
       + [ボードのチームメンバーの追加と管理](boards/add-and-manage-team-members-for-a-board.md)
       + [ボードの列設定の追加と編集](boards/add-and-edit-column-settings-on-a-board.md)
       + [カードのタグの追加と管理](boards/add-and-manage-tags-for-cards.md)
-
-
 
 + ベストプラクティス {#best-practices}
    + [アジャイル](best-practices/agile-bp.md)

@@ -10,10 +10,10 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 72%
+ht-degree: 66%
 
 ---
 
@@ -31,7 +31,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 >[!TIP]
 >
->チュートリアルを完了するための段階的な手順については、[イテレータの概要チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=ja)の演習にアクセスしてください。
+>チュートリアルを完了するための段階的な手順については、[イテレータの概要チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=en)の演習にアクセスしてください。
 
 
 ## 詳細情報 以下をお勧めします。

@@ -10,10 +10,10 @@ level: Beginner
 kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 70%
 
 ---
 
@@ -25,7 +25,11 @@ ht-degree: 100%
 
 ## 管理のチュートリアル
 
-Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
+このビデオでは、次の内容について説明します。
+
+* 組織とチーム間のナビゲート方法
+* チームの作成方法
+* ユーザーを組織およびチームに招待する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
