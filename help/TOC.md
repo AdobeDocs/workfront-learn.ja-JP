@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2370'
+source-wordcount: '2374'
 ht-degree: 97%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 97%
 
    + システムのパフォーマンスとメンテナンス {#system-perfomance-and-maintenance}
       + [既存の Adobe Workfront インスタンスの担当](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + プロジェクトの財務 {#project-finances}
+      + [パフォーマンス指標について](manage-work/project-finances/understand-performance-metrics.md)
+      + [タスクの収益とコストのデフォルトの設定](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [為替レートの設定](manage-work/project-finances/set-up-exchange-rates.md)
+      + [費用タイプを設定する](manage-work/project-finances/set-up-expense-types.md)
+      + [財務アクセスについて](manage-work/project-finances/understand-financial-access.md)
 
 
 + カスタムデータ {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 97%
       + [時間のログ記録とレビュー](manage-work/close-a-project/log-and-review-hours.md)
       + [プロジェクトアクティビティを閉じる](manage-work/close-a-project/close-a-project-activity.md)
 
-   + プロジェクトの財務 {#project-finances}
-      + [パフォーマンス指標について](manage-work/project-finances/understand-performance-metrics.md)
-      + [タスクの収益とコストのデフォルトの設定](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [為替レートの設定](manage-work/project-finances/set-up-exchange-rates.md)
-      + [費用タイプを設定する](manage-work/project-finances/set-up-expense-types.md)
-      + [財務アクセスについて](manage-work/project-finances/understand-financial-access.md)
+   + ユーザーのプロジェクトの財務 {#project-finances-users}
       + [財務の更新とレビュー](manage-work/project-finances/update-and-review-finances.md)
       + [財務情報の検索](manage-work/project-finances/find-financial-information.md)
       + [複数の請求レートについて](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + レポート {#reporting}
