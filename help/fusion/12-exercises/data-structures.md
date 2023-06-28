@@ -1,19 +1,19 @@
 ---
 title: データ構造
-description: ソースファイルのデータを宛先ファイルに変換します。 （60 ～ 160 文字の範囲で指定しますが、58 文字にする必要があります）
+description: ソースファイルのデータを宛先ファイルに変換します。 （60～160 文字の範囲で指定しますが、58 文字になっています）
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11054
+jira: KT-11054
 thumbnail: KT11054.png
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 演習の概要
 
-時間エントリのリストを含む CSV ファイルを開きます。 これらの時間エントリは、複数のユーザーが特定の日を通じて記録する分数です。 目標は、この情報を取得し、新しい CSV を作成して、各ユーザーが毎日記録した合計時間（時間単位）を示すことです。
+時間エントリのリストを含む CSV ファイルを開きます。これらの時間エントリは、複数のユーザーによって特定の日にログ記録された分です。目標は、この情報を取得して、各ユーザーが毎日ログ記録した合計時間を時間単位で示す新しい CSV を作成することです。
 
 ![データ構造画像 1](../12-exercises/assets/data-structures-walkthrough-1.png)
 
@@ -41,27 +41,27 @@ ht-degree: 0%
 1. 2 つ目の CSV モジュールで、出力ファイルを設定します。
 1. 最終モジュールで、CSV ファイルをWorkfrontにアップロードします。
 
-## 従う手順
+## 手順
 
-**Workfrontからファイルをダウンロードします。**
+**Workfront からファイルをダウンロードします。**
 
 1. Workfrontの「Fusion Exercise Files」フォルダで、「_Fusion1.0JanTime.csv」を選択し、「ドキュメントの詳細」をクリックします。
 1. URL アドレスから最初の ID 番号をコピーします。
 1. 新しいシナリオを作成します。 「データ構造の作成と使用」という名前を付けます。
-1. まず、Workfrontアプリからドキュメントをダウンロードモジュールを使用します。
-1. Workfront接続を設定し、Workfront URL からコピーしたドキュメント ID を含めます。
+1. まず、Workfront アプリから「ドキュメントをダウンロード」モジュールを起動します。
+1. Workfront 接続を設定し、Workfront URL からコピーしたドキュメント ID を含めます。
 
    ![データ構造画像 3](../12-exercises/assets/data-structures-walkthrough-3.png)
 
    **時間入力データを解析します。**
 
-1. 「 CSV を解析」を選択して、別のモジュールを追加します。
-1. 7 列用に CSV を解析を設定します。 「 CSV にヘッダーを含む」ボックスをオンにします。 Comma delimiterType を選択し、「 CSV 」フィールドにデータを入力します。
+1. 「CSV を解析」を選択して、別のモジュールを追加します。
+1. 7 列用に「CSV を解析」を設定します。「CSV にヘッダーを含む」ボックスをオンにします。Comma delimiterType を選択し、「 CSV 」フィールドにデータを入力します。
 
    ![データ構造画像 4](../12-exercises/assets/data-structures-walkthrough-4.png)
 
 1. 「1 回実行」をクリックして出力を表示します。
-1. 実行インスペクターを開いて、「CSV を解析」モジュールの入力と出力を確認します。 入力として 1 つのバンドル（CSV ファイル）、出力として複数のバンドル（CSV ファイルの各行に 1 つのバンドル）があります。 次のようになります。
+1. 実行インスペクターを開いて、「CSV を解析」モジュールの入力と出力を確認します。 入力として 1 つのバンドル（CSV ファイル）、出力として複数のバンドル（CSV ファイルの各レコードに 1 つのバンドル）があります。次のようになります。
 
    ![データ構造画像 5](../12-exercises/assets/data-structures-walkthrough-5.png)
 

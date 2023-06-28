@@ -8,10 +8,10 @@ thumbnail: analytics-prerequisites.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10027
+jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 100%
 

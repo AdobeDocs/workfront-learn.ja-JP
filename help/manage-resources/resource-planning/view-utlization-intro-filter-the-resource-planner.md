@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: view-utilization.png
-kt: 10187
+jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
-source-git-commit: 9e97819d4f07933d903f4bc26841adb9e52a785a
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 

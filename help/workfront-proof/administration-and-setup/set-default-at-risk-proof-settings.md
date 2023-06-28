@@ -8,10 +8,10 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
-kt: 10234
+jira: KT-10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 100%
 

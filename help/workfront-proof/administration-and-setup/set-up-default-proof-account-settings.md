@@ -8,10 +8,10 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: set-up-proof-actual-default-settings.png
-kt: 10236
+jira: KT-10236
 exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 100%
 

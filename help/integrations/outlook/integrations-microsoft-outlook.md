@@ -7,13 +7,13 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8814
+jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 69%
 
 >[!IMPORTANT]
 >
->このビデオで説明されているWorkfrontアドインが見つからない場合は、IT 部門が最初に設定作業をおこなう必要が生じる場合があります。 詳細な手順については、 [Outlook 用のAdobe Workfrontのセットアップ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>ビデオで説明しているように Workfront アドインが見つからない場合は、IT 部門が最初に設定作業を行う必要がある場合があります。手順について詳しくは、[Outlook 用の Adobe Workfront の設定](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=ja)を参照してください。
 
 ## Microsoft Outlook のカレンダーと [!DNL Workfront] のホームのカレンダーの統合
 

@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11198
+jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: dc2e3c42230909c6843a7594c9d121d4082bf772
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 100%
 

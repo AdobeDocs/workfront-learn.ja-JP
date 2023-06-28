@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: settings-to-consider.png
-kt: 10189
+jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
-source-git-commit: c6c0e4405cd3151b5ad9a490dbeab237855dde29
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 100%
 

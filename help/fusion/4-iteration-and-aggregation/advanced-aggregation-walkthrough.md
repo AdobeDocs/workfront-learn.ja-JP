@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9040
+jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 89%
@@ -54,7 +54,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 
-新しいシナリオを作成して、マーケティングポートフォリオのプロジェクトのタスクにログオンしたすべての時間を合計します。次に、「{ プロジェクト名 } のプロジェクトチームが、{ 計画時間 } 計画時間の合計 {summed hours} 時間をログに記録し、計画の {percentage} に表示した」というメールを 1 通送信します。
+新しいシナリオを作成して、マーケティングポートフォリオのプロジェクトのタスクにログオンしたすべての時間を合計します。次に、「{Project Name} プロジェクトチームが {summed hours} 件の予定時間の合計 {planned hours} 時間のログを記録し、次の時間に移動したという内容のメールを 1 通送信します。 {percentage} 計画の」
 
 **課題：**&#x200B;同じことを、ログに記録された時間を今年のみに限ってできるかどうかを試してください。
 

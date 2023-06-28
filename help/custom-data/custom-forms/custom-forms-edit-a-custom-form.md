@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: editcustomform.png
-kt: 10057
+jira: KT-10057
 exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

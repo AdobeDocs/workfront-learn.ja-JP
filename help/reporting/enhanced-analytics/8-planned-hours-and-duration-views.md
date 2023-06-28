@@ -8,9 +8,9 @@ thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10044
+jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 67%

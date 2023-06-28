@@ -8,12 +8,12 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10094.jpeg
-kt: 10094
+jira: KT-10094
 exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->
 
-# 送信 [!UICONTROL アナウンスセンター] メッセージ
+# [!UICONTROL 通知センター]メッセージの送信
 
 この [!UICONTROL アナウンスセンター] は、システム管理者がからの通信を一元的に受信できる場所です。 [!DNL Workfront] または、お知らせを組織の [!DNL Workfront] ユーザー。
 

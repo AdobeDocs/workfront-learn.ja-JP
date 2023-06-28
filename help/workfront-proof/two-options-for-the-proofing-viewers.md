@@ -5,10 +5,10 @@ feature: Workfront Proof
 type: Tutorial
 role: User
 level: Beginner
-kt: 10160
+jira: KT-10160
 exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 100%
 

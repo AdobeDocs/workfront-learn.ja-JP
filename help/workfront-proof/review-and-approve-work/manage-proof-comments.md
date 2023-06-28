@@ -8,10 +8,10 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: manage-proof-comments.png
-kt: 10109
+jira: KT-10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 100%
 

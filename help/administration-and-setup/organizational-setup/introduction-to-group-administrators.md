@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 thumbnail: groupadmins.png
-kt: 10103
+jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 100%

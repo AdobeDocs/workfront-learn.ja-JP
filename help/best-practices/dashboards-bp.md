@@ -4,10 +4,10 @@ description: Workfront のダッシュボードの設定、管理、使用につ
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
-kt: 10909
+jira: KT-10909
 exl-id: fd4cd3d4-9343-4f33-919a-9c390f42411a
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 100%
 

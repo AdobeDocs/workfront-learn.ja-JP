@@ -8,10 +8,10 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: create-template-groups.png
-kt: 10232
+jira: KT-10232
 exl-id: 248cba16-fa88-44e1-a3d5-e763783d965d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 100%
 

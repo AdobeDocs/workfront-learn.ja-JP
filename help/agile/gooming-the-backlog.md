@@ -4,11 +4,11 @@ description: ストーリーを小さく分割する方法、バックログで�
 feature: Agile
 role: Admin, User
 level: Intermediate
-kt: 10873
+jira: KT-10873
 thumbnail: 346283.jpeg
 exl-id: ebd18f1d-f309-4e99-9c76-8aabd4009806
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%

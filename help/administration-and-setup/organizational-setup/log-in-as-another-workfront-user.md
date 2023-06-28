@@ -8,16 +8,16 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10104.jpeg
-kt: 10104
+jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 別のユーザーとしてログイン
+# 別のユーザーとしてのログイン
 
 Workfront管理者がユーザーエクスペリエンスを設定する際に役立つ機能の 1 つは、「ログイン名」機能です。 この関数 ( [!UICONTROL 設定] 「 」領域にある場合は、自分のアカウントからログアウトしなくても、別のユーザーとしてログインできます。
 
@@ -47,4 +47,4 @@ Workfront管理者がユーザーエクスペリエンスを設定する際に�
 
 管理者が別のユーザーとしてログインし、そのユーザーに代わって変更/更新をおこなうと、その変更がその特定の項目の [ 更新 ] 領域に表示されます。 以下の例は、Joan Harris が Roy Campbell の代理で期限を変更したことを示しています。
 
-![[!UICONTROL 更新] セクション](assets/admin-fund-log-in-as-4.png)
+![セクションを更新](assets/admin-fund-log-in-as-4.png)

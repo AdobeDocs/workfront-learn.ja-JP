@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 10122
+jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 76%

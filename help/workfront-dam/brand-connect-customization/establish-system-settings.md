@@ -7,16 +7,16 @@ feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
-kt: 10089
+jira: KT-10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# でのシステム設定の確立 [!UICONTROL Brand Connect]
+# [!UICONTROL Brand Connect] でのシステム設定の確立
 
 この [!UICONTROL Brand Connect] 設定は、ポータルの閲覧者、ポータルへのコンテンツの公開者、ブランドガイドラインの管理者を制御します。
 

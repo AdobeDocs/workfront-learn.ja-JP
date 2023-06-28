@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 100%

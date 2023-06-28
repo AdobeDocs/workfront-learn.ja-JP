@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9060
+jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%

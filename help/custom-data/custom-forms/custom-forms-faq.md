@@ -7,9 +7,9 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
-kt: 10058
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+jira: KT-10058
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 100%
 

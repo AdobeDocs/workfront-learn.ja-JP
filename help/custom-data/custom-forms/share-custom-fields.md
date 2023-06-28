@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: share-custom-field.png
-kt: 10090
+jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
-source-git-commit: 077dc4b312f928b397a670c9a2e5a350e3b4ae56
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 100%
 

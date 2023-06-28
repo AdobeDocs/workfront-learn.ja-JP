@@ -7,10 +7,10 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10186
+jira: KT-10186
 exl-id: 00b1ce6c-80a1-47b0-9b4c-33f5348994ec
-source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 100%
 

@@ -4,13 +4,13 @@ description: アジャイルな方法に切り替える前に、いくつかの�
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10892
+jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 hide: true
 hidefromtoc: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 100%
 

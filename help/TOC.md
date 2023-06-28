@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '2374'
-ht-degree: 97%
+source-wordcount: '2384'
+ht-degree: 96%
 
 ---
 
@@ -187,6 +187,9 @@ ht-degree: 97%
       + [財務の更新とレビュー](manage-work/project-finances/update-and-review-finances.md)
       + [財務情報の検索](manage-work/project-finances/find-financial-information.md)
       + [複数の請求レートについて](manage-work/project-finances/multiple-billing-rates.md)
+
+   + 中間プロジェクト {#intermediate-projects}
+      + [期間のタイプとタスクの制約を理解し、管理します](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
 
 + レポート {#reporting}

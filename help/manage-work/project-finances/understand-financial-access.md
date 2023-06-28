@@ -8,10 +8,10 @@ thumbnail: understand-financial-access.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10067
+jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 100%
 

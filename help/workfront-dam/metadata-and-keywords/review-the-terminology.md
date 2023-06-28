@@ -7,10 +7,10 @@ type: Tutorial
 role: Admin
 level: Intermediate
 team: Technical Marketing
-kt: 8971
+jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%

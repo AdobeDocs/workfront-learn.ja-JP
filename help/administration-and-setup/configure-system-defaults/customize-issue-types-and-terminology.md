@@ -7,10 +7,10 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10021
+jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 5d385de5cdcee0d433304c09507ba6bb5b0a10e6
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 イシューのタイプはシステム全体のレベルで名前が変更されるので、変更はすべてのユーザーに適用されます。
 
 1. **[!UICONTROL メインメニュー]**&#x200B;で「**[!UICONTROL 設定]**」をクリックします。
-1. 左側のメニュー パネルで&#x200B;**[!UICONTROL プロジェクト環境設定]**&#x200B;セクションを展開します。
+1. 左側のメニューパネルで「**[!UICONTROL プロジェクト環境設定]**」セクションを展開します。
 1. 「**[!UICONTROL ステータス]**」を選択します。
 1. 「**[!UICONTROL イシュー]**」タブを選択します。
 1. 右上のメニューが[!UICONTROL システムステータス]に設定されていることを確認します。

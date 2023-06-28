@@ -1,45 +1,45 @@
 ---
 title: 不完全な実行について
-description: 実行が不完全な部分と、で実行が不完全になるエラーを処理する方法について説明します。 [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion] での不完全な実行と、不完全な実行につながるエラーの処理方法を説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9066
+jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 # 不完全な実行について
 
-不完全な実行は、Workfront Fusion に保存され、後で確認および解決できます。 この素晴らしい機能を活用する方法を学びます。
+不完全な実行は Workfront Fusion に保存でき、後で確認して解決できます。この優れた機能を活用する方法を説明します。
 
 このビデオでは、以下について説明します。
 
-* 実行が不完全な部分は何か
-* 実行が不完全になるエラーの処理方法
+* 不完全な実行とは
+* 不完全な実行につながるエラーの処理方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
 
-## 実行が不完全な原因となるエラー
+## 不完全な実行につながるエラー
 
-実行が不完全な状態で保存される原因となるエラーには、いくつかのカテゴリがあります。
+不完全な実行が保存される原因となるエラーには、いくつかのカテゴリがあります。
 
-受け取るエラータイプは、接続先の API によって異なります。 このエラーは、不完全なデータまたは誤ったデータに起因する検証エラーの可能性があります。これは、モジュールを通過するすべてのデータを正常に処理するために予期される項目が欠落しているためです。 または、一時的または長期的な接続障害（電子メールやリモート FTP サーバーへの接続中など）が原因で、最終的な宛先が使用できなくなったことがエラーの原因となる場合があります。
+受信するエラータイプは、接続先の API によって異なります。エラーは、不完全なデータまたは誤ったデータから発生する検証エラーである可能性があります。ほとんどの場合、モジュールを通過するすべてのデータを正常に処理するために期待される項目が欠落していることが原因です。または、一時的または長期的な接続障害（メールまたはリモート FTP サーバーへの接続中など）が原因で、最終的な宛先が使用できないのでエラーが発生する可能性があります。
 
 シナリオの最初のモジュールでエラーが発生した場合、実行は直ちに停止し、不完全な実行は保存されません。
 
 他のモジュールでエラーが発生し、エラーハンドラールートが添付されていない場合は、次のようになります。
 
-* エラーの種類が ConnectionError、RateLimitError、OutOfSpaceError、または ModuleTimeoutError の場合、不完全な実行レコードが自動再試行付きで保存されます。
-* エラーの種類が DataError、InvalidConfigurationError、InvalidAccessTokenError、UnexpectedError、MaxFileSizeExceededError または MaxResultsExceededError の場合、不完全な実行レコードが自動再試行なしで保存されます。
+* エラータイプが ConnectionError、RateLimitError、OutOfSpaceError、ModuleTimeoutError の場合、自動再試行付きの不完全な実行レコードが保存されます。
+* エラータイプが DataError、InvalidConfigurationError、InvalidAccessTokenError、UnexpectedError、MaxFileSizeExceededError、MaxResultsExceededError の場合、自動再試行なしの不完全な実行レコードが保存されます。
 * エラータイプが上記以外の場合、実行は失敗します。
 
 ## 詳細情報 以下をお勧めします。

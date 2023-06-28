@@ -7,10 +7,10 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10123
+jira: KT-10123
 exl-id: 00e2dfd6-1b6e-4352-b1c7-9953e84d03db
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 100%
 

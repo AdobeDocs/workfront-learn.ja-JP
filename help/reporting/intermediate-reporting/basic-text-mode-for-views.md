@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 11367
+jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 90%
@@ -29,12 +29,10 @@ ht-degree: 90%
 >* レポートコンポーネントについて
 >* 基本ビューの作成
 
-
 >[!TIP]
 >
 >* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ja)」（所要時間：1 時間）の視聴をお勧めします。
 >* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
-
 
 このビデオでは、次のことを学習します。
 

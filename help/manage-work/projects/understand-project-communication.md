@@ -9,9 +9,9 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-05T00:00:00Z
-kt: 10147
+jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 8%

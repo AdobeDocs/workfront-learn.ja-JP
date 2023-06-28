@@ -8,10 +8,10 @@ thumbnail: understand-work-and-people-charts.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10028
+jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
 

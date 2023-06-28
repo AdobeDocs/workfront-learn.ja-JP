@@ -4,11 +4,11 @@ description: アジャイルチームバックログプロジェクトを作成�
 feature: Agile
 role: Admin, User
 level: Intermediate
-kt: 10872
+jira: KT-10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%

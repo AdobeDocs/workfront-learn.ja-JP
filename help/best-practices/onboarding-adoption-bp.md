@@ -4,10 +4,10 @@ description: Workfront へのユーザーのオンボーディングとユーザ
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
-kt: 10915
+jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 100%
 

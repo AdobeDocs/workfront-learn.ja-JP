@@ -6,10 +6,10 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
-kt: 10174
+jira: KT-10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 100%
 

@@ -8,12 +8,12 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10140
+jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1219'
+ht-degree: 61%
 
 ---
 

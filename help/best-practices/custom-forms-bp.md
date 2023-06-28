@@ -4,10 +4,10 @@ description: Workfront のカスタムフォームの設定と管理について
 feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
-kt: 10907
+jira: KT-10907
 exl-id: 0c0fca34-2be0-4208-95d0-241d2e032ce7
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '2202'
 ht-degree: 100%
 

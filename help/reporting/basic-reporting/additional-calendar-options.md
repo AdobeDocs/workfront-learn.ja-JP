@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
-kt: 10023
+jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
 

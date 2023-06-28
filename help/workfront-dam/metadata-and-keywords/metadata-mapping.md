@@ -7,10 +7,10 @@ feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
-kt: 10088
+jira: KT-10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
 

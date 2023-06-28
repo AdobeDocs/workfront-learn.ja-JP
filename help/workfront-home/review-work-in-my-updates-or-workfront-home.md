@@ -8,10 +8,10 @@ level: Beginner
 activity: use
 team: Technical Marketing
 thumbnail: myupdates.png
-kt: 10081
+jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
 

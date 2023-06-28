@@ -1,6 +1,6 @@
 ---
-title: でプランを作成する方法 [!DNL Scenario Planner]
-description: でプランを作成する方法を説明します。 [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] でプランを作成する方法'
+description: ' [!DNL Scenario Planner] でプランを作成する方法を説明します。'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,28 +8,28 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335318.jpeg
-kt: 9076
+jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# でのプランの作成 [!DNL Scenario Planner]
+# [!DNL Scenario Planner] でのプランの作成
 
-このビデオでは、 [!DNL Scenario Planner].
+このビデオでは、[!DNL Scenario Planner] でプランを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
-## プランのジョブの役割情報の見積もり
+## プランの担当業務情報の見積もり
 
-計画を作成する際に、職務の役割労力を FTE または時間で見積もる必要があるかどうかを指定できます。 システムのデフォルトは FTE ですが、プランの作成時に切り替えることができます。
+プランを作成する際に、担当業務の作業量を FTE または時間で見積もるかどうかを設定できます。システムのデフォルトは FTE ですが、プランの作成時に切り替えることができます。
 
-![選択 [!UICONTROL FTE] または [!UICONTROL 時間] 内 [!UICONTROL 新規プラン] window](assets/scenario-planner-1.png)
+![[!UICONTROL 新規プラン]ウィンドウでの [!UICONTROL FTE] または[!UICONTROL 時間]の選択](assets/scenario-planner-1.png)
 
-プランの作成後、プラン内の役割に追加されたすべての番号、プランのシナリオ、およびイニシアチブが入力され、選択した形式で表示されます。 その形式は、ジョブの役割情報が必要な列の先頭に表示されます。
+プランを作成すると、プラン内の担当業務に追加したすべての数値、プランのシナリオ、すべてのイニシアチブが入力され、選択した形式で表示されます。その形式は、担当業務の情報を必要とする列の上部に表示されます。
 
-![での情報の表示 [!UICONTROL FTE] または [!UICONTROL 時間] 内 [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![[!DNL Scenario Planner]](assets/scenario-planner-2.png) での [!UICONTROL FTE] または[!UICONTROL 時間]の情報の表示

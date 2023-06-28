@@ -4,10 +4,10 @@ description: Workfront のフィルター、表示、グループ化の、設定
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
-kt: 10911
+jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 100%
 

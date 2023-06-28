@@ -8,10 +8,10 @@ thumbnail: log-and-review-hours.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10136
+jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

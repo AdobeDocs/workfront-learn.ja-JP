@@ -5,12 +5,12 @@ feature: System Setup and Administration
 activity: deploy
 type: Tutorial
 team: Technical Marketing
-kt: 8932
+jira: KT-8932
 role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%

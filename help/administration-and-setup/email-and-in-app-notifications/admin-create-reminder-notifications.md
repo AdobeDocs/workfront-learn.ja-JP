@@ -8,12 +8,12 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: setupremindnote.png
-kt: 10091
+jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -29,14 +29,14 @@ this has the same content as the system administrator notification setup and man
 
 **リマインダー通知の作成**
 
-1. クリック **[!UICONTROL 設定]** 内 **[!UICONTROL メインメニュー]**.
+1. **[!UICONTROL メインメニュー]**&#x200B;で「**[!UICONTROL 設定]**」をクリックします。
 1. 次をクリック： **[!UICONTROL 電子メール]** 」セクションに入力します。
 1. 次をクリック： **[!UICONTROL 通知]** 」セクションに入力します。
 1. 次をクリック： **[!UICONTROL 新しいリマインダー]** タブをクリックします。
 1. 次をクリック： **[!UICONTROL +新しいリマインダー通知]** 」ボタンをクリックします。
 1. ドロップダウンメニューで目的のオブジェクトを選択します。
 1. 必要な情報を入力します。
-1. クリック **[!UICONTROL 保存]**.
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ![[!UICONTROL 新しいリマインダー通知] window](assets/admin-fund-reminder-notification-1.png)
 

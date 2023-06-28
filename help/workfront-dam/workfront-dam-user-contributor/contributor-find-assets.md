@@ -1,31 +1,31 @@
 ---
-title: でのアセットの検索と整理 [!UICONTROL Workfront DAM]
-description: アセットの検索、フォルダー内の検索、検索を合理化、検索フィルターとしてのメタデータとキーワードの使用などの方法については、 [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Workfront DAM] でのアセットの検索と整理'
+description: '[!UICONTROL Workfront DAM] でのアセットの検索方法、フォルダー内の検索方法、検索結果の効率化方法、検索フィルターとしてのメタデータとキーワードの使用方法などを説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8993
+jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# 寄稿者：アセットを検索
+# 投稿者：アセットの検索
 
 このビデオでは、以下の方法を説明します。
 
 * アセットの検索
-* フォルダー内を検索
-* 検索結果を合理化
+* フォルダー内の検索
+* 検索結果の効率化
 * 検索フィルターとしてのメタデータとキーワードの使用
-* フォルダーの詳細を表示
+* フォルダーの詳細の表示
 * アセットのメタデータとキーワードの表示と更新
 
 >[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on)
@@ -34,9 +34,9 @@ ht-degree: 75%
 
 基本検索では、（アセットタイプに応じて）ファイル名、メタデータフィールド、キーワード、アセットコンテンツを調べます。 フォルダー名は含まれません。
 
-ほとんどの検索結果は完全一致です。この「完全一致」ルールの例外は、 [!UICONTROL Workfront DAM] 「ファイル名」フィールドを検索します。 [!UICONTROL Workfront DAM] ファイル名の完全一致ではなく、部分的な一致を返します。
+ほとんどの検索結果は完全一致です。この「完全一致」ルールの例外は、[!UICONTROL Workfront DAM] が「ファイル名」フィールドを検索する場合です。[!UICONTROL Workfront DAM] は、ファイル名の完全一致だけでなく、部分的なファイル名の一致を返します。
 
-## 検索中のユーザーオペレーター
+## 検索中のユーザー演算子
 
 多くの場合は基本検索機能で必要なアセットが見つかりますが、追加で検索パラメーターを使用する必要が出ることもあります。
 

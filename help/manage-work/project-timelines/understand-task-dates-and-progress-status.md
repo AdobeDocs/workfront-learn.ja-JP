@@ -1,6 +1,6 @@
 ---
 title: 日付タイプと進捗ステータスについて
-description: 様々な日付タイプを [!DNL  Workfront] 進捗状況ステータスを使用して、作業の進捗状況を追跡できます。
+description: ' [!DNL  Workfront]  で様々な日付タイプを表示する方法と、進捗ステータスを使用して作業の進捗を追跡する方法を説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -8,13 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8782
+jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 35%
 
 このビデオでは、以下の方法を説明します。
 
-* 比較するビューを選択 [!DNL Workfront's] 異なる日付タイプ
-* 進捗状況の追跡に役立つ進捗状況ステータスを使用
+* [!DNL Workfront's] の様々な日付タイプを比較するビューの選択
+* 進捗ステータスを使用した作業の進捗の追跡
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 

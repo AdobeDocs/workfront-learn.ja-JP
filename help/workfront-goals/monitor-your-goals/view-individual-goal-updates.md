@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8928
+jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
@@ -46,4 +46,4 @@ ht-degree: 100%
 * [!UICONTROL Pulse]
 * [!UICONTROL 目標の整合性]. このセクションでは、適用したフィルターに合わない目標を一時的に表示して、連携したすべての目標の全体像を把握できます。 選択したフィルターによって非表示になっている目標がある場合は、「[!UICONTROL **表示する**]」オプションをクリックします。
 
-   ![](assets/19-workfront-goals-filter-show-it.png)
+  ![](assets/19-workfront-goals-filter-show-it.png)

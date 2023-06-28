@@ -4,10 +4,10 @@ description: Workfront のサンドボックスプレビュー環境の設定、
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
-kt: 10917
+jira: KT-10917
 exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 100%
 

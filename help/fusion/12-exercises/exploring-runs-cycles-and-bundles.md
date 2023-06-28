@@ -7,11 +7,11 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11050
+jira: KT-11050
 thumbnail: KT1101.png
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 100%
 

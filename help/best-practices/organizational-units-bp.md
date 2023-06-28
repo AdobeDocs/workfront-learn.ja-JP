@@ -4,10 +4,10 @@ description: Workfront の組織単位（企業、グループ、サブグルー
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10906
+jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '1431'
 ht-degree: 100%
 

@@ -8,16 +8,16 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: exportform.png
-kt: 10059
+jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# カスタムフォームをPDFとして書き出す
+# カスタムフォーを PDF として書き出し
 
 組織の固有のデータをキャプチャすることは、作業管理の重要な要素です。 カスタムフォームは、この目的で一般的に使用されます。 カスタムフォームをエクスポートすることで、簡単に循環および共有できます。 フォームにアクセスする際に、プロジェクト、タスクまたは問題からカスタムフォームを書き出すことができます。 [!UICONTROL 詳細] セクション内に含まれています。
 

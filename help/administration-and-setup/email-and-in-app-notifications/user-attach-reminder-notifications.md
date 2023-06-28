@@ -7,10 +7,10 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10096
+jira: KT-10096
 exl-id: 5d49108e-1795-4833-a374-3b598c90b345
-source-git-commit: 5d385de5cdcee0d433304c09507ba6bb5b0a10e6
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
 

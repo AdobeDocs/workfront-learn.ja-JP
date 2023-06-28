@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: setups-utillization-report.png
-kt: 10179
+jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
-source-git-commit: c6c0e4405cd3151b5ad9a490dbeab237855dde29
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 100%
 

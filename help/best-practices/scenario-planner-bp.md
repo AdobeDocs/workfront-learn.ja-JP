@@ -4,10 +4,10 @@ description: シナリオプランナーツールに関する、Adobe Workfront 
 feature: Workfront Scenario Planner
 role: Admin, Leader, User
 level: Beginner
-kt: 10924
+jira: KT-10924
 exl-id: f9dafebf-efb0-4c40-b98d-540a92e931a7
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 100%
 

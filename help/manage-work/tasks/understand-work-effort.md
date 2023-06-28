@@ -8,9 +8,9 @@ thumbnail: understand-work-effort.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10153
+jira: KT-10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 29%

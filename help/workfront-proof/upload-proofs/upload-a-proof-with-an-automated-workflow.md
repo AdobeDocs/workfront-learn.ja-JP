@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335133.png
-kt: 8833
+jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 100%

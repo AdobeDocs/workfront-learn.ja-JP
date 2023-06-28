@@ -4,10 +4,10 @@ description: Workfront レイアウトテンプレートの設定、管理、使
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10913
+jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
 

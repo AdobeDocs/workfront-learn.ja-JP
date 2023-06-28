@@ -1,6 +1,6 @@
 ---
-title: チームの作成
-description: チームの使用方法、部門をまたいだチームの使用方法、チームを作成してユーザーを整理し権限を付与する方法について説明します。
+title: チームを作成
+description: ユーザーの整理と権限の付与に役立つ、チームの使用方法、職務横断チームの使用方法、チームの作成方法を説明します。
 feature: System Setup and Administration
 role: Admin
 level: Intermediate, Experienced
@@ -8,17 +8,17 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 thumbnail: 335071.png
-kt: 8762
+jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# チームの作成
+# チームを作成
 
 このビデオでは、次のことを学習します。
 
@@ -30,36 +30,36 @@ ht-degree: 9%
 
 ## チームの作成
 
-チームは、 [!UICONTROL チーム] ～の面積 [!DNL Workfront].
+[!DNL Workfront] の[!UICONTROL チーム]エリアでチームを作成し、設定を行うこともできます。
 
-1. 選択 **[!UICONTROL チーム]** から **[!UICONTROL メインメニュー]**.
-1. 選択 **[!UICONTROL チームを作成]**.
+1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL チーム]**&#x200B;を選択します。
+1. 「**[!UICONTROL チームを作成]**」を選択します。
 1. チームに名前を付けます。
-1. 切り替えをオンにして、チームがアジャイルチームかどうかを示します。
-1. チームを [!DNL Workfront] グループに含める必要があります。
+1. 切替スイッチをオンにして、チームがアジャイルチームであるかどうかを示します。
+1. 必要に応じて、チームを [!DNL Workfront] グループに関連付けます。
 1. チームメンバーを追加します。
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
-![[ チーム ] メニュー [] [!UICONTROL チーム] ページ](assets/admin-fund-create-team.png)
+![[!UICONTROL チーム]ページのチームメニュー](assets/admin-fund-create-team.png)
 
-チームを作成したら、リストからチームを選択し、「 」をクリックして設定を編集します [!UICONTROL チーム設定] 窓の右側に
+チームを作成したら、リストからチームを選択し、ウィンドウの右側にある「[!UICONTROL チーム設定]」をクリックして設定を編集します。
 
-レイアウトテンプレートの割り当てやチームメンバーの追加など、設定を調整します。 また、 [!UICONTROL 作業] ボタンと [ 完了 ] ボタンをクリックすると、このチームのタスクと課題の割り当てに表示されます。
+レイアウトテンプレートの割り当てやチームメンバーの追加など、設定を調整します。さらに、このチームのタスクとイシューの作業割り当てに表示される、「[!UICONTROL 作業対象]」ボタンと「完了」ボタンをカスタマイズできます。
 
-![[!UICONTROL チームの編集] window](assets/admin-fund-team-settings.png)
+![[!UICONTROL チームを編集]ウィンドウ](assets/admin-fund-team-settings.png)
 
-デフォルトでは、 [!UICONTROL 作業] ボタンが単に示す [!DNL Workfront] タスクのステータスを「処理中」（または同等のステータス）に変更せずにタスクを操作します。 次が必要： [!DNL Workfront] 自動的にステータスを変更する場合は、 [!UICONTROL 作業] ボタンを [!UICONTROL 開始] 」ボタンをクリックします。 チーム設定のチェックボックスをオンにするだけです。
+デフォルトでは、「[!UICONTROL 作業対象]」ボタンは、タスクのステータスを「処理中」（または同等のステータス）に変更することなく、そのタスクを作業することを [!DNL Workfront] に伝えるだけです。[!DNL Workfront] のステータスを自動的に変更するには、「[!UICONTROL 作業対象]」ボタンを「[!UICONTROL 開始]」ボタンに変更します。チーム設定のチェックボックスをオンにするだけです。
 
-次の場合に [!UICONTROL 開始] ボタンがクリックされ、タスクのステータスまたは問題のステータスが、チーム設定で選択した新規ステータスから変わります。 [!DNL Workfront] また、タスクの実際の開始日も記録されます。
+「[!UICONTROL 開始]」ボタンをクリックすると、タスクまたはイシューのステータスが、チーム設定で選択された「新規」から変更されます。[!DNL Workfront] では、タスクの実際の開始日もログ記録します。
 
-![[!UICONTROL 作業] セクション [!UICONTROL チームの編集] window](assets/admin-fund-start-button-team.png)
+![[!UICONTROL [!UICONTROL チームを編集]ウィンドウの作業対象]セクション](assets/admin-fund-start-button-team.png)
 
 完了したら、必ず変更を保存してください。
 
 
 >[!NOTE]
 >
->また、 [!UICONTROL チーム] セクション [!UICONTROL 設定] ページ。
+>チームの設定は、[!UICONTROL 設定]ページの「[!UICONTROL チーム]」セクションから編集することもできます。
 
 <!---
 learn more URLs

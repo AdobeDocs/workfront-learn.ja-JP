@@ -8,12 +8,12 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10036.jpeg
-kt: 10036
+jira: KT-10036
 exl-id: 91ac3283-c2ad-493e-869c-9cfccfae35dd
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 新規従業員が採用されたとき、または誰かが [!DNL Workfront]を使用する場合、システム管理者は 1 人のユーザーのみを作成する必要があります。 これは、 [!UICONTROL ユーザー] 領域 [!DNL Workfront].
 
-1. 選択 **[!UICONTROL ユーザー]** から **[!UICONTROL メインメニュー]**.
+1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL ユーザー]**&#x200B;を選択します。
 1. 次をクリック： **[!UICONTROL 新規担当者]** 」ボタンをクリックします。
 1. ユーザーの姓と名を [!UICONTROL 新規担当者] ウィンドウ
 1. ユーザーの電子メールアドレスを入力します。 これが彼らの [!DNL Workfront] ログインし、次のインスタンス内で一意である必要があります： [!DNL Workfront].
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ![新規担当者ドロップダウンメニュー](assets/admin-fund-adding-users-3.png)
 
-1. 選択 **[!UICONTROL ユーザー]** から **[!UICONTROL メインメニュー]**.
+1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL ユーザー]**&#x200B;を選択します。
 1. コピーするユーザーを、名前の横にあるボックスをオンにして選択します。
 1. 「 **[!UICONTROL 新規担当者]** ボタンと選択 **[!UICONTROL 選択した担当者から新規作成]**.
 1. 次の項目に入力： **[!UICONTROL 個人情報]** セクションに新しいユーザーの情報を入力します。

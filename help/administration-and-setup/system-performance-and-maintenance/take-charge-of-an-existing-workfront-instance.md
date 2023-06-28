@@ -6,11 +6,12 @@ type: Tutorial
 role: Admin
 level: Beginner,Intermediate,Experienced
 activity: use
-kt: 11747
+jira: KT-11747
 team: Technical Marketing
 thumbnail: null
-source-git-commit: 48b6414f3128729436a4845f9654bd5fc8ee5353
-workflow-type: ht
+exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 100%
 
@@ -58,7 +59,6 @@ Workfront の優れた点として、カスタマイズ可能なことがあり�
 * 主要なユースケースを含む、お使いのインスタンスの健全性に関する一般的な感覚
 
 * うまくいっていることや、プロセスとユーザーニーズの間にある課題やギャップを概説したドキュメント
-
 <br>
 </br>
 
@@ -73,7 +73,6 @@ Workfront の優れた点として、カスタマイズ可能なことがあり�
 * インスタンスの現在の状態のより深い見識
 
 * ビジネスニーズに対応するために、インスタンスに加えたい変更や機能強化の特定
-
 <br>
 </br>
 
@@ -100,4 +99,4 @@ Workfront の優れた点として、カスタマイズ可能なことがあり�
 追加情報については、以下を参照してください。
 * [Workfront 実装の目標の定義](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=ja)
 * [ブログ投稿：エグゼクティブスポンサーシップとリーダーシップへの価値](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [ブログ投稿：Adobe Workfront KPI の概要 ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [ブログ投稿：Adobe Workfront KPI の概要](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

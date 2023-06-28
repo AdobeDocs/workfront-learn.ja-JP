@@ -7,11 +7,11 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11051
+jira: KT-11051
 thumbnail: KT1101.png
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
 
@@ -42,4 +42,4 @@ ht-degree: 100%
    + キー値は進捗ステータス（LT）の後の最初の位置で定義され、対応する出力（遅延）は 2 番目の位置で定義されます。
    + 次のキー値は 3 番目の位置で定義され、それに対応する出力は 4 番目の位置で定義されます。このようにして、必要な数のキーに対して定義されます。
 
-      ![スイッチ関数の画像 2](../12-exercises/assets/switch-function-walkthrough-2.png)
+     ![スイッチ関数の画像 2](../12-exercises/assets/switch-function-walkthrough-2.png)

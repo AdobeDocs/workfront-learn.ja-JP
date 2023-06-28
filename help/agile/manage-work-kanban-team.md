@@ -4,11 +4,11 @@ description: かんばんチームのページを通じて、作業とチーム�
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10888
+jira: KT-10888
 thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 100%
 

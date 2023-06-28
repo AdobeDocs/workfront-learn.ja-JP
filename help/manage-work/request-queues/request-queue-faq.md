@@ -5,11 +5,12 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
-kt: 10101
-source-git-commit: f111f198d3d7587bb9e2de4e19434131cbef9c93
+jira: KT-10101
+exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 48%
 
 ---
 
@@ -44,4 +45,3 @@ ht-degree: 0%
 **プロジェクトまたはタスクレポートを見ています。 このオブジェクトの元となるリクエストを見つけるにはどうすればよいですか？**
 
 次の項目を **[!UICONTROL 変換された問題の作成者]** フィールドソースを使用して、その情報をプロジェクトおよびタスクレポートに追加します。
-

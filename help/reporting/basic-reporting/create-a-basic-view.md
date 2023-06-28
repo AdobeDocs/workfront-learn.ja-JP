@@ -9,13 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 51%
+source-wordcount: '696'
+ht-degree: 37%
 
 ---
 
@@ -87,3 +87,45 @@ ht-degree: 51%
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ![マイルストーンビューを使用したタスクリストのイメージ](assets/view-milestone-exercise-2.png)
+
+## アクティビティ 3:期間タイプとタスク制約ビューの作成
+
+このビューでは、プロジェクト内のすべての期間の種類とタスクの制約を調べ、編集することができます。
+
+次の列を持つ「Duration types and task constraints view」という名前のタスクビューを作成します。
+
+* [!UICONTROL タスク名]
+* [!UICONTROL 割り当て]
+* [!UICONTROL 期間]
+* [!UICONTROL 予定期間]
+* [!UICONTROL 予定時間数]
+* [!UICONTROL 先行タスク]
+* [!UICONTROL 開始日]
+* [!UICONTROL 期限]
+* [!UICONTROL 期間タイプ]
+* [!UICONTROL タスクの制約]
+* [!UICONTROL 制約の指定日]
+
+を [!UICONTROL フィールドの形式] の [!UICONTROL 開始日] および [!UICONTROL 期限] 日付と時刻の両方を表示する列。
+
+## アクティビティ 3 回答
+
+![期間のタイプとタスクの制約ビューを示す画面の画像](assets/view-activity-3.png)
+
+1. プロジェクトタスクリストで、 **[!UICONTROL 表示]** ドロップダウンメニューで「 」を選択します。 **[!UICONTROL 新しいビュー]**.
+1. ビューに「期間タイプとタスク制約ビュー」という名前を付けます。
+1. を削除します。 [!UICONTROL %完了] 列。
+1. 「**[!UICONTROL 列を追加]**」をクリックします。 
+1. 内 [!UICONTROL この列に表示] フィールド、タイプ [!UICONTROL &quot;duration&quot;] 次に、 [!UICONTROL &quot;計画期間&quot;] の下に [!UICONTROL タスク] フィールドソース。
+1. この列を [!UICONTROL 期間] そして [!UICONTROL プラン時間] 列。
+1. 「**[!UICONTROL 列を追加]**」を再度クリックします。
+1. 内 [!UICONTROL この列に表示] フィールド、タイプ [!UICONTROL &quot;duration type&quot;] 次に、 [!UICONTROL &quot;期間のタイプ&quot;] の下に [!UICONTROL タスク] フィールドソース。
+1. 「**[!UICONTROL 列を追加]**」を再度クリックします。
+1. 内 [!UICONTROL この列に表示] フィールド、タイプ [!UICONTROL &quot;constraint&quot;] 次に、 [!UICONTROL &quot;タスク制約&quot;] をクリックします。
+1. 「**[!UICONTROL 列を追加]**」を再度クリックします。
+1. 内 [!UICONTROL この列に表示] フィールド、タイプ [!UICONTROL &quot;constraint&quot;] 次に、 [!UICONTROL &quot;制約日&quot;] をクリックします。
+1. を選択します。 [!UICONTROL 開始日] 列をクリックし、 [!UICONTROL 詳細オプション].
+1. 以下 [!UICONTROL フィールドの形式] ドロップダウン選択 [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. を選択します。 [!UICONTROL 期限] 列をクリックし、 [!UICONTROL 詳細オプション].
+1. 以下 [!UICONTROL フィールドの形式] ドロップダウン選択 [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. 「**[!UICONTROL 保存]**」をクリックします。

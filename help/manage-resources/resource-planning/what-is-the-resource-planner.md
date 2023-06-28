@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335167.jpeg
-kt: 8879
+jira: KT-8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%

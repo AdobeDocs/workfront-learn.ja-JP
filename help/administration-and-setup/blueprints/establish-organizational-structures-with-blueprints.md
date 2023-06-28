@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
-kt: 10102
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
-workflow-type: ht
+jira: KT-10102
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 

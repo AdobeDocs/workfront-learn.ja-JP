@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-a-proof-video.png
-kt: 10176
+jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 * ビデオをアップロードする先のプロジェクト、タスク、またはイシューを開きます。
 * 左のパネルメニューから「[!UICONTROL **ドキュメント**]」を選択します。
-* 「[!UICONTROL **新規追加**」]ボタンから「[!UICONTROL **プルーフ**]」を選択します。
+* 「[!UICONTROL **新規追加**]」ボタンから「[!UICONTROL **プルーフ**]」を選択します。
 * ビデオファイルをアップロードエリアにドラッグ＆ドロップするか、参照機能を使用します。
 * 基本ワークフローまたは自動ワークフローを割り当てます。
 * 期限を設定します。

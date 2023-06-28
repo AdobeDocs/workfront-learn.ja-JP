@@ -8,10 +8,10 @@ thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10048
+jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 100%
 
@@ -54,4 +54,5 @@ ht-degree: 100%
    * 必要な場合は「**[!UICONTROL 請求レートの追加]**」ボタンをクリックして、請求レートの追加を継続します。
    * 完了したら、「**[!UICONTROL 保存]**」をクリックします。
    * すべての請求レートが、プロジェクトの「[!UICONTROL 請求レート]」タブに表示されます。
+
    ![ で、異なる期間に適用される新しい請求レートを作成している画像。[!DNL Workfront]](assets/project-finances-7.png)

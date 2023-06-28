@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
-kt: 10026
+jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 100%
 

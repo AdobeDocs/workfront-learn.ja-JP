@@ -1,26 +1,26 @@
 ---
-title: 実行、サイクル、バンドルのバランスを取る
-description: バランス調整の実行、サイクル、バンドルの内容について説明します。 [!DNL Adobe Workfront Fusion].
+title: 実行、サイクル、バンドルのバランス
+description: ' [!DNL Adobe Workfront Fusion] での実行、サイクル、バンドルのバランスを説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9044
+jira: KT-9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '35'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-# 実行、サイクル、バンドルのバランスを取る
+# 実行、サイクル、バンドルのバランス
 
 このビデオでは、以下について説明します。
 
-* Workfront Fusion には、バランス調整の実行、サイクル、バンドルが含まれます
+* Workfront Fusion での実行、サイクル、バンドルのバランスとは
 
 >[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on)

@@ -1,18 +1,18 @@
 ---
-title: Workfront目標の概要
-description: 目標リスト、グラフ、目標の整列のナビゲート方法を説明します。
+title: Workfront Goals の概要
+description: 目標リスト、グラフ、目標整合性を操作する方法を説明します。
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8888
+jira: KT-8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 28%
 
 このビデオでは、以下の方法を説明します。
 
-* 目標リストを移動
+* 目標リストの操作
 * グラフの操作
-* 目標の整列をナビゲート
+* 目標の整合性の操作
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on)

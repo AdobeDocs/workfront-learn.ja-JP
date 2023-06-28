@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: understand-the-calendar-interface.png
-kt: 10025
+jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 100%
 

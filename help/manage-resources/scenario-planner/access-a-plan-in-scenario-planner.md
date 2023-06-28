@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: access-a-plan.png
-kt: 10190
+jira: KT-10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
-source-git-commit: 89b5e66ad2b37c4e5d0bffcac7d5ad79facd8aa5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 

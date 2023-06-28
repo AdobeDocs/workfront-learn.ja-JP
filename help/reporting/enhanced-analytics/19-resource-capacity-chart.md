@@ -8,9 +8,9 @@ thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10046
+jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 90%

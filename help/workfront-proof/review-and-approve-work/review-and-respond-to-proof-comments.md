@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335139.png
-kt: 8839
+jira: KT-8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%

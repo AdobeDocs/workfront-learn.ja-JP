@@ -4,10 +4,10 @@ description: Workfront でのドキュメントの設定、管理、使用につ
 feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
-kt: 10910
+jira: KT-10910
 exl-id: 0554b393-ca51-443c-97e9-98af017a0586
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 100%
 

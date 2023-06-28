@@ -8,10 +8,10 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: understand-proof-details.png
-kt: 10110
+jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 100%
 

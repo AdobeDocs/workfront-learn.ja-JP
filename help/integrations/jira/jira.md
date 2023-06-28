@@ -7,9 +7,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 10068
+jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 64%

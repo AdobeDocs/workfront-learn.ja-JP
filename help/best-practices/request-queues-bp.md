@@ -4,10 +4,10 @@ description: Workfront リクエストキューの設定、管理、使用に関
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10921
+jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '1480'
 ht-degree: 100%
 

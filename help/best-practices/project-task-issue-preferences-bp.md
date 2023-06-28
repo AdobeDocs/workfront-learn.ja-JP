@@ -4,10 +4,10 @@ description: Workfront プロジェクト、タスク、イシューの設定、
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10918
+jira: KT-10918
 exl-id: 321af897-3791-4b06-a9dd-241b5246b2a0
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '702'
 ht-degree: 100%
 

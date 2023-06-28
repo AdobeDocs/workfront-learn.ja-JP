@@ -8,12 +8,12 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10145
+jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: d85820a7516bfde170ec1df8ce96b16dafab2cf1
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '232'
+ht-degree: 54%
 
 ---
 

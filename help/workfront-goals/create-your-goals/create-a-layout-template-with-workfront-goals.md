@@ -1,33 +1,33 @@
 ---
 title: レイアウトテンプレートの作成 [!DNL Workfront Goals] ユーザー
-description: を使用してレイアウトテンプレートを作成する方法を説明します。 [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 用語を組織に合わせて使用します。
+description: 組織に合わせて [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 用語を使用してレイアウトテンプレートを作成する方法を説明します。
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8896
+jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 9%
+ht-degree: 85%
 
 ---
 
 # レイアウトテンプレートの作成 [!DNL Workfront Goals] ユーザー
 
-内 **[!UICONTROL 設定]** 領域には、 [!DNL Workfront Goals] したがって、ユーザーとユーザーは、より簡単にアクセスできます。
+**[!UICONTROL 設定]**&#x200B;エリアでは、[!DNL Workfront Goals] を含むレイアウトテンプレートを作成して割り当てることもできるので、ユーザーはより簡単にアクセスできます。
 
 このビデオでは、以下の方法を説明します。
 
 * レイアウトテンプレートの作成
-* レイアウトテンプレートをユーザーに割り当てる
-* 追加 [!DNL Goals] レイアウトテンプレートに
-* 変更 [!DNL Goals] 組織に合った用語
-* 追加 [!DNL Goals] から [!DNL Workfront] [!UICONTROL メインメニュー]
+* ユーザーへのレイアウトテンプレートの割り当て
+* レイアウトテンプレートへの [!DNL Goals] の追加
+* 組織に合わせた [!DNL Goals] 用語の変更
+* [!DNL Workfront] [!UICONTROL メインメニュー]への [!DNL Goals] の追加
 
 >[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 

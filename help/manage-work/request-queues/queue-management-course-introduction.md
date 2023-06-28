@@ -7,9 +7,9 @@ type: Tutorial
 role: Admin, User
 level: Intermediate
 team: Technical Marketing
-kt: 8956
+jira: KT-8956
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 100%
