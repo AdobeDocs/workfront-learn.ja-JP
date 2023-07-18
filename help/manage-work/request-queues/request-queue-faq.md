@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 48%
+source-wordcount: '368'
+ht-degree: 38%
 
 ---
 
@@ -36,7 +37,9 @@ ht-degree: 48%
 
 **編集するためのリクエストキューはどこで見つけられますか？**
 
-次のいずれかを使用できます。 [!UICONTROL 検索] 」フィールドをクリックするか、 [!UICONTROL プロジェクト] 領域
+以下を使用して、 [!UICONTROL 検索] 」フィールドをクリックするか、 [!UICONTROL プロジェクト] 領域
+
+リクエストキューからリクエストを開いた場合は、パンくずリスト領域のプロジェクト名をクリックできます。
 
 **リクエストのカスタムフォームからプロジェクトに情報を転送することはできますか？**
 
@@ -44,4 +47,10 @@ ht-degree: 48%
 
 **プロジェクトまたはタスクレポートを見ています。 このオブジェクトの元となるリクエストを見つけるにはどうすればよいですか？**
 
-次の項目を **[!UICONTROL 変換された問題の作成者]** フィールドソースを使用して、その情報をプロジェクトおよびタスクレポートに追加します。
+次の項目にアクセスできます： **[!UICONTROL 変換された問題]** そして **[!UICONTROL 変換された問題の作成者]** フィールドソースを使用して、その情報をプロジェクトおよびタスクレポートに追加します。
+
+**レポートのリクエストキューをフィルタリングする最善の方法を教えてください。**
+
+プロジェクトフィルターに **Queue>>Is Public>>Equal>>None** レポートには、 **NOT** リクエストキュー。
+
+プロジェクトフィルターに **Queue>>Is Public>>Not Equal>>None** レポートには、 **ARE** リクエストキュー。
