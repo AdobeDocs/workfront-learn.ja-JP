@@ -1,7 +1,7 @@
 ---
 title: カスタムフィールドの共有
 description: カスタムフィールドの権限を調整して、ユーザーに対してカスタムフィールドの管理または表示のみのどちらを許可するかを決定する方法を学びます。
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Intermediate, Experienced
@@ -10,10 +10,10 @@ team: Technical Marketing
 thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 デフォルトでは、[!DNL Workfront] のカスタムフィールドは、カスタムフォームを編集する権限を持つプランライセンスを持つすべてのユーザーが編集することができます。これらの権限を制限し、ユーザーがカスタムフィールドを管理できるか、表示のみできるかを決定することができます。
 
-デフォルトでは、新しいカスタムフィールドには編集権限があります。すなわち、ユーザーはフィールドを表示し、その値を編集できます。 ただし、他のユーザーによる編集や削除を望まない場合は、そのフィールドの権限を変更します。
+デフォルトでは、新しいカスタムフィールドには編集権限があります。すなわち、ユーザーはフィールドを表示し、その値を編集できます。 ただし、他のユーザーが編集や削除を望まない場合は、「 」フィールドの権限を変更します。
 
 1. 「**[!UICONTROL フィールドを共有]**」をクリックします。
 1. **設定アイコン**&#x200B;をクリックして、「[!UICONTROL 編集可能なシステム全体]」を「[!UICONTROL この機能をシステム全体で表示]」に変更します。

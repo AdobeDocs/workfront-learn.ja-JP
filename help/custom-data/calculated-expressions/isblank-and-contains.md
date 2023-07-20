@@ -1,7 +1,7 @@
 ---
 title: ISBLANK 式と CONTAINS 式の使用
 description: Adobe  [!DNL Workfront] の計算フィールドで ISBLANK 式と CONTAINS 式を使用および作成する方法を説明します。
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
-workflow-type: ht
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
 
@@ -24,7 +24,7 @@ CONTAINS 式と ISBLANK 式の両方を使用して、単純な true または f
 
 ![ワークロードバランサーと稼働率レポート](assets/isblank01.png)
 
-説明内で特定の値（「チャリティイベント」など）を検索するには、CONTAINS テキスト式を使用します。説明内に「チャリティイベント」が見つかった場合、計算フィールドには「true」と表示されます。「チャリティイベント」が見つからない場合は、「false」と表示されます。
+説明内の特定の値（「チャリティイベント」など）を検索するには、「次を含む」というテキスト式を使用します。 説明に「チャリティイベント」が見つかった場合、計算フィールドには「true」と表示されます。 「チャリティーイベント」が見つからない場合は、「false」と表示されます。
 
 ![ワークロードバランサーと稼働率レポート](assets/isblank02.png)
 
@@ -42,23 +42,23 @@ ISBLANK({description})
 
 ## 次を含む
 
-CONTAINS テキスト式には、式の名前、検索する単語またはフレーズ、検索するフィールドが含まれます。
+「次を含む」のテキスト式には、式の名前、検索する単語または語句、検索するフィールドが含まれます。
 
-**CONTAINS(“フレーズ”,{フィールド})**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
-検索する単語やフレーズを必ず引用符で囲んでください。引用符を付けないと、式が無効になります。
+探している単語やフレーズを必ず引用符で囲んでください。引用符を付けないと、式が無効になります。
 
-上の例（プロジェクトの説明で「チャリティイベント」を探す）では、式は次のようになります。
+上記の例（プロジェクトの説明で「チャリティーイベント」を探す場合）では、式は次のようになります。
 
-**CONTAINS(“チャリティイベント”,{説明})**
+**CONTAINS(&quot;チャリティイベント&quot;,{description})**
 
 ![ワークロードバランサーと稼働率レポート](assets/isblank04.png)
 
-**メモ**：CONTAINS 式では大文字と小文字が区別されます。例えば、「Charity Event（チャリティイベント）」が説明フィールドで大文字になっている場合、式の中でそのフレーズを大文字にします。
+**メモ**：CONTAINS 式では大文字と小文字が区別されます。例えば、「Charity Event」が説明フィールドで大文字になっている場合、式の中でそのフレーズを大文字にします。
 
-**CONTAINS(“Charity Event”,{説明})**
+**CONTAINS(&quot;チャリティイベント&quot;,{description})**
 
-ISBLANK 式と CONTAINS 式は、どちらも、値が存在するかどうかを調べる場合に使用すると便利です。ただし、値が何であるかを知るには、実際にそれを確認したり、何らかの記述子があった方が、より良い洞察を得ることができるかもしれません。
+ISBLANK 式と CONTAINS 式は、値が存在するかどうかを調べる場合に使用すると便利です。 ただし、値が何であるかを知るには、実際にそれを確認したり、何らかの記述子があった方が、より良い洞察を得ることができるかもしれません。
 
 例えば、プロジェクトがリクエストから転換されたことだけでなく、元のリクエストの名前を知る必要があるとします。
 

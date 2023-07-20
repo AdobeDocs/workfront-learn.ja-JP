@@ -1,7 +1,7 @@
 ---
 title: ADDDAYS、ADDWEEKDAY、ADDMONTHS、ADDYEARS 式の作成
 description: Adobe  [!DNL Workfront] の計算フィールドで ADD 式を使用および作成する方法を説明します。
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Workfront のお客様が作成した、その他の ADDDAYS 式、ADDWEEK
 
 **完了期限**
 
-そのお客様は、実際の開始日と予定期間に基づいて、タスクをいつ完了する必要があったかを知りたいと考えました。この場合、予定完了日は機能しません。予定完了日は、タスクが遅れている場合は移動する可能性があり、前のタスクに遅延がある場合は役に立たないためです。
+そのお客様は、実際の開始日と予定期間に基づいて、タスクをいつ完了する必要があったかを知りたいと考えました。この場合、タスクが遅れている場合に移動する可能性があるので、「予定完了日」は機能しません。また、前のタスクで遅延が生じた場合は、「計画完了日」は役に立ちません。
 
 作成された式は ADDDAYS({actualStartDate},{durationMinutes}/480) でした。
 
@@ -46,7 +46,7 @@ Adobe Workfront のお客様が作成した、その他の ADDDAYS 式、ADDWEEK
 
 この例には、ADDDAYS 式を使用するだけでなく、以前にカスタムフォームで作成および保存したカスタムフィールドも含まれます。
 
-お客様は、「請求書の送信日」という名称のカスタム日付フィールドを使用して、請求書が送信された日付を取得します。
+顧客は、「請求書の送信日」という名称のカスタム日付フィールドを使用して、請求書が送信された日付を取得します。
 
 送信後、請求書は 30 日以内に完了し、提出する必要があります。この完了日と提出日を自動的に生成するには、ADDDAYS 計算フィールドと「請求書の提出日」カスタムフィールドを使用します。式は次のようになります。
 

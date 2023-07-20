@@ -1,7 +1,7 @@
 ---
 title: SUB、SUM、DIV、PROD データ式の作成
 description: Adobe  [!DNL Workfront] の計算フィールドで初歩的な数式を使用および作成する方法を説明します。
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -35,7 +35,7 @@ ROUND 式は、任意の数を取り、特定の小数点以下の桁数に丸�
 
 ほとんどの場合、ROUND データ式は別のデータ式と組み合わせて使用され、書式フィールドがテキストまたは数値のままになっている場合に使用されます。
 
-タスクの予定時間数と実際に記録された時間数との差を特定する計算フィールドを作成してみましょう。これには SUB 式が必要で、次のようになります。
+SUB 式を必要とする計算フィールドを作成して、タスクの計画時間数と実際のログオン時間数との差を決定します。次に例を示します。
 
 **SUB({workRequired},{actualWorkRequired})**
 
@@ -47,7 +47,7 @@ ROUND 式は、任意の数を取り、特定の小数点以下の桁数に丸�
 
 ![ワークロードバランサーと稼働率レポート](assets/round01.png)
 
-ただし、カスタムフィールドを作成する際のフィールドの形式がテキストのままの場合は、ビュー内での形式の変更は簡単にはできません。 プロジェクトで次のような数値が表示されないようにするために、ROUND 式を使用する必要があります。
+ただし、カスタムフィールドを作成する際のフィールドの形式がテキストのままの場合は、ビュー内で書式を簡単に変更することはできません。 プロジェクトで次のような数値が表示されないようにするために、ROUND 式を使用する必要があります。
 
 ![ワークロードバランサーと稼働率レポート](assets/round02.png)
 
@@ -57,7 +57,7 @@ ROUND 式には、式の名前（ROUND）と、通常は 2 つのデータポイ
 
 式の構造は「ROUND(data point, #)」となります。
 
-予定時間と実際の時間の差を計算する式では、最初のデータポイントとして「DIV(SUB({workRequired},{actualWorkRequired}),60)」を使用します。次に、その式から得られる数が何であっても、小数点以下の数が 2 桁を超えないようにします。
+予定時間と実際の時間の差を計算する式では、最初のデータポイントとして「DIV(SUB({workRequired},{actualWorkRequired}),60)」を使用します。その式から得られる数が小数点以下 2 桁以下でないことを確認します。
 
 ![ワークロードバランサーと稼働率レポート](assets/round03.png)
 

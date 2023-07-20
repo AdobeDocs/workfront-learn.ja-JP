@@ -1,7 +1,7 @@
 ---
 title: 計算フィールドと式の基本を学ぶ
 description: 計算フィールドで式を作成して、組織で行われる作業に関する一意のカスタムデータを収集する方法を説明します。
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
-workflow-type: ht
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+workflow-type: tm+mt
 source-wordcount: '500'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -59,7 +59,7 @@ Workfront は、複数のビジネス領域に共通する、作業管理に常�
 
 例えば、テキスト式を使用して次のことができます。
 
-* プロジェクトの費用が $5,000 を超える場合は「$5,000 超」、費用が $5,000 を下回る場合は「$5,000 未満」と、プロジェクトビューの列に表示します。
+* プロジェクトの費用が$5,000 を超える場合は「$5,000 超」、費用が$5,000 を下回る場合は「$5,000 未満」と、プロジェクトビューの列に表示されます。
 
 * 各プロジェクトに、プロジェクトが作成された年、プロジェクトの [!DNL Workfront] 参照番号、プロジェクト名、プロジェクト所有者のイニシャルを含む一意の番号を付けます。
 

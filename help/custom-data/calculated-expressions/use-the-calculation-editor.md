@@ -1,7 +1,7 @@
 ---
 title: 計算エディターの使用
 description: 新しい計算エディターを使用すると、計算カスタムフィールドをこれまで以上に簡単に作成できます。
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 339959.png
 jira: KT-9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%

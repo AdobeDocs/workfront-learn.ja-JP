@@ -2,7 +2,7 @@
 title: 詳細レポート第 2 部
 description: テキストモードビュー、テキストモードの構造に関するその他の詳細、計算されたカスタムデータ、計算された列に関する詳細について説明します。
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%

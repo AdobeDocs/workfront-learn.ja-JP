@@ -1,8 +1,8 @@
 ---
 title: フィルターの基本的なテキストモードについて
-description: テキストモードとは何か、キャメルケースとは何か、Workfront のレポートフィルターで使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
+description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontのレポートフィルターで使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 * テキストモードとは
 * キャメルケースとは
-* レポートフィルターで使用できる基本的な「プラグ＆プレイ」テキストモード
+* レポートフィルターで使用できる基本的な「プラグアンドプレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
@@ -118,7 +118,7 @@ status_Mod=in
 ```
 
 
-## メモ - タグ付けされたすべてのコメントの表示
+## 注意 — タグ付けされたすべてのコメントを表示する
 
 ```
 tags:userID=$$USER.ID
