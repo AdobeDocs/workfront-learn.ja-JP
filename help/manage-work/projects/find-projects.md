@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 68%
+source-wordcount: '198'
+ht-degree: 66%
 
 ---
 
@@ -36,10 +36,6 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 最近のプロジェクト（および他のオブジェクト）を素早く見つけるには、「[!UICONTROL 最近]」アイコンをクリックします。
 
 ![プロジェクトヘッダーで展開された「ステータス」フィールド](assets/recents.png)
-
->[!NOTE]
->
->次のビデオにはオーディオが含まれていません。 これらは、前述の [!DNL Workfront] 機能のデモンストレーションです。
 
 ## プロジェクトのピン留め
 
