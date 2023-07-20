@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2387'
 ht-degree: 96%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 96%
       + [プロジェクト全体の進捗の追跡](manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL ガント]ビューについて](manage-work/projects/understand-the-gantt-view.md)
-      + [プロジェクトを閉じる](manage-work/projects/change-the-project-status.md)
 
    + タスク {#tasks}
       + [タスクの作成](manage-work/tasks/how-to-create-tasks.md)
@@ -176,6 +175,7 @@ ht-degree: 96%
 
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトを閉じる](manage-work/close-a-project/close-a-project-in-workfront.md)
+      + [プロジェクトのステータスを完了に変更します](manage-work/projects/change-the-project-status.md)
       + [タスクおよびイシューを閉じる](manage-work/close-a-project/close-tasks-and-issues.md)
       + [承認の完了](manage-work/close-a-project/complete-approvals.md)
       + [アセットのアップロード](manage-work/close-a-project/upload-assets.md)
