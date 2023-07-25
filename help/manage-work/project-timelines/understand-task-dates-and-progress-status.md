@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 50%
 
 ---
 
@@ -26,6 +26,11 @@ ht-degree: 100%
 * 進捗ステータスを使用した作業の進捗の追跡
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>このビデオで述べたように、人々がステータスを次から変更することが重要です： **[!UICONTROL 新規]** から **[!UICONTROL 処理中]** タスクを開始し、 [!UICONTROL 実際の開始日] が正しく設定されます。 ただし、タスクの開始時にこの操作を実行し忘れた場合は、戻って [!UICONTROL 実際の開始日] いつでも
+
 
 <!---
 Task progress status overview

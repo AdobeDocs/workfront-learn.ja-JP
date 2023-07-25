@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud 用の Adobe Workfront プラグインの使用
-description: Adobe Creative Cloud アプリケーション（Photoshop、XD、InDesign、Illustrator、Premiere Pro、After Effects）を離れることなく、Adobe Workfront で自分に割り当てられた作業を検索して更新します
+title: Adobe Workfrontプラグインを使用したCreative Cloudとの統合
+description: WorkfrontをCreative Cloudと統合して、Photoshop、XD、InDesign、Illustrator、Premiere Pro、After EffectsのCreative Cloudアプリケーションから離れることなく、Workfrontで割り当てられた作業を見つけ、更新します
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="統合" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 61%
 
 ---
 
-# Creative Cloud 用の Adobe Workfront プラグインの使用
+# Adobe Workfrontプラグインを使用したCreative Cloudとの統合
 
-次の Adobe Creative Cloud アプリケーションを離れることなく、Adobe Workfront で自分に割り当てられた作業を検索して更新します。
+WorkfrontをCreative Cloudと統合して、以下のAdobe Creative Cloudアプリケーションを使用することなく、Adobe Workfrontで割り当てられた作業を検索し、更新できます。
 
 * Photoshop
 * XD
@@ -28,7 +31,7 @@ ht-degree: 100%
 * Premiere Pro
 * After Effects
 
-使用している Adobe Creative Cloud アプリケーションに適したプラグインをインストールする必要があります。
+使用しているAdobe Creative Cloudアプリケーション用の正しいプラグインをインストールする必要があります。
 
 * Photoshop については、[Photoshop 用の Adobe Workfront をインストールして開く](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=ja)を参照してください
 * XD については、[XD 用の Adobe Workfront をインストールして開く](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=ja)を参照してください
