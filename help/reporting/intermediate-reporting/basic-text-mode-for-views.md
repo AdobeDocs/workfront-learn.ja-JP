@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 90%
+source-wordcount: '685'
+ht-degree: 81%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 90%
 >
 >前提条件：
 >
->* レポート要素について
->* レポートコンポーネントについて
->* 基本ビューの作成
+>* [レポート要素について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [レポートコンポーネントについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
@@ -231,16 +231,23 @@ type=iterate
 
 ![割り当てビューと役割ビューを示す画面の画像](assets/assignments-roles-and-percent-view.png)
 
-## タスク - プロジェクト間の先行タスクと後続タスク
+## タスク — プロジェクト間の先行タスクと後続タスク
 
 ### タスクフィルター（オプション）
 
-**少なくとも 1 つのクロスプロジェクトの先行タスクを持つすべてのタスクの表示**
+**現在のプロジェクトで、1 つ以上のプロジェクト間の先行タスクまたは 1 つ以上のプロジェクト間の後続タスクを持つすべてのタスクを表示する**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### タスク - プロジェクトの先行タスク名と先行タスクが次の場所にあることを表示
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![プロジェクト間の先行タスクおよび後続タスクビューを示す画面の画像](assets/cross-project-predecessors-and-successors.png)
+![プロジェクト間の先行タスクと後続タスクのビューを示す画面画像](assets/cross-project-predecessors-and-successors.png)
 
 
 ## タスク - 割り当てられた担当者と、割り当てを行った担当者をすべて示すイテレーション
