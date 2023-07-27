@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2392'
 ht-degree: 96%
 
 ---
@@ -107,7 +107,7 @@ ht-degree: 96%
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
       + [基本的なプロジェクト作成について](manage-work/projects/understand-basic-project-creation.md)
-      + [プロジェクトを作成する 4 つの方法を説明します](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [プロジェクトを作成する 4 つの方法を説明します。](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [プロジェクト詳細の入力](manage-work/projects/fill-in-the-project-details.md)
       + [プロジェクトページの移動](manage-work/projects/navigate-the-project-page.md)
       + [プロジェクトのプランニングの基本を学ぶ](manage-work/projects/getting-started-plan-a-project.md)
@@ -190,6 +190,7 @@ ht-degree: 96%
 
    + 中間プロジェクト {#intermediate-projects}
       + [期間のタイプとタスクの制約を理解し、管理します](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [プロジェクト間の先行タスクを理解する](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + レポート {#reporting}
@@ -232,7 +233,7 @@ ht-degree: 96%
       + [高度なレポート第 3 部](reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + Enhanced Analytics {#enhanced-analytics}
-      + [製品に関する情報 [!UICONTROL 分析の強化]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [製品に関する情報 [!UICONTROL Analytics の強化]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [レイアウトテンプレートへの[!UICONTROL 分析]の追加](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](reporting/enhanced-analytics/4-basic-navigation.md)
