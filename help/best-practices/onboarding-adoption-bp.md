@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 100%
+source-wordcount: '1055'
+ht-degree: 90%
 
 ---
 
@@ -151,3 +151,18 @@ Workfront の目標と、その期待に応える上での立ち位置を知る�
 
 
 リーダーシップが、支援を伝えるメッセージを送るようにします。
+
+</br>
+</br>
+
+
+**ベストプラクティス**
+
+導入に関する調査を作成および導入して、課題が発生している場所と価値がどこにあるかをより深く理解する
+
+**その理由は次のとおりです**
+
+最も成功したお客様は、Workfrontソリューションをより適切に導入するために何が起こっているかを把握するために、フィードバックを収集するための定期的なサイクルを開発しました。 フィードバックデータを収集すると、管理者は改善に役立つ適切なリソースを見つけることができます。 この導入に関する調査ガイドでは、Workfrontユーザーに対する調査を実施するための実行、測定、計画およびレビューの段階について説明します。
+
+[Workfront Guide to Adoption Survey をダウンロード](../assets/adoption-survey.pdf)
+
