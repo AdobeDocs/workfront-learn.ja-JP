@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 96%
+source-wordcount: '2401'
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 96%
       + [ごみ箱からのオブジェクトの復元](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + システムのデフォルトの設定 {#configure-system-defaults}
-      + [グローバルなデフォルトのプロジェクト設定の指定](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [オブジェクトのステータスの作成と管理](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [デフォルトのイシュータイプについて](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [イシューステータスの作成](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [システム全体のイシューステータスの作成](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [スケジュールの作成と管理](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [イシューの重要度の作成と管理](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [イシューのタイプと用語をカスタマイズする](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [グローバルなデフォルトのイシュー環境設定を構成する](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [グローバルなデフォルトのプロジェクト設定の指定](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + レイアウトテンプレート {#layout-templates}
       + [レイアウトテンプレートとは](administration-and-setup/layout-templates/what-are-layout-templates.md)
