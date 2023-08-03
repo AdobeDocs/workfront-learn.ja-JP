@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
+source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
 workflow-type: tm+mt
-source-wordcount: '2401'
+source-wordcount: '2405'
 ht-degree: 95%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 95%
       + [プロジェクト全体の進捗の追跡](manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL ガント]ビューについて](manage-work/projects/understand-the-gantt-view.md)
+      + [について [!UICONTROL ボード] 表示](manage-work/projects/understand-the-board-view.md)
 
    + タスク {#tasks}
       + [タスクの作成](manage-work/tasks/how-to-create-tasks.md)
