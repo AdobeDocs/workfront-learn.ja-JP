@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 95%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 95%
       + [ボードの列の管理](boards/manage-board-columns.md)
       + [ボードへのカードの追加](boards/add-cards-to-a-board.md)
       + [ボードでのカードの管理](boards/manage-cards-on-a-board.md)
+      + [ボード上のカードのカスタマイズ](boards/customize-cards-on-a-board.md)
       + [ボードのチームメンバーの追加と管理](boards/add-and-manage-team-members-for-a-board.md)
       + [ボードの列設定の追加と編集](boards/add-and-edit-column-settings-on-a-board.md)
       + [カードのタグの追加と管理](boards/add-and-manage-tags-for-cards.md)
