@@ -4,24 +4,32 @@ description: ダッシュボード、[!UICONTROL ホーム]、[!UICONTROL リク
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 90%
+source-wordcount: '100'
+ht-degree: 27%
 
 ---
 
 # リクエストを探す
 
-様々な要求を見つける場所があるので、社内の [!DNL  Workfront] チームに連絡して、リクエストインテークの管理方法を確認してください。 [!DNL Workfront] でリクエストを確認できる場所を次に示します。
+このビデオでは、割り当てられているリクエスト、作成済みのリクエスト、管理対象のリクエストの検索方法を説明します。
 
-* **ダッシュボード：**[!DNL Workfront] の顧客の多くがカスタムレポートを作成して、受信リクエストの表示や、プロジェクトに変換されたリクエストの追跡などを行っています。これらの個々のレポートがダッシュボードにまとめられるので、すべてを簡単かつ迅速に確認できます。[!DNL Workfront] では、組織のニーズに合わせてカスタマイズできるので、このリクエスト管理方法をお勧めします。
-* **[!UICONTROL ホーム]：**&#x200B;リクエストはイシューとしてラベルが付けられます。これは、リクエストキューを通じて作成されたリクエストを [!DNL Workfront] のバックエンドが処理する方法と同様です。
-* ****&#x200B;リクエストエリア：[!UICONTROL 送信済み]ページには、デフォルトで、アクセス権を持っており、まだステータスがオープンまたは未解決のリクエストが表示されます。[!UICONTROL フィルター]を変更して、アクセス権のあるすべての送信済みリクエスト、自身のリクエストのみ、または自身のオープンなリクエストのみを表示できます。リクエストの詳細をすばやく確認するには、リストでリクエストを選択して、概要パネルを開きます。
-* **[!UICONTROL チーム]ページ：**&#x200B;リクエストがチームに転送されると、リクエストは[!UICONTROL チーム]ページの「[!UICONTROL チームリクエスト]」セクションに表示されます。ここから、チームメンバーが作業を自分で割り当てたり、チームリードが作業をメンバーに割り当てたりできます。
+これらのリクエストを検索する方法については、次の場所で学習します。
+
+* Workfront [!UICONTROL ホーム]
+* The [!UICONTROL リクエスト] 領域
+* The [!UICONTROL チーム] ページ
+* カスタムダッシュボードの場合：
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+カスタムレポートを作成してダッシュボードに配置する方法については、「 [基本レポート作成コース](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)

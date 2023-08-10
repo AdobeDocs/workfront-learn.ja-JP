@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2410'
-ht-degree: 95%
+ht-degree: 94%
 
 ---
 
@@ -138,18 +138,12 @@ ht-degree: 95%
       + [予定外作業の処理](manage-work/issues-requests/handle-unplanned-work.md)
       + [リクエストする](manage-work/issues-requests/make-a-request.md)
       + [リクエストを探す](manage-work/issues-requests/find-requests.md)
-      + [リクエストの管理](manage-work/issues-requests/manage-incoming-requests.md)
       + [イシューの割り当てを管理](manage-work/issues-requests/manage-issue-assignments.md)
       + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
-      + [リクエストからのプロジェクトの作成](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [イシューを他の作業アイテムに変換](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [問題/リクエストをプロジェクトに変換する](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [タスクに問題/リクエストを変換する](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [デジタル作品のレビューと承認](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [イシューに関するレポート](manage-work/issues-requests/report-on-issues.md)
-
-   + ポートフォリオ {#portfolios}
-      + [ポートフォリオの概要](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [ビジネスケースの概要](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [ポートフォリオを使用した作業の優先順位と管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + リクエストキュー {#request-queues}
       + [リクエストキューについて](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 95%
       + [リクエストキューの作成](manage-work/request-queues/create-a-request-queue.md)
       + [リクエストフローの作成](manage-work/request-queues/create-a-request-flow.md)
       + [リクエストキューに関するよくある質問への回答](manage-work/request-queues/request-queue-faq.md)
+
+   + ポートフォリオ {#portfolios}
+      + [ポートフォリオの概要](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [ビジネスケースの概要](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [ポートフォリオを使用した作業の優先順位と管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [1 回限りの承認プロセスの作成](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
