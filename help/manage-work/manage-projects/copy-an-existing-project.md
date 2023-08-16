@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 6%
 
 ---
@@ -29,4 +29,4 @@ ht-degree: 6%
 
 ![Cr](assets/copy-existing-02.png)
 
-「割り当てをクリア」を選択したり、ステータスを「計画」に設定したりすると、コピーされたプロジェクトはコピー直後にタスクの割り当て通知を送信できなくなります。
+「割り当てをクリア」を選択するか、ステータスを「計画」に設定すると、コピーされたプロジェクトはコピー直後にタスクの割り当て通知を送信できなくなります。
