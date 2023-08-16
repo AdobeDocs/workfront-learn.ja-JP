@@ -10,10 +10,10 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 65%
+source-wordcount: '154'
+ht-degree: 16%
 
 ---
 
@@ -21,14 +21,8 @@ ht-degree: 65%
 
 最初に、 [!DNL Workfront] プロジェクトでは、すべてのタスクと問題のステータスが「完了」か、同等のステータスになっていることを確認しています。
 
-タスクリストから開始し、[!UICONTROL 完了率]または[!UICONTROL ステータス]列またはその両方を表示する[!UICONTROL 表示]を選択します。タスクリストを下にすばやくスキャンすると、ステータスが変更されていないタスクを特定できます。
+次の場合、 [!UICONTROL 完了率] プロジェクトヘッダーのフィールドには、すべてのタスクが 100%完了とマークされていることが 100%と表示されます。 ただし、 [!UICONTROL 完了 — 承認待ち] は引き続き 100%として読み取るので、必ず確認してください。 詳しくは、 [承認を完了](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) 承認に関するすべてのヒント
 
-![[!UICONTROL 完了率]の列を表示しているプロジェクト](assets/planner-fund-close-tasks-and-issues.png)
+承認待ちの問題も含め、不完全な問題がある場合は、「問題」タブの横に数字が表示され、その数が表示されます。 数がゼロの場合は、不完全な問題はありません。
 
-すべての組織が [!DNL Workfront's] のイシュー機能を使用して、プロジェクト中に発生した問題、変更指示などを記録や解決しているわけではありません。しかし、使用する場合は、「[!UICONTROL イシュー]」セクションを参照し、すべての問題が解決されていることを確認します。
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![プロジェクトを表示中 [!UICONTROL 完了率] および未解決の問題](assets/close-tasks-and-issues.png)
