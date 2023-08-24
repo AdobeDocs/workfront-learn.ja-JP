@@ -10,10 +10,10 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 100%
+source-wordcount: '772'
+ht-degree: 66%
 
 ---
 
@@ -21,23 +21,24 @@ ht-degree: 100%
 
 Workfront の優れた点として、カスタマイズ可能なことがあります。Workfront の難しい点として、カスタマイズ可能なことがあります。既存の Workfront インスタンスを引き継ぐ新規システム（またはグループ）管理者であれば、それが元々どのように構成され、設定されていたかを把握するのは大変なことでしょう。
 
-しかし、継承されたインスタンスのチェックリストを使用すると、お使いのインスタンスについて知る必要があるすべてのことを学ぶことができます。\
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">継承されたインスタンスのチェックリストをダウンロード</span>
-</a>
+しかし、継承されたインスタンスのチェックリストを使用すると、お使いのインスタンスについて知る必要があるすべてのことを学ぶことができます。
 
-![継承されたインスタンスのチェックリストの画像](assets/wf-inherited-instance-imagel.jpg)
+![継承されたインスタンスのチェックリストの画像](assets/wf-inherited-instance-image.png)
+<br></br>
 
-このチェックリストでは、質問、リソース、リンクの包括的なセットを確認して、どのように構成されているかを明確に把握できます。
+継承インスタンスのチェックリストで、質問、リソース、リンクの包括的なセットを確認して、その設定方法を明確に理解します。
 
-さらに、探索、監査、ドキュメント化という 3 つのキーフレーズを、推奨期間とともに説明します。これらは、特定のニーズに合わせて調整でき、一度にすべてを行う必要はありません。
+このチェックリストは、Workfrontブループリントとして、またダウンロード可能な Excel スプレッドシートとして作成されています。 ブループリントを使用して、Workfrontで作業を管理し、ドキュメント化することをお勧めします。
 
-スプレッドシートのタブは、時系列ではなく、トピックごとに整理されているので、ユーザーや組織にとって最も理にかなった方法でドキュメントを進めることができます。
+ブループリントとスプレッドシートは、タイムラインではなくトピック別に整理されているので、自分と組織にとって最適な方法で進めることができます。. 提供される期間は一例に過ぎません。具体的なニーズに合わせて調整する必要があります。 1 回で全てを行う必要はありません！
 
-可能な限り、組織の他のユーザーと協力して、これらの要素を確認し、ドキュメント化して、大きな変更がある場合は、このドキュメントを最新の状態に保つことをお勧めします。インスタンスの将来の管理者にとって、非常に有用なものになるはずです。
+可能な限り、組織内の他のユーザーと協力して、これらの要素を確認および文書化し、大きな変更がある場合はドキュメントを最新の状態に保つことをお勧めします。 インスタンスの将来の管理者にとって、非常に有用なものになるはずです。
 
+* ブループリントをダウンロードするには、独自のWorkfrontインスタンスのメインメニューに移動し、「ブループリント」を選択します。 「Inherited Instance Basics」というタイトルのブループリントを見つけます。 「|チェックリスト」をクリックし、「インストール」をクリックします。 実稼動環境またはサンドボックス環境を選択し、引き続き設定します。 ブループリントのインストールと設定について詳しくは、 [ここ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Excel チェックリストをダウンロードするには、 [ここ](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+ブループリントや Excel チェックリストを使用する場合でも、このプロセスは、検出、監査、ドキュメントという 3 つの主要なフェーズで考えることができます。 以下に説明と理想的な結果を示します。
 
 <br>
 </br>
@@ -97,6 +98,7 @@ Workfront の優れた点として、カスタマイズ可能なことがあり�
 </br>
 
 追加情報については、以下を参照してください。
+* [ウェビナー：継承されたインスタンスを引き継ぐためのヒント](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Workfront 実装の目標の定義](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=ja)
 * [ブログ投稿：エグゼクティブスポンサーシップとリーダーシップへの価値](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [ブログ投稿：Adobe Workfront KPI の概要](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
