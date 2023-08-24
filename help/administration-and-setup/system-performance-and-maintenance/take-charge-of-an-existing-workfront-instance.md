@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 66%
@@ -30,13 +30,13 @@ Workfront の優れた点として、カスタマイズ可能なことがあり�
 
 このチェックリストは、Workfrontブループリントとして、またダウンロード可能な Excel スプレッドシートとして作成されています。 ブループリントを使用して、Workfrontで作業を管理し、ドキュメント化することをお勧めします。
 
-ブループリントとスプレッドシートは、タイムラインではなくトピック別に整理されているので、自分と組織にとって最適な方法で進めることができます。. 提供される期間は一例に過ぎません。具体的なニーズに合わせて調整する必要があります。 1 回で全てを行う必要はありません！
+ブループリントとスプレッドシートは、タイムラインではなくトピック別に整理されているので、自分と組織にとって最適な方法で進めることができます。 提供される期間は一例に過ぎません。具体的なニーズに合わせて調整する必要があります。 1 回で全てを行う必要はありません！
 
 可能な限り、組織内の他のユーザーと協力して、これらの要素を確認および文書化し、大きな変更がある場合はドキュメントを最新の状態に保つことをお勧めします。 インスタンスの将来の管理者にとって、非常に有用なものになるはずです。
 
-* ブループリントをダウンロードするには、独自のWorkfrontインスタンスのメインメニューに移動し、「ブループリント」を選択します。 「Inherited Instance Basics」というタイトルのブループリントを見つけます。 「|チェックリスト」をクリックし、「インストール」をクリックします。 実稼動環境またはサンドボックス環境を選択し、引き続き設定します。 ブループリントのインストールと設定について詳しくは、 [ここ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>ブループリントをダウンロードするには</b>をクリックし、独自のWorkfrontインスタンスのメインメニューに移動して、「ブループリント」を選択します。 「Inherited Instance Basics」というタイトルのブループリントを見つけます。 「|チェックリスト」をクリックし、「インストール」をクリックします。 実稼動環境またはサンドボックス環境を選択し、引き続き設定します。 ブループリントのインストールと設定について詳しくは、 [ここ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Excel チェックリストをダウンロードするには、 [ここ](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Excel をダウンロードするには</b> チェックリスト、クリック [ここ](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 ブループリントや Excel チェックリストを使用する場合でも、このプロセスは、検出、監査、ドキュメントという 3 つの主要なフェーズで考えることができます。 以下に説明と理想的な結果を示します。
 
