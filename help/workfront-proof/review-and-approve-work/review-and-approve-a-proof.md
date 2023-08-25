@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 100%
+source-wordcount: '684'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 * バージョン番号によって、どのバージョンのプルーフを表示するかを把握できます。
 * さらに、重要なこととして、期限がメール内の 2 か所に表示されています。プルーフの詳細セクションのすぐ上と、自分が属しているワークフローステージのグレーのバーです。
 
-確認を始める準備ができたら、青色の「[!UICONTROL プルーフに移動]」ボタンをクリックするだけで、ファイルが [!DNL Workfront’s] プルーフビューアで自動的に開きます。
+レビューを開始する準備が整ったら、青をクリックするだけで済みます [!UICONTROL 配達確認に移動] 」ボタンをクリックすると、ファイルが [!DNL Workfront] 校正ビューア
 
 ### [!UICONTROL ホーム]からプルーフを開く
 
