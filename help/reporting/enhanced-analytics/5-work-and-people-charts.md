@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
 ht-degree: 100%
 
