@@ -1,6 +1,6 @@
 ---
 title: 1 回限りの承認プロセスの作成
-description: ' [!DNL  Workfront] でオブジェクトに対して 1 回限りの承認プロセスを作成する方法を説明します。'
+description: Workfrontのオブジェクトで単一使用の承認プロセスを作成する方法を説明します。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '39'
-ht-degree: 100%
+source-git-commit: 2ff44e6762846c269bac4ecb965409f24fb48a4a
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 51%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
 
-<!---
-learn more URLS
-Approval process overview
---->
+>[!TIP]
+>
+>プロジェクトテンプレートには、1 回の使用承認プロセスを追加できます。
+
