@@ -11,7 +11,7 @@ jira: KT-11043
 thumbnail: KT11043.png
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
 ht-degree: 100%
 
