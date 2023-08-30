@@ -11,7 +11,7 @@ thumbnail: 10035.jpeg
 jira: KT-10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 
