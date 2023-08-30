@@ -11,7 +11,7 @@ thumbnail: upload-drag-and-drop.png
 jira: KT-10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
