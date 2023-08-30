@@ -3,9 +3,9 @@ title: Workfront チュートリアル
 description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。お客様とお客様の組織の両方が Workfront を使用して成功へつながる、ベストプラクティス、厳選された演習、その他のリソースのコレクションが含まれています。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ See other user landing pages to get ideas.
 
 <div id="whats-new-section">
 
-## 新機能
+## 最新情報
 
 各 Workfront 製品リリースのチュートリアルに加えられた最新のアップデートをご確認ください。最新のリリースでアップデートされた機能を次に示します。
 
@@ -60,7 +60,7 @@ See other user landing pages to get ideas.
     </td>
    <td>
       <a href="/help/manage-work/issues-requests/make-a-request.md">
-      <img alt="リクエストする" src="./assets/nrequest_01.png"/>
+      <img alt="リクエストの作成" src="./assets/nrequest_01.png"/>
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>リクエストの作成</strong></a>
