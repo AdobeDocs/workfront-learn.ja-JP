@@ -11,7 +11,7 @@ thumbnail: access-a-plan.png
 jira: KT-10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
 ht-degree: 100%
 
