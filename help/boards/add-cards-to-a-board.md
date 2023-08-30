@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 86bdeadc-ab72-4936-bc3a-45079d7a4ce1
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
 ht-degree: 100%
 
