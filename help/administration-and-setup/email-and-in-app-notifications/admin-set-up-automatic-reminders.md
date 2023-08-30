@@ -11,7 +11,7 @@ thumbnail: setupautoreminds.png
 jira: KT-10092
 exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 
