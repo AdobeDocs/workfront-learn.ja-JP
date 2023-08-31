@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '2416'
-ht-degree: 94%
+source-wordcount: '2422'
+ht-degree: 93%
 
 ---
 
@@ -211,10 +211,6 @@ ht-degree: 94%
       + [ダッシュボードの作成](reporting/basic-reporting/create-dashboards.md)
       + [レポートの送信と共有](reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [レポート設定について](reporting/basic-reporting/report-settings.md)
-      + [カレンダーインターフェイスについて](reporting/basic-reporting/tour-of-the-interface.md)
-      + [カスタムカレンダーの作成](reporting/basic-reporting/creating-custom-calendars.md)
-      + [追加のカレンダーオプションについて](reporting/basic-reporting/additional-calendar-options.md)
-      + [カレンダーを作成してみましょう](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 中間レポート {#intermediate-reporting}
       + [ユーザーベースのワイルドカードを使用してフィルターを作成する](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -233,6 +229,12 @@ ht-degree: 94%
       + [詳細レポート第 1 部](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [詳細レポート第 2 部](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高度なレポート第 3 部](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
+   + カレンダーレポート {#calendar-reports}
+      + [カレンダーレポートインターフェイスについて](reporting/basic-reporting/tour-of-the-interface.md)
+      + [カスタムカレンダーレポートの作成](reporting/basic-reporting/creating-custom-calendars.md)
+      + [その他のカレンダーレポートオプションについて](reporting/basic-reporting/additional-calendar-options.md)
+      + [カレンダーレポートを作成する順番](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Enhanced Analytics {#enhanced-analytics}
       + [製品に関する情報 [!UICONTROL Analytics の強化]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
@@ -562,10 +564,10 @@ ht-degree: 94%
 
    + Brand Connect ユーザー {#brand-connect}
       + [ユーザーとしての [!UICONTROL Brand Connect] について](workfront-dam/brand-connect-user/brand-connect-introduction.md)
+      + [ユーザーとしてのナビゲーションと検索について](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [[!UICONTROL Brand Connect] の通知について](workfront-dam/brand-connect-user/brand-connect-notifications.md)
       + [ユーザーとしてのダウンロードと共有について](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
       + [ユーザーとしてのライトボックスについて](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-      + [ユーザーとしてのナビゲーションと検索について](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [ユーザーとしてのアセットの操作](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + ホーム {#home}
