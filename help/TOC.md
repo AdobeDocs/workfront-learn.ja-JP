@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2426'
 ht-degree: 93%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 93%
       + [マイルストーンの適用](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
-      + [プロジェクトテンプレートの作成](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [プロジェクトテンプレートの作成 ブループリントについて](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトのコピー](manage-work/manage-projects/copy-an-existing-project.md)
