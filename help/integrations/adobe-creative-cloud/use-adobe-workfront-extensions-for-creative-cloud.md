@@ -1,6 +1,6 @@
 ---
 title: Adobe Workfrontプラグインを使用したCreative Cloudとの統合
-description: WorkfrontをCreative Cloudと統合して、Photoshop、XD、InDesign、Illustrator、Premiere Pro、After EffectsのCreative Cloudアプリケーションから離れることなく、Workfrontで割り当てられた作業を見つけ、更新します
+description: WorkfrontをCreative Cloudと統合して、Photoshop、XD、InDesign、Illustrator、Premiere Pro、After EffectsのCreative Cloudアプリケーションから離れることなく、Workfrontで割り当てられた作業を見つけ、更新します。
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial

@@ -1,5 +1,5 @@
 ---
-title: レイアウトテンプレートの作成 [!DNL Workfront Goals] ユーザー
+title: のレイアウトテンプレートを作成します。 [!DNL Workfront Goals] ユーザー
 description: 組織に合わせて [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 用語を使用してレイアウトテンプレートを作成する方法を説明します。
 activity: use
 feature: Workfront Goals
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 ---
 
-# レイアウトテンプレートの作成 [!DNL Workfront Goals] ユーザー
+# のレイアウトテンプレートを作成します。 [!DNL Workfront Goals] ユーザー
 
 **[!UICONTROL 設定]**&#x200B;エリアでは、[!DNL Workfront Goals] を含むレイアウトテンプレートを作成して割り当てることもできるので、ユーザーはより簡単にアクセスできます。
 
