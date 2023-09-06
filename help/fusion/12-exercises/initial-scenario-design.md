@@ -10,16 +10,22 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '906'
-ht-degree: 100%
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+workflow-type: tm+mt
+source-wordcount: '978'
+ht-degree: 92%
 
 ---
 
 # 最初のシナリオのデザイン
 
 Workfront Fusion に初めてログインする際の基本的な操作方法と、最初のシナリオの作成について説明します。
+
+## 前提条件
+
+1. この演習には、Workfrontテストドライブが必要です。 次の項目を入力してリクエストできます。 [このフォーム](https://forms.office.com/r/f1J8HRGrNY). フォームにアクセスできない場合は、お客様の名前、電子メールアドレス、会社名をwfttstdr@adobe.comに送信してください。
+1. Fusion の演習では、この演習に対応するウォークスルービデオを視聴したことを前提としています。 この場合は、 [最初のシナリオデザインのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
 
 ## 演習の概要
 
@@ -48,7 +54,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
 
    ![最初のシナリオデザイン画像 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Workfront インスタンスの URL を入力し、「次へ」をクリックします。
+1. 次の URL を入力 **Workfrontインスタンス**、「次へ」をクリックします。
 
    ![最初のシナリオデザイン画像 5](../12-exercises/assets/initial-scenario-design-5.png)
 
