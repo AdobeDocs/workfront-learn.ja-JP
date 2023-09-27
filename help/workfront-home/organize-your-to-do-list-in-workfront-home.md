@@ -1,5 +1,5 @@
 ---
-title: で TODO リストを整理 [!DNL Workfront] [!UICONTROL ホーム]
+title: ' [!DNL Workfront] [!UICONTROL ホーム]での TODO リストの整理'
 description: ' [!DNL  Workfront] で、割り当てられた作業をフィルタリングして並べ替える方法、開始する準備が整った作業を識別する方法、割り当てられた作業を承認する方法について説明します。'
 feature: Work Management
 type: Tutorial
@@ -12,13 +12,13 @@ jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# で TODO リストを整理 [!DNL Workfront] [!UICONTROL ホーム]
+# [!DNL Workfront] [!UICONTROL ホーム]での TODO リストの整理
 
 >[!NOTE]
 >
