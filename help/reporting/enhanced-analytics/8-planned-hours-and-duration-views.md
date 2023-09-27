@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 67%
 
 デフォルトは予定時間数です。期間に切り替えると、 [!DNL Analytics] から他へ移動して戻ってきた場合や、Workfront にログインし直した場合でも、期間に固定されています。
 
-## ボックスのサイズと色合いの意味は何ですか？
+## ボックスのサイズと色合いの意味
 
-より小さく、より明るい青色のボックスは、より少ない時間を表し、大きいボックスとより濃い青色のボックスは、比較してより多くの時間を表します。 詳しくは、 [プロジェクトツリーマップビジュアライゼーションについて](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+より小さく、より明るい青色のボックスは、時間が短いことを示し、大きいボックスとより濃い青色のボックスは、比較して時間が長いことを示します。詳しくは、[プロジェクトのツリーマップビジュアライゼーションについて](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=ja)を参照してください。
