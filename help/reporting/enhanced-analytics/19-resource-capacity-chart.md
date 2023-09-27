@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '409'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ ht-degree: 90%
 
 ## グラフへの移動方法
 
-1. をクリックします。 [!UICONTROL 人] 」タブをクリックします。
-1. 以下を使用： [!UICONTROL フィルター] をクリックして、調査する 1 つ以上のホームチームを選択します。
-1. 次の項目が表示されます。 [!UICONTROL リソース容量] チャートは、チームアクティビティチャートの下に表示されます。
+1. 左側のパネルで「[!UICONTROL ユーザー]」タブをクリックします。
+1. 「[!UICONTROL フィルター]」を使用して、調査する 1 つ以上のホームチームを選択します。
+1. [!UICONTROL リソースのキャパシティ]グラフが、チームのアクティビティグラフの下に表示されます。
 
 ## グラフの使用方法
 
