@@ -1,5 +1,5 @@
 ---
-title: プロジェクトを作成する 4 つの方法を説明します
+title: プロジェクトを作成する 4 つの方法を学ぶ
 description: テンプレートからプロジェクトを作成する方法、ゼロからプロジェクトを作成する方法、既存のプロジェクトをコピーする方法や  [!DNL Microsoft Project]  ファイルを読み込む方法を学びます。
 activity: use
 feature: Work Management
@@ -12,13 +12,13 @@ jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
-# プロジェクトを作成する 4 つの方法を説明します
+# プロジェクトを作成する 4 つの方法を学ぶ
 
 このビデオでは、以下の方法を説明します。
 
@@ -35,7 +35,7 @@ ht-degree: 73%
 
 ![[!UICONTROL テンプレートからの新規プロジェクト]ウィンドウ](assets/planner-fund-new-project-from-template-window.png)
 
-* 頻繁に使用するテンプレートがある場合は、それをお気に入りにします。 テンプレートが [!UICONTROL 新規プロジェクト] メニューに加えて、その下に表示される [!UICONTROL お気に入りと最近] アイコンをクリックします。 プロジェクト作成に使用するテンプレートを選択する際など、テンプレートページ上で表示されているときにお気に入りの星形アイコンをクリックするだけです。
+* 頻繁に使用するテンプレートがある場合は、お気に入りに追加します。[!UICONTROL 新規プロジェクト]メニューにリストされたテンプレートを確認できます。また、ナビゲーションバーの「[!UICONTROL お気に入りと最近使ったもの]」アイコンの下にも表示されます。プロジェクト作成に使用するテンプレートを選択する際など、テンプレートページ上で表示されているときにお気に入りの星形アイコンをクリックするだけです。
 
 ![「[!UICONTROL 新規プロジェクト]」ボタンの下のお気に入りのテンプレートリストの下](assets/planner-fund-template-favorites.png)
 
