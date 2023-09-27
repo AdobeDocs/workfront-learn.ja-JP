@@ -1,6 +1,6 @@
 ---
-title: プロジェクト間の先行タスクを理解する
-description: 2 つ以上のプロジェクトをまたいで、先行タスクを使用し、追跡する方法を学びます。
+title: プロジェクト間先行タスクについて
+description: 2 つ以上のプロジェクトで先行タスクを使用し追跡する方法を説明します。
 feature: Work Management
 thumbnail: 3422123.jpg
 type: Tutorial
@@ -12,27 +12,27 @@ last-substantial-update: 2023-07-27T00:00:00Z
 jira: KT-13737
 doc-type: video
 source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# プロジェクト間の先行タスクを理解する
+# プロジェクト間先行タスクについて
 
 >[!IMPORTANT]
 >
 >前提条件：
 >
->* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
->* または、プロジェクトで先行タスクを使用することに既に慣れています
+>* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ja)
+>* プロジェクトで先行タスクの使用に既に慣れている
 
-このビデオでは、次の内容について説明します。
+このビデオでは、以下について説明します。
 
-* クロスプロジェクトの前任者とは何か、それがどのように役に立つか
-* プロジェクト間の先行タスクの作成方法
-* レポートでのプロジェクト間の先行タスクの追跡方法
+* プロジェクト間先行タスクとは何か、それがどのように役に立つか
+* プロジェクト間先行タスクの作成方法
+* レポートでのプロジェクト間先行タスクの追跡方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on)
 
-を作成する方法を学ぶには、以下を実行します。 **プロジェクト間の先行タスクと後続タスク** 表示と **プロジェクト間の先行タスクと後続タスク** ビデオで使用されるレポートについては、 [ビューの基本的なテキストモードを理解する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) チュートリアルを読み、必要に応じて、前提条件のチュートリアルを必ず受け取ってください。
+**プロジェクト間先行タスクと後続タスク**&#x200B;ビューおよびビデオで使用される&#x200B;**プロジェクト間先行タスクと後続タスク**&#x200B;レポートを作成する方法については、[ビューの基本的なテキストモードについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ja)のチュートリアルを参照し、必要に応じて、そこでリストされている必須のチュートリアルを必ず完了してください。
