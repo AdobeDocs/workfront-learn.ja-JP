@@ -1,6 +1,6 @@
 ---
 title: グループ化の基本的なテキストモードについて
-description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontでのグループ化で使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
+description: テキストモードとキャメルケースの概要や、Workfront のグループ化で使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 84%
 
 * テキストモードとは
 * キャメルケースとは
-* グループ化で使用できる基本的な「プラグアンドプレイ」テキストモード
+* グループ化で使用できる基本的な「プラグ＆プレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
@@ -115,7 +115,7 @@ group.0.displayname=Project Name
 ![プロジェクト名でグループ化された、プルーフの承認を示す画面の画像](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 配達確認の承認 — ドキュメント名でグループ化
+## プルーフの承認 - ドキュメント名でグループ化
 
 ```
 group.0.displayname=Document Name
