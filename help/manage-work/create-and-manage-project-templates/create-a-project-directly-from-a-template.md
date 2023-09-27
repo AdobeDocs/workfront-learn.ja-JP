@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 79%
 
 >[!TIP]
 >
->頻繁に使用するテンプレートがある場合は、それをお気に入りにします。 テンプレートが、ナビゲーションバーの [ お気に入り ] メニューに表示されるほか、[ 新規プロジェクト ] メニューにも表示されます。
+>頻繁に使用するテンプレートがある場合は、お気に入りに追加します。お気に入りに追加したテンプレートは、ナビゲーションバーのお気に入りメニューの下に表示されるだけでなく、新規プロジェクトメニューにも表示されます。
 
 
 ![新しいプロジェクトのお気に入りのテンプレート](assets/direct-template-03.png)
