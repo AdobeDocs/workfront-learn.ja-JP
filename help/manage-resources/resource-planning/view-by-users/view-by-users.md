@@ -12,7 +12,7 @@ jira: KT-8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 このビデオでは、次の操作を実行します。
 
 * [!UICONTROL ユーザー別に表示]ビューを確認する
-* そのビューにリソース情報を表示する方法を確認する
+* そのビューにリソース情報がどのように表示されるかを確認する
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on)
