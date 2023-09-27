@@ -11,9 +11,9 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '278'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 
-新しいシナリオを作成して、マーケティングポートフォリオのプロジェクトのタスクにログオンしたすべての時間を合計します。次に、「{Project Name} プロジェクトチームが {summed hours} 件の予定時間の合計 {planned hours} 時間のログを記録し、次の時間に移動したという内容のメールを 1 通送信します。 {percentage} 計画の」
+新しいシナリオを作成して、マーケティングポートフォリオのプロジェクトのタスクにログオンしたすべての時間を合計します。次に、「{Project Name} プロジェクトチームが、合計 {planned hours} 時間の予定時間数のうち {summed hours} 時間をログに記録し、計画の {percentage}％に達しています」というメールを 1 通送信します。
 
 **課題：**&#x200B;同じことを、ログに記録された時間を今年のみに限ってできるかどうかを試してください。
 
