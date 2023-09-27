@@ -11,9 +11,9 @@ jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
 source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 68%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
 
-## Adobe Workfront for G Suite のインストール
+## G Suite 用の Adobe Workfront のインストール
 
-最新バージョンのインストール方法については、以下を参照してください。 [Adobe Workfront for G Suite のインストール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
+最新バージョンのインストール方法については、[G Suite 用の Adobe Workfront のインストール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=ja)を参照してください。
