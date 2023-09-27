@@ -12,15 +12,15 @@ jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # プロジェクトの検索
 
-Workfrontではプロジェクトを管理できませんが、実行中の作業を、必要に応じて可視化できます。 [!DNL Workfront] を使用すると、作業の進捗の監視、チームとのコミュニケーション、タイムラインの調整などが簡単になります。
+Workfront でプロジェクトを自動的に管理することはできませんが、実行中の作業に必要な情報を表示することができます。[!DNL Workfront] を使用すると、作業の進捗の監視、チームとのコミュニケーション、タイムラインの調整などが簡単になります。
 
 <!---
 In this section, you will learn how to:
@@ -39,13 +39,13 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 
 ## プロジェクトのピン留め
 
-プロジェクトの作業中は、メニューバーにピン留めして見つけやすくし、1 回のクリックで開けるようにします。
+プロジェクトの作業中は、プロジェクトをメニューバーにピン留めして見つけやすくし、ワンクリックで開くことができるようにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## プロジェクトをお気に入りに登録
 
-複数のプロジェクトを管理する場合は、星形のアイコンをクリックして「お気に入り」に設定できます。 そうすると、メインメニューバーの「[!UICONTROL お気に入り]」アイコンの下にリストが表示されます。
+複数のプロジェクトを管理している場合は、星形アイコンをクリックしてプロジェクトを「お気に入り」に設定することができます。そうすると、メインメニューバーの「[!UICONTROL お気に入り]」アイコンの下にリストが表示されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
