@@ -12,18 +12,18 @@ last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 source-git-commit: db11cd2eff1b197803bf0ff8e19dad96ab31f3e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 # タスクおよびイシューを閉じる
 
-最初に、 [!DNL Workfront] プロジェクトでは、すべてのタスクと問題のステータスが「完了」か、同等のステータスになっていることを確認しています。
+[!DNL Workfront] プロジェクトを終了するにはまず、すべてのタスクおよびイシューのステータスが完了、または同等のステータスになっていることを確認します。
 
-次の場合、 [!UICONTROL 完了率] プロジェクトヘッダーのフィールドには、すべてのタスクが 100%完了とマークされていることが 100%と表示されます。 ただし、 [!UICONTROL 完了 — 承認待ち] は引き続き 100%として読み取るので、必ず確認してください。 詳しくは、 [承認を完了](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) 承認に関するすべてのヒント
+プロジェクトヘッダーの[!UICONTROL 完了率]フィールドに 100% と表示されている場合は、すべてのタスクが 100% 完了したものとしてマークされています。ただし、[!UICONTROL 完了 - 承認保留中]のタスクでも 100% と表示されるので、必ず確認してください。承認に関するすべてのヒントについては、[承認の完了](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=ja)を参照してください。
 
-承認待ちの問題も含め、不完全な問題がある場合は、「問題」タブの横に数字が表示され、その数が表示されます。 数がゼロの場合は、不完全な問題はありません。
+承認保留中のイシューも含め、未解決のイシューがある場合は、「イシュー」タブの横にその数を示す数字が表示されます。未解決のイシューがない場合はゼロと表示されます。
 
-![プロジェクトを表示中 [!UICONTROL 完了率] および未解決の問題](assets/close-tasks-and-issues.png)
+![[!UICONTROL 完了率]とオープンなイシューを表示しているプロジェクト](assets/close-tasks-and-issues.png)
