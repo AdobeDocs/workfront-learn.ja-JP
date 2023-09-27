@@ -12,9 +12,9 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 62%
 
 >[!IMPORTANT]
 >
->期間のタイプとタスクの制約について詳しくは、 [期間のタイプとタスクの制約を理解し、管理します](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).
+>期間のタイプとタスクの制約について詳しくは、[期間のタイプとタスクの制約の理解と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
