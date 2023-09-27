@@ -11,9 +11,9 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 70%
 
 ## 管理のチュートリアル
 
-このビデオでは、次の内容について説明します。
+このビデオでは、以下について説明します。
 
 * 組織とチーム間のナビゲート方法
 * チームの作成方法
