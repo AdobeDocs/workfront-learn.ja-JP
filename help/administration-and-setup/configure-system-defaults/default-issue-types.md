@@ -1,6 +1,6 @@
 ---
-title: デフォルトの問題ステータスを理解する
-description: デフォルトの問題と、組織のワークフローに合わせてカスタマイズする理由について説明します。
+title: 既定のイシューステータスについて
+description: 既定のイシューステータスと、それらを組織のワークフローに合わせてカスタマイズする理由について説明します。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,30 +10,30 @@ level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# デフォルトの問題ステータスを理解する
+# 既定のイシューステータスについて
 
-各問題タイプは異なるタイプの情報を追跡するので、解決するには各タイプで一意のワークフローが必要になる場合があります。 各イシュータイプのステータスを、そのイシュータイプのワークフローに合わせてカスタマイズします。
+各イシュータイプは異なるタイプの情報をトラッキングするので、イシューを解決するにはタイプごとに一意のワークフローが必要になる場合があります。各イシュータイプのステータスを、そのイシュータイプのワークフローに合わせてカスタマイズします。
 
 <!---
 add URL in paragraph below
 --->
 
-## デフォルトのステータス
+## 既定の状態
 
-デフォルトでは、次の 4 つの問題ステータスを削除できません。
+既定のイシューステータスには次の 4 つがあり、これらは削除できません。
 
 * 新規
 * 処理中
 * クローズ
 * 保留中
 
-問題管理に共通するその他の 6 つのステータスには、 [!DNL Workfront]:
+[!DNL Workfront] には、その他に、イシュー管理に共通する次の 6 つの状態があります。
 
 * 再オープン
 * フィードバック待ち
@@ -47,20 +47,20 @@ need URL in paragraph below
 --->
 
 
-問題のステータスは、 [!UICONTROL 問題の詳細]. ステータスの問題は、右端にある問題ページのヘッダーでも変更できます。
+イシューのステータスは、[!UICONTROL 問題の詳細]で表示および変更できます。イシューのステータスは、右端にある問題ページのヘッダーで変更することもできます。
 
-![[!UICONTROL ステータス] ページヘッダーのオプションと [!UICONTROL 問題の詳細] ページ](assets/admin-fund-issue-details-status.png)
+![ページヘッダーと[!UICONTROL 問題の詳細]ページの「状態」オプション](assets/admin-fund-issue-details-status.png)
 
-次の項目を追加できます。 [!UICONTROL ステータス] 列をビューまたはカスタムレポートに追加して、表示しやすく、すばやく変更できるようにします。
+[!UICONTROL 状態]列をビューまたはカスタムレポートに追加すると、スムーズに表示および変更できるようになります。
 
-![[!UICONTROL ステータス] 列 [!UICONTROL 表示]](assets/admin-fund-issue-status-view.png)
+![[!UICONTROL ビューの状態列]](assets/admin-fund-issue-status-view.png)
 
 <!---
 link the bullets below to the articles
 --->
 
-問題のステータスの基本事項を見てみましょう。
+イシューのステータスの基本事項は次のとおりです。
 
-* 既存のステータスの変更
-* システムのデフォルトステータス
-* 新しいステータスの作成
+* 既存の状態の変更
+* システムの既定の状態
+* 新しい状態の作成
