@@ -11,9 +11,9 @@ jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
 source-git-commit: 01a1f3c4b41798cebe4239de69067bce437cb8a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -27,5 +27,5 @@ ht-degree: 61%
 
 >[!NOTE]
 >
->の設定方法に関する情報 [!UICONTROL Workfront forSlack]を参照してください。 [Adobe Workfront forSlack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>[!UICONTROL Workfront for Slack] の設定方法について詳しくは、[Adobe Workfront for Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=ja) を参照してください。
 
