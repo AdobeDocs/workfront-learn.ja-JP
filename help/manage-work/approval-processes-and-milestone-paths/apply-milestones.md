@@ -13,9 +13,9 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
@@ -31,5 +31,5 @@ ht-degree: 39%
 
 >[!TIP]
 >
->マイルストーンビューの作成方法について詳しくは、「マイルストーンビュー」アクティビティ ( [基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>マイルストーンビューの作成方法については、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)のマイルストーンビューアクティビティを参照してください。
 
