@@ -1,5 +1,5 @@
 ---
-title: 選択したユーザーに対する目標へのアクセス権の付与
+title: 選択したユーザーに対する目標へのアクセス権を付与
 description: ' [!DNL Workfront Goals] で、ユーザーのライセンスタイプに応じたアクセスレベルを編集する方法を説明します。'
 activity: use
 feature: Workfront Goals
@@ -11,17 +11,17 @@ jira: KT-8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
-# 選択したユーザーに対する目標へのアクセス権の付与
+# 選択したユーザーに対する目標へのアクセス権を付与
 
 このビデオでは、以下の方法を説明します。
 
-* 選択したユーザーに対する目標へのアクセス権の付与
+* 選択したユーザーに対する目標へのアクセス権を付与
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
