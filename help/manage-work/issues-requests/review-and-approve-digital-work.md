@@ -1,6 +1,6 @@
 ---
-title: Workfront Home を使用したデジタル作業の確認と承認
-description: ' [!DNL Workfront Home] で、プロジェクト、タスク、イシュー、ドキュメント、プルーフを検索して承認する方法を説明します。'
+title: Workfront ホームを使用したデジタル作業のレビューと承認
+description: ' [!DNL Workfront Home] でプロジェクト、タスク、イシュー、ドキュメントおよびプルーフを検索し承認する方法を説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -12,13 +12,13 @@ jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
-# 次を使用してデジタル作業を確認および承認 [!DNL Workfront Home]
+# [!DNL Workfront Home] を使用したデジタル作業のレビューと承認
 
 このビデオでは、次の方法を学習します：
 
@@ -32,7 +32,7 @@ ht-degree: 52%
 
 >[!NOTE]
 >
->承認が必要なドキュメント、配達確認、作業項目（プロジェクト、タスク、タスク）は、プロジェクトとカスタムレポートに加えて、 [!DNL Workfront Home].
+>承認が必要なドキュメント、プルーフおよび作業項目（プロジェクト、タスク、イシュー）は、[!DNL Workfront Home] だけでなくプロジェクトやカスタムレポートにもあります。
 
 
 
