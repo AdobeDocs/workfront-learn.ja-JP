@@ -11,9 +11,9 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 ## 開発ツールのダウンロード
 
-開発ツールには、シナリオの理解とトラブルシューティングの能力を向上させる多くの高度な機能が用意されています。テストドライブの Fusion Exercise Files フォルダにある&quot;workfront-fusion-devtool.zip&quot;ドキュメントをダウンロードします。
+開発ツールには、シナリオの理解とトラブルシューティングの能力を向上させる多くの高度な機能が用意されています。体験版の Fusion Exercise Files フォルダーにある「workfront-fusion-devtool.zip」ドキュメントをダウンロードします。
 
 
 
