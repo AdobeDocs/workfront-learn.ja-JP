@@ -1,6 +1,6 @@
 ---
-title: のレイアウトテンプレートを作成します。 [!DNL Workfront Goals] ユーザー
-description: 組織に合わせて [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 用語を使用してレイアウトテンプレートを作成する方法を説明します。
+title: ' [!DNL Workfront Goals] ユーザー用のレイアウトテンプレートの作成'
+description: 組織に合わせて  [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals]  用語を使用してレイアウトテンプレートを作成する方法を説明します。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,13 +11,13 @@ jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
-# のレイアウトテンプレートを作成します。 [!DNL Workfront Goals] ユーザー
+# [!DNL Workfront Goals] ユーザー用のレイアウトテンプレートの作成
 
 **[!UICONTROL 設定]**&#x200B;エリアでは、[!DNL Workfront Goals] を含むレイアウトテンプレートを作成して割り当てることもできるので、ユーザーはより簡単にアクセスできます。
 
