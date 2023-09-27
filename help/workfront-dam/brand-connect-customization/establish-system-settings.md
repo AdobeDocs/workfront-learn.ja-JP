@@ -1,6 +1,6 @@
 ---
-title: でのシステム設定の確立 [!UICONTROL Brand Connect]
-description: でシステム設定を確立する方法を説明します。 [!UICONTROL Brand Connect] / [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Brand Connect] でのシステム設定の確立'
+description: '[!UICONTROL Workfront DAM] の [!UICONTROL Brand Connect] でシステム設定を確立する方法について説明します。'
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -10,32 +10,32 @@ level: Beginner
 jira: KT-10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # [!UICONTROL Brand Connect] でのシステム設定の確立
 
-この [!UICONTROL Brand Connect] 設定は、ポータルの閲覧者、ポータルへのコンテンツの公開者、ブランドガイドラインの管理者を制御します。
+[!UICONTROL Brand Connect] 設定では、ポータルを閲覧できるユーザー、ポータルにコンテンツを公開できるユーザー、ブランドガイドラインを管理できるユーザーを制御します。
 
-設定にアクセスするには、次の場所にログインします。 [!UICONTROL Workfront DAM].
+設定にアクセスするには、[!UICONTROL Workfront DAM] にログインします。
 
-1. 次をクリック： **設定アイコン** ナビゲーションバーで「 」を選択し、 **[!UICONTROL Brand Connect]**. または、 **[!UICONTROL ブランド]** をクリックします。
-1. 次に、 **[!UICONTROL 編集]** オプション [!UICONTROL Brand Connect] パネル。 組織に複数の [!UICONTROL ブランドの接続]を編集する場合は、適切なものを編集していることを確認します。
+1. ナビゲーションバーの&#x200B;**設定アイコン**&#x200B;をクリックし、**[!UICONTROL Brand Connect]** を選択します。または、ナビゲーションバーで「**[!UICONTROL ブランド]**」をクリックします。
+1. 次に、[!UICONTROL Brand Connect] パネルの右上隅にある「**[!UICONTROL 編集]**」オプションをクリックします。組織に複数の [!UICONTROL Brand Connect] がある場合は、正しいものを編集していることを確認してください。
 
 ![Brand Connect 設定パネルのスクリーンショット](assets/01-brand-portal-settings.png)
 
-お問い合わせ [!UICONTROL Workfront] コンサルタントにお問い合わせください。
+これらの設定についてのご質問については、[!UICONTROL Workfront] コンサルタントにお問い合わせください。
 
-* **[!UICONTROL Brand Connect] タイトル** — 名前を [!UICONTROL Brand Connect] （または名前を変更）。
-* **このポータルを表示できるユーザー**— [!UICONTROL Brand Connect]. 例えば、 [!UICONTROL ログイン済み] グループ化すると、ログインしているすべてのユーザーがポータルを表示できます。 ただし、フォルダー権限は引き続き適用されるので、ユーザーがポータルを表示できる場合でも、アセットにアクセスするには、 [!UICONTROL ログイン済み] グループにフォルダーに対する権限が付与されました。
-* **このポータルに公開できるユーザー** — にアセットを公開できるグループを設定します。 [!UICONTROL Brand Connect]. これらは寄稿者グループになります。 ユーザーがアクセスできる項目のみを公開できます。
-* **ブランドガイドラインは誰が管理できますか？** — ブランドガイドラインを管理できるグループを設定します。 ガイドラインの管理は、管理者ユーザーに限定されません。 コントリビューターグループを設定して、ガイドラインを編集できます。
-* **このポータルを検索エンジンに表示しますか？** — 望みは？ [!UICONTROL Brand Connect] ユーザーがインターネット上で検索を実行したときに表示する URL
-* **埋め込み可能なリンクを許可しますか？** — 埋め込み可能なリンクは [!UICONTROL Brand Connect]? これにより、 [!UICONTROL リンクの取得] パネルから [!UICONTROL 共有] アセットの埋め込み可能なリンクを提供するメニュー。
-* **ソーシャルを有効にする/無効にする**— Social が有効な場合（チェックボックスをオンにする）、ユーザーはアセットに対して「いいね！」をし、コメントを付けることができます。
-* **ダウンロード数と閲覧数を有効/無効にしますか？** — 有効にすると、ユーザーはアセットがダウンロードされた回数とコメント数を確認できます。
-* **最初にファセットを非表示** — 左パネルの [!UICONTROL Assets] ページ。
-* **Lightbox ラベル** — ラベルを選択します。 [!UICONTROL Lightbox] — [!UICONTROL Lightbox], [!UICONTROL コレクション], [!UICONTROL お気に入り]または [!UICONTROL お気に入り].
+* **[!UICONTROL Brand Connect] のタイトル** - [!UICONTROL Brand Connect] という名前を付けます（または名前を変更します）。
+* **このポータルを閲覧できるユーザー** - [!UICONTROL Brand Connect] を閲覧できるグループを設定します。例えば、[!UICONTROL ログイン済み]グループを追加すると、ログインしているすべてのユーザーがポータルを閲覧できるようになります。ただし、フォルダー権限は引き続き適用されるので、ユーザーがポータルを閲覧できる場合でも、[!UICONTROL ログイン済み]グループにフォルダーへの権限が付与されていない限り、アセットにはアクセスできません。
+* **このポータルに公開できるユーザー** - [!UICONTROL Brand Connect] にアセットを公開できるグループを設定します。これらは投稿者グループになります。自分がアクセスできる項目のみを公開できます。
+* **ブランドガイドラインを管理できるユーザー** - ブランドガイドラインを管理できるグループを設定します。ガイドラインの管理は、管理者ユーザーに限定されません。投稿者グループをガイドラインの編集者に設定できます。
+* **このポータルを検索エンジンに表示しますか？** - ユーザーがインターネット上で検索を実行する際に、[!UICONTROL Brand Connect] URL が表示されるようにしますか？
+* **埋め込み可能なリンクを許可しますか？** - 埋め込み可能なリンクは [!UICONTROL Brand Connect] から取得できますか？これにより、アセットの埋め込み可能リンクを提供する[!UICONTROL リンクを取得]パネルが[!UICONTROL 共有]メニューに追加されます。
+* **ソーシャルを有効／無効にしますか？** - ソーシャルが有効になっている場合（チェックボックスをオン）、ユーザーはアセットに「いいね！」を付けたりコメントを行ったりできます。
+* **ダウンロード数と閲覧数を有効／無効にしますか？** - 有効にすると、ユーザーはアセットがダウンロードされた回数と、アセットに付けられたコメント数を確認できます。
+* **最初はファセットを非表示** - [!UICONTROL Assets] ページの左側のパネルに表示されるメタデータ検索フィルターを非表示にします。
+* **ライトボックスラベル** - [!UICONTROL ライトボックス]のラベルを選択 - [!UICONTROL ライトボックス]、[!UICONTROL コレクション]、[!UICONTROL お気に入り]または[!UICONTROL お気に入り]。
