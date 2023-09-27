@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '275'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -37,5 +37,5 @@ ht-degree: 87%
 
 >[!TIP]
 >
->目標の進行状況の計算に使用する数式の詳細については、次の記事を参照してください。 [Adobe Workfront目標の目標の達成状況と条件の概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
+>目標の進捗状況の計算に使用される式について詳しくは、[Adobe Workfront Goals の目標の進捗状況と条件の概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=ja#overview-of-goal-progress-and-threshold)を参照してください。
 
