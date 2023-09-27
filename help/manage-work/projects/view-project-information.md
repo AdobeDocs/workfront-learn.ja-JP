@@ -11,15 +11,15 @@ level: Intermediate
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
 # プロジェクト情報の表示
 
-メインを見ているかどうか [!UICONTROL プロジェクト] ページまたは個々のプロジェクトで、リストを微調整して、 [!UICONTROL フィルター], [!UICONTROL 件数]、および [!UICONTROL グループ化].
+メイン[!UICONTROL プロジェクト]ページを見ている場合でも、個々のプロジェクトを見ている場合でも、[!UICONTROL フィルター]、[!UICONTROL 表示]および[!UICONTROL グループ化]を使用して、必要な情報を表示するようにリストを微調整します。
 
 [!UICONTROL プロジェクト]ページで、すべてのプロジェクトの進捗の概要を確認することができます。
 
@@ -27,16 +27,16 @@ ht-degree: 54%
 
 [!UICONTROL フィルター]を使用して、特定の基準に基づいてリストを絞り込みます。[!UICONTROL 表示]を選択して、プロジェクトに関連する情報の列を表示します。最後に[!UICONTROL グループ化]を選択して、意味のある方法でプロジェクトを整理します。
 
-を使用して [!UICONTROL タスク] プロジェクトのセクション、 [!UICONTROL フィルター], [!UICONTROL 件数]、および [!UICONTROL グループ化] 再び、実行中の作業を監視するのに役立ちます。 プロジェクトではなくタスクを見ているので、選択肢は全く異なります。
+プロジェクトの「[!UICONTROL タスク]」セクションにいるときは、[!UICONTROL フィルター]、[!UICONTROL 表示]および[!UICONTROL グループ化]を再び活用すると、実行中の作業を監視するのに役立ちます。プロジェクトではなくタスクを見ているので、まったく別の選択肢を持つことになります。
 
 ![ビューが表示されているプロジェクトタスクリスト](assets/planner-fund-task-list-fvg.png)
 
 [!DNL Workfront] の多くの顧客は、カスタムフォーム情報や実行中の作業に関連するその他のフィールドを表示するカスタムビューを作成しています。
 
-## カスタムフィルター、表示およびグループ化を作成する方法を説明します
+## カスタムフィルター、表示およびグループ化を作成する方法を学びます
 
-[基本フィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+[基本フィルターを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=ja)
 
-[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+[基本ビューを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)
 
-[基本グループの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+[基本グループを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ja)
