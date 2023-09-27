@@ -1,6 +1,6 @@
 ---
 title: ビューの基本的なテキストモードについて
-description: テキストモードとは何か、キャメルケースとは何か、およびWorkfrontのビューで使用できる基本的な「プラグアンドプレイ」テキストモードについて説明します。
+description: テキストモードとキャメルケースの概要や、Workfront のビューで使用できる基本的な「プラグ＆プレイ」テキストモードについて説明します。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 81%
 >
 >前提条件：
 >
->* [レポート要素について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [レポートコンポーネントについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+>* [レポート要素について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ja)
+>* [レポートコンポーネントについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ja)
+>* [基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ ht-degree: 81%
 
 * テキストモードとは
 * キャメルケースとは
-* ビューで使用できる基本的な「プラグアンドプレイ」テキストモード
+* ビューで使用できる基本的な「プラグ＆プレイ」テキストモード
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
@@ -231,11 +231,11 @@ type=iterate
 
 ![割り当てビューと役割ビューを示す画面の画像](assets/assignments-roles-and-percent-view.png)
 
-## タスク — プロジェクト間の先行タスクと後続タスク
+## タスク - プロジェクト間の先行タスクと後続タスク
 
 ### タスクフィルター（オプション）
 
-**現在のプロジェクトで、1 つ以上のプロジェクト間の先行タスクまたは 1 つ以上のプロジェクト間の後続タスクを持つすべてのタスクを表示する**
+**現在のプロジェクトで、1 つ以上のプロジェクト間の先行タスクまたは 1 つ以上のプロジェクト間の後続タスクを持つすべてのタスクを表示**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -308,7 +308,7 @@ valueformat=HTML
 width=90
 ```
 
-### タスク — プロジェクト間の先行プロジェクトのプロジェクトの完了率を表示します
+### タスク - プロジェクト間の先行タスクのプロジェクト完了率を表示
 
 ```
 displayname=Predecessor project percent complete
@@ -322,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![プロジェクト間の先行タスクと後続タスクのビューを示す画面画像](assets/cross-project-predecessors-and-successors.png)
+![プロジェクト間先行タスクと後続タスクビューを示す画面の画像](assets/cross-project-predecessors-and-successors.png)
 
 
 ## タスク - 割り当てられた担当者と、割り当てを行った担当者をすべて示すイテレーション
@@ -495,7 +495,7 @@ valueformat=HTML
 
 ![ドキュメントレポートの親フォルダーを示す画面の画像](assets/parent-folder-in-a-document-report.png)
 
-## ドキュメント — ドキュメントの承認日
+## ドキュメント - ドキュメントの承認日
 
 ```
 displayname=Document approval dates
@@ -511,7 +511,7 @@ shortview=false
 section=0
 ```
 
-![ドキュメントの承認日ビューを示す画面画像](assets/document-approval-dates.png)
+![ドキュメントの承認日ビューの画面画像](assets/document-approval-dates.png)
 
 ## プルーフの承認
 
