@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 94%
 * **プロジェクトレベルでの計算** - 親タスクとプロジェクトの [!UICONTROL EAC] は、[!UICONTROL EAC] 式の実際の時間数／実際の労力コストを使用して決定されます。計算には、親タスクまたはプロジェクトに直接追加された実際の時間数／コストと費用が含まれます。
 * **タスク／サブタスクからのロールアップ** - 親タスクとプロジェクトの [!UICONTROL EAC] は、各子タスクの [!UICONTROL EAC] を合計することによって決定されます。この計算では、親タスクまたはプロジェクトに直接追加された実際の時間数／コストは除外されます。
 
-この [!UICONTROL EAC] 計算のリストは [完了時の推定 (EAC) を計算](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
+[!UICONTROL EAC] の計算は、[完成時総コスト見積もり（EAC）の計算](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=ja)に記載されています。
 
 **パフォーマンス指標：設定**
 
