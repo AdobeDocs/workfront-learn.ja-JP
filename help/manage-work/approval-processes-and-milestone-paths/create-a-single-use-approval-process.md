@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 9%
@@ -36,5 +36,5 @@ ht-degree: 9%
 >
 >ビデオのタスクについて説明するのと同じ方法で、プロジェクトとイシューに対して単一使用の承認を設定できます。
 >
->問題の自動承認を設定する場合は、グローバルな問題承認プロセスを使用し、キューのトピックに適用する必要があります。 詳しくは、 [リクエストキューの作成](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) を参照してください。
+>問題の自動承認を設定する場合は、グローバルな問題承認プロセスを使用し、キューのトピックに適用する必要があります。 詳しくは、 [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) を参照してください。
 
