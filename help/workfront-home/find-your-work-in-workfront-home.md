@@ -10,14 +10,18 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '46'
-ht-degree: 100%
+source-git-commit: 1febdaea4c66540db39882404293ecd3fe9015e9
+workflow-type: tm+mt
+source-wordcount: '79'
+ht-degree: 58%
 
 ---
 
 # [!DNL Workfront] [!UICONTROL ホーム] での割り当てられた作業の検索
+
+
+>[!NOTE] 現在、2 つのWorkfront Home エクスペリエンスがあります。 次の条件を満たす <b>新しいホームエクスペリエンス</b>、 [ホームのウィジェットを削除、追加、並べ替え](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/remove-add-and-rearrange-widgets.html?lang=en) チュートリアル
+
 
 このビデオでは、次の方法を学習します：
 
