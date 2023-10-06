@@ -11,10 +11,10 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 100%
+ht-degree: 63%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 100%
 
 このビデオでは、次のことを学習します。
 
-* [!DNL  Workfront] リクエストキューを通じてリクエストを送信する方法
+* を通じてリクエストを送信する方法 [!DNL  Workfront] リクエストキュー
 * リクエストキューを構造化する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## リクエストドラフトの自動保存
 
-リクエストフォームへの入力を開始すると、「[!UICONTROL 件名]」フィールドに入力した後、[!DNL Workfront] は自動的にドラフトを保存します。つまり、[!UICONTROL リクエスト]領域から別の操作を行う必要がある場合や、リクエストの途中で一時停止して詳細情報を収集する必要がある場合でも、データが失われることはありません。
+リクエストフォームへの入力を開始すると、「[!UICONTROL 件名]」フィールドに入力した後、[!DNL Workfront] は自動的にドラフトを保存します。つまり、 [!UICONTROL リクエスト] 他の操作を行う領域、またはリクエストの途中で一時停止して詳細を収集する必要がある場合。
 
-ウィンドウの上部にドラフトが保存されたことを示すメッセージが表示されます。[!DNL Workfront] は、必須フィールドがまだ入力されていない場合でも、リクエストのドラフトを保存します。
+下書きがウィンドウの上部に保存されたことを示すメッセージが表示されます。 [!DNL Workfront] は、必須フィールドにまだ入力されていない場合でも、リクエストの下書きを保存します。
 
 ![リクエストドラフトの作成の画像](assets/queue-mgt-make-a-request-draft-1.png)
 
-リクエストを送信する準備が整ったら、「[!UICONTROL ドラフト]」タブで検索します。名前をクリックして開き、フォームへの入力を完了します。完了したら、「[!UICONTROL リクエストを送信]」をクリックします。
+リクエストを送信する準備が整ったら、次の場所で見つけます。 [!UICONTROL ドラフト] タブをクリックします。 名前をクリックして開き、フォームへの入力を完了します。次に、「 [!UICONTROL リクエストを送信] 終わったら。
 
 ![リクエストドラフトの呼び出しの画像](assets/queue-mgt-make-a-request-draft-2.png)
 

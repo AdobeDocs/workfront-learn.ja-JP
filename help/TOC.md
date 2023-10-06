@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2430'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 92%
       + [レイアウトテンプレートの検索](administration-and-setup/layout-templates/find-layout-templates.md)
       + [レイアウトテンプレートを使用した用語のカスタマイズ](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [レイアウトテンプレートを使用した[!UICONTROL メインメニュー]のカスタマイズ](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-      + [レイアウトテンプレートを介してピンを追加および管理する](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
+      + [レイアウトテンプレートを介してピンを追加および管理](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [レイアウトテンプレートを使用したホームのカスタマイズ](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [レイアウトテンプレートへのアクセス権の割り当てと管理](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [レイアウトテンプレートを使用したオブジェクトエリアのカスタマイズ](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -62,7 +62,7 @@ ht-degree: 92%
 
    + ユーザーの作成と管理 {#create-and-manage-users}
       + [ユーザーを追加](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [個々のユーザーの作成](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
+      + [個々のユーザープロファイルの作成](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
       + [ユーザーの一括追加](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [ユーザー情報の変更](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [ユーザーをディアクティベートまたは削除するタイミングと方法](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
@@ -108,7 +108,7 @@ ht-degree: 92%
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
       + [基本的なプロジェクト作成について](manage-work/projects/understand-basic-project-creation.md)
-      + [プロジェクトを作成する 4 つの方法を説明します。](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [プロジェクトを作成する 4 つの方法を学ぶ](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [プロジェクト詳細の入力](manage-work/projects/fill-in-the-project-details.md)
       + [プロジェクトページの移動](manage-work/projects/navigate-the-project-page.md)
       + [プロジェクトのプランニングの基本を学ぶ](manage-work/projects/getting-started-plan-a-project.md)
@@ -121,10 +121,10 @@ ht-degree: 92%
       + [プロジェクト全体の進捗の追跡](manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL ガント]ビューについて](manage-work/projects/understand-the-gantt-view.md)
-      + [について [!UICONTROL ボード] 表示](manage-work/projects/understand-the-board-view.md)
+      + [[!UICONTROL ボード]ビューについて](manage-work/projects/understand-the-board-view.md)
 
    + タスク {#tasks}
-      + [タスクの作成](manage-work/tasks/how-to-create-tasks.md)
+      + [タスクを作成](manage-work/tasks/how-to-create-tasks.md)
       + [親子タスクについて](manage-work/tasks/understand-parent-child-tasks.md)
       + [タスクの操作](manage-work/tasks/work-with-tasks.md)
       + [プロジェクトプランからのタスクの割り当て](manage-work/tasks/assign-tasks-from-the-project-plan.md)
@@ -136,11 +136,11 @@ ht-degree: 92%
    + イシュー／リクエスト {#issues-requests}
       + [予定外作業の処理](manage-work/issues-requests/handle-unplanned-work.md)
       + [リクエストする](manage-work/issues-requests/make-a-request.md)
-      + [リクエストの検索と管理](manage-work/issues-requests/find-requests.md)
+      + [リクエストを検索と管理](manage-work/issues-requests/find-requests.md)
       + [イシューの割り当てを管理](manage-work/issues-requests/manage-issue-assignments.md)
       + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
-      + [問題/リクエストをプロジェクトに変換する](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [タスクに問題/リクエストを変換する](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [イシュー／リクエストのプロジェクトへ変換](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [イシュー／リクエストのタスクへ変換](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [デジタル作品のレビューと承認](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [イシューに関するレポート](manage-work/issues-requests/report-on-issues.md)
 
@@ -149,19 +149,19 @@ ht-degree: 92%
       + [フローリクエストの設定について](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [リクエストキューの作成](manage-work/request-queues/create-a-request-queue.md)
       + [リクエストフローの作成](manage-work/request-queues/create-a-request-flow.md)
-      + [リクエストキューに関するよくある質問への回答](manage-work/request-queues/request-queue-faq.md)
+      + [リクエストキューに関するよくある質問へ回答](manage-work/request-queues/request-queue-faq.md)
 
    + ポートフォリオ {#portfolios}
       + [ポートフォリオの概要](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [について [!UICONTROL ビジネス事例]](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [以下を使用します。 [!UICONTROL Portfolioの最適化] 仕事を優先して管理する](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [[!UICONTROL ビジネスケース]について](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [[!UICONTROL ポートフォリオオプティマイザー]を使用して、作業に優先順位を付けて管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [1 回限りの承認プロセスの作成](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [既存の承認プロセスの添付と編集](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [タスク、イシュー、承認を委任する](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [マイルストーンの適用](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
       + [プロジェクトテンプレートの作成 ブループリントについて](manage-work/create-and-manage-project-templates/create-a-project-template.md)
@@ -176,7 +176,7 @@ ht-degree: 92%
 
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトを閉じる](manage-work/close-a-project/close-a-project-in-workfront.md)
-      + [プロジェクトのステータスを完了に変更します](manage-work/projects/change-the-project-status.md)
+      + [プロジェクトステータスを完了に変更](manage-work/projects/change-the-project-status.md)
       + [タスクおよびイシューを閉じる](manage-work/close-a-project/close-tasks-and-issues.md)
       + [承認の完了](manage-work/close-a-project/complete-approvals.md)
       + [アセットのアップロード](manage-work/close-a-project/upload-assets.md)
@@ -190,8 +190,8 @@ ht-degree: 92%
       + [複数の請求レートについて](manage-work/project-finances/multiple-billing-rates.md)
 
    + 中間プロジェクト {#intermediate-projects}
-      + [期間のタイプとタスクの制約を理解し、管理します](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [プロジェクト間の先行タスクを理解する](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [期間のタイプとタスクの制約の確認と管理について](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [プロジェクト間先行タスクについて](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
       + [高度な先行タスク](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
@@ -232,12 +232,12 @@ ht-degree: 92%
 
    + カレンダーレポート {#calendar-reports}
       + [カレンダーレポートインターフェイスについて](reporting/basic-reporting/tour-of-the-interface.md)
-      + [カスタムカレンダーレポートの作成](reporting/basic-reporting/creating-custom-calendars.md)
-      + [その他のカレンダーレポートオプションについて](reporting/basic-reporting/additional-calendar-options.md)
-      + [カレンダーレポートを作成する順番](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [カスタムカレンダーレポートを作成](reporting/basic-reporting/creating-custom-calendars.md)
+      + [追加のカレンダーレポートオプションについて](reporting/basic-reporting/additional-calendar-options.md)
+      + [カレンダーレポートを作成してみましょう](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Enhanced Analytics {#enhanced-analytics}
-      + [製品に関する情報 [!UICONTROL Analytics の強化]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [[!UICONTROL Enhanced Analytics] に関する製品の重要性](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [レイアウトテンプレートへの[!UICONTROL 分析]の追加](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -291,7 +291,7 @@ ht-degree: 92%
       + [リソース管理ツールでの表示](manage-resources/pto/visibility-in-resource-management-tools.md)
 
    + シナリオプランナー {#scenario-planner}
-      + [シナリオ・プランナに関する製品の瞬間](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [シナリオプランナーに関する製品の重要性](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [シナリオプランナーとは](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [シナリオプランナーでのプランへのアクセス](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [シナリオプランナーでのプランの作成](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
@@ -313,7 +313,7 @@ ht-degree: 92%
    + 目標の作成 {#create-goals}
       + [[!UICONTROL Workfront Goals] の概要](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [組織の [!UICONTROL Workfront Goals] の設定](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
-      + [選択したユーザーに対する目標へのアクセス権の付与](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
+      + [選択したユーザーに対する目標へのアクセス権を付与](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [[!UICONTROL Workfront Goals] ユーザー用のレイアウトテンプレートの作成](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [目標の作成](workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
@@ -321,12 +321,12 @@ ht-degree: 92%
       + [目標のアクティベート](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [目標を別の目標に合わせたアクティベート](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [目標への結果の追加](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [目標へのアクティビティとプロジェクトの追加](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [アクティビティとプロジェクトを目標に追加](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
 
    + 目標の管理 {#manage-goals}
       + [目標の整列](workfront-goals/manage-your-goals/align-your-goals.md)
       + [目標の整合性の削除](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [結果とアクティビティの進行状況を更新](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [結果とアクティビティの進捗状況を更新](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [完了後に目標を閉じる](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
    + 目標の監視 {#monitor-goals}
@@ -337,7 +337,7 @@ ht-degree: 92%
 
 + 統合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Adobe Workfrontプラグインを使用したCreative Cloudとの統合](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Adobe Workfront プラグインを使用して Creative Cloud と統合](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja)
@@ -376,7 +376,7 @@ ht-degree: 92%
       + [概要と技術戦略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [新規ユーザーとしてログイン](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [Workfront Fusion トレーニングの概要](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
-      + [Workfront Fusion 演習ファイルの設定](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
+      + [Workfront Fusion 演習ファイルを設定](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [コア概念](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
 
    + 基本について {#understand-the-basics}
@@ -487,7 +487,7 @@ ht-degree: 92%
       + [プルーフの役割とメールアラート](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [プルーフに関するレポート](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [リスクありプルーフ設定のデフォルトの指定](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
-      + [グローバル配達確認設定の設定](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
+      + [プルーフのグローバル設定](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [デフォルトのプルーフの役割を設定](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [プルーフアカウントのデフォルト設定の指定](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [プルーフユーザーの設定](workfront-proof/administration-and-setup/settings-for-proof-users.md)
@@ -602,7 +602,7 @@ ht-degree: 92%
       + [ボードの列の管理](boards/manage-board-columns.md)
       + [ボードへのカードの追加](boards/add-cards-to-a-board.md)
       + [ボードでのカードの管理](boards/manage-cards-on-a-board.md)
-      + [ボード上のカードのカスタマイズ](boards/customize-cards-on-a-board.md)
+      + [ボードのカードをカスタマイズ](boards/customize-cards-on-a-board.md)
       + [ボードのチームメンバーの追加と管理](boards/add-and-manage-team-members-for-a-board.md)
       + [ボードの列設定の追加と編集](boards/add-and-edit-column-settings-on-a-board.md)
       + [カードのタグの追加と管理](boards/add-and-manage-tags-for-cards.md)
