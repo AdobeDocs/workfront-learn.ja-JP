@@ -8,7 +8,7 @@ git-repo: https://github.com/AdobeDocs/workfront-learn.ja-JP
 index: true
 auto-video-transcripts: true
 source-git-commit: ae940d186b31e89f8ce47807c6a988ea9d495679
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
