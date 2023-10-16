@@ -63,7 +63,7 @@ ht-degree: 46%
 
 通常、[!DNL Workfront] でプロジェクト、タスク、またはイシューを処理している場合は、そのアイテムの [!DNL Documents] セクションから直接プルーフを開くのがよいでしょう。
 
-![[!UICONTROL プルーフを開く]リンクが強調表示された、[!DNL  Workfront] タスクで見つかった「[!UICONTROL ドキュメント]」セクションの画像](assets/open-proof-from-documents.png)
+![[!DNL  Workfront] タスクで見つかった「[!UICONTROL ドキュメント]」セクションで「[!UICONTROL プルーフを開く]」リンクが強調表示されているところを示す画像。](assets/open-proof-from-documents.png)
 
 1. プロジェクト、タスク、またはイシューの名前をクリックします。
 2. クリック [!UICONTROL ドキュメント] （項目のページの左側のパネルメニュー）
