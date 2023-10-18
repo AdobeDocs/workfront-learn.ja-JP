@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
-ht-degree: 99%
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -201,7 +201,7 @@ ht-degree: 99%
       + [レポートコンポーネントについて](reporting/basic-reporting/reporting-components.md)
       + [基本グループの作成](reporting/basic-reporting/create-a-basic-grouping.md)
       + [基本ビューの作成](reporting/basic-reporting/create-a-basic-view.md)
-      + [基本的な条件付き書式の追加](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [基本的な条件付き書式の追加 ビューに](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](reporting/basic-reporting/create-a-basic-filter.md)
       + [基本的なフィルターの作成アクティビティ](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 99%
       + [組織のビジョンと戦略の確立](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [明確な目的ステートメントの作成](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [企業や組織の目標に関する共同作業](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [グループやチームの戦略に対する足並みを揃える](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [グループやチームを戦略に合わせる](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + 目標の作成 {#create-goals}
       + [[!UICONTROL Workfront Goals] の概要](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 99%
       + [Adobe Workfront プラグインを使用して Creative Cloud と統合](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja)
+      + [統合の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja)
       + [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ja)
       + [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ja)
-      + [バージョン履歴](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ja)
+      + [バージョン履歴の管理](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ja)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 統合によるワークフローの強化](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -465,7 +465,7 @@ ht-degree: 99%
       + [集計](fusion/12-exercises/aggregation.md)
       + [詳細な集計](fusion/12-exercises/advanced-aggregation.md)
       + [実行履歴](fusion/12-exercises/execution-history.md)
-      + [実行、サイクル、バンドルの調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [実行サイクルとバンドルの調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [スイッチ関数](fusion/12-exercises/switch-function.md)
       + [スイッチモジュール](fusion/12-exercises/switch-module.md)
       + [Webhook](fusion/12-exercises/webhooks.md)
@@ -493,8 +493,8 @@ ht-degree: 99%
       + [プルーフユーザーの設定](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + プルーフのアップロード {#upload-proofs}
-      + [プルーフのバージョンとは](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [プルーフのバージョンをアップロードするユーザー](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [配達確認のバージョンとは](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [配達確認のバージョンをアップロードするユーザー](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [プルーフへのドキュメントの変換](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [プルーフのバージョンの表示と比較](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [プルーフのバージョンのアップロード](workfront-proof/upload-proofs/upload-a-proof-version.md)

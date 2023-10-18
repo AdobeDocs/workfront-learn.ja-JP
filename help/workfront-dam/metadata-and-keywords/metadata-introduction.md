@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] のメタデータとキーワード'
+title: メタデータについて
 description: '[!UICONTROL Workfront DAM] 管理者、第 2 部、メタデータとキーワードコースで取り上げる内容について説明します。'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
-# メタデータとキーワード：コースの概要
+# メタデータについて
 
 メタデータは、アセットの記述に使用されるすべてのデータです。メタデータフィールドには名前が付けられており、ユーザーは、多くのフィールドの情報を編集または変更することができます。一部のメタデータフィールドは、アセットの取得元のアプリケーションまたはデバイスによって入力されており、編集することができません。
 

@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] での Brand Portal の操作'
+title: Brand Portal について
 description: '[!UICONTROL Workfront DAM] で Brand Portal にアクセスする方法、フォルダーを作成する方法、個々のアセットに有効期限を設定する方法、アセット設定を編集する方法について説明します。'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '238'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '229'
 ht-degree: 100%
 
 ---
 
-# Brand Connect：Brand Portal の概要とフォルダーの作成
+# Brand Portal について
 
 このビデオでは、次の方法を学習します：
 

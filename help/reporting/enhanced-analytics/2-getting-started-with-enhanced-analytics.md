@@ -10,22 +10,22 @@ role: User
 level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '282'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 85%
 
 ---
 
-# Adobe Workfront [!UICONTROL Enhanced Analytics] の基本を学ぶ
+# [!UICONTROL Enhanced Analytics] の基本を学ぶ
 
 Enhanced Analytics では、Workfront でのチームやプロジェクトの進行状況や、今後のプロジェクトの計画に役立つ以前のプロジェクトで発生したことを確認できます。
 
 ## 分析の前提条件
 
-Workfront の Enhanced Analytics を最大限に活用するには、チームができるだけ正確にデータを入力し、特定のフィールドを更新していることを確認する必要があります。
+Workfrontの拡張分析を最大限に活用するには、チームがデータを入力し、特定のフィールドをできるだけ正確に更新していることを確認する必要があります。
 
- Analytics.で「チーム」という用語を使用する場合、「ホームチーム」を指します。Workfront のユーザーは複数のチームに参加できますが、参加できるホームチームは 1 つのみです。人物チャートで使用されるチームは、そのチームをホームチームに指定しているユーザーのみで構成されます。
+Analytics で「チーム」という用語を使用する場合、「ホームチーム」を指します。 Workfront のユーザーは複数のチームに参加できますが、参加できるホームチームは 1 つのみです。人物チャートで使用されるチームは、そのチームをホームチームに指定しているユーザーのみで構成されます。
 
 すべてのタスクに割り当てられた正確な予定時間数と期間をプロジェクトテンプレートに含めることで、作業をすぐに開始できます。
 

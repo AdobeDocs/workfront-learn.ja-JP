@@ -1,5 +1,5 @@
 ---
-title: プルーフ対象ユーザーの設定
+title: プルーフユーザーの設定
 description: どの  [!DNL  Workfront]  ユーザーにプルーフのライセンスがあるかを判断し、 [!DNL Workfront]  とバックエンド設定の両方でユーザー設定を調整する方法を説明します。
 activity: use
 type: Tutorial
@@ -11,16 +11,16 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 100%
+ht-degree: 63%
 
 ---
 
-# プルーフ対象ユーザーの設定
+# プルーフユーザーの設定
 
-[!DNL  Workfront] でユーザーの作成を開始する前に、グローバルな [!DNL Workfront] とプルーフシステムの設定を完了しておくことがベストプラクティスです。これらの設定の一部は、作成時にユーザープロファイルに適用されます。ただし、一部のユーザーを作成前にこれらの設定がされていなくても、心配はいりません。これらの設定は、個々のユーザープロファイルで編集できます。
+でユーザーの作成を開始する前に [!DNL  Workfront]を使用する場合は、グローバルに [!DNL Workfront] および配達確認のシステム設定が完了しました。 これらの設定の一部は、作成時にユーザープロファイルに適用されます。ただし、一部のユーザーが作成される前にこれらの設定が取得されていなくても、心配する必要はありません。個々のユーザープロファイルでこれらの設定を編集できます。
 
 
 このビデオでは、次の方法を学習します：

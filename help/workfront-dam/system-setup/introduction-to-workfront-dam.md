@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] の概要'
+title: 理解 [!UICONTROL Workfront DAM]
 description: アセットを検索して表示する方法を説明し、フォルダー構造が [!UICONTROL Workfront DAM] でアセットの編成とアクセスにどのように影響するかを確認します。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '187'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '183'
+ht-degree: 96%
 
 ---
 
-# システム設定：[!UICONTROL Workfront DAM] の概要
+# 理解 [!UICONTROL Workfront DAM]
 
 [!UICONTROL Workfront DAM] は、デジタルアセット管理（DAM）ソリューションであり、特に、マーケティングアセットやクリエイティブアセットの管理、コントロール、公開を行います。プロジェクト、タスクの割り当て、およびその他の作業を管理している、既に [!DNL Workfront] にあるワークフローと組み合わせて使用できます。[!DNL Workfront] を使用してアセットリクエストを作成し、アセットの作成とレビューを管理します。[!UICONTROL Workfront DAM] を使用して、完成し承認されたアセットを調整、保存、配布します。
 

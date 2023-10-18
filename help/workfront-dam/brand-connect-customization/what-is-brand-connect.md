@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
-# [!UICONTROL Brand Connect] とは
+# [!UICONTROL Brand Connect] とは?
 
 [!UICONTROL Brand Connect] は [!UICONTROL Workfront DAM] の一部であり、エンドユーザーがアクセスして、承認済みの会社アセットを検索およびダウンロードします。これらのユーザーは、多くの場合、アセットをリクエストしたり、会社のロゴなどを探している内部ユーザーです。
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-組織の [!UICONTROL Brand Portal] の外観をカスタマイズして、ユーザーが必要なものをすばやく検索できるようにし、最新のアセットを簡単に使用できるようにします。
+組織の外観をカスタマイズする [!UICONTROL Brand Portal] 必要な項目をすばやく見つけて、最新のアセットを簡単に利用できるようにする。
 
 このビデオでは、次の操作を実行します。
 

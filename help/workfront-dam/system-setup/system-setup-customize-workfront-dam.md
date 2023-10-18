@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] のカスタマイズ方法'
+title: カスタマイズ [!UICONTROL Workfront DAM]
 description: 透かしの作成、[!UICONTROL DAM] のログインウィンドウのカスタマイズ、インターフェイスのブランディングなどにより、[!UICONTROL Workfront DAM] をカスタマイズする方法を説明します。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 91%
 
 ---
 
-# システム設定：[!UICONTROL Workfront DAM] のカスタマイズ
+# カスタマイズ [!UICONTROL Workfront DAM]
 
 このビデオでは、次の方法を学習します：
 

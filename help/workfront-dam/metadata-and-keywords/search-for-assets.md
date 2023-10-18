@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] でのアセットの検索'
+title: メタデータキーワードを使用したアセットの検索
 description: メタデータとキーワードを使用してアセットを検索する方法、メタデータとキーワードを保持するためにプランする方法、[!UICONTROL Workfront DAM] のベストプラクティスを確立する方法について説明します。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
-# メタデータとキーワード：アセットの検索
+# メタデータキーワードを使用したアセットの検索
 
 このビデオでは、次の方法を学習します：
 

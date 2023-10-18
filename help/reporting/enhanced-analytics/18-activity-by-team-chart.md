@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 拡張分析]のチーム別アクティビティのチャートについて'
-description: チームごとのアクティビティのチャートを使用すると、組織のホームチームが Workfront でどのように時間を費やしているのかを把握できます。
+title: チーム別アクティビティのグラフについて
+description: のチーム別アクティビティグラフ [!UICONTROL Analytics の強化] では、組織のホームチームがWorkfrontでどのように時間を費やしているかを把握できます。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '317'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
-# [!UICONTROL 拡張分析]のチーム別アクティビティのチャートについて
+# チーム別アクティビティのグラフについて
 
 チームごとのアクティビティのチャートを使用すると、組織のホームチームが Workfront でどのように時間を費やしているのかを把握できます。Workfront のユーザーは複数のチームに参加できますが、参加できるホームチームは 1 つのみです。人物チャートで使用されるチームは、そのチームがホームチームとして指定されたユーザーのみで構成されます。
 

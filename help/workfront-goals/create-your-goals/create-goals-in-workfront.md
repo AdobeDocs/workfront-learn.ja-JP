@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Workfront Goals] で目標を作成する'
+title: 目標の作成
 description: ' [!DNL Workfront Goals]  で 3 つの異なるオプションを使用して目標を作成する方法を説明します。'
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '886'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '884'
 ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Goals] で目標を作成する
+# 目標の作成
 
 [!DNL Workfront Goals] では、エグゼクティブや企業のリーダーシップチームは、個人のレベルに至るまで、組織全体の進行状況を各レベルで確認できます。[!DNL Workfront Goals] は、最優先度を高め、リスクに晒されている目標を特定、問題をリアルタイムで診断し、プロアクティブにコースを修正するための重要な実用的なインサイトを提供します。
 

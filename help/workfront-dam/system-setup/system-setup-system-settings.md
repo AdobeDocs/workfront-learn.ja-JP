@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] のシステム設定について'
+title: システム設定について
 description: '[!UICONTROL Workfront DAM] で、グローバル設定の確立、アセットオプションの設定、フォルダー設定の確立、ダウンロードルールの作成、レポートと監査ログの表示を行う方法について説明します。'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '64'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
-# システム設定：システム設定
+# システム設定について
 
 このビデオでは、次の方法を学習します：
 

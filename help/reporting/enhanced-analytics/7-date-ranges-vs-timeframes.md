@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '319'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] の日付範囲と期間について
+# 日付範囲と期間について
 
 [!DNL Enhanced analytics] のグラフを表示する際、日付範囲はカレンダーウィジェットを使用して指定します。期間はグラフ内で、クリックやドラッグで特定のエリアを定義すると作成されます。作成されたら、ズームインして、その期間の情報をより詳しく確認できます。
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 ![カレンダーウィジェットを使用して日付範囲を選択している画像](assets/section-1-3.png)
 
-[!DNL Analytics] のグラフは、デフォルトで過去 60 日間と今後 15 日間のデータが表示されます。[!DNL Analytics] を使用している間に、新しい日付範囲を選択して、すべてのグラフに適用できます。
+[!DNL Analytics] のグラフは、デフォルトで過去 60 日間と今後 15 日間のデータが表示されます。新しい日付範囲を選択し、 [!DNL Analytics].
 
 ページを更新したり、移動して離れたり、Workfront からログアウト／ログインしたりすると、日付範囲はデフォルトにリセットされます。
 

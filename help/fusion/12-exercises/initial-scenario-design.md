@@ -1,5 +1,5 @@
 ---
-title: 最初のシナリオのデザイン
+title: 最初のシナリオデザイン
 description: Workfront Fusion に初めてログインする際の基本的な操作方法と、最初のシナリオの作成について説明します。
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '978'
 ht-degree: 92%
 
 ---
 
-# 最初のシナリオのデザイン
+# 最初のシナリオデザイン
 
 Workfront Fusion に初めてログインする際の基本的な操作方法と、最初のシナリオの作成について説明します。
 

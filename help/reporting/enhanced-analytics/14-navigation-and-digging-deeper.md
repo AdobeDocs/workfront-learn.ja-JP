@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL Enhanced Analytics] でのナビゲーションの詳細'
-description: Workfront で、従業員が各プロジェクトに費やしている時間を迅速に確認する方法を説明します。
+title: ナビゲーションの詳細
+description: の各プロジェクトに対して、作業者がどれくらいの時間割り当てを行っているかをすばやく確認する方法を説明します。 [!UICONTROL Analytics の強化].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 100%
+source-wordcount: '224'
+ht-degree: 92%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] でのナビゲーションの詳細
+# ナビゲーションの詳細
 
 このビデオでは、以下について説明します。
 

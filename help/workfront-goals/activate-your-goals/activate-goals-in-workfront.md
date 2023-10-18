@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Workfront Goals] で目標をアクティブ化'
+title: 目標のアクティベート
 description: ' [!DNL Workfront Goals]  で作成した目標をアクティブ化する方法を説明します。'
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '327'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '325'
 ht-degree: 100%
 
 ---
 
-# [!DNL Workfront] で目標をアクティブ化
+# 目標のアクティベート
 
 目標を作成したら、アクティブ化します。作成した目標は、[!UICONTROL 下書き]ステータスで保存されます。[!UICONTROL 下書き]の目標は、目標をアクティベートするまで、目標管理に含まれません。 アクティブ化すると、[!UICONTROL アクティブ]ステータスに切り替わり、ダッシュボードに進捗が表示され、全体的な戦略にどのように関連付けられているかが表示されます。[!UICONTROL アクティブ]ステータスの目標は、進捗状況インジケーターに関連付けられています。通常は、アクティビティ、結果、プロジェクト、または整合済みの目標（目標の親子関係）です。
 

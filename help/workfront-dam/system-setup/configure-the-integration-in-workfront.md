@@ -1,5 +1,5 @@
 ---
-title: Workfront での [!UICONTROL Workfront DAM] 統合の設定
+title: Workfront での統合の設定
 description: システム管理者のアクセスレベルで [!UICONTROL Workfront DAM] 統合を有効にする方法を説明します。
 activity: use
 team: Technical Marketing
@@ -9,16 +9,16 @@ role: Admin
 level: Intermediate
 jira: KT-10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 88%
 
 ---
 
-# Workfront での [!UICONTROL Workfront DAM] 統合の設定
+# Workfront での統合の設定
 
-Workfront の&#x200B;**[!UICONTROL 設定]**&#x200B;エリアから [!UICONTROL Workfront DAM] 統合を有効にします。[!UICONTROL Workfront] のシステム管理者のアクセスレベルが必要です。
+を有効にします。 [!UICONTROL Workfront DAM] Workfrontとの統合 **[!UICONTROL 設定]** 領域。 [!UICONTROL Workfront] のシステム管理者のアクセスレベルが必要です。
 
 ![[!UICONTROL クラウドプロバイダー]設定ページのスクリーンショット](assets/01-configure-the-integration-in-workfront.png)
 

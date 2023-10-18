@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Enhanced Analytics] の予定時間数ビューと期間ビューについて'
+title: 予定時間数ビューと期間ビューについて
 description: 燃え尽きとプロジェクトツリーマップのグラフでは、予定時間数または期間で情報を表示できます。
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '145'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] の予定時間数ビューと期間ビューについて
+# 予定時間数ビューと期間ビューについて
 
 バーンダウングラフとプロジェクトツリーマップのグラフでは、Workfront 環境でより正確と思える内容に応じて、予定時間数または期間で情報を表示できます。
 

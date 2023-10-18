@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL Enhanced Analytics] でのプロジェクトアクティビティの操作とレビューを理解する'
-description: ログインしたユーザー、タスクステータスの変更、Workfront で完了したタスクに基づいてプロジェクトを比較する方法を説明します。
+title: プロジェクトアクティビティの移動とレビューについて
+description: ログインしたユーザー、タスクステータスの変更、完了したタスクに基づいてプロジェクトを比較する方法を説明します。 [!UICONTROL Analytics の強化].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '240'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 91%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] でプロジェクトアクティビティの操作とレビューを理解する
+# プロジェクトアクティビティの移動とレビューについて
 
 このビデオでは、次のことを学習します。
 

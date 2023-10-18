@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL Enhanced Analytics] のリソース処理能力のグラフについて'
-description: フィルター処理された期間内にホームチームに割り当てられた予定時間数を、チームの合計作業可能時間と比較して、リソース処理能力グラフで表示する仕組みを学びます。
+title: リソース処理能力のグラフについて
+description: リソース容量のグラフを [!UICONTROL Analytics の強化] チームの合計使用可能時間数に対して、フィルタされた期間内にホームチームに割り当てられた予定時間数を表示します。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '409'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '406'
+ht-degree: 92%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] のリソース処理能力のグラフについて
+# リソース処理能力のグラフについて
 
 リソース処理能力グラフには、チームの合計作業可能時間との比較における、フィルター処理された期間内にホームチームに割り当てられた予定時間数が表示されます。
 

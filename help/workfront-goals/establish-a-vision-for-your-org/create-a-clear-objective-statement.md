@@ -1,5 +1,5 @@
 ---
-title: 目的または終了目標の定義と表現
+title: 明確な目的ステートメントの作成
 description: 明確な目的のステートメントまたはコマンダーインテントを作成し、強力な企業目標や組織目標を作成する方法について説明します。
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '395'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '392'
 ht-degree: 100%
 
 ---
 
-# 目的の定義と表現
+# 明確な目的ステートメントの作成
 
 このビデオでは、次の方法を学習します：
 

@@ -1,5 +1,5 @@
 ---
-title: スイッチでの切り替え
+title: switch 関数の使用
 description: ' [!DNL Adobe Workfront Fusion] の switch 関数とスイッチモジュールの概要、およびスイッチ機能とスイッチモジュールの使い分けについて説明します。'
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# スイッチでの切り替え
+# switch 関数の使用
 
 このビデオでは、次のことを学習します。
 

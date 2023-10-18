@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL Enhanced Analytics] のバーンダウンチャートへのアクセスとレビューについて'
-description: バーンダウンチャートにアクセスし、残り時間、プロジェクトの状態、プロジェクトの速度との関係を Workfront で確認する方法を説明します。
+title: バーンダウングラフへのアクセスとレビューについて
+description: バーンダウングラフにアクセスし、残り時間、プロジェクトの状態、プロジェクトの速度の関係を [!UICONTROL Analytics の強化].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '298'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '293'
+ht-degree: 90%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] のバーンダウンチャートへのアクセスとレビューについて
+# バーンダウンのアクセスとレビューについて
 
 このビデオでは、次のことを学習します。
 

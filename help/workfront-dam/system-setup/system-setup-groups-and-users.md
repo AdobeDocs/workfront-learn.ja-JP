@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] でのグループとユーザーについて'
+title: グループとユーザーの設定
 description: '[!UICONTROL Workfront DAM] でフォルダー、グループ、ユーザーを作成する方法を説明します。ユーザーの役割タイプを理解し、フォルダーに権限を付与します。'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 100%
+source-wordcount: '414'
+ht-degree: 88%
 
 ---
 
-# システム設定：グループとユーザー
+# グループとユーザーの設定
 
 このビデオでは、以下の方法を説明します。
 
@@ -32,11 +32,11 @@ ht-degree: 100%
 
 ## グループとユーザーのレビュー
 
-[!UICONTROL Workfront DAM] システムを設定する際は、ユーザーとグループが全体像で果たす役割を考慮することが重要です。
+設定時に、 [!UICONTROL Workfront DAM] システムの場合、大まかに見て、ユーザーやグループが果たす役割を考慮することが重要です。
 
 グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。また、グループ設定は、ユーザーがアクセス権を持つアセットに対して実行できる操作（表示、ダウンロード、編集など）も制御します。
 
-グループを作成する際は、そのグループのメンバーが [!UICONTROL Workfront DAM] でアクセスする必要があるアセットフォルダーを念頭に置くことが重要です。
+グループを作成する際は、そのグループのメンバーがアクセスする必要があるアセットフォルダーを念頭に置いておくことが重要です [!UICONTROL Workfront DAM].
 
 ユーザーは、[!UICONTROL Workfront DAM] にログインしている個人です。ユーザーは、グループに割り当てられていない限り、[!UICONTROL Workfront DAM] のいずれにもアクセスできません。ユーザーは、必要に応じて複数のグループに属することができます。
 

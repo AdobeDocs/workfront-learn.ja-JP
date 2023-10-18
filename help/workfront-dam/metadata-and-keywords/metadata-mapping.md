@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] のメタデータマッピングの設定'
+title: メタデータマッピングの設定
 description: '[!UICONTROL Workfront DAM] のメタデータマッピングを設定する方法について説明します。'
 activity: use
 team: Technical Marketing
@@ -9,18 +9,18 @@ role: Admin
 level: Intermediate
 jira: KT-10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '276'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '275'
 ht-degree: 100%
 
 ---
 
-# メタデータマッピング
+# メタデータマッピングの設定
 
 アセットに関する [!DNL Workfront] 関連の情報は、アセットと共に [!DNL Workfront] から [!UICONTROL Workfront DAM] に転送できます。[!DNL Workfront] [!UICONTROL 設定]エリアのメタデータマッピングオプションにより、この情報の転送が可能になります。
 
-メタデータマッピングの設定に関するベストプラクティスの推奨事項については、[!DNL Workfront] コンサルタントにお問い合わせください。
+メタデータマッピングの設定に関するベストプラクティスのレコメンデーションについては、[!DNL Workfront] コンサルタントにお問い合わせください。
 
 メタデータマッピングを設定するには、[!DNL Workfront] 管理者および [!UICONTROL Workfront DAM] 管理者である必要があります。開始する前に、[!DNL Workfront] と [!UICONTROL Workfront DAM] アカウントを接続する必要があります。
 
