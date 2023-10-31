@@ -13,7 +13,7 @@ exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '978'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ Workfront Fusion に初めてログインする際の基本的な操作方法と
 
 ## 前提条件
 
-1. この演習には、Workfrontテストドライブが必要です。 次の項目を入力してリクエストできます。 [このフォーム](https://forms.office.com/r/f1J8HRGrNY). フォームにアクセスできない場合は、お客様の名前、電子メールアドレス、会社名をwfttstdr@adobe.comに送信してください。
-1. Fusion の演習では、この演習に対応するウォークスルービデオを視聴したことを前提としています。 この場合は、 [最初のシナリオデザインのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+1. この演習には、Workfront 体験版ドライブが必要です。[このフォーム](https://forms.office.com/r/f1J8HRGrNY)に入力してリクエストできます。フォームにアクセスできない場合は、名前、メールアドレス、会社名を wfttstdr@adobe.com に送信してください。
+1. Fusion の演習では、この演習に対応するチュートリアルビデオを視聴したことを前提としています。ここでは、[最初のシナリオデザインのチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=ja)を指します。
 
 
 ## 演習の概要
@@ -54,7 +54,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
 
    ![最初のシナリオデザイン画像 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. 次の URL を入力 **Workfrontインスタンス**、「次へ」をクリックします。
+1. **Workfront インスタンス**&#x200B;の URL を入力し、「次へ」をクリックします。
 
    ![最初のシナリオデザイン画像 5](../12-exercises/assets/initial-scenario-design-5.png)
 

@@ -6,7 +6,7 @@ feature-set: Workfront
 source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -164,7 +164,7 @@ ht-degree: 98%
       + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
-      + [プロジェクトテンプレートの作成 ブループリントについて](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [プロジェクトテンプレートの作成ブループリントについて](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトのコピー](manage-work/manage-projects/copy-an-existing-project.md)
