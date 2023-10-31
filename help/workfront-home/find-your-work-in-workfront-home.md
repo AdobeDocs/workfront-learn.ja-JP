@@ -11,9 +11,9 @@ jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
 source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 >[!NOTE]
 >
->現在、Workfrontでは 2 つのホームエクスペリエンスを利用できます。 新しいホームエクスペリエンスがある場合は、 [ホームのウィジェットを削除、追加、並べ替え](/help/workfront-home/remove-add-and-rearrange-widgets.md) チュートリアル
+>現在、Workfront で利用可能なホームエクスペリエンスは 2 つあります。新しいホームエクスペリエンスを利用している場合は、[ホームのウィジェットを削除、追加、並べ替え](/help/workfront-home/remove-add-and-rearrange-widgets.md)チュートリアルを参照してください。
 
 
 このビデオでは、次の方法を学習します：
