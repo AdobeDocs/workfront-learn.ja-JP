@@ -1,6 +1,6 @@
 ---
 title: 高度な先行タスク
-description: 先行依存タイプ、ラグタイプ、強制先行タスク、依存ループエラー、短い切り取りとベストプラクティスについて説明します。
+description: 先行タスクの依存関係タイプ、ラグタイプ、強制的な先行タスク、依存関係ループエラー、いくつかのショートカットとベストプラクティスについて説明します。
 feature: Work Management
 thumbnail: 3424287.jpg
 type: Tutorial
@@ -11,10 +11,11 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
-workflow-type: tm+mt
+exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -24,21 +25,21 @@ ht-degree: 3%
 >
 >前提条件：
 >
->* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
->* または、プロジェクトで先行タスクを使用することに既に慣れています
+>* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ja)
+>* プロジェクトで先行タスクの使用に既に慣れている
 
-このビデオでは、以下について学習します。
+このビデオでは、以下について説明します。
 
 * タスクの依存関係
-* ラグのタイプ
+* ラグタイプ
 * 強制的な先行タスク
 * 依存関係ループエラー
 * ショートカットとベストプラクティス
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
-先行タスクの使用の詳細については、「 [タスクの先行タスクを使用](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+先行タスクの使用について詳しくは、[タスク先行タスクを使用](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ja)を参照してください。
 
-タスク制約の詳細については、「 [期間のタイプとタスクの制約を理解し、管理します](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+タスクの制約について詳しくは、[期間のタイプとタスクの制約の理解と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
 
-プロジェクト間の先行タスクの詳細については、「 [プロジェクト間の先行タスクを理解する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+プロジェクト間の先行タスクについて詳しくは、[プロジェクト間先行タスクについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ja)を参照してください。
