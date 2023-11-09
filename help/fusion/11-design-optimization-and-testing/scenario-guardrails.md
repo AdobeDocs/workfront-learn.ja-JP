@@ -10,10 +10,10 @@ level: Beginner
 jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 89%
 
 ---
 
@@ -33,3 +33,5 @@ ht-degree: 100%
 ## 詳細情報 以下をお勧めします。
 
 [Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
+
+[Adobe Workfront Fusion パフォーマンスガードレール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
