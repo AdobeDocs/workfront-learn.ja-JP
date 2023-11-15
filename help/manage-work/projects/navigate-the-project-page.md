@@ -6,15 +6,15 @@ feature: Work Management
 thumbnail: 335085.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -36,11 +36,11 @@ ht-degree: 100%
 ![プロジェクトページ](assets/project-page-graphic-for-planner.png)
 
 1. **パンくずリスト：**&#x200B;プロジェクトの背後にあるプログラムとポートフォリオの階層を移動します。
-2. **オブジェクトタイプ：**&#x200B;ランディングページにオブジェクトタイプを表示すると、[!DNL Workfront] で表示しているものを識別するのに役立ちます。「プロジェクト」という用語は、[!DNL Workfront] システム管理者がカスタマイズできます。
-3. **プロジェクト名：**&#x200B;表示しているプロジェクトの名前です。編集するには、名前をクリックします。
-4. **プロジェクトヘッダー：**&#x200B;すべてのプロジェクトページで使用できる標準情報です。
+2. **オブジェクトタイプ：** ランディングページにオブジェクトタイプを表示すると、で何を表示しているかを識別できます [!DNL Workfront]. 「プロジェクト」用語は、 [!DNL Workfront] システム管理者。
+3. **プロジェクト名：** 表示するプロジェクトの名前。 編集するには、名前をクリックします。
+4. **プロジェクトヘッダー：** すべてのプロジェクトページで利用できる標準情報。
 5. **[!UICONTROL 完了率]：**&#x200B;これは、プロジェクトで完了したタスクに基づいて自動的に更新されます。
-6. **[!UICONTROL プロジェクト所有者]：**&#x200B;ほとんどの組織では、これはプロジェクト管理者です。これは、[!DNL Workfront] でプロジェクトを管理し、確実に完了する担当者です。
+6. **[!UICONTROL プロジェクト所有者]：**&#x200B;ほとんどの組織では、これはプロジェクト管理者です。これは、でプロジェクトを管理する担当者です。 [!DNL Workfront] そして、それが完了したことを確認します。
 7. **[!UICONTROL 予定完了日]：**&#x200B;プロジェクトの予定完了日は、プロジェクトタイムラインを通じてプロジェクト管理者が設定します。
 8. **[!UICONTROL 条件]：**[!UICONTROL 条件]は、プロジェクトの進捗を視覚的に表現したものです。[!DNL Workfront] は、プロジェクト内のタスクの進捗ステータスに基づいて[!UICONTROL 条件]を自動的に設定できます。または[!UICONTROL 条件]は、プロジェクトの詳細から手動で設定できます。
 9. **[!UICONTROL ステータス]：**[!UICONTROL ステータス]は、プロジェクトがプロセスのどの段階にあるかを示します。つまり、プロジェクトがまだ予定段階か、処理中か、プロジェクトのすべての作業が完了しているかを示します。

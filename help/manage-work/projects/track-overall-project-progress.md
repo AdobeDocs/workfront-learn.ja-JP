@@ -7,13 +7,13 @@ feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->グローバルシステム設定は、タスクの期間または予定時間に基づいて、プロジェクトの完了率の計算方法に影響します。
+>グローバルシステム設定は、タスクの期間または予定時間に基づいて、プロジェクトの完了率を計算する方法に影響します。
 
-プロジェクトの[!UICONTROL 状態]は、「プロジェクトスケジュールの正常性」と呼ばれます。 状態の計算方法には、様々な要因があります。 [!DNL Workfront] は、[!UICONTROL 予定完了日]と[!UICONTROL 見込み完了日]、およびクリティカルパスを調べて、プロジェクトが[!UICONTROL 予定通り]、[!UICONTROL 危険]、または[!UICONTROL 問題]のどれに該当するかを計算します。
+プロジェクト [!UICONTROL 条件] は、「プロジェクトスケジュールのヘルス」と呼ばれます。 状態の計算方法には、様々な要因があります。 [!DNL Workfront] は、[!UICONTROL 予定完了日]と[!UICONTROL 見込み完了日]、およびクリティカルパスを調べて、プロジェクトが[!UICONTROL 予定通り]、[!UICONTROL 危険]、または[!UICONTROL 問題]のどれに該当するかを計算します。
 
 ![[!UICONTROL 状態を表示するプロジェクトヘッダー]](assets/planner-fund-condition.png)
 

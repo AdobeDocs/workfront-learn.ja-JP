@@ -6,15 +6,15 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 100%
 1. 先行タスク
 1. 割り当て
 
-すべて設定したら、プロジェクトのステータスを「現在」に変更して、プロジェクトを稼働させます。プロジェクトが進むにつれて、進行中の作業や、発生した問題、回答が必要な問い合わせなどを追跡する必要がでてきます。それらの情報はすべて [!DNL Workfront] で見つけて管理できます。
+すべて設定したら、プロジェクトのステータスを「現在」に変更して、プロジェクトを稼働させます。プロジェクトが進むにつれて、作業の進行状況、発生する問題、回答が必要な質問などを追跡し続けたいと思います。 それらの情報はすべて [!DNL Workfront] で見つけて管理できます。

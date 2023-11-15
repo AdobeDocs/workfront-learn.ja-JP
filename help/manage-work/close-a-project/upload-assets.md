@@ -7,19 +7,19 @@ feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
 # アセットのアップロード
 
-[!DNL Workfront] プロジェクトを閉じる前に必ず、関連するすべてのファイルを「[!UICONTROL ドキュメント]」セクションに入力します。 組織のガイドラインによる決定に従って、このフィルをドキュメントまたはプルーフとしてアップロードします。
+[!DNL Workfront] プロジェクトを閉じる前に必ず、関連するすべてのファイルを「[!UICONTROL ドキュメント]」セクションに入力します。 組織のガイドラインに従って、これらをドキュメントまたは配達確認としてアップロードします。
 
 ドキュメントまたはプルーフを、既存のファイルのバージョンとしてアップロードする必要が生じる場合があります。
 
