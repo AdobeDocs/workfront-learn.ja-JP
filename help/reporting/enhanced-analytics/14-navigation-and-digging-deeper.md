@@ -1,6 +1,6 @@
 ---
 title: ナビゲーションの詳細
-description: の各プロジェクトに対して、作業者がどれくらいの時間割り当てを行っているかをすばやく確認する方法を説明します。 [!UICONTROL Analytics の強化].
+description: '[!UICONTROL 拡張分析]で、従業員が各プロジェクトに費やしている時間を迅速に確認する方法を説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -12,9 +12,9 @@ jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
