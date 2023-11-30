@@ -1,6 +1,6 @@
 ---
 title: チーム処理能力について
-description: チームのキャパシティグラフを [!UICONTROL Analytics の強化] ホームチームが過剰割り当てされたか、割り当てられていないかを示します。
+description: '[!UICONTROL 拡張分析]のチーム処理能力グラフで、ホームチームが作業を過剰に割り当てられたときや、過少に割り当てられたときを表示する方法を説明します。'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
