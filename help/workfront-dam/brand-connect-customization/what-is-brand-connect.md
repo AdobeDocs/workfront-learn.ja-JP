@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 83%
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-組織の外観をカスタマイズする [!UICONTROL Brand Portal] 必要な項目をすばやく見つけて、最新のアセットを簡単に利用できるようにする。
+組織の [!UICONTROL Brand Portal] の外観をカスタマイズして、ユーザーが必要なものをすばやく検索できるようにし、最新のアセットを簡単に使用できるようにします。
 
 このビデオでは、次の操作を実行します。
 
