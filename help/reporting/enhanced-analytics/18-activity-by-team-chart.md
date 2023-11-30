@@ -1,6 +1,6 @@
 ---
 title: チーム別アクティビティのグラフについて
-description: のチーム別アクティビティグラフ [!UICONTROL Analytics の強化] では、組織のホームチームがWorkfrontでどのように時間を費やしているかを把握できます。
+description: '[!UICONTROL 拡張分析]のチームごとのアクティビティのチャートを使用すると、組織のホームチームが Workfront でどのように時間を費やしているのかを把握できます。'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
