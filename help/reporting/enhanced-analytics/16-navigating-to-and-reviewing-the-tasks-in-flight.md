@@ -1,6 +1,6 @@
 ---
 title: 進行中のタスクのレビュー
-description: フライトチャートでタスクにアクセスする方法、およびプロジェクトで完了していないタスクをすばやく確認する方法について説明します。 [!UICONTROL Analytics の強化].
+description: '[!UICONTROL 拡張分析]で、「進行中のタスク」チャートにアクセスする方法と、プロジェクトの未完了タスクをすぐに確認する方法について説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -12,9 +12,9 @@ jira: KT-8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '246'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
