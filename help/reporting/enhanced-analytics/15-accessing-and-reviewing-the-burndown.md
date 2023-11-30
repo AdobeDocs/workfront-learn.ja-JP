@@ -1,6 +1,6 @@
 ---
-title: バーンダウングラフへのアクセスとレビューについて
-description: バーンダウングラフにアクセスし、残り時間、プロジェクトの状態、プロジェクトの速度の関係を [!UICONTROL Analytics の強化].
+title: バーンダウンチャートのアクセスとレビューについて
+description: バーンダウンチャートにアクセスし、残り時間、プロジェクトの状態、プロジェクトの速度との関係を[!UICONTROL 拡張分析]で確認する方法を説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -12,9 +12,9 @@ jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
