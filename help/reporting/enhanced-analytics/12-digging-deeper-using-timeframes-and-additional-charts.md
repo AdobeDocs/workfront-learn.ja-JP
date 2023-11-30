@@ -1,6 +1,6 @@
 ---
 title: 時間枠と追加のグラフを使用して、さらに掘り下げる
-description: フライトプランチャートでプロジェクトをドリルダウンして、バーンダウンチャートとフライトチャートのタスクをに表示する方法を説明します。 [!UICONTROL Analytics の強化].
+description: フライトプランチャートでプロジェクトをドリルダウンして、バーンダウンチャートとフライトチャートのタスクを[!UICONTROL 拡張分析]に表示する方法を学びます。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,9 +12,9 @@ jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
