@@ -11,9 +11,9 @@ jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 93%
 
 ## 検索バーの追加
 
-組織の [!UICONTROL Brand Connect]をクリックすると、 [!UICONTROL Assets] 検索を実行する領域。
+組織の [!UICONTROL Brand Connect] のホームページをカスタムで設計する場合、ユーザーは[!UICONTROL アセット]エリアをクリックして検索を実行する必要があります。
 
 ただし、システム管理者は HTML ウィジェットとこの HTML タグを使用して検索バーを作成できます。
 
