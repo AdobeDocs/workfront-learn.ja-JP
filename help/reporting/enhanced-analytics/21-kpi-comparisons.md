@@ -1,6 +1,6 @@
 ---
 title: KPI 比較のユースケースについて
-description: で KPI を比較する方法を説明します。 [!UICONTROL Analytics の強化] 現在の日付範囲から前の日付範囲へ、および 2 つの異なるフィルターを使用して KPI を比較する方法について説明します。
+description: '[!UICONTROL 拡張分析]で現在の日付範囲の KPI を以前の日付範囲のものと比較する方法と、2 つの異なるフィルターを使用して KPI を比較する方法を学びます。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -12,9 +12,9 @@ jira: KT-8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
