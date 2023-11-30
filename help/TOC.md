@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2436'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -201,7 +201,7 @@ ht-degree: 99%
       + [レポートコンポーネントについて](reporting/basic-reporting/reporting-components.md)
       + [基本グループの作成](reporting/basic-reporting/create-a-basic-grouping.md)
       + [基本ビューの作成](reporting/basic-reporting/create-a-basic-view.md)
-      + [基本的な条件付き書式の追加 ビューに](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [基本的な条件付き書式の追加（ビューに対して）](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](reporting/basic-reporting/create-a-basic-filter.md)
       + [基本的なフィルターの作成アクティビティ](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](reporting/basic-reporting/create-a-simple-report.md)
@@ -465,7 +465,7 @@ ht-degree: 99%
       + [集計](fusion/12-exercises/aggregation.md)
       + [詳細な集計](fusion/12-exercises/advanced-aggregation.md)
       + [実行履歴](fusion/12-exercises/execution-history.md)
-      + [実行サイクルとバンドルの調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [実行、サイクル、バンドルの調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [スイッチ関数](fusion/12-exercises/switch-function.md)
       + [スイッチモジュール](fusion/12-exercises/switch-module.md)
       + [Webhook](fusion/12-exercises/webhooks.md)
@@ -493,8 +493,8 @@ ht-degree: 99%
       + [プルーフユーザーの設定](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + プルーフのアップロード {#upload-proofs}
-      + [配達確認のバージョンとは](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [配達確認のバージョンをアップロードするユーザー](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [プルーフのバージョンとは](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [プルーフのバージョンをアップロードするユーザー](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [プルーフへのドキュメントの変換](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [プルーフのバージョンの表示と比較](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [プルーフのバージョンのアップロード](workfront-proof/upload-proofs/upload-a-proof-version.md)
