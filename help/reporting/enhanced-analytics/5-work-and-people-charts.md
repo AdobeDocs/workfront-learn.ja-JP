@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 94%
 
 ![で [!UICONTROL Analytics] 機能を見つけている画像[!DNL Workfront Classic]](assets/section-1-1.png)
 
-作業グラフに移動すると、デフォルトで次の項目が表示されます。
+作業チャートに移動すると、デフォルトで次の項目が表示されます。
 
 1. KPI 統計
 1. フライトプラン
