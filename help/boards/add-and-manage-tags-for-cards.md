@@ -10,8 +10,8 @@ role: User, Leader
 level: Beginner
 exl-id: f2327549-a8db-4621-867d-e6f13a6d292f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 タグとは何か、タグが便利な理由、タグの作成、削除、追加、削除の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346807)
+>[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on)
