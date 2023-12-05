@@ -13,7 +13,7 @@ exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->グローバルシステム設定は、タスクの期間または予定時間に基づいて、プロジェクトの完了率を計算する方法に影響します。
+>グローバルシステム設定は、タスクの期間または予定時間数に基づいて、プロジェクトの完了率の計算方法に影響します。
 
-プロジェクト [!UICONTROL 条件] は、「プロジェクトスケジュールのヘルス」と呼ばれます。 状態の計算方法には、様々な要因があります。 [!DNL Workfront] は、[!UICONTROL 予定完了日]と[!UICONTROL 見込み完了日]、およびクリティカルパスを調べて、プロジェクトが[!UICONTROL 予定通り]、[!UICONTROL 危険]、または[!UICONTROL 問題]のどれに該当するかを計算します。
+プロジェクトの[!UICONTROL 条件]は、「プロジェクトスケジュールの正常性」と呼ばれます。状態の計算方法には、様々な要因があります。 [!DNL Workfront] は、[!UICONTROL 予定完了日]と[!UICONTROL 見込み完了日]、およびクリティカルパスを調べて、プロジェクトが[!UICONTROL 予定通り]、[!UICONTROL 危険]、または[!UICONTROL 問題]のどれに該当するかを計算します。
 
 ![[!UICONTROL 状態を表示するプロジェクトヘッダー]](assets/planner-fund-condition.png)
 

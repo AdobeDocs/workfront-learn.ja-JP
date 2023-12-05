@@ -12,8 +12,8 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
 source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 89%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 89%
 
 [Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
 
-[Adobe Workfront Fusion パフォーマンスガードレール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Adobe Workfront Fusion パフォーマンスガードレール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html?lang=ja)
