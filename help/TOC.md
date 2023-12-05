@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 100%
+source-wordcount: '2375'
+ht-degree: 99%
 
 ---
 
@@ -89,6 +89,7 @@ ht-degree: 100%
       + [カスタムフィールドの共有](custom-data/custom-forms/share-custom-fields.md)
       + [カスタムフォームの編集](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [カスタムフォームをオブジェクトへ添付](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [カスタムフォームにセクション区切りとロジックを追加する](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [カスタムフォーを PDF として書き出し](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 計算式 {#calculated-expressions}
@@ -164,7 +165,7 @@ ht-degree: 100%
       + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
-      + [プロジェクトテンプレートの作成ブループリントについて](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [プロジェクトテンプレートを作成し、ブループリントについて学ぶ](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトのコピー](manage-work/manage-projects/copy-an-existing-project.md)
@@ -201,7 +202,7 @@ ht-degree: 100%
       + [レポートコンポーネントについて](reporting/basic-reporting/reporting-components.md)
       + [基本グループの作成](reporting/basic-reporting/create-a-basic-grouping.md)
       + [基本ビューの作成](reporting/basic-reporting/create-a-basic-view.md)
-      + [基本的な条件付き書式の追加（ビューに対して）](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [ビューに基本的な条件付き書式を追加](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](reporting/basic-reporting/create-a-basic-filter.md)
       + [基本的なフィルターの作成アクティビティ](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](reporting/basic-reporting/create-a-simple-report.md)
