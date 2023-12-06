@@ -10,26 +10,21 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: 75b9d3b1163466909a4f5b3cbf0f3a66694f5038
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 84%
 
 ---
 
 # 基本的なナビゲーションについて
 
-新しい Workfront エクスペリエンスで [!UICONTROL Analytics] に移動するには、「[!UICONTROL メインメニュー]」ボタンを使用します。
+次に移動するには： [!UICONTROL Analytics] Workfrontで、 [!UICONTROL メインメニュー] 」ボタンをクリックします。
 
 ![Workfront メイン メニューで [!UICONTROL Analytics] 機能を見つける画像](assets/Navigate-NWE.png)
 
-グローバルナビゲーションバーから [!DNL Workfront Classic] の分析を検索します。
+このビデオでは、次の内容を確認します。
 
-![ で [!UICONTROL Analytics] 機能を見つける画像[!DNL Workfront Classic]](assets/Navigate-Classic.png)
-
-このビデオでは、次のことを学習します。
-
-* Analytics エリアへの移動方法
 * 作業チャートの概要
 * 人物チャートの概要
 
