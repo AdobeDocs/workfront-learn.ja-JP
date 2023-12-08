@@ -1,6 +1,6 @@
 ---
 title: アクションについて - ポインタを合わせてクリック＆ドラッグし、クリックイン
-description: '[!UICONTROL Enhanced Analytics] で、グラフにポインタを合わせて詳細情報を取得する方法、グラフに時間枠を作成する方法、追加のグラフを表示する方法のすべてについて説明します。'
+description: グラフの上にマウスポインターを置く、グラフの期間を作成する、または追加のグラフを表示する、詳細な情報を取得する方法を説明します。 [!UICONTROL Analytics の強化].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: c1fd3897fad6e369a98c4fc904133ff99bf36925
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 100%
+source-wordcount: '307'
+ht-degree: 91%
 
 ---
 
