@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2375'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -89,7 +89,7 @@ ht-degree: 99%
       + [カスタムフィールドの共有](custom-data/custom-forms/share-custom-fields.md)
       + [カスタムフォームの編集](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [カスタムフォームをオブジェクトへ添付](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
-      + [カスタムフォームにセクション区切りとロジックを追加する](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
+      + [カスタムフォームへのセクション区切りとロジックの追加](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [カスタムフォーを PDF として書き出し](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 計算式 {#calculated-expressions}
@@ -165,7 +165,7 @@ ht-degree: 99%
       + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
-      + [プロジェクトテンプレートを作成し、ブループリントについて学ぶ](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [プロジェクトテンプレートの作成と、ブループリントの詳細](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトのコピー](manage-work/manage-projects/copy-an-existing-project.md)
@@ -588,7 +588,7 @@ ht-degree: 99%
 + アジャイル {#agile}
 
    + スクラム {#scrum}
-      + [スクラムアジャイルチームの作成](agile/create-a-scrum-agile-team.md)
+      + [アジャイルチームのスクラムの作成](agile/create-a-scrum-agile-team.md)
       + [スクラムチームとしての作業の管理](agile/manage-work-scrum-team.md)
       + [バックログの調整](agile/gooming-the-backlog.md)
       + [イテレーションと作成](agile/plan-and-create-an-iteration.md)
