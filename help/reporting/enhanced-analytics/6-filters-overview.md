@@ -12,9 +12,9 @@ jira: KT-8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: c1fd3897fad6e369a98c4fc904133ff99bf36925
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '267'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 * 共通のプロジェクトフィールドに基づいてフィルターを追加する方法
 * カスタムフォームを使用してフィルターを追加する方法
-* フィルターのヒント
+* フィルタリングのヒント
 
 >[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on)
 
