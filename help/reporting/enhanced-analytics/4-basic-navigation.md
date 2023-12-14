@@ -11,15 +11,15 @@ team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 source-git-commit: 75b9d3b1163466909a4f5b3cbf0f3a66694f5038
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # 基本的なナビゲーションについて
 
-次に移動するには： [!UICONTROL Analytics] Workfrontで、 [!UICONTROL メインメニュー] 」ボタンをクリックします。
+Workfront で [!UICONTROL Analytics] に移動するには、「[!UICONTROL メインメニュー]」ボタンを使用します。
 
 ![Workfront メイン メニューで [!UICONTROL Analytics] 機能を見つける画像](assets/Navigate-NWE.png)
 
