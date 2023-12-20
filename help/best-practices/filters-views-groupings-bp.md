@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 71%
+source-wordcount: '785'
+ht-degree: 70%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 71%
 
 表示したいデータのセグメントごとに 1 回限りの使用レポートを作成すると、時間がかかり、Workfront システムが煩雑になります。
 
-プロンプトを使用してレポートを作成する手順については、「レポートのプロンプトを設定して使用する方法」というラベルの付いた章を参照してください。 [レポート設定について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+プロンプトを使用してレポートを作成する手順については、「レポートのプロンプトを設定して使用する方法」というラベルの付いた章を参照してください。 [レポート設定について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) ビデオ。
 
 カスタムプロンプトを使用してレポートを作成する手順については、「 [カスタムプロンプトの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 

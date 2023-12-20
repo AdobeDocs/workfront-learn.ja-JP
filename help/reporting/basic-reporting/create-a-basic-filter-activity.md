@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 33%
+ht-degree: 32%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 33%
 ![新しいフィルターを作成する画面の画像](assets/basic-filter-activity-1.png)
 
 1. [!UICONTROL メインメニュー]から[!UICONTROL プロジェクト]エリアに移動します。プロジェクトのリストが表示されます。
-1. 次をクリック： **[!UICONTROL フィルター]** メニューと選択 [!UICONTROL レガシーフィルター]
+1. 次をクリック： **[!UICONTROL フィルター]** メニューと選択 [!UICONTROL レガシーフィルター].
 1. 選択 **[!UICONTROL 新しいフィルター]**.
 1. フィルターに「All projects in the Marketing portfolio」という名前を付けます。
 1. 「**[!UICONTROL フィルタールールを追加]**」をクリックします。
@@ -39,7 +39,7 @@ ht-degree: 33%
 1. 「[!UICONTROL 次と等しい]」演算子はそのままにしておきます。
 1. 「 」を入力します。[!UICONTROL マーケティング]」が [!UICONTROL 名前の入力を開始] フィールドに入力します。
 1. 選択 [!UICONTROL マーケティングPortfolio] フィルタリング対象の同じ名前のポートフォリオがあるとします。 単に type ahead 機能を使用して目的のポートフォリオを見つけない場合。
-1. 「**[!UICONTROL フィルターを保存]**」をクリックします。
+1. クリック **[!UICONTROL フィルターを保存]**.
 
 ## アクティビティ 2 — 今月のクローズを自分が所有するプロジェクト
 
@@ -54,7 +54,7 @@ ht-degree: 33%
 ![新しいフィルターを作成する画面の画像](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. [!UICONTROL メインメニュー]から[!UICONTROL プロジェクト]エリアに移動します。プロジェクトのリストが表示されます。
-1. 次をクリック： **[!UICONTROL フィルター]** メニューと選択 [!UICONTROL レガシーフィルター]
+1. 次をクリック： **[!UICONTROL フィルター]** メニューと選択 [!UICONTROL レガシーフィルター].
 1. 選択 **[!UICONTROL 新しいフィルター]**.
 1. フィルターに「今月末に自分が所有するプロジェクト」という名前を付けます。
 1. 「**[!UICONTROL フィルタールールを追加]**」をクリックします。
@@ -69,4 +69,4 @@ ht-degree: 33%
 1. もう一度「[!UICONTROL フィルタールールを追加]」をクリックします。
 1. Adobe Analytics の [!UICONTROL フィールド名の入力を開始] 「計画済み」フィールドタイプを選択し、「 [!UICONTROL 計画完了日] の下に [!UICONTROL プロジェクト] フィールドのソース。
 1. 「[!UICONTROL 次と等しい]」演算子を「[!UICONTROL 今月]」に変更します。
-1. 「**[!UICONTROL フィルターを保存]**」をクリックします。
+1. クリック **[!UICONTROL フィルターを保存]**.
