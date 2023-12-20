@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '2375'
-ht-degree: 100%
+source-wordcount: '2374'
+ht-degree: 99%
 
 ---
 
@@ -204,7 +204,7 @@ ht-degree: 100%
       + [基本ビューの作成](reporting/basic-reporting/create-a-basic-view.md)
       + [ビューに基本的な条件付き書式を追加](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](reporting/basic-reporting/create-a-basic-filter.md)
-      + [基本的なフィルターの作成アクティビティ](reporting/basic-reporting/create-a-basic-filter-activity.md)
+      + [基本フィルターアクティビティの作成](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](reporting/basic-reporting/create-a-simple-report.md)
       + [タスクレポートの作成](reporting/basic-reporting/create-a-task-report.md)
       + [グラフを使用したレポートの作成](reporting/basic-reporting/create-reports-with-charts.md)

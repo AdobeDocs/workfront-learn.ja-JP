@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 84%
 
 ---
@@ -35,8 +35,6 @@ ht-degree: 84%
 * 複数の類似レポートを作成したり、レポート内に複雑なフィルター構成を作成したりせず、レポートのプロンプトを使用してレポートの結果を絞り込むことを検討します。
 
 * 類似の既存レポートをコピーして、それを基に新しいレポートを作成することで、レポートの作成をスピードアップできます。
-
-* 可能な限り、テキストモードの代わりに標準のレポート機能を使用します。
 
 * ユーザーベースのワイルドカードを使用して動的なレポートを作成し、レポートを表示するユーザーが自分に関連する情報を確認できるようにします。
 
@@ -88,7 +86,7 @@ ht-degree: 84%
 </br>
 </br>
 
-レポートでユーザーベースのワイルドカードを使用する方法については、 [ユーザーベースのワイルドカードを使用したフィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+レポートでユーザーベースのワイルドカードを使用する方法については、 [ユーザーベースのワイルドカードを使用したフィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **ベストプラクティス**
 
