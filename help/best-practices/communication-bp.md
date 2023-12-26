@@ -9,7 +9,7 @@ exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 92%
 
 ---
 
@@ -72,5 +72,5 @@ ht-degree: 85%
 * 所有者名
 * エントリ日
 
-プロンプトを含む注記レポートの作成手順については、 [タスクレポートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) チュートリアルを開き、次のアクティビティを実行します。
+プロンプト付きのメモレポートを作成する方法については、[タスクレポートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ja)チュートリアルをご覧になり、次のアクティビティを実行してください。
 

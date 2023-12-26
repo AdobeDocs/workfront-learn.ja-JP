@@ -9,7 +9,7 @@ exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 75%
+ht-degree: 89%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 75%
 
 また、プロジェクトが部門、地域、企業の目標にどのように貢献するかを関係者に示す機会ももたらされます。
 
-ビジネス・ケースの使用方法については、 [ビジネスケースの理解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+ビジネス・ケースの使用方法については、 [ビジネスケースの理解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=ja).
 
 </br>
 </br>
@@ -62,9 +62,9 @@ ht-degree: 75%
 
 **その理由は次のとおりです。**
 
-この情報が「実際の生活」プロジェクトに近いものであることを確認すると、Portfolio・オプティマイザーでスコア機能を正確に使用して、リストされたプロジェクトの優先度を判断できます。 Portfolio・オプティマイザは、プロジェクトを効率的に優先し、企業の戦略と価値に合わせた優先順位付けを行う優れたツールです。
+この情報を「現実の」プロジェクトの情報に近づけておくと、ポートフォリオオプティマイザーのスコア機能を正確に使用して、リストにあるプロジェクトの優先度を判断できるようになります。ポートフォリオオプティマイザーは、プロジェクトの優先順位が効率的に決められいるか、企業の戦略や価値観に合っているかを確認できる優れたツールです。
 
-ビジネス・ケースの使用方法については、 [ビジネスケースの理解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+ビジネス・ケースの使用方法については、 [ビジネスケースの理解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=ja).
 
-Optimizer の使用方法については、「Portfolio・オプティマイザ」を参照してください。 [Portfolioの最適化を使用して作業を優先および管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Optimizer の使用方法については、「Portfolio・オプティマイザ」を参照してください。 [Portfolioの最適化を使用して作業を優先および管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=ja).
 
