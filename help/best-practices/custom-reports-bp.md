@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '620'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -86,7 +86,7 @@ ht-degree: 97%
 </br>
 </br>
 
-レポートでユーザーベースのワイルドカードを使用する方法については、 [ユーザーベースのワイルドカードを使用したフィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=ja).
+レポートでユーザーベースのワイルドカードを使用する方法については、[ユーザーベースのワイルドカードを使用したフィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=ja)を参照してください。
 
 **ベストプラクティス**
 
