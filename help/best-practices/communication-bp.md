@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ ht-degree: 92%
 
 ワークフローを段階的に見ていくことで、コミュニケーションのポイントを識別しやすくなり、適切な通知が有効になっていることを確認できます。これにより、組織が既に機能している方法に合わせた通知が準備され、スパムやコミュニケーションの分断が防止されます。
 
-イベント通知の設定方法については、 [イベント通知の設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+イベント通知の設定方法については、[イベント通知の設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=ja)を参照してください。
 
-イベント通知の管理方法については、 [アプリ内および電子メールイベント通知の管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+イベント通知の管理方法については、[アプリ内通知およびメールイベント通知の管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=ja)を参照してください。
 
 </br>
 </br>
