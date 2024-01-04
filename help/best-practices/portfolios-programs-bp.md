@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '388'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -49,8 +49,8 @@ ht-degree: 83%
 
 また、ユーザーの作業方法や作業場所を把握するのに役立つ稼働率レポートや、プロジェクトの優先付けを容易にし、全社的な目標と戦略に合わせてプロジェクトを調整できるようにするポートフォリオオプティマイザーなどの追加ツールを使用できるようになります。
 
-特定のポートフォリオでプロジェクトのリストをフィルタリングする方法については、「アクティビティ 1 — マーケティングポートフォリオ内のすべてのプロジェクト」( [基本フィルターアクティビティの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+特定のポートフォリオでプロジェクトのリストをフィルタリングする方法については、[基本フィルターの作成アクティビティ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=ja)の「アクティビティ 1 - マーケティングポートフォリオ内のすべてのプロジェクト」を参照してください。
 
-使用率レポートについては、この記事を参照してください。 [使用率レポートを使用して、進捗状況、コスト、売上高を追跡する](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+稼働率レポートについては、[稼動率レポートを使用して、進捗、コスト、収益をトラック](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=ja#track-progress-cost-and-revenue-with-the-utilization-report)の記事を参照してください。
 
-Optimizer の詳細については、以下を参照してください。 [Portfolioの最適化を使用して作業を優先および管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+ポートフォリオオプティマイザーの使用方法については、[ポートフォリオオプティマイザーを使用した作業の優先付けと管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=ja)を参照してください。
