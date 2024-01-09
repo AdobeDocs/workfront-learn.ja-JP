@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '696'
-ht-degree: 100%
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+workflow-type: tm+mt
+source-wordcount: '827'
+ht-degree: 86%
 
 ---
 
@@ -129,3 +129,29 @@ ht-degree: 100%
 1. [!UICONTROL 期限]列を選択し、「[!UICONTROL 詳細オプション]」をクリックします。
 1. [!UICONTROL フィールド形式]ドロップダウンで、「[!UICONTROL 10/17/60 3:00 AM]」を選択します。
 1. 「**[!UICONTROL 保存]**」をクリックします。
+
+## アクティビティ 4：プロジェクトテンプレートのアクティブなステータスビューを作成する
+
+プロジェクトテンプレートを管理するユーザーは、リスト内の各テンプレートのアクティブなステータス（True または False）をすべて表示できます。 さらに優れた機能 — フィールドはインラインで編集可能です。
+
+次の列を持つプロジェクトテンプレートビューを作成し、「プロジェクトテンプレートのアクティブステータス」という名前を付けます。
+
+* [!UICONTROL 名前]
+* [!UICONTROL 所有者]
+* [!UICONTROL 期間]
+* [!UICONTROL 予定時間]
+* [!UICONTROL 計画コスト]
+* [!UICONTROL フラグ]
+* [!UICONTROL グループ名]
+* [!UICONTROL アクティブ]
+
+
+## アクティビティ 4 回答
+
+![プロジェクトテンプレートのアクティブなステータスビューを示す画面の画像](assets/view-activity-4.png)
+
+1. プロジェクトテンプレートリストで、 **[!UICONTROL 表示]** ドロップダウンメニューで「 」を選択します。 **[!UICONTROL 新しいビュー]**.
+1. ビューに「標準+アクティブステータス」という名前を付けます。
+1. 「**[!UICONTROL 列を追加]**」をクリックします。 
+1. Adobe Analytics の [!UICONTROL この列に表示] フィールドに「is 」と入力し、「Is Active」を [!UICONTROL テンプレート] フィールドのソース。
+1. クリック **[!UICONTROL ビューを保存]**.
