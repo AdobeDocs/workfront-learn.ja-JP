@@ -11,9 +11,9 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
-source-git-commit: d39151288d8b749940c5183063392ee471769445
+source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 9%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 9%
 
 このビデオでは、以下について説明します。
 
-* テンプレートプロジェクトチームに**非**プロジェクトチームメンバーを意図せず含めないようにする方法。
+* ～を意図せず含めてしまうのを避ける方法 **non** テンプレートプロジェクトチームのプロジェクトチームメンバー。
 * テンプレートプロジェクトチームの編集方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
