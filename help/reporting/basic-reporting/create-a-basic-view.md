@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 86%
 
 ---
@@ -134,7 +134,7 @@ ht-degree: 86%
 
 プロジェクトテンプレートを管理するユーザーは、リスト内の各テンプレートのアクティブなステータス（True または False）をすべて表示できます。 さらに優れた機能 — フィールドはインラインで編集可能です。
 
-次の列を持つプロジェクトテンプレートビューを作成し、「プロジェクトテンプレートのアクティブステータス」という名前を付けます。
+次の列を持つ「Standard+active status」という名前のプロジェクトテンプレートビューを作成します。
 
 * [!UICONTROL 名前]
 * [!UICONTROL 所有者]

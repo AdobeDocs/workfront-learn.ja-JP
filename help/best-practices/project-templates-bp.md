@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 61%
+source-wordcount: '1743'
+ht-degree: 60%
 
 ---
 
@@ -190,6 +190,8 @@ ht-degree: 61%
 
 プロセスやチームが変更されたら、プロジェクトテンプレートを更新する必要があります。定期的なケイデンス（四半期など）を設定して、どのテンプレートが積極的に使用されていないかを確認します。 これらは、まだWorkfrontにあるが、テンプレート選択リストには表示されないように、非アクティブ化することができます。
 
+プロジェクトテンプレートを非アクティブ化する方法については、 [プロジェクトテンプレートの非アクティブ化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ ht-degree: 61%
 
 これらのユーザーはすべて、プロジェクトチームの一部として、プロジェクトの「ユーザー」セクションと「スケジュール」セクションに表示されます。その結果、テンプレートから作成されるすべてのプロジェクトに反映されます。 プロジェクトチームの一員として、プロジェクトのアクティビティに関する通知を受け取り、「自分が属するプロジェクト」リストのプロジェクトを参照し、プロジェクトとそのタスク、問題、ドキュメントに対する権限を取得するので、ユーザーは混乱を招きます。
 
-
+プロジェクトテンプレートでプロジェクトチームを編集する手順については、 [プロジェクトテンプレート内のプロジェクトチームを編集する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
