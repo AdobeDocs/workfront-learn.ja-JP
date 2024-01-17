@@ -1,6 +1,6 @@
 ---
-title: プロジェクトテンプレート内のプロジェクトチームを編集する
-description: テンプレートプロジェクトチームの編集方法を学習することで、意図せずプロジェクトチームメンバーをテンプレートプロジェクトチームに含めないようにします。
+title: プロジェクトテンプレートでのプロジェクトチームの編集
+description: テンプレートプロジェクトチームの編集方法を学び、テンプレートプロジェクトチームにプロジェクトチームのメンバーを意図せず含めないようにします。
 activity: use
 feature: Work Management
 thumbnail: 3426803.jpeg
@@ -14,11 +14,11 @@ doc-type: video
 source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 9%
+ht-degree: 77%
 
 ---
 
-# プロジェクトテンプレート内のプロジェクトチームを編集する
+# プロジェクトテンプレートでのプロジェクトチームの編集
 
 このビデオでは、以下について説明します。
 
