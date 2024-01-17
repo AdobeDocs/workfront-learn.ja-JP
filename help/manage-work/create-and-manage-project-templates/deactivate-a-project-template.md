@@ -1,6 +1,6 @@
 ---
 title: プロジェクトテンプレートの非アクティブ化
-description: プロジェクトテンプレートを共有し、そのテンプレートをアクティブ化および非アクティブ化する権限を付与する方法、およびプロジェクトテンプレートをアクティブ化および非アクティブ化する方法について説明します。
+description: プロジェクトテンプレートを共有してアクティブ化および非アクティブ化する権限を付与する方法と、プロジェクトテンプレートをアクティブ化および非アクティブ化する方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 3426779.jpeg
@@ -12,9 +12,9 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 source-git-commit: 6800bbaa25945647522f42e774fa6e53b6f7cafd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 7%
 
 このビデオでは、以下について説明します。
 
-* プロジェクトテンプレートを共有し、アクティブ化および非アクティブ化する権限を付与する方法。
+* プロジェクトテンプレートを共有してアクティブ化および非アクティブ化する権限を付与する方法。
 * プロジェクトテンプレートをアクティブ化および非アクティブ化する方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
 
-## カスタムビューを作成して、プロジェクトテンプレートのアクティブなステータスを表示および編集する方法を説明します
+## プロジェクトテンプレートのアクティブなステータスを表示および編集するためのカスタムビューを作成する方法について説明します。
 
-アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、 **プロジェクトテンプレートのアクティブなステータスビュー** アクティビティ [基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja).
+アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の「**プロジェクトテンプレートのアクティブなステータスビュー**」アクティビティを参照してください。
