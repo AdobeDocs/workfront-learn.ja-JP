@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2383'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -169,7 +169,7 @@ ht-degree: 99%
       + [プロジェクトテンプレートの共有](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトのコピー](manage-work/manage-projects/copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [プロジェクトテンプレート内のプロジェクトチームを編集する](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [プロジェクトテンプレートでのプロジェクトチームの編集](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + プロジェクトタイムライン {#project-timelines}
       + [プロジェクトタイムラインについて](manage-work/project-timelines/understand-project-timelines.md)
