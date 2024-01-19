@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1743'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -190,7 +190,7 @@ ht-degree: 97%
 
 プロセスやチームが変更されたら、プロジェクトテンプレートを更新する必要があります。定期的に（四半期など）、あまり活用されていないテンプレートを確認する手順を確立します。これらを非アクティブ化すると、Workfront には残りますが、テンプレート選択リストには表示されなくなります。
 
-プロジェクトテンプレートを非アクティブ化する方法については、 [プロジェクトテンプレートの非アクティブ化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+プロジェクトテンプレートの非アクティブ化方法については、[プロジェクトテンプレートの非アクティブ化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=ja)を参照してください。
 
 </br>
 </br>
@@ -247,4 +247,4 @@ ht-degree: 97%
 
 これらのユーザーはすべて、プロジェクトチームの一部として、プロジェクトの「ユーザー」セクションと「スケジュール」セクションに表示されます。その結果、そのテンプレートから作成されるすべてのプロジェクトに反映されます。プロジェクトチームの一員として、プロジェクトのアクティビティに関する通知を受け取り、「自分が参加するプロジェクト」リストのプロジェクトを参照し、プロジェクトとそのタスク、イシュー、ドキュメントへのアクセス許可を取得するので、これによりユーザーが混乱する可能性があります。
 
-プロジェクトテンプレートでプロジェクトチームを編集する手順については、 [プロジェクトテンプレート内のプロジェクトチームを編集する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
+プロジェクトテンプレートでのプロジェクトチームの編集方法については、[プロジェクトテンプレートでのプロジェクトチームの編集](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=ja)を参照してください。
