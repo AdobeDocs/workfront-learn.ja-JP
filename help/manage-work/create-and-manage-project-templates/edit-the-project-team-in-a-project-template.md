@@ -12,9 +12,9 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 77%
 
 このビデオでは、以下について説明します。
 
-* ～を意図せず含めてしまうのを避ける方法 **non** テンプレートプロジェクトチームのプロジェクトチームメンバー。
+* テンプレートプロジェクトチームに&#x200B;**非**&#x200B;プロジェクトチームのメンバーを意図せず含めないようにする方法。
 * テンプレートプロジェクトチームの編集方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
