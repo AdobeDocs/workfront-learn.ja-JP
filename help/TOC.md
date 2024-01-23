@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
-workflow-type: tm+mt
-source-wordcount: '2383'
+source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+workflow-type: ht
+source-wordcount: '2386'
 ht-degree: 100%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 100%
 + カスタムデータ {#custom-data}
    + カスタムフォーム {#custom-forms}
       + [カスタムフォームの作成と共有](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+      + [カスタムフィールドの共有](custom-data/custom-forms/share-custom-fields.md)
       + [カスタムフォームの編集](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [カスタムフォームをオブジェクトへ添付](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームへのセクション区切りとロジックの追加](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
