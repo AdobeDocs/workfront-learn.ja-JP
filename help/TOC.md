@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
 workflow-type: tm+mt
-source-wordcount: '2386'
+source-wordcount: '2378'
 ht-degree: 100%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 100%
 
    + ユーザーの作成と管理 {#create-and-manage-users}
       + [ユーザーを追加](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [個々のユーザープロファイルの作成](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-      + [ユーザーの一括追加](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [ユーザー情報の変更](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [ユーザーをディアクティベートまたは削除するタイミングと方法](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [システム監査ログについて](administration-and-setup/create-and-manage-users/system-audit-log.md)
