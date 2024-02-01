@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
+source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
 workflow-type: tm+mt
-source-wordcount: '2378'
-ht-degree: 100%
+source-wordcount: '2385'
+ht-degree: 99%
 
 ---
 
@@ -148,6 +148,7 @@ ht-degree: 100%
       + [フローリクエストの設定について](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [リクエストキューの作成](manage-work/request-queues/create-a-request-queue.md)
       + [リクエストフローの作成](manage-work/request-queues/create-a-request-flow.md)
+      + [システム管理者のフィードバックリクエストキューの作成](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [リクエストキューに関するよくある質問へ回答](manage-work/request-queues/request-queue-faq.md)
 
    + ポートフォリオ {#portfolios}
