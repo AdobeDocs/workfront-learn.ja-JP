@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 47%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 47%
 
 ## アクティビティ 2：管理チームのフィードバックレポートの作成
 
-これは、システム管理者向けに作成されたフィードバックリクエストキューからのすべての問題を表示する問題レポートです。 このリクエストキューの作成方法については、 **システム管理者のフィードバックリクエストキューの作成** チュートリアル
+これは、システム管理者向けに作成されたフィードバックリクエストキューからのすべての問題を表示する問題レポートです。 このリクエストキューの作成方法については、 [システム管理者のフィードバックリクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) チュートリアル
 
 このレポートは、カスタムフォームも使用します。 カスタムフォームの作成方法については、 [カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) チュートリアル
 
@@ -159,7 +159,8 @@ ht-degree: 47%
    ![問題レポート列を作成する画面の画像](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL イシュー]／[!UICONTROL 名前]
-   * [!UICONTROL プライマリ連絡先] > [!UICONTROL 名前] 注意：これは、列のラベルとして「Owner:Name」と表示されます。 詳細オプションをクリックし、 **カスタム列のラベル** フィールドに入力します。
+   * [!UICONTROL プライマリ連絡先] > [!UICONTROL 名前]
+      * 注意：これは、列のラベルとして「Owner:Name」と表示されます。 詳細オプションをクリックし、 **カスタム列のラベル** フィールドに入力します。
    * [!UICONTROL 問題] > [!UICONTROL プロセスタイプ]
    * [!UICONTROL 問題] > [!UICONTROL プロセス名]
    * [!UICONTROL 問題] > [!UICONTROL プロセスグレード]
