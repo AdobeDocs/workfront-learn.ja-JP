@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2382'
 ht-degree: 99%
 
 ---
@@ -177,7 +177,6 @@ ht-degree: 99%
       + [プロジェクトタイムラインからの進捗の追跡](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + プロジェクトを閉じる {#close-a-project}
-      + [プロジェクトを閉じる](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [プロジェクトステータスを完了に変更](manage-work/projects/change-the-project-status.md)
       + [タスクおよびイシューを閉じる](manage-work/close-a-project/close-tasks-and-issues.md)
       + [承認の完了](manage-work/close-a-project/complete-approvals.md)
