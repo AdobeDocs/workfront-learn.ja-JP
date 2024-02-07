@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '2382'
+source-wordcount: '2389'
 ht-degree: 99%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 99%
       + [プロジェクト管理の基本を学ぶ](manage-work/projects/getting-started-manage-a-project.md)
       + [プロジェクトの検索](manage-work/projects/find-projects.md)
       + [プロジェクトの共有](manage-work/projects/share-a-project.md)
+      + [プロジェクトチームの理解](manage-work/projects/understand-the-project-team.md)
       + [プロジェクトのコミュニケーションについて](manage-work/projects/understand-project-communication.md)
       + [プロジェクト情報の表示](manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](manage-work/projects/track-overall-project-progress.md)
@@ -207,6 +208,7 @@ ht-degree: 99%
       + [基本フィルターの作成アクティビティ](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](reporting/basic-reporting/create-a-simple-report.md)
       + [タスクレポートの作成](reporting/basic-reporting/create-a-task-report.md)
+      + [レポートのコピー](reporting/basic-reporting/copy-a-report.md)
       + [グラフを使用したレポートの作成](reporting/basic-reporting/create-reports-with-charts.md)
       + [マトリックスレポートの作成](reporting/basic-reporting/create-a-matrix-report.md)
       + [ダッシュボードの作成](reporting/basic-reporting/create-dashboards.md)

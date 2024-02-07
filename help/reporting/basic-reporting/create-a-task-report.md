@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 47%
+source-wordcount: '922'
+ht-degree: 40%
 
 ---
 
@@ -26,6 +26,18 @@ ht-degree: 47%
 * 作成するレポートの検索方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+
+
+>[!TIP]
+>
+>スパラを抜き出して、ボールを混ぜ、私たちの [Adobe Workfront Customer Reporting クックブック](/help/assets/workfront-customer-reporting-cookbook.pdf). 10 件のレポートに関する詳しい手順が記載されています。今すぐ環境に取り組むことができます。
+><br><br>
+>お客様からのお気に入りのレポートを集め、簡単に消化できる、調理用の本にまとめて、Workfrontのキッチンでのテストを取り戻しました。
+><br><br>
+>この 10 件のレポートは、お客様と同じような顧客からのものです。 業界、部門、チーム、職場、様々な企業に広がり、お気に入りのレポートを共有してくれた素晴らしいお客様に大きな感謝を申し上げます。 単純なレポートもあれば（非常に便利なレポートもありますが）、レポートを次のレベルに進めるのには、より複雑なレポートもあります。
+
+
 
 ## アクティビティ 1：プロンプトを含むメモレポートを作成する
 
