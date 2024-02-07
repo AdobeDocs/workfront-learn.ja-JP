@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 0f2a8c6855398759890fad1282ced3c28615f7f5
+source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 40%
@@ -32,9 +32,7 @@ ht-degree: 40%
 >[!TIP]
 >
 >スパラを抜き出して、ボールを混ぜ、私たちの [Adobe Workfront Customer Reporting クックブック](/help/assets/workfront-customer-reporting-cookbook.pdf). 10 件のレポートに関する詳しい手順が記載されています。今すぐ環境に取り組むことができます。
-><br>
 >お客様からのお気に入りのレポートを集め、簡単に消化できる、調理用の本にまとめて、Workfrontのキッチンでのテストを取り戻しました。
-><br>
 >この 10 件のレポートは、お客様と同じような顧客からのものです。 業界、部門、チーム、職場、様々な企業に広がり、お気に入りのレポートを共有してくれた素晴らしいお客様に大きな感謝を申し上げます。 単純なレポートもあれば（非常に便利なレポートもありますが）、レポートを次のレベルに進めるのには、より複雑なレポートもあります。
 
 
