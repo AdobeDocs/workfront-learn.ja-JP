@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 40%
+ht-degree: 86%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 40%
 
 
 
-## アクティビティ 1：プロンプトを含むメモレポートを作成する
+## アクティビティ 1：プロンプト付きのメモレポートの作成
 
-メモの内容、作成者、エントリ日、プロジェクト名、監査タイプに基づいて、ユーザーのメモ（コメントや更新など）またはシステムのメモを検索するために使用できるメモレポートを作成します。レポートに「Note Search」という名前を付けます。
+メモの内容、作成者、エントリ日、プロジェクト名、監査タイプに基づいて、ユーザーのメモ（コメントや更新など）またはシステムのメモを検索するために使用できるメモレポートを作成します。レポートに「メモ検索」という名前を付けます。
 
-メモテキストプロンプトを使用すると、このレポートは更新スレッド内を検索して、プロンプトで指定した基準を満たすスレッドを素早く抽出します。レポートを実行する際に、すべてのプロンプトに入力する必要はありません。必要なプロンプトはそれだけです。 空白の情報は自動的に無視されます。
+メモテキストプロンプトを使用すると、このレポートは更新スレッド内を検索して、プロンプトで指定した基準を満たすスレッドを素早く抽出します。レポートを実行する際は、すべてのプロンプトに入力する必要はなく、必要な情報だけを入力します。空白の情報は自動的に無視されます。
 
 ビューには、次の列を含める必要があります。
 
@@ -88,8 +88,8 @@ ht-degree: 40%
    ![メモレポートのグループ化を作成する画面の画像](assets/note-report-groupings.png)
 
 1. [!UICONTROL フィルター]は空白のままにします。
-1. 開く **[!UICONTROL レポート設定]** レポートに「Note Search」という名前を付けます。
-1. Adobe Analytics の [!UICONTROL 説明] フィールドに、「選択した監査タイプと他のプロンプトに基づいて、システムまたはユーザーのメモを検索します。 「監査テキスト」列にはシステムのメモが表示され、「ユーザーのメモ」は「メモテキスト」列に表示されます。」
+1. **[!UICONTROL レポート設定]**&#x200B;を開き、レポートに「メモ検索」という名前を付けます。
+1. 「[!UICONTROL 説明]」フィールドに、「選択した監査タイプとその他のプロンプトに基づいて、システムまたはユーザーのメモを検索します。システムのメモは監査テキスト列に表示され、ユーザーのメモはメモテキスト列に表示されます。」というような情報を入力します。
 
    ![メモレポート設定を作成する画面の画像](assets/note-report-report-options.png)
 
@@ -111,18 +111,18 @@ ht-degree: 40%
 
 ## アクティビティ 2：管理チームのフィードバックレポートの作成
 
-これは、システム管理者向けに作成されたフィードバックリクエストキューからのすべての問題を表示する問題レポートです。 このリクエストキューの作成方法については、 [システム管理者のフィードバックリクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) チュートリアル
+これは、システム管理者向けに作成されたフィードバックリクエストキューからのすべての問題を表示する問題のレポートです。このリクエストキューの作成方法については、[システム管理者のフィードバックリクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=ja)チュートリアルを参照してください。
 
-このレポートは、カスタムフォームも使用します。 カスタムフォームの作成方法については、 [カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) チュートリアル
+また、このレポートは、カスタムフォームも使用します。カスタムフォームの作成方法については、[カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ja)チュートリアルを参照してください。
 
 このカスタムフォームは、次のように作成する必要があります。
 
-名前：管理者によるプロセスのフィードバック
+名前：管理プロセスのフィードバック
 
 1. プロセスのタイプ（ドロップダウンフィールド）
    * アクセスレベル
    * 承認プロセス（グローバルのみ）
-   * 電子メール通知
+   * メール通知
    * レイアウトテンプレート
    * マイルストーンパス
    * プロジェクトテンプレート
@@ -130,63 +130,63 @@ ht-degree: 40%
    * リクエストキュー
 1. プロセス名（1 行のテキストフィールド）
 1. プロセスグレード（ドロップダウンフィールド）
-   * 1 — 完全に無用
-   * 2 — あまり役に立たない
-   * 3 — 良いが良い
-   * 4 — 優
+   * 1 - 完全に役に立たない
+   * 2 - あまり役に立たない
+   * 3 - 良い。ただし改善の余地はある
+   * 4 - 優良
 1. 問題または良いニュース（段落テキストフィールド）
 
-という名前の問題レポートを作成します。 **管理チームのフィードバックレポート**.
+**管理チームのフィードバックレポート**&#x200B;という名前の問題のレポートを作成します。
 
 ビューには次の列が必要です。
 
-* 問題：名前
+* イシュー：名前
 * プライマリ連絡先：名前
-* 問題：プロセスタイプ
-* 問題：プロセス名
-* 問題：プロセスグレード
-* 問題または良いニュース
-* 問題：入力日
-* 問題：年齢
-* 問題：割り当て
-* 問題：ステータス
+* イシュー：プロセスタイプ
+* イシュー：プロセス名
+* イシュー：プロセスグレード
+* イシュー：イシューまたは良いニュース
+* イシュー：エントリ日
+* イシュー：経過期間
+* イシュー：割り当て
+* イシュー：ステータス
 
 プロセスタイプでグループ化します。
 
-フィードバックの問題が存在するリクエストキュープロジェクトの ID に基づいてフィルターします。
+フィードバックの問題が存在するリクエストキュープロジェクトの ID でフィルタリングします。
 
 
-![管理者チームのフィードバックレポートのスクリーンショット](assets/create-a-system-admin-feedback-request-queue.png)
+![管理チームのフィードバックレポートのスクリーンショット](assets/create-a-system-admin-feedback-request-queue.png)
 
 
 
 ## アクティビティ 2 回答
 
 1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
-1. 次をクリック： **[!UICONTROL 新しいレポート]** メニューと選択 **[!UICONTROL 問題]**.
+1. **[!UICONTROL 新規レポート]**&#x200B;メニューをクリックし、「**[!UICONTROL イシュー]**」を選択します。
 1. **[!UICONTROL 列（表示）]**&#x200B;で、以下を含む列を設定します。
 
-   ![問題レポート列を作成する画面の画像](assets/task-report-activity-2-1.png)
+   ![イシューレポート列を作成する画面の画像](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL イシュー]／[!UICONTROL 名前]
-   * [!UICONTROL プライマリ連絡先] > [!UICONTROL 名前]
-      * 注意：これは、列のラベルとして「Owner:Name」と表示されます。 詳細オプションをクリックし、 **カスタム列のラベル** フィールドに入力します。
-   * [!UICONTROL 問題] > [!UICONTROL プロセスタイプ]
-   * [!UICONTROL 問題] > [!UICONTROL プロセス名]
-   * [!UICONTROL 問題] > [!UICONTROL プロセスグレード]
-   * [!UICONTROL 問題] > [!UICONTROL 問題または良いニュース]
-   * [!UICONTROL 問題] > [!UICONTROL 入力日]
-   * [!UICONTROL 問題] > [!UICONTROL 年齢]
-   * [!UICONTROL 問題] > [!UICONTROL 割当て]
-   * [!UICONTROL 問題] > [!UICONTROL ステータス]
+   * [!UICONTROL プライマリ連絡先]／[!UICONTROL 名前]
+      * メモ：これは、列のラベルとして「所有者：名前」と表示されます。これを「報告者」に変更するには、「詳細オプション」をクリックし、「**カスタム列ラベル**」フィールドに「報告者」と入力します。
+   * [!UICONTROL イシュー]／[!UICONTROL プロセスタイプ]
+   * [!UICONTROL イシュー]／[!UICONTROL プロセス名]
+   * [!UICONTROL イシュー]／[!UICONTROL プロセスグレード]
+   * [!UICONTROL イシュー]／[!UICONTROL 問題または良いニュース]
+   * [!UICONTROL イシュー]／[!UICONTROL エントリ日]
+   * [!UICONTROL イシュー]／[!UICONTROL 経過期間]
+   * [!UICONTROL イシュー]／[!UICONTROL 割り当て]
+   * [!UICONTROL イシュー]／[!UICONTROL ステータス]
 
 1. **[!UICONTROL エントリ日]**&#x200B;列を選択し、**[!UICONTROL 降順に並べ替え]**&#x200B;に変更します。
-1. Adobe Analytics の **[!UICONTROL グループ化]** 」タブで、次の項目でグループ化するレポートを設定します。 **[!UICONTROL 問題] > [!UICONTROL プロセスタイプ]**.
+1. 「**[!UICONTROL グループ化]**」タブで、レポートを&#x200B;**[!UICONTROL イシュー]／[!UICONTROL プロセスタイプ]**&#x200B;ごとにグループ化するように設定します。
 
-   ![問題レポートのグループ化を作成する画面の画像](assets/task-report-activity-2-2.png)
+   ![イシューレポートのグループ化を作成する画面の画像](assets/task-report-activity-2-2.png)
 
-1. Adobe Analytics の **[!UICONTROL フィルター]** 」タブで、 **[!UICONTROL 問題] > [!UICONTROL プロジェクト ID]** を追加します。
+1. 「**[!UICONTROL フィルター]**」タブで、フィードバックの問題が存在するリクエストキュープロジェクトと一致するように、**[!UICONTROL 問題]／[!UICONTROL プロジェクト ID]** のフィルターを追加します。
 
-   ![問題のレポートフィルターを作成する画面の画像](assets/task-report-activity-2-3.png)
+   ![イシューレポートフィルターを作成する画面の画像](assets/task-report-activity-2-3.png)
 
 1. レポートを保存して閉じます。
