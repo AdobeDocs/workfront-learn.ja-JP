@@ -1,6 +1,6 @@
 ---
 title: システム管理者のフィードバックリクエストキューの作成
-description: 管理者がワークフローやプロセスに関するフィードバックを受け取れる、便利なリクエストキューを作成する方法を説明します。
+description: 管理者がワークフローやプロセスに関するフィードバックを取得できる便利なリクエストキューを作成する方法について説明します。
 feature: Work Management
 thumbnail: 3427124.jpg
 type: Tutorial
@@ -12,9 +12,9 @@ last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
 source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -24,18 +24,18 @@ ht-degree: 5%
 >
 >前提条件：
 >
->* [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [リクエストフローの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
->* または、ルーティングルールとカスタムフォームを使用するリクエストキューを既に作成することに慣れている場合もあります。
+>* [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ja)
+>* [リクエストフローの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ja)
+>* ルーティングルールとカスタムフォームを使用するリクエストキューの作成に既に慣れている
 
 このビデオでは、以下について説明します。
 
-* システム管理者のフィードバックリクエストキューを作成する理由
+* システム管理者のフィードバックリクエストキューを作成する必要がある理由
 * システム管理者のフィードバックリクエストキューの作成方法
-* 管理チームのフィードバックレポートがプロセスの改善に役立つ理由
+* 管理チームのフィードバックレポートをプロセスの改善に役立てる方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-を作成する方法を学ぶには、以下を実行します。 **管理チームのフィードバックレポート** ビデオで使用されている場合は、 [タスクレポートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ja) チュートリアルを参照し、次の操作を行うアクティビティを探します。 **管理チームのフィードバックレポートの作成** ビデオに従って。
+ビデオで使用される&#x200B;**管理チームのフィードバックレポート**&#x200B;の作成方法については、[タスクレポートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ja)チュートリアルを参照し、ビデオの終了後に、**管理チームのフィードバックレポートの作成**&#x200B;を行うアクティビティを検索してください。
 
-カスタムフォームの作成方法については、 [カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) チュートリアル
+カスタムフォームの作成方法については、[カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ja)チュートリアルを参照してください。
