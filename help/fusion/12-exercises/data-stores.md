@@ -1,5 +1,5 @@
 ---
-title: データストア
+title: データストアの演習
 description: 2 つのシステム間で会社名を同期する方法について説明します。（60～160 文字の範囲で指定しますが、59 文字になっています）
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
+recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 99%
 
 ---
 
-# データストア
+# データストアの演習
 
 2 つのシステム間で会社名を同期する方法について説明します。
 

@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Workfront Fusion シナリオの最適化
 
-「シナリオの最適化」とは何ですか？また、シナリオを最適化する方法を教えてください。
+「シナリオの最適化」とは何ですか？また、シナリオを最適化するには何をすればよいですか？
 
 シナリオの最適化とは、開発に時間と労力を要する実践的なスキルです。 ビジネス成果のシナリオを構築しようとする最初の試みは、最後ではありません。 1 日目から統合が開始されるまで、多数のシナリオを繰り返す必要があります。 立ち上げ後も、ビジネスや行動の変化に対応するために、シナリオを一定期間にわたって確認し、更新する必要があります。
 

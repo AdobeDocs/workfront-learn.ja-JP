@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 作成する前に自動化を検討する場合、必要な再作業や必要なイテレーション回数を最小限に抑えるためにデプロイできる戦略があります。
 
-特定のイベントによってトリガーされる明確なユースケースを定義することにより、時間を最大限に節約することができます。早い段階で時間をかけて正しい方向性を確認しないと、シナリオが複雑で非効率的なものになってしまいます。
+特定のイベントでトリガーされる明確なユースケースを定義することで、最も時間を節約できます。 適切な方向に向かっているかを確認するのに時間をかけないと、複雑で非効率なシナリオに終わります。
 
 このビデオでは、次の方法を学習します：
 

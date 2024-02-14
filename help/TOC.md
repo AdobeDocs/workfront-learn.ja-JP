@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '2389'
-ht-degree: 99%
+source-wordcount: '2408'
+ht-degree: 97%
 
 ---
 
@@ -384,50 +384,68 @@ ht-degree: 99%
 
    + 基本について {#understand-the-basics}
       + [初期シナリオデザインのチュートリアル](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+      + [最初のシナリオ設計の演習](fusion/12-exercises/initial-scenario-design.md)
       + [マッピングパネルと数式エディター](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [マッピングパネルの重要な注意事項](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [基本マッピングを超えるチュートリアル](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [基本的なマッピングの演習を超える](fusion/12-exercises/beyond-basic-mapping.md)
       + [フィルターの使用](fusion/2-understand-the-basics/use-filters.md)
       + [フィルターのチュートリアル](fusion/2-understand-the-basics/filters-walkthrough.md)
+      + [フィルターの演習](fusion/12-exercises/filters.md)
       + [以前のバージョンへのアクセスのチュートリアル](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [以前のバージョンにアクセスする演習](fusion/12-exercises/access-previous-versions.md)
 
    + ユニバーサルコネクタとルーティング {#universal-connectors-and-routing}
       + [ユニバーサルコネクタの演習の概要](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [ユニバーサルコネクタの概要のチュートリアル](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+      + [ユニバーサルコネクタの概要の演習](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [ルーターについて](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [ルーターのチュートリアル](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+      + [ルータの演習](fusion/12-exercises/routers.md)
       + [一般的なルーティングパターン](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [ルーティングパターンのチュートリアル](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+      + [ルーティングパターンの演習](fusion/12-exercises/routing-patterns.md)
       + [設定と取得](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [get／set 変数のチュートリアル](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [変数の設定/取得の演習](fusion/12-exercises/set-get-variables.md)
 
    + イテレーションと集計 {#iteration-and-aggregation}
       + [イテレータの概要](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [イテレータの概要のチュートリアル](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+      + [イテレータ演習の概要](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [集計の概要](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [集計のチュートリアル](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [集計の演習](fusion/12-exercises/aggregation.md)
       + [高度な集計のチュートリアル](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+      + [高度な集計の演習](fusion/12-exercises/advanced-aggregation.md)
 
    + 実行履歴とスケジュール {#execution-history-and-scheduling}
       + [実行履歴の概要](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [実行履歴のチュートリアル](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+      + [実行履歴の演習](fusion/12-exercises/execution-history.md)
       + [シナリオスケジュールについて](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [実行、サイクル、バンドルのバランス](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [実行、サイクル、バンドルのチュートリアル](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+      + [実行、サイクル、バンドルの演習の調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + 基本モジュールを超える {#beyond-basic-modules}
       + [追加のアプリと一般的なモジュールについて](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [switch 関数の使用](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [switch 関数のチュートリアル](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+      + [スイッチ機能の演習](fusion/12-exercises/switch-function.md)
       + [スイッチモジュールのチュートリアル](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [スイッチモジュールの演習](fusion/12-exercises/switch-module.md)
       + [Webhook の世界について](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhook のチュートリアル](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [ウェブフックの練習](fusion/12-exercises/webhooks.md)
 
    + データ構造とデータストア {#data-structures-and-data-stores}
       + [データ構造について](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [データ構造のチュートリアル](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [データ構造の演習](fusion/12-exercises/data-structures.md)
       + [データストアについて](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [データストアのチュートリアル](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [データストアの演習](fusion/12-exercises/data-stores.md)
 
    + 最終的な機能の断片的な情報 {#final-functional-bits-and-bobs}
       + [Workfront アプリのチュートリアル](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -435,10 +453,12 @@ ht-degree: 99%
       + [配列のチュートリアル](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [シナリオでの JSON について](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [JSON の操作のチュートリアル](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+      + [JSON の使用に関する演習](fusion/12-exercises/working-with-json.md)
 
    + トラブルシューティングとエラー処理 {#troubleshooting-and-error-handling}
       + [開発ツールを使用した詳細なトラブルシューティング](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [開発ツールのチュートリアル](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+      + [開発ツールの演習](fusion/12-exercises/devtool.md)
       + [エラー処理とは](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [エラー処理ディレクティブについて](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [エラー処理のチュートリアル](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -455,27 +475,6 @@ ht-degree: 99%
       + [アクセシビリティと明確さ](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [シナリオガードレール](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [テストと起動](fusion/11-design-optimization-and-testing/testing-considerations.md)
-   + 演習 {#exercises}
-      + [最初のシナリオデザイン](fusion/12-exercises/initial-scenario-design.md)
-      + [基本マッピングを超える](fusion/12-exercises/beyond-basic-mapping.md)
-      + [フィルター](fusion/12-exercises/filters.md)
-      + [以前のバージョンへのアクセス](fusion/12-exercises/access-previous-versions.md)
-      + [ユニバーサルコネクタの概要](fusion/12-exercises/introduction-to-universal-connectors.md)
-      + [ルーター](fusion/12-exercises/routers.md)
-      + [ルーティングパターン](fusion/12-exercises/routing-patterns.md)
-      + [変数の設定／取得](fusion/12-exercises/set-get-variables.md)
-      + [イテレータの概要](fusion/12-exercises/introduction-to-iterators-exercise.md)
-      + [集計](fusion/12-exercises/aggregation.md)
-      + [詳細な集計](fusion/12-exercises/advanced-aggregation.md)
-      + [実行履歴](fusion/12-exercises/execution-history.md)
-      + [実行、サイクル、バンドルの調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-      + [スイッチ関数](fusion/12-exercises/switch-function.md)
-      + [スイッチモジュール](fusion/12-exercises/switch-module.md)
-      + [Webhook](fusion/12-exercises/webhooks.md)
-      + [データ構造](fusion/12-exercises/data-structures.md)
-      + [データストア](fusion/12-exercises/data-stores.md)
-      + [JSON の操作](fusion/12-exercises/working-with-json.md)
-      + [開発ツール](fusion/12-exercises/devtool.md)
 
 + Workfront プルーフ {#workfront-proof}
    + [プルーフのメリットを学ぶ](workfront-proof/benefits-of-proofing-in-workfront.md)

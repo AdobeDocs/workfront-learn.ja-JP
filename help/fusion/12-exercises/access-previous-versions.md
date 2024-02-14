@@ -1,6 +1,6 @@
 ---
-title: 以前のバージョンへのアクセス
-description: シナリオの以前のバージョンに戻る方法を説明します。 （60～160 文字の範囲で指定しますが、56 文字にする必要があります）
+title: 以前のバージョンにアクセスする演習
+description: 以前のバージョンのに戻る方法を学ぶ [!UICONTROL 統合] シナリオ。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 88%
 
 ---
 
-# 以前のバージョンへのアクセス
+# 以前のバージョンにアクセスする演習
 
 シナリオの以前のバージョンに戻る方法を説明します。
 

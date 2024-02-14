@@ -1,5 +1,5 @@
 ---
-title: 詳細な集計
+title: 高度な集計の演習
 description: Web サービスを呼び出して複数の国に関する詳細を返し、サブ地域ごとにグループ化された母集団を特定します。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '481'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '493'
+ht-degree: 98%
 
 ---
 
-# 詳細な集計
+# 高度な集計の演習
 
 集計時のグループ化の使用方法について説明します。
 

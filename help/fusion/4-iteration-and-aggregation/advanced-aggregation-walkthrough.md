@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '278'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '245'
 ht-degree: 100%
 
 ---
@@ -34,9 +35,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 * `https://restcountries.com/v2/lang/es`
 * `https://restcountries.com/v2/name/{country name}`
 
->[!TIP]
->
->チュートリアルを完了するための段階的な手順については、[高度な集計のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=ja)の演習にアクセスしてください。
+
 
 ## 集計原理の強化
 

@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 67%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 ## 概要
 
-前のチュートリアルで作成した「反復の概要」シナリオを使用して、プロジェクト内のすべての作業タスクの予定時間数を集計し、その情報を記載したメールを自分宛てに送信します。
+前のチュートリアルで作成した「反復の概要」シナリオを使用して、プロジェクト内の各作業タスクに関する計画時間を集計し、その情報を記載した電子メールを自分自身に送信します。
 
 ![Fusion シナリオの画像](assets/iteration-and-aggregation-2.png)
 
@@ -31,9 +32,6 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
->[!TIP]
->
->チュートリアルを完了するための段階的な手順については、[集計のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=ja)演習にアクセスしてください。
 
 
 ## 詳細情報 以下をお勧めします。

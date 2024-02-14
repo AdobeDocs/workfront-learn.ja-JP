@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '371'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '339'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
->[!TIP]
->
->チュートリアルの実施手順については、「[Webhook のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=ja)」の演習にアクセスしてください。
 
 ## Postman の設定
 
