@@ -1,6 +1,6 @@
 ---
-title: プロジェクトチームの理解
-description: プロジェクトチームが使用できる内容とその維持方法について説明します。
+title: プロジェクトチームについて
+description: プロジェクトチームが使用できる内容とその管理方法について説明します。
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -12,17 +12,17 @@ last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14781
 doc-type: video
 source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# プロジェクトチームの理解
+# プロジェクトチームについて
 
 このビデオでは、以下について説明します。
 
-* プロジェクトチームが使用できる内容とその維持方法
+* プロジェクトチームが使用できる内容とその管理方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
 
