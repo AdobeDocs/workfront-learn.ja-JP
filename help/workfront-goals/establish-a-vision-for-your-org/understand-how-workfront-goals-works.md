@@ -2,7 +2,7 @@
 title: ' [!DNL Workfront Goals]  の仕組みについて'
 description: 計画段階での「何」と「理由」の関連付け、目標の例、影響力の範囲について説明します。
 activity: use
-feature: Workfront Goals
+feature: Workfront Goals,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '244'
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
+source-wordcount: '245'
 ht-degree: 100%
 
 ---
