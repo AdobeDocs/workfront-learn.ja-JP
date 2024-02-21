@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
+workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 100%
 >
 >* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ja)」（所要時間：1 時間）の視聴をお勧めします。
 >* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
+>* ここをクリックして、 [[!UICONTROL API エクスプローラ]](https://developer.adobe.com/workfront/api-explorer/)
 
 このビデオでは、次のことを学習します。
 
