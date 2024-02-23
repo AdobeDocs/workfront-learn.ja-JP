@@ -11,9 +11,9 @@ jira: KT-11036
 recommendations: noDisplay,noCatalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 87%
 
 Workfront Fusion インスタンスに新しいユーザーとして招待されると、2 通のメールが届きます。
 
-1 つのメールには、Workfront Fusion システム管理者がユーザーのプロファイルを作成して追加したこと、組織に招待したことが記載されています。メールの最後には「[!UICONTROL 役割を承認]」ボタンがあります。**このボタンをまだクリックしないでください。**
+1 つのメールには、Workfront Fusion システム管理者がユーザーのプロファイルを作成して追加したこと、組織に招待したことが記載されています。メールの最後には「[!UICONTROL 役割を承認]」ボタンがあります。**このボタンはまだクリックしないでください。**
 
 ![招待メールの画像](assets/new-user-1.png)
 
@@ -33,6 +33,6 @@ Workfront Fusion の使用を開始するには、2 通目のメールの「[!UI
 
 初めてサインインすると、パスワードを変更するよう求められます。
 
-サインインしたら、別の電子メールに戻り、 [!UICONTROL 役割を承認] 」ボタンをクリックします。
+サインインしたら、別のメールに戻って「[!UICONTROL 役割を承認]」ボタンをクリックします。
 
 その後、Workfront Fusion に戻って、ページを更新します。これで、左側のパネルにチームと概要セクションが表示されます。
