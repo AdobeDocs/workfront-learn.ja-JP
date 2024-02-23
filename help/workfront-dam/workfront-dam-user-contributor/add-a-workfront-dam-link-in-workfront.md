@@ -1,5 +1,5 @@
 ---
-title: Workfront での [!UICONTROL Workfront DAM] リンクの追加
+title: '[!UICONTROL Workfront DAM] リンク'
 description: Workfront で [!UICONTROL Workfront DAM] リンクを追加して、[!UICONTROL DAM] を Workfront のプロジェクト、タスク、イシューにリンクできるようにする方法について説明します。
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '266'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 95%
 
 ---
 
-# [!DNL Workfront] での [!UICONTROL Workfront DAM] リンクの追加
+# [!UICONTROL Workfront DAM] リンク
 
 最初に、2 つのシステム間の接続を設定します。
 
@@ -35,7 +35,7 @@ ht-degree: 100%
    ![[!UICONTROL 新規追加]ドロップダウンメニューの「[!UICONTROL Workfront DAM から]」オプションの画像](assets/01-contributor-from-workfront-dam.png)
 1. [!UICONTROL Workfront DAM] でアクセスできるファイルとフォルダーのリストがウィンドウに表示されます。
 
-1. 探しているアセットを検索し、その横にあるチェックボックスをオンにします。デフォルトのビューはリストですが、ウィンドウの右上隅にあるアイコンを使用してサムネールビューに切り替えることができます。
+1. 探しているアセットを見つけ、その横にあるボックスをオンにします。 デフォルトのビューはリストですが、ウィンドウの右上隅にあるアイコンを使用してサムネールビューに切り替えることができます。
 
    ![ポップアップウィンドウで選択したアセットの画像](assets/02-contributor-select-files-in-dam.png)
 

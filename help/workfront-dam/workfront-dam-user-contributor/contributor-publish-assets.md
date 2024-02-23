@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Brand Connect] へのアセットの公開'
+title: コントリビューターとしてのアセットの公開
 description: '[!UICONTROL Workfront DAM] の [!UICONTROL Brand Connect] にアセットとフォルダーを公開する方法について説明します。'
 activity: use
 feature: Digital Content and Documents
@@ -10,28 +10,28 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 60%
 
 ---
 
-# 投稿者：アセットの公開
+# コントリビューターとしてのアセットの公開
 
 ## アセット公開の準備
 
-アセットまたはフォルダーを [!UICONTROL Brand Connect] に公開すると、より広いオーディエンスが承認済みアセットにアクセスできるようになります。組織内の多くの人物が [!UICONTROL Workfront DAM] にアクセスできない可能性がありますが、[!UICONTROL Brand Connect] にはアクセスできます。
+アセットまたはフォルダーを [!UICONTROL Brand Connect] に公開すると、より広いオーディエンスが承認済みアセットにアクセスできるようになります。組織内の多くのユーザーが、 [!UICONTROL Workfront DAM] ただし、 [!UICONTROL Brand Connect].
 
-アセットは最終版になるまで公開しないようにします。例えば、パンフレットのラフドラフトを [!UICONTROL Brand Connect] に公開したくないとします。そうしないと、完成する前に配布される可能性があります。
+最終的なアセットが発行されるまで、アセットは発行されません。 例えば、パンフレットの大まかなドラフトをに公開したくない場合などに、 [!UICONTROL Brand Connect]を含めない場合は、最終処理の前に配布される可能性があります。
 
 アセットを [!UICONTROL Brand Connect] に公開する前に、次のいくつかを実行することをお勧めします。
 
 * 特定のフォルダーにアセットを配置します。
 * アセットのメタデータとキーワードを編集します。
 * 新しいバージョンのアセットをアップロードします。
-* アセットまたはフォルダーのステータスを[!UICONTROL アクティブ]にします。
-* アセットが有効期限切れでないことを確認します。
+* アセットまたはフォルダーのステータスの設定 [!UICONTROL アクティブ].
+* アセットが期限切れでないことを確認します。
 * アセットを監視して、変更を行った際に通知を受信するようにします。
 
 ## アセットの公開

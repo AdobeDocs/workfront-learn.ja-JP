@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '409'
 ht-degree: 98%
 
 ---
@@ -24,9 +24,9 @@ ht-degree: 98%
 >
 >前提条件：
 >
->* レポート要素について
->* レポートコンポーネントについて
->* 基本フィルターの作成
+>* [レポート要素について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ja)
+>* [レポートコンポーネントについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ja)
+>* [基本フィルターを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=en)
 
 >[!TIP]
 >

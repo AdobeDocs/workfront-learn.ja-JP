@@ -10,10 +10,10 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '440'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 91%
 
 ---
 
@@ -39,7 +39,13 @@ ht-degree: 100%
 * レポートに含めるオブジェクトに関する十分な理解。
 * カスタムフォーム、特に計算されたカスタムフィールドの使用に関する十分な理解。
 * レポートとフィルターを作成する権限がある[!UICONTROL プラン]ライセンスタイプ。
-* [[!UICONTROL 基本レポート要素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=ja)コース、[[!UICONTROL カスタムレポートとダッシュボードの作成]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=ja)コース、および[[!UICONTROL 中間フィルターの作成]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=ja)コースを受講している必要があります。
+* 次のコースを受講する必要がありました。
+   * [[!UICONTROL 基本レポート要素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=ja)
+   * [[!UICONTROL カスタムレポートとダッシュボードの作成]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=ja)
+   * [[!UICONTROL 中間フィルターの作成]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=ja)
+* また、次のチュートリアルも参照してください。
+   * [[!UICONTROL ビューの基本的なテキストモードを理解する]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ja)
+   * [[!UICONTROL グループ化の基本的なテキストモードを理解する]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=ja)
 
 ## ターゲットオーディエンス
 

@@ -3,16 +3,16 @@ title: プロジェクト情報の表示
 description: フィルター、表示、グループ化を使用してプロジェクト情報を簡単に表示し、プロジェクトの管理に役立てる方法を学びます。
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '205'
 ht-degree: 100%
 
 ---

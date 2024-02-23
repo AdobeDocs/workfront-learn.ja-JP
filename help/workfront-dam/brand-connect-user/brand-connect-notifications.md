@@ -1,5 +1,5 @@
 ---
-title: Brand Connect での通知設定の変更
+title: ブランドコネクトの通知について
 description: '[!UICONTROL Workfront DAM] の Brand Connect でアプリ内通知を表示する方法、通知設定を変更する方法、アドレス帳を作成する方法について説明します。'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '49'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 83%
 
 ---
 
-# Brand Connect：通知
+# ブランドコネクトの通知について
 
 このビデオでは、次の方法を学習します：
 

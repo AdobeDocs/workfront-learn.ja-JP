@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
-source-wordcount: '2408'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '2405'
+ht-degree: 99%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 100%
       + [リソース管理の成熟度](manage-resources/resource-management/resource-management-maturity.md)
       + [プロジェクトのリソース管理設定](manage-resources/resource-management/settings-for-projects.md)
       + [ユーザーのリソース管理設定](manage-resources/resource-management/settings-for-users.md)
-      + [リソース管理の設定、ワークロードバランサー、稼働率レポート](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [リソース管理の設定、ワークロード・バランサ、および使用率の RPT](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + ワークロードバランサー {#workload-balancer}
       + [ワークロードバランサーの検索](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 100%
       + [コントリビューターとしてのアセット管理を理解する](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [コントリビューターとしてアセットの検索を理解する](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [コントリビューターとしてのライトボックスを理解する](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [コントリビューターとしてメタデータとキーワードのベストプラクティスを理解する](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [メタデータとキーワードのベストプラクティスについて](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [コントリビューターとしてのアセットの操作](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [コントリビューターとしてのファイルの送信](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [コントリビューターとしてのアセットの公開](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 100%
    + [システムのパフォーマンスとメンテナンス](best-practices/system-performance-maintenance-bp.md)
    + [テキストモードのレポート](best-practices/test-mode-reporting-bp.md)
    + [タイムラインの計画と管理](best-practices/timeline-planning-management-bp.md)
-   + [タイムシートとログイン時間](best-practices/timesheets-logging-time-bp.md)
+   + [タイムシートとログの時間](best-practices/timesheets-logging-time-bp.md)
    + [稼働率](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [ワークロードバランサー](best-practices/workload-balancer-bp.md)
