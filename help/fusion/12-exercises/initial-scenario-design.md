@@ -1,5 +1,5 @@
 ---
-title: 最初のシナリオ設計の演習
+title: 最初のシナリオデザインの演習
 description: Workfront Fusion に初めてログインする際の基本的な操作方法と、最初のシナリオの作成について説明します。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# 最初のシナリオ設計の演習
+# 最初のシナリオデザインの演習
 
 Workfront Fusion に初めてログインする際の基本的な操作方法と、最初のシナリオの作成について説明します。
 
