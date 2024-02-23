@@ -1,5 +1,5 @@
 ---
-title: スイッチ機能の演習
+title: switch 関数の演習
 description: スイッチ関数を使用した切り替え機能の使用方法を説明します。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# スイッチ機能の演習
+# switch 関数の演習
 
 スイッチ関数を使用した切り替え機能の使用方法を説明します。
 
