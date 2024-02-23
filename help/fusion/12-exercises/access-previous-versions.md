@@ -1,6 +1,6 @@
 ---
-title: 以前のバージョンにアクセスする演習
-description: 以前のバージョンのに戻る方法を学ぶ [!UICONTROL 統合] シナリオ。
+title: 以前のバージョンへのアクセスの演習
+description: '[!UICONTROL Fusion] シナリオの以前のバージョンに戻る方法を説明します。'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 以前のバージョンにアクセスする演習
+# 以前のバージョンへのアクセスの演習
 
 シナリオの以前のバージョンに戻る方法を説明します。
 
