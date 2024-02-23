@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2408'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -115,7 +115,7 @@ ht-degree: 97%
       + [プロジェクト管理の基本を学ぶ](manage-work/projects/getting-started-manage-a-project.md)
       + [プロジェクトの検索](manage-work/projects/find-projects.md)
       + [プロジェクトの共有](manage-work/projects/share-a-project.md)
-      + [プロジェクトチームの理解](manage-work/projects/understand-the-project-team.md)
+      + [プロジェクトチームについて](manage-work/projects/understand-the-project-team.md)
       + [プロジェクトのコミュニケーションについて](manage-work/projects/understand-project-communication.md)
       + [プロジェクト情報の表示](manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](manage-work/projects/track-overall-project-progress.md)
@@ -384,30 +384,30 @@ ht-degree: 97%
 
    + 基本について {#understand-the-basics}
       + [初期シナリオデザインのチュートリアル](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
-      + [最初のシナリオ設計の演習](fusion/12-exercises/initial-scenario-design.md)
+      + [最初のシナリオデザインの演習](fusion/12-exercises/initial-scenario-design.md)
       + [マッピングパネルと数式エディター](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [マッピングパネルの重要な注意事項](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [基本マッピングを超えるチュートリアル](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
-      + [基本的なマッピングの演習を超える](fusion/12-exercises/beyond-basic-mapping.md)
+      + [基本マッピングを超える演習](fusion/12-exercises/beyond-basic-mapping.md)
       + [フィルターの使用](fusion/2-understand-the-basics/use-filters.md)
       + [フィルターのチュートリアル](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [フィルターの演習](fusion/12-exercises/filters.md)
       + [以前のバージョンへのアクセスのチュートリアル](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
-      + [以前のバージョンにアクセスする演習](fusion/12-exercises/access-previous-versions.md)
+      + [以前のバージョンへのアクセスの演習](fusion/12-exercises/access-previous-versions.md)
 
    + ユニバーサルコネクタとルーティング {#universal-connectors-and-routing}
       + [ユニバーサルコネクタの演習の概要](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [ユニバーサルコネクタの概要のチュートリアル](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
-      + [ユニバーサルコネクタの概要の演習](fusion/12-exercises/introduction-to-universal-connectors.md)
+      + [ユニバーサルコネクタの演習の概要](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [ルーターについて](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [ルーターのチュートリアル](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
-      + [ルータの演習](fusion/12-exercises/routers.md)
+      + [ルーターの演習](fusion/12-exercises/routers.md)
       + [一般的なルーティングパターン](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [ルーティングパターンのチュートリアル](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [ルーティングパターンの演習](fusion/12-exercises/routing-patterns.md)
       + [設定と取得](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [get／set 変数のチュートリアル](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
-      + [変数の設定/取得の演習](fusion/12-exercises/set-get-variables.md)
+      + [変数の設定／取得の演習](fusion/12-exercises/set-get-variables.md)
 
    + イテレーションと集計 {#iteration-and-aggregation}
       + [イテレータの概要](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -417,7 +417,7 @@ ht-degree: 97%
       + [集計のチュートリアル](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
       + [集計の演習](fusion/12-exercises/aggregation.md)
       + [高度な集計のチュートリアル](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
-      + [高度な集計の演習](fusion/12-exercises/advanced-aggregation.md)
+      + [詳細な集計の演習](fusion/12-exercises/advanced-aggregation.md)
 
    + 実行履歴とスケジュール {#execution-history-and-scheduling}
       + [実行履歴の概要](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
@@ -426,18 +426,18 @@ ht-degree: 97%
       + [シナリオスケジュールについて](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [実行、サイクル、バンドルのバランス](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [実行、サイクル、バンドルのチュートリアル](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
-      + [実行、サイクル、バンドルの演習の調査](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [実行、サイクル、バンドルの探索の演習](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + 基本モジュールを超える {#beyond-basic-modules}
       + [追加のアプリと一般的なモジュールについて](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [switch 関数の使用](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [switch 関数のチュートリアル](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
-      + [スイッチ機能の演習](fusion/12-exercises/switch-function.md)
+      + [switch 関数の演習](fusion/12-exercises/switch-function.md)
       + [スイッチモジュールのチュートリアル](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [スイッチモジュールの演習](fusion/12-exercises/switch-module.md)
       + [Webhook の世界について](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhook のチュートリアル](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
-      + [ウェブフックの練習](fusion/12-exercises/webhooks.md)
+      + [Web フックの演習](fusion/12-exercises/webhooks.md)
 
    + データ構造とデータストア {#data-structures-and-data-stores}
       + [データ構造について](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
@@ -453,7 +453,7 @@ ht-degree: 97%
       + [配列のチュートリアル](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [シナリオでの JSON について](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [JSON の操作のチュートリアル](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
-      + [JSON の使用に関する演習](fusion/12-exercises/working-with-json.md)
+      + [JSON の操作の演習](fusion/12-exercises/working-with-json.md)
 
    + トラブルシューティングとエラー処理 {#troubleshooting-and-error-handling}
       + [開発ツールを使用した詳細なトラブルシューティング](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
