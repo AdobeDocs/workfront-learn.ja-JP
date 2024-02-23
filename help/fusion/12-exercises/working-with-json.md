@@ -1,5 +1,5 @@
 ---
-title: JSON の使用に関する演習
+title: JSON の操作の演習
 description: シナリオ内で JSON を作成および解析して、デザインのニーズに対応する方法を説明します。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11056.png
 recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# JSON の使用に関する演習
+# JSON の操作の演習
 
 シナリオ内で JSON を作成および解析して、デザインのニーズに対応する方法を説明します。
 
