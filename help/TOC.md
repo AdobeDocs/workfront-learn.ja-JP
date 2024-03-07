@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2405'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 99%
       + [リソース管理の成熟度](manage-resources/resource-management/resource-management-maturity.md)
       + [プロジェクトのリソース管理設定](manage-resources/resource-management/settings-for-projects.md)
       + [ユーザーのリソース管理設定](manage-resources/resource-management/settings-for-users.md)
-      + [リソース管理の設定、ワークロード・バランサ、および使用率の RPT](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [リソース管理の設定、ワークロードバランサー、稼働率レポート](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + ワークロードバランサー {#workload-balancer}
       + [ワークロードバランサーの検索](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -638,7 +638,7 @@ ht-degree: 99%
    + [システムのパフォーマンスとメンテナンス](best-practices/system-performance-maintenance-bp.md)
    + [テキストモードのレポート](best-practices/test-mode-reporting-bp.md)
    + [タイムラインの計画と管理](best-practices/timeline-planning-management-bp.md)
-   + [タイムシートとログの時間](best-practices/timesheets-logging-time-bp.md)
+   + [タイムシートと時間の記録](best-practices/timesheets-logging-time-bp.md)
    + [稼働率](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [ワークロードバランサー](best-practices/workload-balancer-bp.md)

@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 95%
    ![[!UICONTROL 新規追加]ドロップダウンメニューの「[!UICONTROL Workfront DAM から]」オプションの画像](assets/01-contributor-from-workfront-dam.png)
 1. [!UICONTROL Workfront DAM] でアクセスできるファイルとフォルダーのリストがウィンドウに表示されます。
 
-1. 探しているアセットを見つけ、その横にあるボックスをオンにします。 デフォルトのビューはリストですが、ウィンドウの右上隅にあるアイコンを使用してサムネールビューに切り替えることができます。
+1. 探しているアセットを検索し、その横にあるチェックボックスをオンにします。デフォルトのビューはリストですが、ウィンドウの右上隅にあるアイコンを使用してサムネールビューに切り替えることができます。
 
    ![ポップアップウィンドウで選択したアセットの画像](assets/02-contributor-select-files-in-dam.png)
 

@@ -1,6 +1,6 @@
 ---
 title: コントリビューターとしてアセットの検索を理解する
-description: でアセットを検索し、フォルダ内を検索し、検索結果を効率化し、メタデータとキーワードを検索フィルターとして使用する方法について説明します。 [!UICONTROL Workfront DAM].
+description: '[!UICONTROL Workfront DAM] でのアセットの検索、フォルダー内の検索、検索結果の効率化、検索フィルターとしてのメタデータとキーワードの使用方法を説明します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 90%
 
 基本検索では、（アセットタイプに応じて）ファイル名、メタデータフィールド、キーワード、アセットコンテンツを調べます。 フォルダー名は含まれません。
 
-ほとんどの検索結果は完全一致です。この「完全一致」ルールの例外は、 [!UICONTROL Workfront DAM] 「ファイル名」フィールドを検索します。 [!UICONTROL Workfront DAM] は、ファイル名の完全一致だけでなく、部分的なファイル名の一致を返します。
+ほとんどの検索結果は完全一致です。この「完全一致」ルールの例外は、[!UICONTROL Workfront DAM] が「ファイル名」フィールドを検索する場合です。[!UICONTROL Workfront DAM] は、ファイル名の完全一致だけでなく、部分的なファイル名の一致を返します。
 
 ## 検索中のユーザー演算子
 
