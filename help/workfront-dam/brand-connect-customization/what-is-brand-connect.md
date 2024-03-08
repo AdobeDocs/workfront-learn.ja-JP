@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Brand Connect] とは'
-description: の概要 [!UICONTROL Brand Connect].
+description: '[!UICONTROL Brand Connect] の概要を確認します。'
 activity: use
 feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 91%
 
 このビデオでは、次の操作を実行します。
 
-* の概要 [!UICONTROL Brand Connect]
+* [!UICONTROL Brand Connect] の概要の確認
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
