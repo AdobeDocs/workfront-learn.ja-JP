@@ -13,9 +13,9 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
 source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -30,6 +30,6 @@ ht-degree: 91%
 * 送信されたリクエストを表示する
 * リクエストの下書きを検索する
 * 最後の 3 つのリクエストパスを確認する
-* リクエストのコピー
+* リクエストをコピーする
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
