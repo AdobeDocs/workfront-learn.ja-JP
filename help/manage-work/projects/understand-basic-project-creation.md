@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 71%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 100%
 
 このビデオでは、次のことを学習します。
 
-* プロジェクトを立ち上げて実行するための 4 つの手順
-* [!DNL Workfront] におけるプロジェクトの定義
-* プロジェクトを作成する 3 つの最も一般的な方法
+* Workfrontのプロジェクトの定義
+* プロジェクトを起動して実行するための基本的な手順
+* タスクと問題について
+* プロジェクトの作成を開始する際のベストプラクティス
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-プロジェクトテンプレートを使用して、[!DNL  Workfront] プロジェクトをすばやく立ち上げて実行します。それから、次の 5 つのフィールドにまずは着目して、プロジェクトを計画します。
+プロジェクトテンプレートを使用して、Workfrontプロジェクトをすばやく開始および実行します。 それから、次の 5 つのフィールドにまずは着目して、プロジェクトを計画します。
 
 1. タスク
 1. 期間
