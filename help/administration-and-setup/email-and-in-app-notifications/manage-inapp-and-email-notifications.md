@@ -12,7 +12,7 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 100%
 
@@ -58,7 +58,7 @@ Workfront からユーザーに送信できる通知には、いくつかの種�
 
 ![[!UICONTROL 所有するプロジェクトに関する情報の 1 日のダイジェスト][!UICONTROL メール]](assets/admin-fund-user-notifications-06.png)
 
-![[!UICONTROL 必要なアクションの 1 日のダイジェスト][!UICONTROL メール]](assets/admin-fund-user-notifications-07.png) 
+![[!UICONTROL 必要なアクションの 1 日のダイジェスト][!UICONTROL メール]](assets/admin-fund-user-notifications-07.png)
 
 「毎日」のオプションを選択する以外に、メールを送信する時間を設定します。 何が最適かに応じて、ダイジェストメールを朝の出勤前または退社直前に送信できます。
 
@@ -77,7 +77,7 @@ Workfront からユーザーに送信できる通知には、いくつかの種�
 受け取ることにした[!UICONTROL イベント通知]に関係なく、組織の目標のために行われている作業を成功させるためには通知は重要です。
 
 
-## 推奨事項
+## レコメンデーション
 
 即時メールか 1 日のダイジェストかに関わらず、[!DNL Workfront] でチェックをオンのままにしておくことを推奨する通知がいくつかあります。
 
