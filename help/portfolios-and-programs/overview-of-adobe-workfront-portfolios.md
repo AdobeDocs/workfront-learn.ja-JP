@@ -1,5 +1,5 @@
 ---
-title: ポートフォリオの概要
+title: ポートフォリオの理解
 description: Workfront でのポートフォリオの概要と、プロジェクトの優先順位を付けたり、プロジェクトを相互に比較する上でどのように役立つかを説明します。
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 100%
+source-wordcount: '585'
+ht-degree: 75%
 
 ---
 
-# ポートフォリオの概要
+# ポートフォリオの理解
 
 マネージャーは往々にして、企業がゴールや目標を達成するにはどのプロジェクトが最も役立つのかを見つけ出すという、難しい業務を抱えています。つまり、現在のプロジェクトや潜在的なプロジェクトを、それらの目標にとって重要な基準に基づいて判断している、ということです。この基準には、必要なリソースの数、プロジェクトのコストとリターンの比較、関連するリスクの理解などが含まれます。この情報を使用して、管理者は実行すべきプロジェクトとタイミングを決定できます。
 
@@ -51,6 +51,26 @@ ht-degree: 100%
 ポートフォリオを開き、「...」メニューをクリックして、「**[!UICONTROL 共有]**」を選択します。アクセス権が必要なユーザー、チーム、職務上の役割、グループ、または会社を追加します。次に、それぞれに付与するアクセス権の種類（管理または表示）を判断します。
 
 ![[!DNL Workfront] のポートフォリオの「[!UICONTROL 共有]」オプションの画像](assets/04-portfolio-management11.png)
+
+## ポートフォリオを作成
+
+ポートフォリオを作成するには、 **[!UICONTROL Portfolio]** 」をクリックします。
+
+![メインメニューの画像 ](assets/create-portfolio-1.png)
+
+「Portfolio」領域で、 **[!UICONTROL 新しいPortfolio]**.
+
+![画像領域のPortfolio ](assets/create-portfolio-2.png)
+
+ポートフォリオに名前を付け、 **[!UICONTROL 新規プロジェクト]** をクリックして、プロジェクトをポートフォリオに追加します。 新しいプロジェクトは、 **[!UICONTROL プロジェクト]** 領域。 ここから作成する新しいプロジェクトは、すべてこのポートフォリオに属します。 また、 **[!UICONTROL 既存のプロジェクト]** をクリックして、既存のプロジェクトをリストから選択します。
+
+![新しいプロジェクトメニューの画像 ](assets/create-portfolio-3.png)
+
+## ポートフォリオ内にプログラムを作成する
+
+を選択します。 **[!UICONTROL プログラム]** 「 」タブに移動し、「 **[!UICONTROL 新規プログラム]** このポートフォリオ内に新しいプログラムを作成するには、以下をクリックします。 **[!UICONTROL 既存のプログラム]** 既存のプログラムを他のポートフォリオから盗む。
+
+![新しいプログラムメニューの画像 ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic
