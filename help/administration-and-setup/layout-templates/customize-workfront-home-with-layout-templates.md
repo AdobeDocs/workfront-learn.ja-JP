@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL ホーム]をレイアウトテンプレートでカスタマイズ'
-description: ユーザーをカスタマイズする方法を学ぶ [!UICONTROL ホーム] 作業にすばやく簡単にアクセス、トラッキング、承認および更新できる領域。
+description: ユーザーの[!UICONTROL ホーム]エリアをカスタマイズして、作業に素早く簡単にアクセス、追跡、承認および更新する方法について説明します。
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,22 +12,22 @@ jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
 source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
-# カスタマイズ [!UICONTROL ホームワークスペース] レイアウトテンプレートを使用
+# [!UICONTROL ホームワークスペース]をレイアウトテンプレートでカスタマイズ
 
-ユーザーをカスタマイズする方法を学ぶ [!UICONTROL ホーム] 作業にすばやく簡単にアクセス、トラッキング、承認および更新できる領域。
+ユーザーの[!UICONTROL ホーム]エリアをカスタマイズして、作業に素早く簡単にアクセス、追跡、承認および更新する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
 
 <br>
 </br>
 
-## レガシーのカスタマイズ [!UICONTROL ホーム] レイアウトテンプレートを使用
+## 従来の[!UICONTROL ホーム]をレイアウトテンプレートでカスタマイズ
 
 このビデオでは、次の方法を学習します：
 
