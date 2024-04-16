@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -107,9 +107,9 @@ ht-degree: 99%
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
       + [基本的なプロジェクト作成について](manage-work/projects/understand-basic-project-creation.md)
+      + [プロジェクトページのナビゲーション](manage-work/projects/navigate-the-project-page.md)
       + [プロジェクトを作成する 4 つの方法を学ぶ](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [プロジェクト詳細の入力](manage-work/projects/fill-in-the-project-details.md)
-      + [プロジェクトページの移動](manage-work/projects/navigate-the-project-page.md)
       + [プロジェクトのプランニングの基本を学ぶ](manage-work/projects/getting-started-plan-a-project.md)
       + [プロジェクトを稼動させる](manage-work/projects/take-a-project-live.md)
       + [プロジェクト管理の基本を学ぶ](manage-work/projects/getting-started-manage-a-project.md)
@@ -153,7 +153,7 @@ ht-degree: 99%
       + [リクエストキューに関するよくある質問へ回答](manage-work/request-queues/request-queue-faq.md)
 
    + ポートフォリオ {#portfolios}
-      + [ポートフォリオの理解](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [ポートフォリオについて](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [[!UICONTROL ビジネスケース]について](portfolios-and-programs/introduction-to-the-business-case.md)
       + [[!UICONTROL ポートフォリオオプティマイザー]を使用して、作業に優先順位を付けて管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 99%
    + Enhanced Analytics {#enhanced-analytics}
       + [[!UICONTROL Enhanced Analytics] に関する製品の重要性](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [アクセス方法 [!UICONTROL Analytics の強化]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [[!UICONTROL 拡張分析]にアクセスする方法](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](reporting/enhanced-analytics/4-basic-navigation.md)
       + [作業グラフと人物グラフについて](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [フィルターについて](reporting/enhanced-analytics/6-filters-overview.md)

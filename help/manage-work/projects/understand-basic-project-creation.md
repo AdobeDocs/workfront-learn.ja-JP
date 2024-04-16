@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -30,12 +31,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-プロジェクトテンプレートを使用して、Workfront プロジェクトをすばやく立ち上げて実行します。それから、次の 5 つのフィールドにまずは着目して、プロジェクトを計画します。
+## このトピックに関するおすすめのチュートリアル
 
-1. タスク
-1. 期間
-1. 予定時間数
-1. 先行タスク
-1. 割り当て
+* [プロジェクトページの移動](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [プロジェクトを作成する 4 つの方法について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [プロジェクト詳細の入力](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-すべて設定したら、プロジェクトのステータスを「現在」に変更して、プロジェクトを稼働させます。プロジェクトが進むにつれて、完了した作業、発生した問題、回答が必要な問い合わせなどを追跡する必要がでてきます。それらの情報はすべて [!DNL Workfront] で見つけて管理できます。
+

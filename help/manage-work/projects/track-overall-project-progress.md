@@ -8,12 +8,13 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 87%
 
 ---
 
@@ -38,7 +39,13 @@ ht-degree: 100%
 >[!DNL Workfront] がプロジェクト条件を自動設定するか、プロジェクトの管理権限を持つユーザーが手動で設定するかは、[!UICONTROL プロジェクトの詳細]ページの「[!UICONTROL 概要]」セクションにある「[!UICONTROL 条件タイプ]」設定によって制御されます。
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## このトピックに関するおすすめのチュートリアル
+
+* [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [プロジェクト指標を使用した作業の進捗の追跡](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [について [!UICONTROL ガント] 表示](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [について [!UICONTROL Board] 表示](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

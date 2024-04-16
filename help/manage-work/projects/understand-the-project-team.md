@@ -9,12 +9,14 @@ level: Beginner
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-07T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14781
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: ht
-source-wordcount: '41'
-ht-degree: 100%
+exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 65%
 
 ---
 
@@ -26,3 +28,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
 
+## このトピックに関するおすすめのチュートリアル
+
+* [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [プロジェクトの検索](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [プロジェクトの共有](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [プロジェクトのコミュニケーションについて](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
