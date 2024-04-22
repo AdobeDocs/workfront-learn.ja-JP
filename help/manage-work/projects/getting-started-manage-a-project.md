@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 87%
+source-wordcount: '211'
+ht-degree: 77%
 
 ---
 
@@ -41,7 +42,7 @@ ht-degree: 87%
 * 利害関係者とコミュニケーションを取る。
 * 途中経過でも成功を祝う。
 
-最終的には、プロジェクトを成功に導くことが主な仕事です。 [!DNL Workfront] は、プロジェクトタイムラインを通じて行われているフィルター、ビュー、グループ化、アップデート、レポートなどの作業を監視するのに役立ちます。
+最終的には、プロジェクトを成功に導くことが主な仕事です。 Adobe Workfrontは、プロジェクトタイムラインを通じて行われているフィルター、ビュー、グループ化、アップデート、レポートなどの作業を監視するのに役立ちます。
 
 <!---
 learn more urls
