@@ -1,6 +1,6 @@
 ---
 title: プロジェクト管理の基本を学ぶ
-description: プロジェクトマネージャーとしての役割と、プロジェクトの作業を監視する際に確認すべき内容について学びます。
+description: プロジェクトの進捗を監視する方法、ドリルダウンしてタスクの詳細を表示する方法および関係者とコミュニケーションを取る方法について説明します。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 77%
+source-wordcount: '213'
+ht-degree: 60%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 77%
 
 このビデオでは、以下について説明します。
 
-* プロジェクトの作業を監視する際に確認すべき内容
-* プロジェクトマネージャーとしての役割
+* プロジェクトの進捗の監視方法
+* ドリルダウンしてタスクの詳細を表示する方法
+* 関係者とのコミュニケーション方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
