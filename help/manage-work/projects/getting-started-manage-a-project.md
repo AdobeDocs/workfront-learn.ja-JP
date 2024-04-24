@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 60%
+ht-degree: 72%
 
 ---
 
@@ -54,10 +54,10 @@ Project management knowledge areas
 10 work management problems and how to solve them
 --->
 
-## このトピックに関するおすすめのチュートリアル
+## このトピックに関する推奨チュートリアル
 
-* [プロジェクトを稼動させる](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [プロジェクトの検索](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [プロジェクトの共有](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [プロジェクトチームについて](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [プロジェクトのコミュニケーションについて](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [プロジェクトを稼動させる](https://experienceleague.adobe.com//docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [プロジェクトの検索](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [プロジェクトの共有](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [プロジェクトチームについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [プロジェクトのコミュニケーションについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
