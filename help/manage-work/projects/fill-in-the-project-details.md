@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1252'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -129,9 +129,9 @@ ht-degree: 97%
 
    アクセス設定は、テンプレートで設定できます。
 
-## このトピックに関するおすすめのチュートリアル
+## このトピックに関する推奨チュートリアル
 
-* [基本的なプロジェクト作成について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [プロジェクトページの移動](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [プロジェクトを作成する 4 つの方法について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [プロジェクトのプランニングの概要](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
+* [基本的なプロジェクト作成について](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [プロジェクトページのナビゲート](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [プロジェクトを作成する 4 つの方法を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [プロジェクトのプランニングの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)

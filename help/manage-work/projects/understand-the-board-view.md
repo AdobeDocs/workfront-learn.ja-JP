@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 57%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
 
-## このトピックに関するおすすめのチュートリアル
+## このトピックに関する推奨チュートリアル
 
-* [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクト全体の進捗の追跡](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [について [!UICONTROL ガント] 表示](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [プロジェクト全体の進捗の追跡](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [プロジェクト指標を使用した作業の進捗の追跡](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [[!UICONTROL ガント]ビューについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)

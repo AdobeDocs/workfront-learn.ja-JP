@@ -13,9 +13,9 @@ jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 95%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
 
-## このトピックに関するおすすめのチュートリアル
+## このトピックに関する推奨チュートリアル
 
 * [タスクの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html?lang=ja)
 * [タスクの操作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html?lang=ja)

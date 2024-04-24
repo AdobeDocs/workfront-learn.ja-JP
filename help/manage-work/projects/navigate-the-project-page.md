@@ -14,9 +14,9 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '498'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -42,20 +42,20 @@ ht-degree: 77%
 3. **プロジェクト名：**&#x200B;表示しているプロジェクトの名前です。名前をクリックして編集します。
 4. **プロジェクトヘッダー：**&#x200B;すべてのプロジェクトページで使用できる標準情報です。
 5. **[!UICONTROL 完了率]：**&#x200B;これは、プロジェクトで完了したタスクに基づいて自動的に更新されます。
-6. **[!UICONTROL プロジェクト所有者]：**&#x200B;ほとんどの組織では、これはプロジェクト管理者です。これは、でプロジェクトを管理する担当者です [!DNL Workfront] 完了していることを確認します。
+6. **[!UICONTROL プロジェクト所有者]：**&#x200B;ほとんどの組織では、これはプロジェクト管理者です。これは、[!DNL Workfront] でプロジェクトを管理し、確実に完了する担当者です。
 7. **[!UICONTROL 予定完了日]：**&#x200B;プロジェクトの予定完了日は、プロジェクトタイムラインを通じてプロジェクト管理者が設定します。
 8. **[!UICONTROL 条件]：**[!UICONTROL 条件]は、プロジェクトの進捗を視覚的に表現したものです。[!DNL Workfront] は、プロジェクト内のタスクの進捗ステータスに基づいて[!UICONTROL 条件]を自動的に設定できます。または[!UICONTROL 条件]は、プロジェクトの詳細から手動で設定できます。
-9. **[!UICONTROL ステータス]:** この [!UICONTROL ステータス] プロジェクトがプロセスのどの段階にあるかを示します。つまり、プロジェクトがまだ計画中か、処理中か、プロジェクトが完了しているかを示します。
-10. **[!UICONTROL 新規タスク]:** クリックして、プロジェクトにタスクを作成します。 タスクがリストの下部に生成されます。
+9. **[!UICONTROL ステータス]：**[!UICONTROL ステータス]は、プロジェクトがプロセスのどの段階にあるかを示します。つまり、プロジェクトがまだ予定段階か、処理中か、完了しているかを示します。
+10. **[!UICONTROL 新規タスク]：**&#x200B;クリックして、プロジェクトにタスクを作成します。タスクがリストの下部に生成されます。
 11. **[!UICONTROL 書き出し]：**&#x200B;タスクリストまたは選択したタスクを PDF、スプレッドシート、タブ区切りのファイルに書き出します。
-12. **左側のパネルメニュー：** 左側のパネルを使用して、プロジェクトに関する別の情報に移動します。画面にもう少しスペースが必要な場合は、上部のタスクアイコンをクリックしてパネルを折りたたみます。 アイコンをドラッグ＆ドロップすると、効率的に作業できるようになります。表示されるオプションは、[!DNL Workfront] システム管理者が設定します。
+12. **左側のパネルメニュー：** 左側のパネルを使用して、プロジェクトに関する別の情報に移動します。画面にもう少しスペースが必要な場合は、上部のタスクアイコンをクリックしてパネルを折りたたみます。アイコンをドラッグ＆ドロップすると、効率的に作業できるようになります。表示されるオプションは、[!DNL Workfront] システム管理者が設定します。
 13. **タスクリスト：**&#x200B;タスクリストには、プロジェクトプランを構成するすべてのタスクが表示されます。各タスクについて表示される情報は、選択したビューによって決まります。
-14. **概要パネル：**&#x200B;概要パネルでは、選択したタスクに関する情報を素早く確認できます。概要パネルアイコンをクリックして、開いたり閉じたりします。
+14. **概要パネル：**&#x200B;概要パネルでは、選択したタスクに関する情報を素早く確認できます。概要パネルのアイコンをクリックして、開いたり、閉じたりします。
 15. **さらにタスクを追加** インライン編集を使用してタスクリストの最後に別のタスクを追加するには、ここをクリックします。
 
-## このトピックに関するおすすめのチュートリアル
+## このトピックに関する推奨チュートリアル
 
-* [基本的なプロジェクト作成について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [プロジェクトを作成する 4 つの方法について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [プロジェクト詳細の入力](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [基本的なプロジェクト作成について](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [プロジェクトを作成する 4 つの方法を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [プロジェクト詳細の入力](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
