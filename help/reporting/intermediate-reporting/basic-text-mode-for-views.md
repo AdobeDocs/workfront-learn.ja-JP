@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
-workflow-type: ht
-source-wordcount: '650'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '649'
 ht-degree: 100%
 
 ---
@@ -21,19 +21,18 @@ ht-degree: 100%
 # ビューの基本的なテキストモードについて
 
 
->[!IMPORTANT]
->
->前提条件：
+>[!PREREQUISITES]
 >
 >* [レポート要素について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ja)
 >* [レポートコンポーネントについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ja)
 >* [基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)
 
+
 >[!TIP]
 >
 >* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ja)」（所要時間：1 時間）の視聴をお勧めします。
 >* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
->* ここをクリックして、[[!UICONTROL API エクスプローラー]](https://developer.adobe.com/workfront/api-explorer/)にアクセス
+>* ここをクリックして、[[!UICONTROL API エクスプローラー]](https://developer.adobe.com/workfront/api-explorer/)にアクセスします
 
 このビデオでは、次のことを学習します。
 
