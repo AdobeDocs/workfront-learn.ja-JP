@@ -1,6 +1,6 @@
 ---
 title: プロジェクト管理の基本を学ぶ
-description: プロジェクトの進捗を監視する方法、ドリルダウンしてタスクの詳細を表示する方法および関係者とコミュニケーションを取る方法について説明します。
+description: プロジェクトの進捗を監視する方法、ドリルダウンしてタスクの詳細を表示する方法、関係者とのコミュニケーションを図る方法について説明します。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 72%
 
 このビデオでは、以下について説明します。
 
-* プロジェクトの進捗の監視方法
+* プロジェクトの進捗を監視する方法
 * ドリルダウンしてタスクの詳細を表示する方法
-* 関係者とのコミュニケーション方法
+* 関係者とのコミュニケーションを図る方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
@@ -43,7 +43,7 @@ ht-degree: 72%
 * 利害関係者とコミュニケーションを取る。
 * 途中経過でも成功を祝う。
 
-最終的には、プロジェクトを成功に導くことが主な仕事です。 Adobe Workfrontは、プロジェクトタイムラインを通じて行われているフィルター、ビュー、グループ化、アップデート、レポートなどの作業を監視するのに役立ちます。
+最終的には、プロジェクトを成功に導くことが主な仕事です。 Adobe Workfront は、プロジェクトタイムラインを通じて行われているフィルター、ビュー、グループ化、アップデート、レポートなどの作業を監視するのに役立ちます。
 
 <!---
 learn more urls
