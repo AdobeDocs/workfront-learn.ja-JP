@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '112'
+source-git-commit: 73c83d5f98e6f95332527f0ec7b0b7ea2c094448
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -28,14 +29,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on)
 
-「[!UICONTROL 書き出し]」ボタンを使用して、プロジェクト指標ダッシュボード全体を .png ファイルとして書き出すことができます。これにより、メールやプレゼンテーションを通じて他のユーザーとデータを簡単に共有できます。
-
-![書き出されたプロジェクト指標ページ](assets/planner-fund-metrics-export.png)
-
 ## このトピックに関する推奨チュートリアル
 
 * [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
 * [プロジェクト全体の進捗の追跡](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [[!UICONTROL ガント]ビューについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
 * [[!UICONTROL ボード]ビューについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
