@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
+recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 91%
 
 ---
 
@@ -34,3 +35,10 @@ learn more urls:
 Overview of task duration and duration type
 Planned hours overview
 --->
+
+## このトピックに関する推奨チュートリアル
+
+* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
+* [タスク期間について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [作業量について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+

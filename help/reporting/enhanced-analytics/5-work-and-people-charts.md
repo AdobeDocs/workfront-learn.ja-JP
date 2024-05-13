@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '190'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
@@ -47,5 +47,4 @@ ht-degree: 100%
 人物チャートは、次の要素で構成されます。
 
 1. チームごとのアクティビティ
-1. リソースのキャパシティ
 1. チームアクティビティ

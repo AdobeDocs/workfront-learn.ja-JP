@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 100%
 * **プロジェクトアクティビティ** - プロジェクト名をクリックしてグラフを展開し、ユーザー別のプロジェクトアクティビティを表示します。
 * **プロジェクトツリーマップ** - プロジェクトボックスをクリックして、フライトグラフにバーンダウンとタスクを取り込みます。
 * **チーム別アクティビティ** - チーム名をクリックしてグラフを展開し、ユーザー別のアクティビティを表示します。
-* **リソース処理能力** - チーム名をクリックして、チーム処理能力グラフを表示します。
 
 ## チームのアクティビティに関する、濃い色合いと明るい色合いの意味
 

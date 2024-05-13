@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '390'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 1. 左側のパネルで「[!UICONTROL ユーザー]」タブをクリックします。
 1. 「[!UICONTROL フィルター]」を使用して、調査する 1 つ以上のホームチームを選択します。
-1. チームのキャパシティグラフが、[!UICONTROL リソースのキャパシティ]グラフの下に表示されます。
+1. チーム処理能力グラフが表示されます。
 
 ## グラフの使用方法
 

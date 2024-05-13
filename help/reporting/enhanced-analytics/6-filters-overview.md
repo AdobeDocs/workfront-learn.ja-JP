@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '267'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '264'
+ht-degree: 94%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ## 人物チャートフィルター
 
-人物チャートは、ホームチームに基づいています。フィルターで選択したチームについて、アクティビティとリソース処理能力が表示されます。
+人物チャートは、ホームチームに基づいています。フィルターで選択した数だけチームのアクティビティを表示します。
 
 ## その他の考慮事項
 
