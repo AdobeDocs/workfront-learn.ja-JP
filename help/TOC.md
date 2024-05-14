@@ -3,9 +3,9 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
 workflow-type: tm+mt
-source-wordcount: '2399'
+source-wordcount: '2404'
 ht-degree: 100%
 
 ---
@@ -652,6 +652,6 @@ ht-degree: 100%
 + [アジャイルへの移行](agile/transitioning-to-agile.md)
 + [エグゼクティブのための Workfront](workfront-for-executives/workfront-for-executives.md)
 + [リクエストの管理](manage-work/issues-requests/manage-incoming-requests.md)
-
++ [リソース処理能力のグラフについて](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
 
