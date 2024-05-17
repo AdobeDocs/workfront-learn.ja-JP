@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: ab2b4848acc69b0c6f6cd89ec0c9bf4203c2d297
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -32,9 +32,10 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスクの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html?lang=ja)
-* [タスクの操作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html?lang=ja)
-* [プロジェクトプランからのタスクの割り当て](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=ja)
-* [タスク期間について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html?lang=ja)
-* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ja)
-* [予定時間数について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html?lang=ja)
+* [タスクを作成](/help/manage-work/tasks/how-to-create-tasks.md)
+* [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
+* [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
+* [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
+* [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)

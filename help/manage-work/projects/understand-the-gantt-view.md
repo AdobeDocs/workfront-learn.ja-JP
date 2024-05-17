@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクト全体の進捗の追跡](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL ボード]ビューについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
+* [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [[!UICONTROL ボード]ビューについて](/help/manage-work/projects/understand-the-board-view.md)

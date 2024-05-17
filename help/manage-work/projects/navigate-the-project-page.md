@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '498'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '495'
 ht-degree: 100%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [基本的なプロジェクト作成について](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [プロジェクトを作成する 4 つの方法を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [プロジェクト詳細の入力](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [基本的なプロジェクト作成について](/help/manage-work/projects/understand-basic-project-creation.md)
+* [プロジェクトを作成する 4 つの方法を学ぶ](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [プロジェクト詳細の入力](/help/manage-work/projects/fill-in-the-project-details.md)
 

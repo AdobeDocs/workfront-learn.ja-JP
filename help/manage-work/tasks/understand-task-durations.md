@@ -12,10 +12,10 @@ jira: KT-8776
 recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 92%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 92%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [予定時間数について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [作業量について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
+* [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
 

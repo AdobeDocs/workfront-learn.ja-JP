@@ -12,10 +12,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 68%
+source-wordcount: '48'
+ht-degree: 72%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 68%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスクの作成](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
-* [タスクの操作](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [プロジェクトプランからのタスクの割り当て](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [タスクを作成](/help/manage-work/tasks/how-to-create-tasks.md)
+* [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
+* [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

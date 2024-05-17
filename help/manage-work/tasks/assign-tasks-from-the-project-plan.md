@@ -12,10 +12,10 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,8 @@ Modify multiple user assignments in a task list
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスク期間について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [予定時間数について](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
+* [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
+* [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
 

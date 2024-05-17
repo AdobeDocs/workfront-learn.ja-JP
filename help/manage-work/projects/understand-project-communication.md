@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-05T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
@@ -39,7 +39,8 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [プロジェクト管理の基本を学ぶ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクトの検索](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [プロジェクトの共有](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [プロジェクトチームについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
+* [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [プロジェクトの検索](/help/manage-work/projects/find-projects.md)
+* [プロジェクトの共有](/help/manage-work/projects/share-a-project.md)
+* [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
+

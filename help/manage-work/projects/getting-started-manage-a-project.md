@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: ht
-source-wordcount: '213'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## このトピックに関する推奨チュートリアル
 
-* [プロジェクトを稼動させる](https://experienceleague.adobe.com//docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [プロジェクトの検索](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [プロジェクトの共有](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [プロジェクトチームについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [プロジェクトのコミュニケーションについて](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [プロジェクトを稼動させる](/help/manage-work/projects/take-a-project-live.md)
+* [プロジェクトの検索](/help/manage-work/projects/find-projects.md)
+* [プロジェクトの共有](/help/manage-work/projects/share-a-project.md)
+* [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
+* [プロジェクトのコミュニケーションについて](/help/manage-work/projects/understand-project-communication.md)

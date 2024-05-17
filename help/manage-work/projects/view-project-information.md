@@ -12,9 +12,9 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
-workflow-type: ht
-source-wordcount: '67'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [基本フィルターを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=ja)
-* [基本ビューを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)
-* [基本グループを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ja)
+* [基本フィルターの作成アクティビティ](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
+* [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [基本グループの作成](/help/reporting/basic-reporting/create-a-basic-grouping.md)
 
