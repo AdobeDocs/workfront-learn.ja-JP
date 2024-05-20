@@ -1,6 +1,6 @@
 ---
 title: プロジェクトを稼動させる
-description: プロジェクトのステータスを使用して、Adobe Workfront プロジェクトを稼動させる方法について説明します。
+description: プロジェクトのステータスを使用して Adobe Workfront プロジェクトを稼動させる方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 

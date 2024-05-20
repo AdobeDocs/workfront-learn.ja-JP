@@ -1,6 +1,6 @@
 ---
 title: タスクの操作
-description: Workfrontでプロジェクトに関する既存のタスクを編集する方法、タスクを追加および削除する方法、タスクの順序を変更する方法について説明します。
+description: Workfront でプロジェクトに関する既存のタスクを編集する方法、タスクを追加および削除する方法、タスクの順序を変更する方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
