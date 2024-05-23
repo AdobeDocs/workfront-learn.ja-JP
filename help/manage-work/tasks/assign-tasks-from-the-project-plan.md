@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 36%
+source-wordcount: '99'
+ht-degree: 35%
 
 ---
 
 # プロジェクトプランからのタスクの割り当て
 
-このビデオでは、以下について説明します。
+このビデオでは、次の操作を実行します。
 
-* インライン編集を使用したタスクの割り当て方法
-* 複数のタスクを同じユーザーに割り当てる方法
+* インライン編集を使用したタスクの割り当て方法を学ぶ
+* 複数のタスクを同じユーザーに割り当てる方法を学ぶ
 * タスクを割り当てる際の担当業務の価値を理解する
 * タスクを割り当てる際のプロジェクトテンプレートの価値を理解する
 * チームにタスクを割り当てる価値を理解する
