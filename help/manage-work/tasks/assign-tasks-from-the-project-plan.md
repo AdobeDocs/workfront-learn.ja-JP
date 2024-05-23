@@ -1,6 +1,6 @@
 ---
 title: プロジェクトプランからのタスクの割り当て
-description: ' [!DNL  Workfront]  プロジェクトでインライン編集を使用してタスクにユーザーを割り当てる方法を説明します。'
+description: インライン編集、一括編集、担当業務、チームを使用して、Adobe Workfront プロジェクトでタスクを割り当てる方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,22 +8,27 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 36%
 
 ---
 
 # プロジェクトプランからのタスクの割り当て
 
-このビデオでは、以下の方法を説明します。
+このビデオでは、以下について説明します。
 
-* インライン編集を使用したタスクへのユーザーの割り当て
+* インライン編集を使用したタスクの割り当て方法
+* 複数のタスクを同じユーザーに割り当てる方法
+* タスクを割り当てる際の担当業務の価値を理解する
+* タスクを割り当てる際のプロジェクトテンプレートの価値を理解する
+* チームにタスクを割り当てる価値を理解する
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
