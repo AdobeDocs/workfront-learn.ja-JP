@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 35%
 
 * インライン編集を使用したタスクの割り当て方法を学ぶ
 * 複数のタスクを同じユーザーに割り当てる方法を学ぶ
-* タスクを割り当てる際の担当業務の価値を理解する
-* タスクを割り当てる際のプロジェクトテンプレートの価値を理解する
-* チームにタスクを割り当てる価値を理解する
+* タスクを割り当てる際の担当業務の価値について
+* タスクを割り当てる際のプロジェクトテンプレートの価値について
+* チームにタスクを割り当てる価値について
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
