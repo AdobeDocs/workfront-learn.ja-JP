@@ -11,14 +11,14 @@ last-substantial-update: 2023-08-29T00:00:00Z
 thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
 ---
 
-# カスタムカレンダーの作成レポート
+# カスタムカレンダーレポートを作成
 
 カレンダーレポートは、作業と休暇をカレンダービューに表示する動的なレポートです。次のオブジェクトの日付情報をカレンダーレポートに表示できます。
 
