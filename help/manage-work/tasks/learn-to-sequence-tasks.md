@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 このビデオでは、次のことを学習します。
 
-* [!DNL  Workfront] の先行タスクについて
-* 先行タスクがプロジェクト内のタスクを順序付けする方法
+* Workfrontの先行タスクについて
 * 期間と先行タスクを使用してタイムラインを作成する方法
-* 先行タスクの変更または入力方法
+* 先行タスクがプロジェクトのタスクをどのように順序付けるか
+* タスク開始日の設定がタスクの制約に与える影響
+* 先行タスクの入力方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
