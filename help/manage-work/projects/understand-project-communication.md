@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # プロジェクトのコミュニケーションについて
 
-このビデオでは、以下を使用して、すべてのプロジェクト関係者とコミュニケーションを取る方法を説明します。
+このビデオでは、以下を使用してすべてのプロジェクト関係者とコミュニケーションを行う方法を説明します。
 
 * 優れたプロジェクト計画
 * アップデート
