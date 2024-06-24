@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 76%
 
 このビデオでは、次のことを学習します。
 
-* Workfrontの先行タスクについて
+* Workfront の先行タスクとは
 * 期間と先行タスクを使用してタイムラインを作成する方法
 * 先行タスクがプロジェクトのタスクをどのように順序付けるか
 * タスク開始日の設定がタスクの制約に与える影響
