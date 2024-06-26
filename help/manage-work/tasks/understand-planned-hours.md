@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 75%
 
 このビデオでは、以下について説明します。
 
-* Workfrontの予定時間数
+* Workfront で予定時間数を確認する方法
 * 予定時間数がプロジェクトにとって重要な理由
 * 予定時間数の見積り方法
 * タスクに予定時間数を追加する方法
@@ -32,10 +32,10 @@ ht-degree: 75%
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
 
-## このトピックに関するおすすめのチュートリアルと記事
+## このトピックに関する推奨チュートリアルと記事
 
 * [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
 * [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
-* [タイムシートの概要](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [時間をログに記録](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [タイムシートの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/timesheets/details/timesheets-overview)
+* [時間をログに記録](https://experienceleague.adobe.com/ja/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
