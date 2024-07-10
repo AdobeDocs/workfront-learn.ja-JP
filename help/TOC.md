@@ -3,8 +3,8 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: ht
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,6 @@ ht-degree: 100%
       + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
       + [イシュー／リクエストのプロジェクトへ変換](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [イシュー／リクエストのタスクへ変換](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [デジタル作品のレビューと承認](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [イシューに関するレポート](manage-work/issues-requests/report-on-issues.md)
 
    + リクエストキュー {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 100%
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [1 回限りの承認プロセスの作成](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [既存の承認プロセスの添付と編集](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [デジタル作品のレビューと承認](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [タスク、イシュー、承認を委任する](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [マイルストーンの適用](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [マイルストーンの表示](manage-work/approval-processes-and-milestone-paths/view-milestones.md)

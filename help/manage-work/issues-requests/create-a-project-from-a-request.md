@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '416'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '431'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ ht-degree: 100%
 作業効率を高め、ペースの速い環境でイシューを簡単に変換できるように、プロジェクト、レポート、ダッシュボードのイシューリストからイシューをタスクまたはプロジェクトに変換する機能があります。イシューを選択し、表示される 3 つのドットのメニューをクリックするだけです。
 
 ![イシューの変換オプションを示すプロジェクト画面の画像](assets/convert-from-a-list.png)
+
+## このトピックに関する推奨チュートリアル
+
+* [イシュー／リクエストのタスクへ変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

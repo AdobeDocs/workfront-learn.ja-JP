@@ -8,11 +8,12 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -43,7 +44,10 @@ ht-degree: 100%
 
 ![イシュー報告情報の画像。](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->ビューの作成方法については、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)を参照してください。
+
+## このトピックに関する推奨チュートリアル
+
+* [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [シンプルなレポートの作成](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
 

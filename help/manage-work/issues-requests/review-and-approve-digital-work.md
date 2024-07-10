@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +23,7 @@ ht-degree: 100%
 
 このビデオでは、次の方法を学習します：
 
-* 承認を見つける。対象：[!DNL Workfront Home]
+* で承認を検索 [!DNL Workfront Home]
 * プロジェクト、タスク、イシューの承認を行う
 * ドキュメントの承認を行う
 * プルーフの承認を行う
@@ -34,6 +35,11 @@ ht-degree: 100%
 >
 >承認が必要なドキュメント、プルーフおよび作業項目（プロジェクト、タスク、イシュー）は、[!DNL Workfront Home] だけでなくプロジェクトやカスタムレポートにもあります。
 
+## このトピックに関する推奨チュートリアル
+
+* [1 回限りの承認プロセスの作成](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [既存の承認プロセスの添付と編集](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [タスク、イシュー、承認を委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

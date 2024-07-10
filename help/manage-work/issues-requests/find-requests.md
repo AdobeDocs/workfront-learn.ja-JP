@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -33,3 +34,12 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
 カスタムレポートを作成してダッシュボードに配置する方法については、[基本レポート作成コース](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html?lang=ja)を参照してください。
+
+## このトピックに関する推奨チュートリアル
+
+* [リクエストキューについて](/help/manage-work/request-queues/understand-request-queues.md)
+* [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
+* [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
+* [イシュー／リクエストのプロジェクトへ変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [イシュー／リクエストのタスクへ変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
