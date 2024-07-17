@@ -11,9 +11,10 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
-source-git-commit: e91207d73b7a25f05a5b2cde0606b57291e695b0
-workflow-type: ht
-source-wordcount: '171'
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: tm+mt
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
@@ -38,5 +39,3 @@ ht-degree: 100%
 期間タイプについて詳しくは、[タスク期間と期間タイプ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=ja)を参照してください。
 
 タスク制約について詳しくは、[タスク制約](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=ja)を参照してください。
-
-

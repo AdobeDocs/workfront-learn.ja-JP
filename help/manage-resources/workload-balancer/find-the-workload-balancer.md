@@ -11,7 +11,7 @@ thumbnail: find-wlb.png
 jira: KT-10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 

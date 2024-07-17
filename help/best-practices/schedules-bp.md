@@ -39,7 +39,7 @@ ht-degree: 67%
 * Adobe Workfront システム管理者のカレンダーにリマインダーを追加して、毎年設定した時間にスケジュールを更新します。
 
 
-スケジュールの作成および管理方法については、を参照してください。 [スケジュールの作成と管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) チュートリアル。
+スケジュールの作成および管理方法については、チュートリアル [ スケジュールの作成と管理 ](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) を参照してください。
 
 </br>
 </br>

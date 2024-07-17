@@ -1,13 +1,13 @@
 ---
 title: ベストプラクティス - リソースプール
-description: Workfront リソースプールの設定、管理、使用に関する、Adobe Workfront のエキスパートによるベストプラクティスの推奨事項について説明します。
+description: Workfront リソースプールの設定、管理、使用に関する、Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションについて説明します。
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10923
 exl-id: 374bf818-644d-4c3c-83e6-b50589423fb1
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

@@ -1,14 +1,14 @@
 ---
 title: ベストプラクティス - ステータス
-description: Workfront ステータスの設定、管理、使用に関する、Adobe Workfront のエキスパートによるベストプラクティスの推奨事項について説明します。
+description: Workfront ステータスの設定、管理、使用に関する、Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションについて説明します。
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10926
 exl-id: c3a4fe42-339c-4063-ad67-045868bbc6b1
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '584'
+workflow-type: tm+mt
+source-wordcount: '585'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

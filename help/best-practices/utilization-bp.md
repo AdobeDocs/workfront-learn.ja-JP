@@ -1,13 +1,13 @@
 ---
 title: ベストプラクティス - 稼働率
-description: 稼働率レポートの設定、管理、使用に関する、Adobe Workfront のエキスパートによるベストプラクティスの推奨事項について説明します。
+description: 稼働率レポートの設定、管理、使用に関する、Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションについて説明します。
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10931
 exl-id: 553aae90-1f98-4659-a516-db96b682012e
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

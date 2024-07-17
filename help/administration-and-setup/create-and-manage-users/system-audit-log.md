@@ -11,8 +11,8 @@ thumbnail: 10040.jpeg
 jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '263'
+workflow-type: tm+mt
+source-wordcount: '265'
 ht-degree: 100%
 
 ---

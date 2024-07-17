@@ -1,14 +1,14 @@
 ---
 title: ベストプラクティス - 担当業務
-description: Workfront の担当業務の設定、管理、使用について、Adobe Workfront のエキスパートが推奨するベストプラクティスを確認します。
+description: Workfront の担当業務の設定、管理、使用について、Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションを確認します。
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '600'
+workflow-type: tm+mt
+source-wordcount: '602'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

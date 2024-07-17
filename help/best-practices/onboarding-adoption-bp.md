@@ -1,14 +1,14 @@
 ---
 title: ベストプラクティス - オンボーディングと採用
-description: Workfront へのユーザーのオンボーディングとユーザーによる採用の促進について、Adobe Workfront のエキスパートが推奨するベストプラクティスを確認します。
+description: Workfront へのユーザーのオンボーディングとユーザーによる採用の促進について、Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションを確認します。
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
 source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
-workflow-type: ht
-source-wordcount: '1055'
+workflow-type: tm+mt
+source-wordcount: '1057'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

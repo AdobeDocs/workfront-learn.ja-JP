@@ -27,7 +27,7 @@ ht-degree: 71%
 * 送信したリクエストの検索
 * 概要パネルでの更新
 * リクエストページを開きます
-* でリクエストを更新する [!UICONTROL 更新] panel
+* [!UICONTROL  更新 ] パネルのリクエストの更新
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

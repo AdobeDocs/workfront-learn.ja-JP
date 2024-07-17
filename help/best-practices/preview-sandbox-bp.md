@@ -1,13 +1,13 @@
 ---
 title: ベストプラクティス - サンドボックスをプレビュー
-description: Workfront のサンドボックスプレビュー環境の設定、管理、使用について、Adobe Workfront のエキスパートが推奨するベストプラクティスを確認します。
+description: Workfront のサンドボックスプレビュー環境の設定、管理、使用について、Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションを確認します。
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10917
 exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

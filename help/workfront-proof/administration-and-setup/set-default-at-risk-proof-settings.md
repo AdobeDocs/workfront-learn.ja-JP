@@ -11,8 +11,8 @@ thumbnail: set-default-at-risk-proof-settings.png
 jira: KT-10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '288'
+workflow-type: tm+mt
+source-wordcount: '289'
 ht-degree: 100%
 
 ---

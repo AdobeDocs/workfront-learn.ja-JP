@@ -1,6 +1,6 @@
 ---
-title: アクセス方法 [!UICONTROL Analytics の強化]
-description: システム管理者とグループ管理者がに対するアクセス権を付与する方法を説明します。 [!UICONTROL Analytics の強化] レイアウトテンプレートを使用する。
+title: '[!UICONTROL 拡張分析]にアクセスする方法'
+description: システム管理者とグループ管理者がレイアウトテンプレートを通じて[!UICONTROL 拡張分析]へのアクセス権を付与する方法について説明します。
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# 拡張分析へのアクセス方法
+# 拡張分析にアクセスする方法
 
-Workfrontの他のほとんどの機能と同様に、 [!UICONTROL Analytics の強化] を選択します。 しかし、 [!UICONTROL Analytics] は、デフォルトではメインメニューに表示されません。
+Workfront の他のほとんどの機能と同様に、メインメニューから[!UICONTROL 拡張分析]にアクセスします。ただし、[!UICONTROL Analytics] は、デフォルトではメインメニューにありません。
 
-![メインメニューの画像 ](assets/analytics-on-main-menu.png)
+![メインメニューの画像](assets/analytics-on-main-menu.png)
 
-表示されない場合は、システム管理者またはグループ管理者が追加する必要があります。 これは、レイアウトテンプレートでおこないます。 次のビデオでは、方法を説明しています。
+表示されない場合は、システム管理者またはグループ管理者が追加する必要があります。これは、レイアウトテンプレートで行います。次のビデオでは、方法について説明します。
 
 
 ## レイアウトテンプレートへの分析の追加

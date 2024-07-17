@@ -1,14 +1,14 @@
 ---
 title: ベストプラクティス - 組織単位
-description: Workfront の組織単位（企業、グループ、サブグループ、チーム）の設定、管理、および使用に関する Adobe Workfront のエキスパートによるベストプラクティスの推奨事項をご覧ください。（60 ～ 160 文字の範囲で指定しますが、178 文字になっています）
+description: Workfront の組織単位（企業、グループ、サブグループ、チーム）の設定、管理、および使用に関する Adobe Workfront のエキスパートによるベストプラクティスのレコメンデーションをご覧ください。（60 ～ 160 文字の範囲で指定しますが、178 文字になっています）
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '1431'
+workflow-type: tm+mt
+source-wordcount: '1434'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ベストプラクティスは、効果的で効率的な一連の行動を表すガイドラインです。お客様や会社のユーザーが簡単に採用でき、組織全体で正常に複製することができます。
 
-これらの推奨事項を確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
+これらのレコメンデーションを確認する際は、Workfront のベストプラクティスには普遍的なものもあれば、トピックに特化したものもあることにご留意ください。これらのベストプラクティスは、Workfront システムの設定や使用の指針となるフレームワークとしてご活用ください。
 
 ## このページのナビゲート
 

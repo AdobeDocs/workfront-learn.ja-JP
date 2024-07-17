@@ -11,8 +11,8 @@ thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
-workflow-type: ht
-source-wordcount: '445'
+workflow-type: tm+mt
+source-wordcount: '446'
 ht-degree: 100%
 
 ---
