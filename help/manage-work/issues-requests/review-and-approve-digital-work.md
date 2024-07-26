@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 96%
 
 このビデオでは、次の方法を学習します：
 
-* [!DNL Workfront Home] で承認を検索
+* [!DNL Workfront Home] で承認を検索する
 * プロジェクト、タスク、イシューの承認を行う
 * ドキュメントの承認を行う
 * プルーフの承認を行う
