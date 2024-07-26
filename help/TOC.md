@@ -135,7 +135,7 @@ ht-degree: 100%
 
    + イシュー／リクエスト {#issues-requests}
       + [予定外作業の処理](manage-work/issues-requests/handle-unplanned-work.md)
-      + [リクエストする](manage-work/issues-requests/make-a-request.md)
+      + [リクエストの作成](manage-work/issues-requests/make-a-request.md)
       + [リクエストを検索と管理](manage-work/issues-requests/find-requests.md)
       + [イシューの割り当てを管理](manage-work/issues-requests/manage-issue-assignments.md)
       + [リクエストの更新](manage-work/issues-requests/update-a-request.md)
