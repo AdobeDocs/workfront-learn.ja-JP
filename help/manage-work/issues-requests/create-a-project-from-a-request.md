@@ -1,6 +1,6 @@
 ---
 title: イシュー／リクエストのプロジェクトへ変換
-description: リクエストからプロジェクトへの変換を開始し、適切なプロジェクトテンプレートを選択して、変換を完了する方法を説明します。
+description: リクエストからプロジェクトへの変換を開始し、適切なプロジェクトテンプレートを選択して、変換を実施する方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 67%
 
 このビデオでは、以下の方法を説明します。
 
-* リクエストからプロジェクトへの変換を開始
+* リクエストからプロジェクトへの変換を開始する
 * 適切なプロジェクトテンプレートを選択する
 * リクエストからプロジェクトへの変換を実施する
 

@@ -1,6 +1,6 @@
 ---
 title: イシューに関するレポート
-description: オープンなイシューとコンバージョン情報を示すレポートを作成する方法について説明します。
+description: 未解決のイシューとコンバージョン情報を示すレポートを作成する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,18 +13,18 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # イシューに関するレポート
 
-このビデオでは、以下の項目の作成方法を説明します。
+このビデオでは、以下の作成方法を説明します。
 
-* 解決されたオブジェクトを示す問題報告書
-* 変換されたイシューの情報を示すプロジェクト報告書
+* 解決中のオブジェクトを示すイシューレポート
+* 変換済みイシュー情報を示すプロジェクトレポート
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
