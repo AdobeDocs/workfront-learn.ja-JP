@@ -3,10 +3,10 @@ user-guide-description: Workfront チュートリアル
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
-workflow-type: ht
-source-wordcount: '2404'
-ht-degree: 100%
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+workflow-type: tm+mt
+source-wordcount: '2407'
+ht-degree: 99%
 
 ---
 
@@ -642,7 +642,8 @@ ht-degree: 100%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [ワークロードバランサー](best-practices/workload-balancer-bp.md)
 
-
++ エグゼクティブ向けWorkfront {#workfront-for-executives}
+   + [エグゼクティブのための Workfront](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 100%
 + [スクラム方式の概要と仕組み](agile/what-is-the-scrum-methodology.md)
 + [かんばん方式の概要と仕組み](agile/what-is-the-kanban-methodology.md)
 + [アジャイルへの移行](agile/transitioning-to-agile.md)
-+ [エグゼクティブのための Workfront](workfront-for-executives/workfront-for-executives.md)
 + [リクエストの管理](manage-work/issues-requests/manage-incoming-requests.md)
 + [リソース処理能力のグラフについて](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 

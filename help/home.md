@@ -2,9 +2,9 @@
 title: Workfront チュートリアル
 description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。お客様とお客様の組織の両方が Workfront を使用して成功へつながる、ベストプラクティス、厳選された演習、その他のリソースのコレクションが含まれています。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -22,17 +22,6 @@ See other user landing pages to get ideas.
 
 -->
 
-<div id="whats-new-section">
-
-## 最新情報
-
-各 Workfront 製品リリースのチュートリアルに加えられた最新のアップデートをご確認ください。最新のリリースでアップデートされた機能を次に示します。
-
-* Workfront の上部のナビゲーションに、お気に入りと最近使用したもののアイコンが表示されます。 <a href="/help/manage-work/projects/find-projects.md">プロジェクトを検索</a>チュートリアルにそれぞれの簡単な概要があります。 
-
-* 複数のオブジェクトタイプで動作するようにカスタムフォームを設定します。<a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">カスタムフォームの作成と共有</a>のチュートリアルで方法を確認してください。
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
