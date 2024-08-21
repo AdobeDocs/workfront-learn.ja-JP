@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -642,7 +642,7 @@ ht-degree: 99%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [ワークロードバランサー](best-practices/workload-balancer-bp.md)
 
-+ エグゼクティブ向けWorkfront {#workfront-for-executives}
++ エグゼクティブのための Workfront {#workfront-for-executives}
    + [エグゼクティブのための Workfront](workfront-for-executives/workfront-for-executives.md)
 
 

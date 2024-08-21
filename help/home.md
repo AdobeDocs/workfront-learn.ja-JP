@@ -3,7 +3,7 @@ title: Workfront チュートリアル
 description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。お客様とお客様の組織の両方が Workfront を使用して成功へつながる、ベストプラクティス、厳選された演習、その他のリソースのコレクションが含まれています。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 

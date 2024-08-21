@@ -1,6 +1,6 @@
 ---
 title: リクエストフローの設定について
-description: リクエストフローと、ルーティングルール、トピックグループ、キューのトピックを使用してリクエストフローを作成する方法を説明します。
+description: リクエストフローの概要と、ルーティングルール、トピックグループ、キュートピックを使用してリクエストフローを作成する方法について説明します。
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 

@@ -11,16 +11,16 @@ thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 source-git-commit: 8deb28bbeeb814cfe03506c0b8d045a742950ab9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
 # カスタムフィールドの共有
 
 
-このビデオでは、カスタムフィールドを表示または編集できるユーザーを決定する方法について説明します。
+このビデオでは、カスタムフィールドの表示や編集を行うことができるユーザーを決定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on)
 
