@@ -7,28 +7,34 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-20T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ca218d2e86f45417b2165330f66057d50fd3d989
+source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
 
-# 中間レベルのプロジェクトの概要
+# 中間レベルのプロジェクトの概要 {#overview}
 
 以下のチュートリアルでは、Workfrontの様々なプロジェクト管理ツールと、いくつかのプロのヒントおよびベストプラクティスについて深く理解します。
 
 >[!PREREQUISITES]
 >
+>* Workfrontの使用に関する十分な理解
+>* プロジェクトを作成する権限がある標準ライセンスタイプ
 >* [ プロジェクトマネージャー向けWorkfrontの概要 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 >* [ プロジェクト概要の管理とクローズ ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners)
 >* [ プロジェクトマネージャーとしての作業管理の概要に関する理解を深める ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners)
+
+## ターゲットオーディエンス
+
+標準ライセンスのユーザーで、プロジェクトを作成または管理します。
 
 ## チュートリアル
 
