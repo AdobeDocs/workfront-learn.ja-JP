@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 15%
@@ -38,6 +38,6 @@ ht-degree: 15%
 
 ## チュートリアル
 
-* [期間のタイプとタスクの制約の確認と管理について](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-* [プロジェクト間先行タスクについて](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-* [高度な先行タスク](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+* [期間のタイプとタスクの制約の確認と管理について](understand-and-manage-duration-types-and-task-constraints.md)
+* [プロジェクト間先行タスクについて](understand-cross-project-predecessors.md)
+* [高度な先行タスク](advanced-predecessors.md)

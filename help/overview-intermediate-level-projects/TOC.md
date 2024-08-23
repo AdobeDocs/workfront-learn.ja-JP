@@ -5,10 +5,10 @@ breadcrumb-title: 中間レベルのプロジェクトの概要
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 4de19871b69d3d1eec2793065046072dec0ae5c1
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # 中間レベルのプロジェクトの概要 {#intermediate-level-projects}
 
 + [中間レベルのプロジェクトの概要](overview.md)
-+ [ 期間タイプとタスクの制約について ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints)
-+ [ プロジェクト間先行タスクについて ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors)
-+ [ 詳細な先行タスク ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/advanced-predecessors)
++ 中間レベルのプロジェクト {#intermediate-level-projects}
+   + [期間のタイプとタスクの制約の確認と管理について](understand-and-manage-duration-types-and-task-constraints.md)
+   + [プロジェクト間先行タスクについて](understand-cross-project-predecessors.md)
+   + [高度な先行タスク](advanced-predecessors.md)
 
