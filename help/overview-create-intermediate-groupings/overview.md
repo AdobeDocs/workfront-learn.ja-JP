@@ -12,7 +12,7 @@ jira: KT-11401
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 6%
@@ -38,5 +38,5 @@ ht-degree: 6%
 
 ## チュートリアル
 
-[グループ化の基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+[グループ化の基本的なテキストモードについて](basic-text-mode-for-groupings.md)
 

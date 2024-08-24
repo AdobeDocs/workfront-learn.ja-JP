@@ -5,10 +5,10 @@ breadcrumb-title: Portfolioの概要
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 33%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # Portfolioの概要 {#portfolios}
 
 + [Portfolioの概要](overview.md)
-+ [ ポートフォリオについて ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)
-+ [ ビジネスケース [!UICONTROL  ついて ]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)
-+ [[!UICONTROL Portfolioオプティマイザーを使用 ] して、作業の優先順位と管理を行います ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)
++ Portfolioの概要 {#portfolios}
+   + [ポートフォリオについて](overview-of-adobe-workfront-portfolios.md)
+   + [[!UICONTROL ビジネスケース]について](introduction-to-the-business-case.md)
+   + [[!UICONTROL ポートフォリオオプティマイザー]を使用して、作業に優先順位を付けて管理](prioritize-and-manage-work-with-portfolios.md)
 

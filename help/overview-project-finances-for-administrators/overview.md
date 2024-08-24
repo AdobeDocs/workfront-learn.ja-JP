@@ -12,7 +12,7 @@ jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 23%
@@ -37,8 +37,8 @@ Workfrontで財務を設定するシステム管理者またはグループ管�
 
 ## チュートリアル
 
-* [パフォーマンス指標について](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [タスクの収益とコストのデフォルトの設定](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [為替レートの設定](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [費用タイプを設定する](/help/manage-work/project-finances/set-up-expense-types.md)
-* [財務アクセスについて](/help/manage-work/project-finances/understand-financial-access.md)
+* [パフォーマンス指標について](understand-performance-metrics.md)
+* [タスクの収益とコストのデフォルトの設定](set-up-task-revenue-and-cost-defaults.md)
+* [為替レートの設定](set-up-exchange-rates.md)
+* [費用タイプを設定する](set-up-expense-types.md)
+* [財務アクセスについて](understand-financial-access.md)
