@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
-exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
+hide: true
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -28,5 +28,6 @@ ht-degree: 94%
 プロジェクトをコピーウィンドウでは、タイトルと状態を変更したり、プロジェクトに関連付けられた様々なデータ（割り当て、ドキュメント、カスタムデータなどのオプション）を消去したりできます。
 
 ![ プロジェクトオプションをコピー ](assets/copy-existing-02.png)
+
 
 「割り当てのクリア」を選択するか、状態を「計画」に設定すると、コピーしたプロジェクトはコピー直後にタスクの割り当て通知を送信できなくなります。

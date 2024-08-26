@@ -1,14 +1,14 @@
 ---
 user-guide-title: ユーザー向けプロジェクトの財務の概要
 user-guide-description: コスト、価値、リスク、組織目標との整合性に基づいて、現在のプロジェクトと提案されたプロジェクトに優先順位を付ける方法を説明します。
-breadcrumb-title: Portfolioの概要
+breadcrumb-title: ユーザー向けプロジェクトの財務の概要
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 28%
+source-wordcount: '55'
+ht-degree: 27%
 
 ---
 
