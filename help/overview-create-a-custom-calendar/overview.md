@@ -1,63 +1,45 @@
 ---
 title: カスタムカレンダーの作成：概要
-description: 今
+description: カスタムカレンダーでは、プロジェクト、タスクおよび問題から日付や情報を直接カレンダー形式で表示できます。
 feature: Reports and Dashboards
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
-jira: KT-
+last-substantial-update: 2024-08-26T00:00:00Z
+jira: KT-10662
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 63%
+source-wordcount: '116'
+ht-degree: 22%
 
 ---
 
 
 # カスタムカレンダーの作成：概要 {#overview}
 
-今
+カスタムカレンダーでは、プロジェクト、タスクおよび問題から日付や情報を直接カレンダー形式で表示できます。
 
 >[!PREREQUISITES]
 >
->* Workfrontの使用に関する十分な理解
->* プロジェクトを作成する権限がある標準ライセンスタイプ
->* [ プロジェクトマネージャー向けWorkfrontの概要 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* Workfrontの使用に関する基本的な理解
+>* レポートとフィルターを作成する権限がある標準ライセンスタイプ
+>* [ 基本レポート要素の概要 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)
 
 
 ## ターゲットオーディエンス
 
-標準ライセンスのユーザーで、プロジェクトを作成または管理します。
+* カスタムカレンダーの作成を希望する Standard ライセンスユーザー
+* カスタムカレンダーで実行できる操作を理解したいユーザー
 
 ## チュートリアル
 
-### プロジェクトの管理
+* [カレンダーレポートインターフェイスについて](tour-of-the-interface.md)
+* [カスタムカレンダーレポートを作成](creating-custom-calendars.md)
+* [追加のカレンダーレポートオプションについて](additional-calendar-options.md)
+* [カレンダーレポートを作成してみましょう](your-turn-to-create-a-calendar.md)
 
-* [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクトの検索](/help/manage-work/projects/find-projects.md)
-* [プロジェクトの共有](/help/manage-work/projects/share-a-project.md)
-* [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
-* [プロジェクトのコミュニケーションについて](/help/manage-work/projects/understand-project-communication.md)
-* [プロジェクト情報の表示](/help/manage-work/projects/view-project-information.md)
-* [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL ガント]ビューについて](/help/manage-work/projects/understand-the-gantt-view.md)
-* [[!UICONTROL ボード]ビューについて](/help/manage-work/projects/understand-the-board-view.md)
-
-
-### プロジェクトを閉じる
-
-* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-* [タスクおよびイシューを閉じる](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
-* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
-* [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [財務の更新とレビュー](/help/manage-work/project-finances/update-and-review-finances.md)
-* [プロジェクトアクティビティを閉じる](/help/manage-work/close-a-project/close-a-project-activity.md)
