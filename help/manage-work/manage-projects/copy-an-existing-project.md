@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 94%
 
 コピーするプロジェクトに移動し、プロジェクト名の横にある 3 点メニューをクリックします。次に、「コピー」を選択します。
 
-![ プロジェクトをコピーメニューオプション ](assets/copy-existing-01.png)
+![「プロジェクトをコピー」メニューオプション](assets/copy-existing-01.png)
 
 プロジェクトをコピーウィンドウでは、タイトルと状態を変更したり、プロジェクトに関連付けられた様々なデータ（割り当て、ドキュメント、カスタムデータなどのオプション）を消去したりできます。
 
-![ プロジェクトオプションをコピー ](assets/copy-existing-02.png)
+![「プロジェクトをコピー」オプション](assets/copy-existing-02.png)
 
 「割り当てのクリア」を選択するか、状態を「計画」に設定すると、コピーしたプロジェクトはコピー直後にタスクの割り当て通知を送信できなくなります。
