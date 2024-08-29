@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Workfrontを最大限に活用する方法について詳しくは、こちら�
 * [ マイルストーンの適用 ](apply-milestones.md) - マイルストーンパスをプロジェクトに適用し、主要タスクをマイルストーンのステップとしてプロジェクト内で関連付ける方法を説明します。
 * [ マイルストーンの表示 ](view-milestones.md) - Adobe Workfront プロジェクトでマイルストーンを表示する方法と、プロジェクトエリアでマイルストーンビューを使用する方法について説明します。
 
+
 ## イシューの操作方法
 
 イシューに関する予定外作業の処理方法、イシューの他の作業項目への変換方法、イシューの割り当ての管理方法、イシューに関するレポート作成方法について説明します。
@@ -86,13 +87,6 @@ Workfrontを最大限に活用する方法について詳しくは、こちら�
 * [ イシュー/リクエストをタスクに変換 ](convert-issues-to-other-work-items.md) - イシューをタスクに変換する方法について説明します。
 * [ イシューのレポート ](report-on-issues.md) – 解決されたオブジェクトを示すイシューレポートと、変換されたイシュー情報を示すプロジェクトレポートを作成する方法を説明します。
 
-## プロジェクトタイムライン
-
-プロジェクトのスケジュールを設定し、進行状況を追跡する方法を説明します。
-
-* [ プロジェクトのタイムラインについて ](understand-project-timelines.md) – 開始日または完了日からプロジェクトをスケジュールする方法を説明します。 次に、期間、先行タスク、タスクの制約がプロジェクトプランに与える影響を説明します。
-* [ 日付タイプと進捗ステータスについて ](understand-task-dates-and-progress-status.md) - Workfrontの様々な日付タイプを比較するビューを選択する方法と、進捗ステータスフィールドの使用方法を説明します。
-* [ プロジェクトタイムラインからの進捗の追跡 ](track-work-progress-from-the-project-timeline.md) – 完了率、ステータス、割り当て、タスクの制約を使用して、プロジェクトタイムラインから進捗を追跡する方法を説明します。
 
 ## 深く掘り下げる
 
