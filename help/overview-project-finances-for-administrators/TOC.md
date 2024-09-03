@@ -1,22 +1,22 @@
 ---
-user-guide-title: 管理者向けプロジェクトの財務の概要
-user-guide-description: コスト、価値、リスク、組織目標との整合性に基づいて、現在のプロジェクトと提案されたプロジェクトに優先順位を付ける方法を説明します。
-breadcrumb-title: 管理者向けプロジェクトの財務の概要
+user-guide-title: プロジェクトの財務（管理者向け）
+user-guide-description: システム全体の財務設定を確立して、組織全体で請求とレポートの一貫性を確保する方法を説明します。
+breadcrumb-title: プロジェクトの財務（管理者向け）
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '57'
+ht-degree: 63%
 
 ---
 
 
 
-# 管理者向けプロジェクトの財務の概要 {#project-finances-for-administrators}
+# プロジェクトの財務（管理者向け） {#project-finances-for-administrators}
 
-+ [管理者向けプロジェクトの財務の概要](overview.md)
++ [プロジェクトの財務（管理者向け）](overview.md)
 + 管理者向けプロジェクトの財務 {#project-finances-for-administrators}
    + [パフォーマンス指標について](understand-performance-metrics.md)
    + [タスクの収益とコストのデフォルトの設定](set-up-task-revenue-and-cost-defaults.md)

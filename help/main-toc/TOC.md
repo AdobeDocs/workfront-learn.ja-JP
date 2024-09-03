@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2412'
+source-wordcount: '2417'
 ht-degree: 99%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 99%
       + [イシューの重要度の作成と管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [イシューのタイプと用語をカスタマイズする](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [グローバルなデフォルトのイシュー環境設定を構成する](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-      + [ビジネス・ルールの作成と管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [ビジネスルールの作成および管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + レイアウトテンプレート {#layout-templates}
       + [レイアウトテンプレートとは](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -585,6 +585,12 @@ ht-degree: 99%
 
 + アジャイル {#agile}
 
+   + アジャイル作業管理 {#intro-to-agile} ールの概要
+      + [アジャイルを使用するメリット](/help/agile/benefits-of-using-agile.md)
+      + [スクラム方式の概要と仕組み](/help/agile/what-is-the-scrum-methodology.md)
+      + [かんばん方式の概要と仕組み](/help/agile/what-is-the-kanban-methodology.md)
+      + [アジャイルへの移行](/help/agile/transitioning-to-agile.md)
+
    + スクラム {#scrum}
       + [アジャイルチームのスクラムの作成](/help/agile/create-a-scrum-agile-team.md)
       + [スクラムチームとしての作業の管理](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 99%
 
 
 
-+ [アジャイルを使用するメリット](/help/agile/benefits-of-using-agile.md)
-+ [スクラム方式の概要と仕組み](/help/agile/what-is-the-scrum-methodology.md)
-+ [かんばん方式の概要と仕組み](/help/agile/what-is-the-kanban-methodology.md)
-+ [アジャイルへの移行](/help/agile/transitioning-to-agile.md)
+
 + [リクエストの管理](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [リソース処理能力のグラフについて](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
