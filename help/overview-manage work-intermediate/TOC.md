@@ -6,13 +6,12 @@ breadcrumb-title: 作業の管理 – 中級
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 64%
 
 ---
-
 
 
 # 作業の管理 – 中級 {#manage-work-intermediate}

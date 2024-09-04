@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Adobe Workfrontでのプロジェクトの概要、立ち上げ方法、プロ�
 * [ プロジェクトを作成する 4 つの方法について ](understand-other-ways-to-create-projects.md) - テンプレートからプロジェクトを作成する方法、ゼロからプロジェクトを作成する方法、既存のプロジェクトをコピーする方法、[!DNL Microsoft Project] ファイルを読み込む方法を説明します。
 * [ プロジェクト詳細の入力 ](fill-in-the-project-details.md) - Adobe Workfrontでプロジェクト作成時に入力することが推奨される、「プロジェクト詳細」フィールドについて説明します。
 * [ プロジェクトページに移動 ](navigate-the-project-page.md) - プロジェクトの詳細、タスクリストに表示される情報、ドキュメントのアップロード先、更新履歴の表示方法について説明します。
-
 
 ## プロジェクトを計画
 
@@ -76,7 +75,6 @@ Adobe Workfrontでのプロジェクトの概要、立ち上げ方法、プロ�
 * [ プロジェクトタイムラインからの進捗の追跡 ](track-work-progress-from-the-project-timeline.md) – 完了率、ステータス、割り当て、タスクの制約を使用して、プロジェクトタイムラインから進捗を追跡する方法を説明します。
 * [[!UICONTROL  ガント ] ビューについて ](understand-the-gantt-view.md) - プロジェクト [!UICONTROL  ガント ] チャートとタスク [!UICONTROL  ガント ] チャートの使用方法を説明します。
 * [[!UICONTROL  ボード ] ビューについて ](understand-the-board-view.md) - ボードビューの場所と使用方法について説明します。
-
 
 ## プロジェクトを閉じる
 
