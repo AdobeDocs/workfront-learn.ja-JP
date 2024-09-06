@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ ht-degree: 100%
 **その理由は次のとおりです**
 
 レイアウトテンプレートを作成する際は、チーム内、グループ内、同じ担当業務の人など、なるべく多くの人のニーズを満たせる方法で作成するようにします。レイアウトテンプレートの数が少ないほど、システム管理者やグループ管理者によるメンテナンスを軽減できます。
+
