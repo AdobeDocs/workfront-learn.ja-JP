@@ -9,10 +9,10 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 50%
+source-wordcount: '709'
+ht-degree: 48%
 
 ---
 
@@ -49,6 +49,10 @@ ht-degree: 50%
 **リクエストのカスタムフォームからプロジェクトのカスタムフォームに情報を転送できますか？**
 
 はい。 カスタムフォームを作成するときは、[!UICONTROL プロジェクト]と[!UICONTROL イシュー]の両方をオブジェクトタイプとして選択します。また、プロジェクトのカスタムフォームを編集して、イシューのオブジェクトタイプを含めることも、その逆も可能です。
+
+![ カスタムフォームの作成時に 2 つのオブジェクトタイプを選択する方法を示す画像 ](assets/faq-image-1.png)
+
+![ カスタムフォームの編集時に 2 つのオブジェクトタイプを選択する方法を示す画像 ](assets/faq-image-2.png)
 
 リクエストにカスタムフォームを添付します。 リクエストをプロジェクトに変換すると、カスタムフォームは新しいプロジェクトに自動的に添付され、フィールドに含まれる値はリクエストとプロジェクトのカスタムフォームの両方に表示されるようになります。
 
