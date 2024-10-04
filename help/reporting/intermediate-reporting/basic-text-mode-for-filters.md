@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ ht-degree: 100%
 ## タスク -「自分の担当部分を完了」とマークしたタスクをフィルタリングで除外します
 
 次のテキストモードでは、ユーザーが「自分の担当部分を完了」とマークしたタスクが除外されます。必要な操作は、タスクフィルターを作成し、必要なフィルタールールを追加してから、テキストモードに切り替えて、フィルターに表示されるテキストモードの後に以下のコードをペーストするだけです。
+
+
+>[!WARNING]
+>
+> これは、カレンダーフィルターでの使用は意図されていません。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## タスク - 他のユーザーに割り当てたすべてのタスクの表示
 
 必要なフィルターを使用してタスクレポートを作成し「フィルター」タブに移動して、「テキストモードに切り替える」をクリックします。既に存在するものにこのコードを追加します。
+
+>[!WARNING]
+> 
+> これは、カレンダーフィルターでの使用は意図されていません。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
