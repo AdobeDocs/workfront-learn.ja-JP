@@ -1,6 +1,6 @@
 ---
 title: マイルストーンの適用
-description: ' [!DNL  Workfront]  のプロジェクトにマイルストーンパスを適用し、主要タスクをマイルストーンのステップとしてプロジェクト内で関連付ける方法を説明します。'
+description: マイルストーンパスをプロジェクトに適用し、主要タスクをマイルストーンのステップとしてプロジェクト内で関連付ける方法を説明します。
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,13 +9,14 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 68%
 
 ---
 
@@ -31,5 +32,10 @@ ht-degree: 100%
 
 >[!TIP]
 >
->マイルストーンビューの作成方法については、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)のマイルストーンビューアクティビティを参照してください。
+>マイルストーンビューの作成方法については、[基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)のマイルストーンビューアクティビティを参照してください。
 
+## このトピックに関する推奨チュートリアル
+
+* [マイルストーンの表示](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [マイルストーンの作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [基本ビューの作成の「マイルストーン」ビューアクティビティ](/help/reporting/basic-reporting/create-a-basic-view.md)
