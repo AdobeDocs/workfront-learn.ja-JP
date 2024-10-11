@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-01-09T00:00:00Z
+recommendations: noDisplay,noCatalog
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -31,3 +32,9 @@ ht-degree: 100%
 ## プロジェクトテンプレートのアクティブなステータスを表示および編集するためのカスタムビューを作成する方法について説明します。
 
 アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の「**プロジェクトテンプレートのアクティブなステータスビュー**」アクティビティを参照してください。
+
+## このトピックに関する推奨チュートリアル
+
+* [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
