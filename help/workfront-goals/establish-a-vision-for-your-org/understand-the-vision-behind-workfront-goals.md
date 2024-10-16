@@ -2,7 +2,7 @@
 title: '[!UICONTROL Workfront Goals] の背後にあるビジョンについて'
 description: ' [!DNL  Workfront] の [!DNL Workfront Goals] について製品チームから説明します。'
 activity: use
-feature: Workfront Goals,Get Started with Workfront
+feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
@@ -10,17 +10,13 @@ team: Technical Marketing
 jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 100%
+source-wordcount: '34'
+ht-degree: 55%
 
 ---
 
 # Workfront Goals の背後にあるビジョンについて
 
-このビデオでは、次のことについて説明します。
-
-* [!DNL  Workfront] の [!DNL Workfront Goals]
-
->[!VIDEO](https://video.tv.adobe.com/v/335181/?quality=12&learn=on)
+このビデオは削除されました。 [Workfront Goals の仕組みについて ](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md) を参照して開始してください。
