@@ -1,6 +1,6 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '2408'
 ht-degree: 99%
@@ -165,7 +165,7 @@ ht-degree: 99%
       + [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [既存のプロジェクトのコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [既存のプロジェクトをコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
@@ -236,10 +236,10 @@ ht-degree: 99%
       + [追加のカレンダーレポートオプションについて](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [カレンダーレポートを作成してみましょう](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Enhanced Analytics {#enhanced-analytics}
-      + [[!UICONTROL Enhanced Analytics] に関する製品の重要性](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+   + 拡張分析 {#enhanced-analytics}
+      + [製品に関する重要性 [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [[!UICONTROL 拡張分析]にアクセスする方法](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [[!UICONTROL Enhanced Analytics] へのアクセス方法](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [作業グラフと人物グラフについて](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [フィルターについて](/help/reporting/enhanced-analytics/6-filters-overview.md)

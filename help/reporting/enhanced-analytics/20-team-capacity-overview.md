@@ -1,6 +1,6 @@
 ---
 title: チーム処理能力について
-description: '[!UICONTROL 拡張分析]のチーム処理能力グラフで、ホームチームが作業を過剰に割り当てられたときや、過少に割り当てられたときを表示する方法を説明します。'
+description: '[!UICONTROL  拡張分析 ] のチーム処理能力グラフで、ホームチームが割り当て過剰または割り当て過少になったタイミングを表示する方法を説明します。'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 

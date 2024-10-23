@@ -1,6 +1,6 @@
 ---
 title: 更新してアクションを実行
-description: '[!UICONTROL 拡張分析]の「進行中のタスク」チャート内から更新を行う方法を説明します。'
+description: '[!UICONTROL  拡張分析 ] の「進行中のタスク」チャート内から更新を行う方法を説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -12,10 +12,10 @@ jira: KT-8736
 recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
 
