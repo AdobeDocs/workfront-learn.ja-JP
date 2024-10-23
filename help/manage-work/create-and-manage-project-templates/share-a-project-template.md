@@ -1,6 +1,6 @@
 ---
 title: プロジェクトテンプレートの共有
-description: プロジェクトテンプレートを共有する方法、およびテンプレートから作成されたプロジェクトを共有する方法を説明します。
+description: プロジェクトテンプレートを共有する方法およびテンプレートから作成されたプロジェクトを共有する方法について説明します。
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -13,9 +13,9 @@ jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
