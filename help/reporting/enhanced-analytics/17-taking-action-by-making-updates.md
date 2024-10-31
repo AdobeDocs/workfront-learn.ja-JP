@@ -1,6 +1,6 @@
 ---
 title: 更新してアクションを実行
-description: '[!UICONTROL  拡張分析 ] の「進行中のタスク」チャート内から更新を行う方法を説明します。'
+description: '[!UICONTROL 拡張分析]のフライトチャートのタスク内から更新を行う方法を説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

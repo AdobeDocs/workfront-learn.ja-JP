@@ -1,6 +1,6 @@
 ---
 title: バーンダウンチャートのアクセスとレビューについて
-description: '[!UICONTROL Enhanced Analytics] でバーンダウンチャートにアクセスし、残り時間、プロジェクトの状態、プロジェクトの速度の関係を理解する方法について説明します。'
+description: バーンダウンチャートにアクセスし[!UICONTROL 拡張分析]で、残り時間、プロジェクトの状態、プロジェクトの速度の関係を確認する方法について説明します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 作業チャートと人物チャートについて
-description: '[!UICONTROL Enhanced Analytics] では、作業チャートはプロジェクトとタスクの観点からのアクティビティを示し、人物チャートはホームチームの観点からのアクティビティを示します。'
+description: '[!UICONTROL 拡張分析]では、作業チャートはプロジェクトとタスクの観点からのアクティビティを示し、人物チャートはホームチームの観点からのアクティビティを示します。'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 

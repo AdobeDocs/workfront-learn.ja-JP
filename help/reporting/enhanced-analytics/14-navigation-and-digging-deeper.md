@@ -1,6 +1,6 @@
 ---
 title: ナビゲーションの詳細
-description: '[!UICONTROL Enhanced Analytics] で、従業員が各プロジェクトに費やしている時間を迅速に確認する方法を説明します。'
+description: '[!UICONTROL 拡張分析]で、従業員が各プロジェクトに費やしている時間を迅速に確認する方法について説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -13,9 +13,9 @@ doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

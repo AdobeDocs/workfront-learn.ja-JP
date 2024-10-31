@@ -1,6 +1,6 @@
 ---
 title: アクションについて - ポインタを合わせてクリック＆ドラッグし、クリックイン
-description: '[!UICONTROL  拡張分析 ] で、グラフにポインタを合わせ、グラフに時間枠を作成し、追加のグラフを表示して、詳細情報を取得する方法を説明します。'
+description: '[!UICONTROL 拡張分析]で、グラフにポインタを合わせる方法、グラフに時間枠を作成する方法、追加のグラフを表示する方法など、詳細情報を取得する方法のすべてについて説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

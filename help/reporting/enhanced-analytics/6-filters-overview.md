@@ -1,6 +1,6 @@
 ---
 title: フィルターについて
-description: '[!UICONTROL Enhanced Analytics] で、共通のプロジェクトフィールドに基づいてフィルターを追加する方法、およびカスタムフォームを使用してフィルターを追加する方法を説明します。'
+description: '[!UICONTROL 拡張分析]で、共通のプロジェクトフィールドに基づいてフィルターを追加する方法、およびカスタムフォームを使用してフィルターを追加する方法について説明します。'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 

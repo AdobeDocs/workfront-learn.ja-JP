@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Enhanced Analytics] の基本を学ぶ'
+title: '[!UICONTROL 拡張分析]の基本を学ぶ'
 description: Workfront でチームやプロジェクトの進行状況を Enhanced Analytics で表示できるようにするために、Workfront で更新するべき最も重要なフィールドについて学びます。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Enhanced Analytics] の基本を学ぶ
+# [!UICONTROL 拡張分析]の基本を学ぶ
 
 Enhanced Analytics では、Workfront でのチームやプロジェクトの進行状況や、今後のプロジェクトの計画に役立つ以前のプロジェクトで発生したことを確認できます。
 
