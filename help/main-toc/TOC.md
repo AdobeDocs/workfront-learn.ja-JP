@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2408'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -238,8 +238,8 @@ ht-degree: 99%
 
    + 拡張分析 {#enhanced-analytics}
       + [製品に関する重要性 [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [[!UICONTROL Enhanced Analytics] の基本を学ぶ](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [[!UICONTROL Enhanced Analytics] へのアクセス方法](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [[!UICONTROL 拡張分析]の基本を学ぶ](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [[!UICONTROL 拡張分析]にアクセスする方法](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [基本的なナビゲーションについて](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [作業グラフと人物グラフについて](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [フィルターについて](/help/reporting/enhanced-analytics/6-filters-overview.md)
@@ -629,7 +629,7 @@ ht-degree: 99%
    + [サンドボックスのプレビュー](/help/best-practices/preview-sandbox-bp.md)
    + [プロジェクト、タスク、イシューの環境設定](/help/best-practices/project-task-issue-preferences-bp.md)
    + [プロジェクトテンプレート](/help/best-practices/project-templates-bp.md)
-   + [Workfront Proof](/help/best-practices/proofing-bp.md)
+   + [プルーフ](/help/best-practices/proofing-bp.md)
    + [リクエストキュー](/help/best-practices/request-queues-bp.md)
    + [リソースプランナー](/help/best-practices/resource-planner-bp.md)
    + [リソース プール](/help/best-practices/resource-pools-bp.md)
