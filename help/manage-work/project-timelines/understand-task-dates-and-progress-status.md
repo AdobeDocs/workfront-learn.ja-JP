@@ -1,6 +1,6 @@
 ---
 title: 日付タイプと進捗ステータスについて
-description: ' [!DNL  Workfront]  で様々な日付タイプを表示する方法と、進捗ステータスを使用して作業の進捗を追跡する方法を説明します。'
+description: 予定日、見込み日、実際の日付と、それらの日付が進捗ステータスの計算にどのように使用されるかを説明します。
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -9,31 +9,34 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
+last-substantial-update: 2024-11-08T00:00:00Z
+recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9bf98f05ec4c3d838ea0e85423c156cc411b0169
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 53%
 
 ---
 
 # 日付タイプと進捗ステータスについて
 
-このビデオでは、以下の方法を説明します。
+このビデオでは、以下について説明します。
 
-* [!DNL Workfront's] の様々な日付タイプを比較するビューの選択
-* 進捗ステータスを使用した作業の進捗の追跡
+* 予定日、見込み日、実際の日付
+* 進捗ステータスの計算での使用方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->ビデオで説明されているように、[!UICONTROL 実際の開始日]が正しくなるように、タスクの開始時にステータスを「**[!UICONTROL 新規]**」から「**[!UICONTROL 進行中]**」に変更することが重要です。ただし、タスクの開始時にこの操作を実行し忘れた場合は、戻って[!UICONTROL 実際の開始日]をいつでも編集できます。
+>ユーザーがタスクを開始する際は、**[!UICONTROL 実際の開始日]** が正しくなるよう、ステータスを **[!UICONTROL 新規 ] から [!UICONTROL  処理中]** に変更することが重要です。 ただし、タスクの開始時にこの操作を実行し忘れた場合は、戻って[!UICONTROL 実際の開始日]をいつでも編集できます。
 
 
-<!---
-Task progress status overview
-Definitions for the project, task, and issue dates within Workfront
-Project timelines
---->
+## このトピックに関する推奨チュートリアル
+
+* [プロジェクトタイムラインについて](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [プロジェクトタイムラインからの進捗の追跡](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [期間のタイプとタスクの制約の確認と管理について](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
