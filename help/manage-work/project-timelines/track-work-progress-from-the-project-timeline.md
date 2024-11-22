@@ -1,6 +1,6 @@
 ---
 title: プロジェクトタイムラインからの進捗の追跡
-description: で、完了率と進捗ステータスを使用して、プロジェクトタイムラインから作業の進捗を追跡する方法を説明します。
+description: 完了率と進捗ステータスを使用して、プロジェクトタイムラインから作業の進捗を追跡する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
