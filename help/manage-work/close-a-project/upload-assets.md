@@ -1,6 +1,6 @@
 ---
 title: アセットのアップロード
-description: すべての関連データがプロジェクトに関連付けられるように、プロジェクトを閉じる前に、ドキュメントとプルーフをプロジェクトにアップロードします。
+description: すべての関連データがプロジェクトに関連付けられるように、プロジェクトを閉じる前に、ドキュメントおよびプルーフをプロジェクトにアップロードします。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,15 +13,15 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # アセットのアップロード
 
-このビデオでは、ドキュメントとプルーフで承認を確認する方法を説明します。
+このビデオでは、ドキュメントとプルーフに対して承認を確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 
