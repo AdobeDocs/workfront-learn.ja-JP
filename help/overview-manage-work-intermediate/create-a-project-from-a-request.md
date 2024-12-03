@@ -9,13 +9,14 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 04b1640a-f259-4c4d-8134-f15b9f944441
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
@@ -35,4 +36,3 @@ ht-degree: 0%
 * [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
 * [イシュー／リクエストのタスクへ変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 * [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
-

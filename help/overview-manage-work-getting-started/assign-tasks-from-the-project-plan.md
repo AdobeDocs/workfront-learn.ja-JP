@@ -10,10 +10,11 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -47,4 +48,3 @@ Modify multiple user assignments in a task list
 * [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
 * [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
-
