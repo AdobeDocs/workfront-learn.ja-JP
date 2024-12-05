@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2404'
+ht-degree: 99%
 
 ---
 
@@ -255,7 +255,6 @@ ht-degree: 0%
       + [進行中のタスクのレビュー](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [更新してアクションを実行](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [チーム別アクティビティのグラフについて](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [チーム処理能力について](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [KPI 比較のユースケースについて](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [エンドユーザーのユースケースについて](/help/reporting/enhanced-analytics/22-end-user-use.md)
       + [コンサルティングガイダンスについて](/help/reporting/enhanced-analytics/23-consulting-guidance.md)

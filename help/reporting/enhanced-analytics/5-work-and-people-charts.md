@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 85%
 
 ---
 
@@ -40,11 +40,8 @@ ht-degree: 100%
 * フライトプランビューでプロジェクトをクリックすると、そのプロジェクトの下にバーンダウンビューが表示されます。
 * ツリーマップビューでプロジェクトをクリックすると、その下にバーンダウンビューと実行中タスクビューの両方が表示されます。
 
-## 人物チャート
+## 人物グラフ
 
 ![で [!UICONTROL Analytics] 機能を見つけている画像[!DNL Workfront Classic]](assets/section-1-2.png)
 
-人物チャートは、次の要素で構成されます。
 
-1. チームごとのアクティビティ
-1. チームアクティビティ
