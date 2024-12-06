@@ -14,8 +14,8 @@ jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 78%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 78%
 
 このビデオでは、次の方法を学習します：
 
-* 配達確認の承認の確認
-* ドキュメントの承認の確認
-* ドキュメントのアップロード
-* プルーフのアップロードに関するトレーニングを見つける
+* プルーフの承認を確認
+* ドキュメントの承認を確認
+* ドキュメントをアップロード
+* プルーフのアップロードに関するトレーニングを検索
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
