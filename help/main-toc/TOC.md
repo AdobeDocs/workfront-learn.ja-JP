@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2396'
 ht-degree: 99%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 99%
 
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-      + [タスクおよびイシューを閉じる](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
       + [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
       + [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [プロジェクトアクティビティを閉じる](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + ユーザーのプロジェクトの財務 {#project-finances-users}
       + [財務の更新とレビュー](/help/manage-work/project-finances/update-and-review-finances.md)
