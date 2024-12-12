@@ -1,6 +1,6 @@
 ---
 title: 時間のログ記録とレビュー
-description: ' [!DNL  Workfront] でプロジェクトを終了する前に、未処理の時間を記録し、記録された時間を確認します。'
+description: プロジェクトを終了する前に、未処理の時間を記録し、記録された時間を確認します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 60%
 
 ---
 
 # 時間のログ記録とレビュー
 
-実際の作業時間を記録することが組織のワークフローの一部である場合は、プロジェクトの「[!UICONTROL 時間]」セクション（左側のパネルメニューから選択）でそれらの時間を確認できます。これにより、個々のタスクとプロジェクト自体にログオンしたすべての時間が表示されます。このページから時間を記録することもできます。
+このビデオでは、次の方法を学習します：
 
-![時間エントリを示す時間ページ](assets/planner-fund-log-and-review-hours.png)
+* プロジェクトに記録された時間のレビュー
+* 必要に応じてプロジェクト時間を承認
 
->[!NOTE]
->
->組織から、[!DNL Workfront] タイムシートで時間の承認を求められる場合があります。社内 [!DNL Workfront] チームに問い合わせて、どのプロセスを使用する必要があるかを確認してください。
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## このトピックに関する推奨チュートリアル
+
+* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
+* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
+* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
+* [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

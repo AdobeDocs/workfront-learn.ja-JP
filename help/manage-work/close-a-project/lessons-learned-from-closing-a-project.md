@@ -1,6 +1,6 @@
 ---
 title: 教訓の記録
-description: うまくいったこと、次に改善できることを特定する「教訓」タスクを含める方法を説明します。
+description: プロジェクトを終了する際に「教訓」を活用する方法を説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,32 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 36%
 
 ---
 
 # 教訓の記録
 
-Workfront の顧客が、プロジェクト終了時のタスクとして「教訓」タスクを含める場合があります。このタスクは、さまざまな使い方が考えられます。
+このビデオでは、次のメリットを確認します。
 
-* 「教訓」のタスクを使用して、ミーティングを行います。会議のメモをタスクの更新に取り込みます。
-* または、タスクやプロジェクトにカスタムフォームを添付して、必要な「教訓」の情報を取り込みます。
+* 「教訓」タスクの作成
+* 「教訓」カスタムフォームのプロジェクトへの添付
+* 「教訓」のカスタムレポートの作成
+* 「教訓」プロジェクトの作成
 
-カスタムフォームの利点の一つとして、すべてのフィールドがレポート可能であることが挙げられます。カスタムの [!DNL Workfront] レポートを作成してその情報の確認と管理を行うことで、多くのプロジェクトタイプやセットで学んだ教訓を確認できます。
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-プロジェクト後のプロセスが複雑であり、それ自体がプロジェクトと言えるようなステップがある組織では、[!DNL Workfront] に別のプロジェクトを作成したほうが良いかもしれません。
+## このトピックに関する推奨チュートリアル
 
-この方法によると、実際の成果物に使用したプロジェクトを終了でき、完了したプロジェクトのレポートをより正確に保つことができます。次に、プロジェクト終了後のプロジェクトを別に作成し、以降の手順をトラッキングします。
-
-プロジェクト終了後の組織のプロセスについて詳しくは、社内の [!DNL Workfront] チームに問い合わせてください。
+* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
+* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
+* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
+* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
