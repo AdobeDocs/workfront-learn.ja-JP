@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: tm+mt
-source-wordcount: '62'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

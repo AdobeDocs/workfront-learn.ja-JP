@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 89%
 * フライトプランビューでプロジェクトをクリックすると、そのプロジェクトの下にバーンダウンビューが表示されます。
 * ツリーマップビューでプロジェクトをクリックすると、その下にバーンダウンビューと実行中タスクビューの両方が表示されます。
 
-## 人物グラフ – チーム別アクティビティ
+## 人物チャート - チーム別アクティビティ
 
 ![下の箇条書きで説明されている領域に数値が表示された、チーム別アクティビティのチャートを示す画像](assets/section-3-1.png)
 
