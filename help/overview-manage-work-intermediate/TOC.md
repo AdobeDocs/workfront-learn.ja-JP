@@ -6,10 +6,10 @@ breadcrumb-title: 作業の管理 – 中級
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '173'
+ht-degree: 63%
 
 ---
 
@@ -22,16 +22,14 @@ ht-degree: 64%
       + [プロジェクトテンプレートの作成と、ブループリントの詳細](create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成する](create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](share-a-project-template.md)
-      + [既存のプロジェクトのコピー](copy-an-existing-project.md)
+      + [既存のプロジェクトをコピー](copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](deactivate-a-project-template.md)
       + [プロジェクトテンプレートでのプロジェクトチームの編集](edit-the-project-team-in-a-project-template.md)
 
    + での承認プロセスの作成および使用方法 {#how-to-create-and-use-approval-processes}
-      + [1 回限りの承認プロセスの作成](create-a-single-use-approval-process.md)
+      + [グローバルおよび単一使用承認プロセスの作成](create-a-single-use-approval-process.md)
       + [グループ特有の承認プロセスについて](group-specific-approval-processes.md)
-      + [既存の承認プロセスの添付と編集](attach-and-edit-existing-approval-processes.md)
       + [デジタル作品のレビューと承認](review-and-approve-digital-work.md)
-      + [アップデートと通知について](understand-updates-and-notifications.md)
       + [タスク、イシュー、承認を委任する](delegate-approvals.md)
 
    + でのマイルストーンの作成および使用方法 {#how-to-create-and-use-milestones}

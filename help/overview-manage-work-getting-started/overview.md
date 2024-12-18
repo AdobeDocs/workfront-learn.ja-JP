@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '943'
 ht-degree: 4%
 
 ---
@@ -81,10 +81,8 @@ Adobe Workfrontでのプロジェクトの概要、立ち上げ方法、プロ�
 タスクとイシューを閉じる方法、承認を完了する方法、教訓を記録する方法、プロジェクトを閉じる方法について説明します。
 
 * [ プロジェクトのステータスを完了に変更 ](change-the-project-status.md) - プロジェクトのステータスを完了に変更する方法、変更の理由、プロジェクトを完了に変更できない場合の対処方法について説明します。
-* [ タスクとイシューを閉じる ](close-tasks-and-issues.md) - プロジェクトを閉じる前に、タスクとイシューが閉じられていることを確認する方法を説明します。
 * [ 承認の完了 ](complete-approvals.md) – 不完全な承認を特定して解決し、プロジェクトを閉じることができるようにする方法について説明します。
 * [ アセットをアップロード ](upload-assets.md) - ドキュメント、プルーフおよびその他のアセットをプロジェクトにアップロードしてから閉じて、すべての関連データがプロジェクトに関連付けられるようにします。
 * [ 教訓の記録 ](lessons-learned-from-closing-a-project.md) – うまくいったこと、次に改善できることを特定する「教訓」タスクを含める方法を説明します。
 * [ 時間の記録とレビュー ](log-and-review-hours.md) - プロジェクトを終了する前に、未処理の時間を記録し、記録された時間をレビューします。
 * [ 財務の更新とレビュー ](update-and-review-finances.md) – 組織がWorkfrontを使用してプロジェクト関連の財務情報を追跡している場合、費用のレビューと請求記録の作成は、プロジェクトを終了するためのプロセスの一部である可能性があります。
-* [ プロジェクトアクティビティを閉じる ](close-a-project-activity.md) - プロジェクトを閉じる方法について学んだことを実践します。

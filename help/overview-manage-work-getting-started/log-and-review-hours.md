@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 80%
 
 ---
 
 # 時間のログ記録とレビュー
 
-実際の作業時間を記録することが組織のワークフローの一部である場合は、プロジェクトの「[!UICONTROL 時間]」セクション（左側のパネルメニューから選択）でそれらの時間を確認できます。これにより、個々のタスクとプロジェクト自体にログオンしたすべての時間が表示されます。このページから時間を記録することもできます。
+このビデオでは、次の方法を学習します：
 
-![時間エントリを示す時間ページ](assets/planner-fund-log-and-review-hours.png)
+* プロジェクトに記録された時間のレビュー
+* 必要に応じてプロジェクト時間を承認
 
->[!NOTE]
->
->組織から、[!DNL Workfront] タイムシートで時間の承認を求められる場合があります。社内 [!DNL Workfront] チームに問い合わせて、どのプロセスを使用する必要があるかを確認してください。
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## このトピックに関する推奨チュートリアル
+
+* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
+* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
+* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
+* [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # アセットのアップロード
 
-[!DNL Workfront] プロジェクトを閉じる前に必ず、関連するすべてのファイルを「[!UICONTROL ドキュメント]」セクションに入力します。 組織のガイドラインの規定に従って、これらのファイルをドキュメントまたはプルーフとしてアップロードします。
+このビデオでは、次の方法を学習します：
 
-ドキュメントまたはプルーフを、既存のファイルのバージョンとしてアップロードする必要が生じる場合があります。
+* プルーフの承認を確認
+* ドキュメントの承認を確認
+* ドキュメントをアップロード
+* プルーフのアップロードに関するトレーニングを検索
 
-組織でプルーフの承認を使用している場合、「進捗状況」アイコンをすばやく確認して、そのすべてが完了していることを確認します。
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![「プルーフの進捗状況」アイコンを示すドキュメントページ](assets/planner-fund-proof-progress-icons.png)
+## このトピックに関する推奨チュートリアル
 
-また、組織がドキュメント承認を使用している場合は、リストの各項目を選択し、ドキュメントの詳細をチェックして承認が完了しているかどうかを確認します。
+* [基本ワークフローでのプルーフのアップロード](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
+* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
+* [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![ドキュメントの承認を示すドキュメントページの付帯的な概要](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

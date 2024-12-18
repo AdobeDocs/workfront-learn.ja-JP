@@ -8,12 +8,14 @@ thumbnail: change-the-project-status.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
 last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 22920ca3-8185-4347-abaa-561cc41e7406
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
@@ -27,3 +29,10 @@ ht-degree: 100%
 * プロジェクトのステータスを「[!UICONTROL 完了]」に変更できない場合の対処方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+
+## このトピックに関する推奨チュートリアル
+
+* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
+* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
+* [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)

@@ -6,10 +6,10 @@ breadcrumb-title: 作業の管理 – はじめに
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 71%
+source-wordcount: '196'
+ht-degree: 69%
 
 ---
 
@@ -54,11 +54,9 @@ ht-degree: 71%
 
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトステータスを完了に変更](change-the-project-status.md)
-      + [タスクおよびイシューを閉じる](close-tasks-and-issues.md)
       + [承認の完了](complete-approvals.md)
       + [アセットのアップロード](upload-assets.md)
       + [教訓の記録](lessons-learned-from-closing-a-project.md)
       + [時間のログ記録とレビュー](log-and-review-hours.md)
       + [財務の更新とレビュー](update-and-review-finances.md)
-      + [プロジェクトアクティビティを閉じる](close-a-project-activity.md)
 

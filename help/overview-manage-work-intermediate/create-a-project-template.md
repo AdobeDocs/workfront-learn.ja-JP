@@ -10,12 +10,14 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8b373be7-df75-4929-9027-d95947c42f94
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '377'
+ht-degree: 100%
 
 ---
 
@@ -53,3 +55,11 @@ Workfront ユーザーは、[!UICONTROL ブループリント]を使用してプ
 ![ブループリントのインストールに関する詳細](assets/pt-blueprints-04.png)
 
 ブループリントがまだインストールされていない場合は、システム管理者にリクエストできます。
+
+## このトピックに関する推奨チュートリアル
+
+* [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [既存のプロジェクトをコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

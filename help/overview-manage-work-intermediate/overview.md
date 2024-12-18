@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Workfrontを最大限に活用する方法について詳しくは、こちら�
 
 承認プロセスの作成、ワークフローへの添付、デジタル作業のレビュー、承認の委任の方法について説明します。
 
-* [1 回限りの承認プロセスの作成 ](create-a-single-use-approval-process.md) - プロジェクト、タスク、イシューに 1 回限りの承認プロセスを作成する方法について説明します。
+* [ グローバルおよび単一使用の承認プロセスの作成 ](create-a-single-use-approval-process.md) - プロジェクト、タスク、イシューに対してグローバルおよび単一使用の承認プロセスを作成する方法について説明します。
 * [ グループ固有の承認プロセスについて ](group-specific-approval-processes.md) - グループ管理者が管理対象のグループの承認プロセスをどのように作成または編集できるかを説明します。
-* [ 既存の承認プロセスの添付と編集 ](attach-and-edit-existing-approval-processes.md) - プロジェクト、タスク、イシューに対する既存の承認プロセスの使用および編集方法について説明します。
 * [ デジタル作品のレビューと承認 ](review-and-approve-digital-work.md) - プロジェクト、タスク、イシュー、ドキュメント、プルーフを検索、レビュー、承認する方法について説明します。
-* [ 更新と通知について ](understand-updates-and-notifications.md) – 承認リクエストを更新し、通知を検索する方法を説明します。
 * [ タスク、イシュー、承認の委任 ](delegate-approvals.md) - プロジェクト、タスク、イシュー、タイムカードの承認を別のAdobe Workfront ユーザーに委任する方法について説明します。
 
 ## マイルストーンの作成および使用方法

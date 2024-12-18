@@ -9,17 +9,19 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 100%
 
 ---
 
 # 既存のプロジェクトをコピー
 
-テンプレートを使用してプロジェクトを作成する代わりに、一度のみの使用のためプロジェクトをコピーするだけで済む場合があります。これを行うには、プロジェクトの編集と作成のアクセス権を持つプランライセンスが必要です。
+テンプレートを使用してプロジェクトを作成する代わりに、一度のみの使用のためプロジェクトをコピーするだけで済む場合があります。これを行うには、プロジェクトの編集と作成のアクセス権を持つ標準ライセンスが必要です。
 
 コピーするプロジェクトに移動し、プロジェクト名の横にある 3 点メニューをクリックします。次に、「コピー」を選択します。
 
@@ -29,5 +31,10 @@ ht-degree: 0%
 
 ![「プロジェクトをコピー」オプション](assets/copy-existing-02.png)
 
-
 「割り当てのクリア」を選択するか、状態を「計画」に設定すると、コピーしたプロジェクトはコピー直後にタスクの割り当て通知を送信できなくなります。
+
+## このトピックに関する推奨チュートリアル
+
+* [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
+* [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
