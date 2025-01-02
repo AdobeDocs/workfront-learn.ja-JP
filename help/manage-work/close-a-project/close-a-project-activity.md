@@ -1,6 +1,6 @@
 ---
 title: プロジェクトアクティビティを閉じる
-description: トレーニング中に演習してきたWorkfront プロジェクトを見つけて、終了する準備を整えます。
+description: トレーニング中に演習してきた Workfront プロジェクトを見つけて、終了する準備を整えます。
 activity: use
 feature: Work Management
 thumbnail: close-a-project-activity.png
@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-null
 exl-id: ffbe2169-d475-4907-a78f-5c092b923900
 source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 

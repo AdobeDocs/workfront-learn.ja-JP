@@ -1,6 +1,6 @@
 ---
 title: 教訓の記録
-description: プロジェクトを終了する際に「教訓」を活用する方法を説明します。
+description: プロジェクトを終了する際に「教訓」を活用する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 36%
 
 * 「教訓」タスクの作成
 * 「教訓」カスタムフォームのプロジェクトへの添付
-* 「教訓」のカスタムレポートの作成
+* 「教訓」カスタムレポートの作成
 * 「教訓」プロジェクトの作成
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)

@@ -14,9 +14,9 @@ last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 60%
 
 このビデオでは、次の方法を学習します：
 
-* プロジェクトに記録された時間のレビュー
+* プロジェクトに記録された時間を確認
 * 必要に応じてプロジェクト時間を承認
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
