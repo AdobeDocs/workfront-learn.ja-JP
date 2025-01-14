@@ -1,6 +1,7 @@
 ---
 title: 基本マッピングを超えるチュートリアル
 description: ' [!DNL Adobe Workfront Fusion] のマッピングパネル式を使用して、以前に作成したシナリオのいくつかのプロジェクトフィールドを変更します。'
+short-description: このビデオチュートリアルでは、マッピングパネル式を使用して、最初のチュートリアルで作成した「最初のシナリオデザイン」から、プロジェクト名、予定開始日、優先度を変更できます。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 

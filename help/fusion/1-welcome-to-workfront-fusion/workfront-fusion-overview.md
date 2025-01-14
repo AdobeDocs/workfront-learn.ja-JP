@@ -1,6 +1,7 @@
 ---
 title: Workfront Fusion トレーニングの概要
 description: Adobe Workfront Fusion アクティビティブックと Workfront 体験版アカウントの取得方法について説明します。
+short-description: Workfront Fusion の各セクションには複数のチュートリアルが含まれています。各チュートリアルでは、次のチュートリアルに進む前に理解しておく必要のある概念について説明します。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 94%
 
 ---
 
