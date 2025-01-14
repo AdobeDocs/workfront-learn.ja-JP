@@ -14,9 +14,9 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '504'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 98%
 
 ## プロジェクトページの主要な部分
 
-このページのPDFをダウンロードするには、[ ここをクリック ](/help/assets/key-parts-of-the-project-page.pdf) してください。
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/key-parts-of-the-project-page.pdf)してください。
 
 プロジェクトページには、作業を管理するのに役立つ多くの機能が用意されています。必要なオプションが [!DNL Workfront] のインスタンスに表示されない場合は、システム管理者にお問い合わせください。注目すべきメインのプロジェクトページの機能の一部を以下に示します。
 
