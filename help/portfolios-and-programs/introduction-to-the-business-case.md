@@ -13,9 +13,9 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 8ba1b014f981b2a438e7c8754ad8c681f710d4e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 78%
 
 このビデオでは、以下について説明します。
 
-* ビジネスケースに記入する理由
-* ビジネスケースへの入力方法
+* ビジネスケースを入力する理由
+* ビジネスケースの入力方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on)
 

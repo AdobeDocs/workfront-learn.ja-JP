@@ -1,6 +1,6 @@
 ---
 title: ポートフォリオについて
-description: ポートフォリオの概要と、プロジェクトの比較および優先順位付けにポートフォリオがどのように役立つかを説明します。
+description: ポートフォリオの概要と、ポートフォリオがプロジェクトの比較や優先順位付けにどのように役立つかを説明します。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,9 +13,9 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: 14e43ba0c7f04e26db0b3b6d306d48e170c6bbeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 45%
 
 このビデオでは、以下について説明します。
 
-* ポートフォリオとは何か。
-* プロジェクトを比較し、優先順位を付けるのに役立つ方法。
+* ポートフォリオとは。
+* ポートフォリオがプロジェクトの比較や優先順位付けにどのように役立つか。
 * ポートフォリオの作成方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
