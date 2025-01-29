@@ -1,7 +1,7 @@
 ---
 title: シナリオガードレール
 description: ' [!DNL Adobe Workfront Fusion] でのシナリオガードレール、モジュールガードレール、ファイルガードレール、Webhook ガードレールのすべてについて説明します。'
-short-description: シナリオが長時間実行されると作業のペースが遅くなる可能性があるので、Workfront Fusion ではパフォーマンスを保持するガードレールを使用して、実行時間、データサイズ、その他のシナリオパラメーターを制限します
+short-description: 長時間実行されるシナリオでは作業のペースが遅くなる可能性があるので、Workfront Fusion ではパフォーマンスを保持するガードレールを用いて、実行時間、データサイズ、その他のシナリオパラメーターを制限します
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
