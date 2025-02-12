@@ -13,7 +13,7 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!UICONTROL ビュー]を使用して必要な情報を表示する方法
 * 開始日または完了日を設定する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

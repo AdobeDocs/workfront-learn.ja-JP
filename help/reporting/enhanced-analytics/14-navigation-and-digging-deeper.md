@@ -12,9 +12,9 @@ jira: KT-8733
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '224'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 従業員が各プロジェクトに費やしている時間を迅速に確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
 
 ## プロジェクトに費やした時間のレビュー
 

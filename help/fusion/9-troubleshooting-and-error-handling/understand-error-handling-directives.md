@@ -11,9 +11,9 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '318'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 実行を続行できる 3 つのエラーハンドラーディレクティブ
 * 実行を停止する 2 つのエラーハンドラーディレクティブ
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops)
 
 ## ディレクティブ - シナリオは続行します
 

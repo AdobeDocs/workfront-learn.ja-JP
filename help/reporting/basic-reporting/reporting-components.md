@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 96%
 
 ---
 
@@ -25,15 +25,17 @@ ht-degree: 100%
 * Workfront のレポートの主なコンポーネント
 * レポート要素でのこれらのコンポーネントの使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
 
 ## レポートコンポーネント
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/reporting-components.pdf)してください。
 
 ![フィルターを作成する画面の画像](assets/reporting-components-1.png)
 
 **A - フィールドソース**
 
-フィールドソースオプションは、選択したオブジェクトタイプに応じて異なります。 多くの場合、フィールドソースは、特定の情報（フィールド名とも呼ばれる）が属する Workfront 内の項目です。フィールドソースがオブジェクトタイプと同じである場合があります。
+フィールドソースのオプションは、選択したオブジェクトタイプによって異なります。 多くの場合、フィールドソースは、特定の情報（フィールド名とも呼ばれる）が属する Workfront 内の項目です。フィールドソースがオブジェクトタイプと同じである場合があります。
 使用可能なフィールド名は、フィールドソースによって決まります。
 
 例：[!UICONTROL プロジェクト]、[!UICONTROL タスク]、[!UICONTROL イシュー]、[!UICONTROL 割り当て先]

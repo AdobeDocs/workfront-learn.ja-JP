@@ -12,8 +12,8 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on&enablevpops)
 
 
 ## やってみよう

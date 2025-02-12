@@ -12,9 +12,9 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * タスクレベルの情報
 * イシューレベルの情報
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

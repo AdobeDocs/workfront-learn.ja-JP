@@ -13,9 +13,9 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
 * リクエストの下書きを検索する
 * 最後の 3 つのリクエストパスを確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -1,6 +1,6 @@
 ---
-title: 基本グループの作成
-description: グループ化の概要、グループ化を作成する方法、Workfront で他のユーザーとグループ化を共有する方法について説明します。
+title: 基本的なグループ化アクティビティの作成
+description: ステップごとの手順に従って、基本的なグループ化を作成する練習を行います。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# 基本グループの作成
 
-このビデオでは、次のことを学習します。
-
-* Workfront のグループ化とは
-* グループ化を作成する方法
-* 他の Workfront ユーザーとグループ化を共有する方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## アクティビティ：基本グループ化の作成
+# アクティビティ：基本グループ化の作成
 
 リクエストキューを通過するリクエストを追跡するためにレポートで使用するイシューのグループ化を作成します。このグループ化により、優先度別にグループ化された、類似したタイプのイシュー／リクエストを簡単に確認できます。グループ化に「リクエストキュー、キューのトピック、優先度」という名前を付けます。
 

@@ -12,8 +12,8 @@ jira: KT-8728
 recommendations: noDisplay,catalog
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * KPI データから値を取得する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on&enablevpops)
 
 ## KPI の比較
 

@@ -12,9 +12,9 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 適切なプロジェクトテンプレートを選択する
 * リクエストからプロジェクトへの変換を実施する
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
 
 
 ## このトピックに関する推奨チュートリアル

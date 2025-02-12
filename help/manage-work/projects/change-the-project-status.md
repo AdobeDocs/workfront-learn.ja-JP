@@ -13,8 +13,8 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 * プロジェクトのステータスを「[!UICONTROL 完了]」に変更する理由
 * プロジェクトのステータスを「[!UICONTROL 完了]」に変更できない場合の対処方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

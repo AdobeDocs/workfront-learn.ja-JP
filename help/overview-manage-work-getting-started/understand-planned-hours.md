@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 予定時間数の見積り方法
 * タスクに予定時間数を追加する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
 
 
 ## このトピックに関する推奨チュートリアルと記事

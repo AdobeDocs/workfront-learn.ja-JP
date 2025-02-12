@@ -10,7 +10,7 @@ role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * マイルストーンパスの作成方法
 * マイルストーンパスへのマイルストーン手順の追加方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

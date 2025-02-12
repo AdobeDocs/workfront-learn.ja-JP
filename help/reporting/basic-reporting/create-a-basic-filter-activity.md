@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 100%
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 詳細な手順の説明がページの後半にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
 ### アクティビティ 2 に対する回答
 

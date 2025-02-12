@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * グラフに時間枠を作成する
 * 追加のグラフを表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
 
 ## 詳しくは、グラフをクリックしてください
 

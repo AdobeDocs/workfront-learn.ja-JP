@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 hide: true
 exl-id: e2d538db-f2bf-46b9-a4d8-425c62870d1b
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * イシューをログに記録する方法
 * イシュー管理のベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 既存のメタデータフィールドの使用
 * カスタムメタデータフィールドの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
 
 ## メタデータのベストプラクティス
 

@@ -11,7 +11,7 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフテンプレートを使用してワークフローを適用する方法
 * 自動ワークフローを最初から設定する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
 
 
 

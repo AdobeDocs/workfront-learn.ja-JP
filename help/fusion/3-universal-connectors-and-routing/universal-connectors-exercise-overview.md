@@ -12,7 +12,7 @@ jira: KT-9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
@@ -27,4 +27,4 @@ ht-degree: 100%
 * 外部 API に接続する方法
 * 式エディターを使用して、配列から情報を抽出する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops)

@@ -13,9 +13,9 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 100%
 * タスクを割り当てる際のプロジェクトテンプレートの価値について
 * チームにタスクを割り当てる価値について
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more urls:

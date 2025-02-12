@@ -12,9 +12,9 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 未解決イシュー
 * 「状況の更新」列
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

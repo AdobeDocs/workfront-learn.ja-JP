@@ -12,8 +12,8 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL ワークフロー]エリアで実行できる変更のいくつかを実演します。 このビデオの下にある箇条書きリストを参照してください。このビデオでは、これらの設定を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
 
 確認として、「[!UICONTROL ワークフロー]」セクションで実行できるプルーフテンプレートの変更は次の通りです。
 

@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 100%
 * グループの作成と編集
 * ユーザーの追加と編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## グループとユーザーのレビュー
 
 [!UICONTROL Workfront DAM] システムを設定する際は、ユーザーとグループが全体像で果たす役割を考慮することが重要です。
 
-グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。また、グループ設定は、ユーザーがアクセス権を持つアセットに対して実行できる操作（表示、ダウンロード、編集など）も制御します。
+グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。また、グループ設定は、ユーザーがアクセス権限を持つアセットに対してユーザーが実行できる操作（表示、ダウンロード、編集など）を制御します。
 
 グループを作成する際は、そのグループのメンバーが [!UICONTROL Workfront DAM] でアクセスする必要があるアセットフォルダーを念頭に置くことが重要です。
 

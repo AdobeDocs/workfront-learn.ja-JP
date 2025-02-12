@@ -1,5 +1,5 @@
 ---
-title: 「[!DNL Scenario Planner] について」
+title: '[!DNL Scenario Planner] について'
 description: ' [!DNL Scenario Planner]  を他のリソースプランニングツールと適合させる方法について説明します。次に、 [!DNL Scenario Planner] の設定方法について説明します。'
 feature: Resource Management
 type: Tutorial
@@ -11,10 +11,10 @@ thumbnail: 335317.jpeg
 jira: KT-9075
 exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 100%
 * 組織内でのシナリオプランニング
 * [!DNL Scenario Planner] の使用に必要な設定へのアクセス
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on&enablevpops)

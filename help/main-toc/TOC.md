@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2405'
 ht-degree: 99%
 
 ---
@@ -200,6 +200,7 @@ ht-degree: 99%
       + [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [ビューに基本的な条件付き書式を追加](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [新しいフィルターエクスペリエンスの使用方法](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [基本フィルターの作成アクティビティ](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [タスクレポートの作成](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -649,5 +650,5 @@ ht-degree: 99%
 
 + [リクエストの管理](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [リソース処理能力のグラフについて](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [基本的なグループ化アクティビティの作成](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

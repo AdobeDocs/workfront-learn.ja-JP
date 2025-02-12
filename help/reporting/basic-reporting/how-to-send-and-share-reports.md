@@ -11,7 +11,7 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * すべてのユーザーとレポートを共有する方法
 * Workfront レポートで受信者が表示および実行できること
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops)
 
 ## アクティビティ：レポートを送信する
 

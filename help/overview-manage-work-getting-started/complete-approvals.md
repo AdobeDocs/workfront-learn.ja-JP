@@ -14,7 +14,7 @@ jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 未解決のタスク承認を見つけて処理する方法
 * 未解決のイシュー承認を見つけて処理する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
 
 ## このトピックに関する推奨チュートリアル
 

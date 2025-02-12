@@ -11,9 +11,9 @@ jira: KT-9019
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '38'
 ht-degree: 100%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 100%
 * アグリゲータの使用方法
 * アグリゲータの様々なタイプ
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops)

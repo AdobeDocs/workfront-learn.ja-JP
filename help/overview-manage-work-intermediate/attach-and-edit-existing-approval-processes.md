@@ -11,7 +11,8 @@ team: Technical Marketing
 jira: KT-8963
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 6a1a682c-4437-4c1b-8373-5f4d07bb9c28
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -25,7 +26,7 @@ ht-degree: 100%
 * 既存の承認プロセスの使用
 * 特定のプロジェクト、タスクまたは問題用に既存の承認プロセスを編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more URLS

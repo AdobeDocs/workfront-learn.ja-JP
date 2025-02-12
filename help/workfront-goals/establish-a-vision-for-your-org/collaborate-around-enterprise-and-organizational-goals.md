@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * あなたとチームがトップレベルの目標を達成するために行うべきことの定義
 * 「セクション 2：ビジョンと戦略の確立」からの目標の階層の調整
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops)
 
 <!--
 Pro-tips graphic
