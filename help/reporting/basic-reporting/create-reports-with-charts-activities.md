@@ -1,6 +1,6 @@
 ---
-title: グラフを使用したレポートの作成
-description: グラフによるデータのビジュアライゼーションの改善方法と、Workfront でのグラフツールの使用方法を説明します。
+title: グラフアクティビティを使用したレポートの作成
+description: ステップごとの手順を使用して、グラフを含むレポートを作成する練習を行います。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '314'
+ht-degree: 81%
 
 ---
 
-# グラフを使用したレポートの作成
+# グラフアクティビティを使用したレポートの作成
 
-このビデオでは、以下について説明します。
-
-* グラフによるデータのビジュアライゼーションの改善方法
-* Workfront でのグラフツールの使用方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+ステップごとの手順を使用して、グラフを含むレポートを作成する練習を行います。
 
 ## アクティビティ 1：レポートへのグラフの追加
 

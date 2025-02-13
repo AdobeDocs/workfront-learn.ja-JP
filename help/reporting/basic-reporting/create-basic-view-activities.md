@@ -1,6 +1,6 @@
 ---
-title: 基本ビューの作成
-description: Workfront でのビューの概要、ビューの作成方法、および他のユーザーとビューを共有する方法について説明します。
+title: 基本的な表示アクティビティの作成
+description: ステップごとの手順に従って、基本的なビューを作成する練習をします。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# 基本ビューの作成
+# 基本的な表示アクティビティの作成
 
-このビデオでは、次のことを学習します。
-
-* Workfront のビューとは
-* ビューの作成および変更方法
-* 他の Workfront ユーザーとビューを共有する方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+ステップごとの手順に従って、基本的なビューを作成する練習をします。
 
 ## アクティビティ 1：タスクのステータスビューを作成
 
@@ -43,7 +36,7 @@ ht-degree: 99%
 * [!UICONTROL 進捗状態]
 * [!UICONTROL 状態アイコン]
 
-## 回答 1
+## アクティビティ 1 回答
 
 ![タスクのステータスビューを作成する画面の画像](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ ht-degree: 99%
 * [!UICONTROL 完了率]
 
 
-## 回答 2
+## アクティビティ 2 回答
 
 ![マイルストーンビューを作成する画面の画像](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ ht-degree: 99%
 
 [!UICONTROL 開始日]列および[!UICONTROL 期限]列で「[!UICONTROL フィールド形式]」を変更して、日付と時刻の両方を表示します。
 
-## 回答 3
+## アクティビティ 3 回答
 
 ![期間タイプとタスク制約ビューを表示する画面の画像](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ ht-degree: 99%
 * [!UICONTROL アクティブ]
 
 
-## 回答 4
+## アクティビティ 4 回答
 
 ![プロジェクトテンプレートのアクティブなステータスビューを表示する画面の画像](assets/view-activity-4.png)
 

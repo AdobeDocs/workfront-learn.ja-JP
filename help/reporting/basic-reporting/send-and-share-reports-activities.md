@@ -1,6 +1,6 @@
 ---
-title: レポートの送信と共有
-description: ユーザー、チーム、またはメールアドレスにレポートを送信する方法、および Workfront の他のユーザーとレポートを共有する方法について説明します。
+title: レポートアクティビティの送信と共有
+description: ステップごとの手順を使用して、レポートの送信と共有を練習します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# レポートの送信と共有
+# レポートアクティビティの送信と共有
 
-このビデオでは、次のことを学習します。
-
-* ユーザー、チーム、またはメールアドレスにレポートを送信する方法
-* すべてのユーザーとレポートを共有する方法
-* Workfront レポートで受信者が表示および実行できること
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+ステップごとの手順を使用して、レポートの送信と共有を練習します。
 
 ## アクティビティ 1：レポートの送信
 

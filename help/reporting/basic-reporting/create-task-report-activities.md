@@ -1,6 +1,6 @@
 ---
-title: タスクレポートの作成
-description: 複雑なフィルターを使用してタスクレポートを作成し、Workfront で作成したレポートを見つける方法について説明します。 アクティビティ - プロンプト付きのメモレポートを作成します。
+title: タスクレポートアクティビティの作成
+description: ステップごとの手順を使用して、タスクレポートの作成を練習します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# タスクレポートの作成
+# タスクレポートアクティビティの作成
 
-このビデオでは、以下について説明します。
-
-* 複雑なフィルターを使用したタスクレポートの作成方法
-* 作成するレポートの検索方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+ステップごとの手順を使用して、タスクレポートの作成を練習します。
 
 >[!TIP]
 >

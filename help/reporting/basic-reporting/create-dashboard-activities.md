@@ -1,6 +1,6 @@
 ---
-title: ダッシュボードの作成
-description: 様々なリストレポート、グラフ、カレンダー、外部 web ページを組み合わせて、Workfront のダッシュボードにする方法について説明します。
+title: ダッシュボードアクティビティの作成
+description: ステップごとの手順を使用して、ダッシュボードの作成を練習します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# ダッシュボードの作成
+# ダッシュボードアクティビティの作成
 
-このビデオでは、次のことを学習します。
-
-* Workfront のダッシュボードとは
-* ダッシュボードの作成方法
-* ダッシュボードの検索と使用方法
-* ダッシュボードを他の Workfront ユーザーと共有する方法
-* ダッシュボードの印刷方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+ステップごとの手順を使用して、ダッシュボードの作成を練習します。
 
 ## アクティビティ 1：ダッシュボードの作成
 

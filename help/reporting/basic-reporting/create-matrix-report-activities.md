@@ -1,6 +1,6 @@
 ---
-title: マトリックスレポートの作成
-description: マトリックスレポートが役立つ場面と、Workfront でマトリックスレポートを作成する方法について説明します。
+title: マトリックスレポートアクティビティの作成
+description: ステップごとの手順を使用して、マトリックスレポートの作成を練習します。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# マトリックスレポートの作成
+# マトリックスレポートアクティビティの作成
 
-このビデオでは、次のことを学習します。
-
-* マトリックスレポートが役立つ場面
-* マトリックスレポートの作成方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+ステップごとの手順を使用して、マトリックスレポートの作成を練習します。
 
 ## アクティビティ 1：マトリックスレポートの作成
 

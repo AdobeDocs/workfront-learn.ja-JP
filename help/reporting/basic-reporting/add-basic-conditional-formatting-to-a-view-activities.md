@@ -1,6 +1,6 @@
 ---
-title: ビューに基本的な条件付き書式を追加
-description: 段間罫線を使用して、設定した条件に基づいて、レポートまたはビューのテキストのカラー、書式、背景のカラーを変更する方法について説明します。
+title: ビューアクティビティへの基本的な条件付き書式の追加
+description: ビューに基本的な条件付き書式を追加し、手順を追って説明する練習をします。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# ビューに基本的な条件付き書式を追加
+# ビューアクティビティへの基本的な条件付き書式の追加
 
-条件付き書式は、段間罫線を作成して行います。段間罫線を使用すると、設定した条件に基づいて特定の方法で列を書式設定できます。
-
-このビデオでは、次のことを学習します。
-
-* ビューの条件付き書式とは
-* 条件付き書式の作成および変更方法
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+ビューに基本的な条件付き書式を追加し、手順を追って説明する練習をします。
 
 ## 概要
 

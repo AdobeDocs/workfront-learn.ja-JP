@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# アクティビティ：基本グループ化の作成
+# 基本的なグループ化アクティビティの作成
+
+ステップごとの手順に従って、基本的なグループ化を作成する練習を行います。
+
+## アクティビティ 1：リクエストキューのグループ化の作成
 
 リクエストキューを通過するリクエストを追跡するためにレポートで使用するイシューのグループ化を作成します。このグループ化により、優先度別にグループ化された、類似したタイプのイシュー／リクエストを簡単に確認できます。グループ化に「リクエストキュー、キューのトピック、優先度」という名前を付けます。
 
@@ -28,7 +32,7 @@ ht-degree: 60%
 1. キューのトピック
 1. リクエストの優先度
 
-## 回答
+## 回答 1
 
 ![新しいグループ化を作成する画面の画像](assets/grouping-exercise.png)
 
