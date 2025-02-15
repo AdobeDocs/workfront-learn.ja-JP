@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '255'
 ht-degree: 79%
 
 ---
@@ -26,7 +26,11 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## アクティビティ 1：シンプルなタスクレポートの作成
+## シンプルなレポートアクティビティの作成
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-simple-report-activities.pdf)してください。
+
+### アクティビティ 1：シンプルなタスクレポートの作成
 
 1 つのレポート内のすべてのアクティブなタスクを追跡したいと考えています。次の手順を使用して、「現在のマイタスク」という名前のタスクレポートを作成します。
 
@@ -35,7 +39,7 @@ ht-degree: 79%
 * フィルター = 現在の自分のタスク
 * 説明 = 自分がタスク責任者である、現在のプロジェクトの未完了タスク（プロジェクト別にグループ化）。
 
-## 回答 1
+### 回答 1
 
 1. **[!UICONTROL メインメニュー]**&#x200B;に移動し、「**[!UICONTROL レポート]**」を選択します。
 1. 「**[!UICONTROL 新しいレポート]**」ドロップダウンメニューをクリックし、「**[!UICONTROL タスクレポート]**」を選択します。

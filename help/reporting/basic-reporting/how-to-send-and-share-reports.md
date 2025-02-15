@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 94%
 
 ---
 
@@ -28,11 +28,15 @@ ht-degree: 96%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## アクティビティ 1：レポートの送信
+## レポートアクティビティの送信と共有
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/send-and-share-reports-activities.pdf)してください。
+
+### アクティビティ 1：レポートの送信
 
 レポートを毎週月曜日の午前 5 時に Excel スプレッドシートとして自分自身に送信します。これは、後でトレンドを確認するために使用できる週別レポートを自動的に収集する優れた方法です。
 
-## 回答 1
+### 回答 1
 
 ![レポートの定期配信を設定する画面の画像](assets/send-a-report.png)
 

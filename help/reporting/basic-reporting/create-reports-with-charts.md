@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -27,11 +27,15 @@ ht-degree: 91%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## アクティビティ 1：レポートへのグラフの追加
+## グラフアクティビティを使用したレポートの作成
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-reports-with-charts-activities.pdf)してください。
+
+### アクティビティ 1：レポートへのグラフの追加
 
 四半期の終わりが近づいており、最近完了したプロジェクトがどの程度予算内に収まっているかを確認します。プロジェクトの予定コストと実績コストを示すレポートを作成します。前四半期に完了したプロジェクトのみを表示します。カスタムのカラーを使用して、組み合わせの縦棒グラフを追加します。
 
-## 回答 1
+### 回答 1
 
 1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
 1. **[!UICONTROL 新しいレポート]**&#x200B;メニューをクリックし、「**[!UICONTROL プロジェクト]**」を選択します。

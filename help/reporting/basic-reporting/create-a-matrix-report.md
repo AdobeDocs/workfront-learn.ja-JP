@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '268'
 ht-degree: 79%
 
 ---
@@ -27,13 +27,17 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## アクティビティ 1：マトリックスレポートの作成
+## マトリックスレポートアクティビティの作成
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-matrix-report-activities.pdf)してください。
+
+### アクティビティ 1：マトリックスレポートの作成
 
 各ステータスのリクエスト数をリクエストキューで並べ替えたマトリックスレポートを作成します。これにより、流入する作業量と、それに対してどの程度対応できているかをスナップショットで簡単に把握できます。
 
 リクエストキューをレコードのグループ化に表示します。ステータスを、列のグループ化として表示します。レポートに「ステータスとリクエストキュー別のリクエスト」という名前を付けます。
 
-## 回答 1
+### 回答 1
 
 1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
 1. 「**[!UICONTROL 新しいレポート]**」オプションをクリックし、「**[!UICONTROL イシュー]**」を選択します。

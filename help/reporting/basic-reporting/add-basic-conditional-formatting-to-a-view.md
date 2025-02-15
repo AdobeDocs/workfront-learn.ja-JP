@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '471'
+ht-degree: 96%
 
 ---
 
@@ -29,7 +29,11 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## 概要
+## ビューアクティビティへの基本的な条件付き書式の追加
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf)してください。
+
+### 概要
 
 条件付き形式を作成するには：
 
@@ -42,7 +46,7 @@ ht-degree: 97%
    * 置換テキスト
    * アイコンを表示
 
-## アクティビティ 1：ビューへの条件付き書式の追加
+### アクティビティ 1：ビューへの条件付き書式の追加
 
 既存の標準ビューを使用し、この条件付き形式を[!UICONTROL 名前]列に追加して、「標準 + 進捗」という名前のタスクビューを作成します。
 
@@ -51,7 +55,7 @@ ht-degree: 97%
 
 これにより、ビューの一部として進捗ステータスの列を含めなくても、問題のあるタスクを見つけることができます。
 
-## 回答 1
+### 回答 1
 
 ![新しい段間罫線を作成する画面の画像](assets/conditional-formatting-exercise.png)
 

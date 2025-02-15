@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '243'
+ht-degree: 70%
 
 ---
 
@@ -28,7 +28,11 @@ ht-degree: 73%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## アクティビティ：基本グループ化の作成
+## 基本的なグループ化アクティビティの作成
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-basic-grouping-activities.pdf)してください。
+
+### アクティビティ 1：基本グループ化の作成
 
 リクエストキューを通過するリクエストを追跡するためにレポートで使用するイシューのグループ化を作成します。このグループ化により、優先度別にグループ化された、類似したタイプのイシュー／リクエストを簡単に確認できます。グループ化に「リクエストキュー、キューのトピック、優先度」という名前を付けます。
 
@@ -38,7 +42,7 @@ ht-degree: 73%
 1. キューのトピック
 1. リクエストの優先度
 
-## 回答
+### 回答 1
 
 ![新しいグループ化を作成する画面の画像](assets/grouping-exercise.png)
 

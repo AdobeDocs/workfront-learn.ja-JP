@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 99%
 
 ---
 
@@ -645,19 +645,4 @@ ht-degree: 97%
 + エグゼクティブのための Workfront {#workfront-for-executives}
    + [エグゼクティブのための Workfront](/help/workfront-for-executives/workfront-for-executives.md)
 
-
-
-<!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
---->
-
-+ [基本的なグループ化アクティビティの作成](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
-+ [基本的な表示アクティビティの作成](/help/reporting/basic-reporting/create-basic-view-activities.md)
-+ [ビューアクティビティへの基本的な条件付き書式の追加](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
-+ [シンプルなレポートアクティビティの作成](/help/reporting/basic-reporting/create-simple-report-activities.md)
-+ [タスクレポートアクティビティの作成](/help/reporting/basic-reporting/create-task-report-activities.md)
-+ [グラフアクティビティを使用したレポートの作成](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
-+ [マトリックスレポートアクティビティの作成](/help/reporting/basic-reporting/create-matrix-report-activities.md)
-+ [ダッシュボードアクティビティの作成](/help/reporting/basic-reporting/create-dashboard-activities.md)
-+ [レポートアクティビティの送信と共有](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 
