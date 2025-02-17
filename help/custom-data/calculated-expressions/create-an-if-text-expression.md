@@ -12,7 +12,7 @@ jira: KT-8886
 exl-id: 9619d31f-1c1a-472d-abb7-7a592c74071e
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 

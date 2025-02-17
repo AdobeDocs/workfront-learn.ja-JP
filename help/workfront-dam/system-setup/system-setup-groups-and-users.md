@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 95%
 
 [!UICONTROL Workfront DAM] システムを設定する際は、ユーザーとグループが全体像で果たす役割を考慮することが重要です。
 
-グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。また、グループ設定は、ユーザーがアクセス権限を持つアセットに対してユーザーが実行できる操作（表示、ダウンロード、編集など）を制御します。
+グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。また、グループ設定は、ユーザーがアクセス権限を持つアセットに対して実行できる操作（表示、ダウンロード、編集など）も制御します。
 
 グループを作成する際は、そのグループのメンバーが [!UICONTROL Workfront DAM] でアクセスする必要があるアセットフォルダーを念頭に置くことが重要です。
 

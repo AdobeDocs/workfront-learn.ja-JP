@@ -9,7 +9,7 @@ thumbnail: 346283.jpeg
 exl-id: ebd18f1d-f309-4e99-9c76-8aabd4009806
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 

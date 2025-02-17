@@ -11,7 +11,7 @@ level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 

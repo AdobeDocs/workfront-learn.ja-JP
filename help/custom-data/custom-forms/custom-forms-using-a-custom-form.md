@@ -13,7 +13,7 @@ jira: KT-8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 

@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
