@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '442'
+ht-degree: 98%
 
 ---
 
@@ -41,8 +41,11 @@ ht-degree: 100%
 * キャメルケースとは
 * レポートフィルターで使用できるいくつかの基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
+## フィルターアクティビティの基本的なテキストモードについて
+
+このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/understand-basic-text-mode-for-filters-activities.pdf)してください。
 
 ## タスク -「自分の担当部分を完了」とマークしたタスクをフィルタリングで除外します
 
