@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 100%
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 Workfront Fusion の学習パスの演習を完了するには、Workfront 体験版が必要です。既に体験版がある場合は、このトレーニング用に新しい体験版を使用することをお勧めします。
 
-[こちらのフォーム](https://forms.office.com/r/f1J8HRGrNY)に入力してプラクティス環境をリクエストします。フォームにアクセスできない場合は、名前、メールアドレス、会社名を wfttstdr@adobe.com に送信してください。
+[ こちらのフォーム ](https://forms.office.com/r/f1J8HRGrNY) に入力して、体験版をリクエストします。 フォームにアクセスできない場合は、名前、メールアドレス、会社名を wfttstdr@adobe.com に送信してください。
 
 ### プラクティス用の Workfront Fusion へのアクセス
 
@@ -44,13 +44,13 @@ Workfront では、Workfront Fusion 体験版を提供していません。チ�
 
 ### チュートリアルの演習を完了するための段階的な手順
 
-チュートリアルの演習を完了するための段階的な手順があります。これらには、Fusion／演習の下にある左側のナビゲーションバーからアクセスするか、チュートリアルの下部にあるリンクを使用します。
+ほとんどのチュートリアル演習を完了するための段階的な手順があります。 これらは、チュートリアルの直後の左側のナビゲーションバーで確認できます。
 
-### オプションのプラクティスの演習
+### オプションのプラクティス演習
 
 一部のチュートリアル演習に続いて、プラクティスの演習と課題が提供されます。
 
-プラクティスの演習を解決するには、様々な方法があります。その意図は、従うべき手順や「正解」を持たずに、シナリオの目的を達成しようとすることにあります。これは、会社でシナリオを作成する際に必要になるからです。
+練習の演習を解決するためのさまざまな方法があります。 その意図は、従うべき手順や「正解」を持たずに、シナリオの目的を達成しようとすることにあります。これは、会社でシナリオを作成する際に必要になるからです。
 
 プラクティスの演習は、チュートリアルアクティビティに関連しています。
 
@@ -59,5 +59,7 @@ Workfront では、Workfront Fusion 体験版を提供していません。チ�
 ### お問い合わせ方法
 
 チュートリアルの演習を完了するのに役立つように、段階的な手順が提供されています。
+
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
 
 質問を投稿できる [Workfront Fusion 2.0 コミュニティ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=ja)もあります。
