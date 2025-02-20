@@ -12,9 +12,9 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## シンプルなレポートアクティビティの作成
+## シンプルなレポートの作成アクティビティ
 
 このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-simple-report-activities.pdf)してください。
 
@@ -55,10 +55,8 @@ ht-degree: 79%
 
    ![タスクレポートにフィルターを作成する画面の画像](assets/simple-task-report-filters.png)
 
-1. **[!UICONTROL レポート設定]** を開き、レポートに「現在のマイタスク」という名前を付けます。
-1. 「説明」フィールドに「未完了」と入力します
-自分がタスクである、現在のプロジェクトのタスク
-所有者（プロジェクト別にグループ化）。」
+1. 「**[!UICONTROL レポート設定]**」を開き、レポートに「現在のマイタスク」という名前を付けます。
+1. 「説明」フィールドに、「自分がタスク所有者である、現在のプロジェクトの未完了タスク（プロジェクト別にグループ化）」と入力します。
 
    ![タスクレポート内のレポート設定画面の画像](assets/simple-task-report-report-settings.png)
 

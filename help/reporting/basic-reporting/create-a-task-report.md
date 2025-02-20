@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## タスクレポートアクティビティの作成
+## タスクレポートの作成アクティビティ
 
 このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-task-report-activities.pdf)してください。
 

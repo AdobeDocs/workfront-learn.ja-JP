@@ -12,9 +12,9 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '225'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## レポートアクティビティの送信と共有
+## レポートの送信と共有アクティビティ
 
 このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/send-and-share-reports-activities.pdf)してください。
 

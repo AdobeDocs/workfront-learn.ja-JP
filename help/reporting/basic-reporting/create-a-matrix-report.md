@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 79%
 
 ### 回答 1
 
-1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
+1. **[!UICONTROL メインメニュー]**&#x200B;から「**[!UICONTROL レポート]**」を選択します。
 1. 「**[!UICONTROL 新しいレポート]**」オプションをクリックし、「**[!UICONTROL イシュー]**」を選択します。
 1. 「**[!UICONTROL グループ化]**」タブに移動し、「**[!UICONTROL マトリックスグループ化に切り替え]**」をクリックします。
 1. [!UICONTROL レコードのグループ化]の場合は、**[!UICONTROL プロジェクト]**／**[!UICONTROL 名前]**&#x200B;を選択します。
@@ -53,6 +53,6 @@ ht-degree: 79%
    * [!UICONTROL プロジェクト]／[!UICONTROL ステータスが次と等しい]／[!UICONTROL 次と等しい]／[!UICONTROL 現在]
    * [!UICONTROL キュー定義]／[!UICONTROL 公開済み]／[!UICONTROL 等しくない]／[!UICONTROL なし]（このようにして、プロジェクトが実際にはリクエストキューであることがわかります。キュー定義は、公開オプションの 1 つに割り当てられます）。
 
-1. 「**[!UICONTROL 保存して閉じる]**」をクリックします。レポート名の入力を求められたら、「ステータスとリクエストキューによるリクエスト」と入力します。
+1. 「**[!UICONTROL 保存して閉じる]**」をクリックします。レポート名の入力を求められたら、「ステータスとリクエストキュー別のリクエスト」と入力します。
 
    ![新しいイシューレポートフィルターを作成する画面の画像](assets/matrix-report-filters.png)
