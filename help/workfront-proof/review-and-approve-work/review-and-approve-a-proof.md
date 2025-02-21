@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '768'
-ht-degree: 100%
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+workflow-type: tm+mt
+source-wordcount: '727'
+ht-degree: 91%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 100%
 
 ### [!UICONTROL ホーム]からプルーフを開く
 
-[!DNL Workfront] で作業しているとき、プルーフの承認依頼を受けていれば、[!DNL Workfront] [!UICONTROL ホーム]の[!UICONTROL 作業リスト]に割り当てが表示されます。[!UICONTROL フィルター]から「[!UICONTROL 承認]」だけを選択すると、その種類の作業に集中できるので便利です。
+[!DNL Workfront] で作業しているとき、プルーフの承認依頼を受けていれば、[!DNL Workfront] の [!UICONTROL  ホーム ] の [!UICONTROL  マイ承認 ] ウィジェットに割り当てが表示されます。
 
-![[!UICONTROL 承認]フィルターを使用してリストからプルーフが選択されている [!DNL Workfront] [!UICONTROL ホーム]の画像](assets/open-proof-from-home.png)
+![[!DNL Workfront] の [!UICONTROL  ホーム [!UICONTROL  の ] マイ承認 ] ウィジェットの画像 ](assets/open-proof-from-home.png)
 
-プルーフが [!DNL Workfront] [!UICONTROL ホーム]に表示されるのは、承認するように割り当てられている場合のみです。プルーフの確認のみを求められている場合は、フィルターリストから「[!UICONTROL 承認]」を選択しても、[!DNL Workfront] [!UICONTROL ホーム]には表示されません。
+プルーフが [!DNL Workfront] [!UICONTROL ホーム]に表示されるのは、承認するように割り当てられている場合のみです。プルーフの確認のみを求められている場合は、[!DNL Workfront] の [!UICONTROL  ホーム ] には表示されません。
 
-[!UICONTROL ワークリスト]でプルーフの承認を選択し、「[!UICONTROL プルーフに移動]」リンクをクリックしてプルーフビューアを開きます。
+[!UICONTROL  プルーフに移動 ] リンクをクリックして、プルーフビューアを開きます。
 
 組織のプルーフとプロジェクトのワークフローによっては、プルーフの承認リクエストの代わりに、[!DNL Workfront] [!UICONTROL ホーム]にタスクの割り当てが表示される場合があります。この場合は、タスク自体の[!UICONTROL ドキュメント]セクションからプルーフを開きます（手順については以下を参照）。
 
