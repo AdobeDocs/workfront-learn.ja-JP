@@ -1,106 +1,35 @@
 ---
 title: '[!UICONTROL ポートフォリオオプティマイザー]を使用した作業の優先付けと管理'
-description: '[!UICONTROL ポートフォリオオプティマイザー]を使用して、ポートフォリオ内のプロジェクトを優先付けて管理する方法について説明します。'
+description: '[!UICONTROL Portfolioオプティマイザー ] を使用して、ポートフォリオ内のプロジェクトを比較し、優先順位を付ける方法を説明します。'
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
 thumbnail: prioritize-and-manage-work-with-portfolios.png
 type: Tutorial
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2025-02-21T00:00:00Z
+recommendations: noDisplay,catalog
 jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
+source-git-commit: adb11deb325b2537dabeb80461f8c9ecd059e003
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 49%
 
 ---
 
 # [!UICONTROL ポートフォリオオプティマイザー]を使用した作業の優先付けと管理
 
-ポートフォリオ内の各プロジェクトの[!UICONTROL ビジネスケース]に入力された情報は、ポートフォリオにまとめられ、[!UICONTROL ポートフォリオの最適化]セクションの見出しに表示されます。
+このビデオでは、次の方法を学習します：
 
-![ビジネス ケースからの情報を含む[!UICONTROL ポートフォリオオプティマイザー]エリアの画像](assets/10-portfolio-management9.png)
+* 承認と優先順位付けのためのビジネスケースの送信
+* [!UICONTROL Portfolio Optimizer] を使用した優先順位付けの最適化
+* プロジェクトの「ポートフォリオ優先度」フィールドを設定および表示します
 
-次にこの情報を使用して、優先して実稼動に移すべきプロジェクトと、次回まで保留にしておくことができるプロジェクトを分析します。その際、[!UICONTROL ポートフォリオ最適化]ツールは非常に役立ちます。
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
 
-[!UICONTROL ポートフォリオ最適化]は、次の場合に最も役立ちます。
+## このトピックに関する推奨チュートリアル
 
-* [!UICONTROL ビジネスケース]が完成し、すべてのプロジェクトに送信されました。
-* [!UICONTROL ビジネスケース]の「[!UICONTROL 送信]」ボタンをクリックすると、Workfront がプロジェクトのスコアを計算します。
-* 選択したプロジェクトの総費用の予算上限値を指定します。
-
-## 最適化条件
-
-[!UICONTROL ポートフォリオオプティマイザー]は、標準的な一連の基準を使用してプロジェクトを比較し、優先付けます。
-
-基準は以下のとおりです。
-
-* コストの低さ
-* 整合性の高さ
-* 価値の高さ
-* 利点に対するリスクの低さ
-* ROI の高さ
-
-「最適化」アイコンをクリックすると、一連のスライダーバーが開きます。各スライダーバーは、1 つの条件に関連付けられています。条件を設定するには、スライダーを右に動かすと優先順位が高くなり、左に動かすと優先順位が低くなります。
-
-![ビジネス ケースからの情報を含む[!UICONTROL ポートフォリオオプティマイザー]エリアの画像](assets/11-portfolio-management10.png)
-
-これらの基準を使用して、[!DNL Workfront] は 1 から 100 の範囲でプロジェクトスコアを生成します。数字が大きいプロジェクトほど、ポートフォリオの方向性に沿っていることを示しています。
-
-![プロジェクトスコアに関する情報を含む[!UICONTROL ポートフォリオオプティマイザー]エリアの画像](assets/12-portfolio-management14.png)
-
->[!NOTE]
->
->[!UICONTROL ポートフォリオオプティマイザー]は、[!UICONTROL ビジネスケース]のすべてのセクションが記入されていても、[!DNL Workfront] で[!UICONTROL ビジネスケース]がポートフォリオに提出されていなければ、プロジェクトにスコアを付けることはありません。[!UICONTROL ポートフォリオオプティマイザー]の[!UICONTROL スコア]列に、スコアではなく、警告マークが表示されます。警告記号の上にポインタを合わせると、プロジェクトのスコアリングに関する詳細情報が表示されます。
-
-![[!UICONTROL ポートフォリオオプティマイザー]の[!UICONTROL スコア]列の警告マークの画像。](assets/13-portfolio-management12.png)
-
-## プロジェクトの優先付け
-
-プロジェクトにスコアが割り当てられ、リストをすばやく簡単に再整理できるようになりました。
-
-[!UICONTROL スコア]列のヘッダーをクリックすると、プロジェクトがスコアの昇順または降順に並べ替えられて表示されます。また番号の左側にあるバーアイコンをクリックして、プロジェクトを希望の順序でドロップし、手動でプロジェクトを並べ替えることもできます。
-
-リストには、比較する必要のないプロジェクトが含まれている場合もあります。そのようなプロジェクトがリストに表示されないようにするには、まず該当するプロジェクトの選択を解除します。次に切替スイッチを右にスライドして非表示にし、ボタンの背景が青になるようにします。これらのプロジェクトを含める場合は、切り替えスイッチを左にスライドして、灰色の表示にします。
-
-![[!UICONTROL ポートフォリオオプティマイザー]で選択されていないプロジェクトの画像](assets/14-portfolio-management13.png)
-
-これにより、比較対象のプロジェクトのみを表示できます。プロジェクトのスコアリング、フィルタリング、ソートにより、プロジェクトの優先順位付けの基準を変更する必要があるかどうか、十分な情報に基づいて判断できるようになりました。
-
-[!DNL Workfront] は、ポートフォリオと最適化ツールを作成して、プロジェクトの優先順位付けのプロセスをスムーズにしました。ただし、候補として表示された基準を使用する必要はありません。ツールを使用して、作業に取り掛かるための出発点や基礎とするのであれば、問題ありません。
-
-プロジェクトに優先順位があり、[!DNL Workfront] で優先順位を確定する準備ができている場合は、左上隅にある「**[!UICONTROL 優先順位の設定]**」ボタンをクリックすると、システムが プロジェクトに 1 から順に番号を付け、その番号を使用して各プロジェクトの「[!UICONTROL ポートフォリオ優先度]」フィールドを設定します。
-
-これらの数値を保持するには、必ず「**[!UICONTROL 保存]**」ボタンをクリックします。
-
-![「[!UICONTROL 優先度の設定]」ボタンを使用して、[!UICONTROL ポートフォリオオプティマイザー]でプロジェクトに優先順位を付ける画像](assets/15-portfolio-management15.png)
-
-<!-- 
-Pro-tips graphic
--->
-
-* [!UICONTROL リソースプランナー]の[!UICONTROL ポートフォリオオプティマイザー]で設定したプロジェクトの優先度を表示できます。**[!UICONTROL 設定]**&#x200B;アイコンをクリックし、「**[!UICONTROL ポートフォリオの優先度を表示]**」オプションをオンにします。画面が更新され、左側の列にポートフォリオの優先度が表示されます。列の上部にある「**[!UICONTROL 順序]**」オプションをクリックして、[!UICONTROL リソースプランナー]の優先順位をポートフォリオの優先順位に合わせます。完了したら必ず保存してください。
-
-  ![[!UICONTROL リソースプランナー]の[!UICONTROL ポートフォリオ優先度]列の画像。](assets/16-portfolio-management17.png)
-
-## 変更の管理
-
-ポートフォリオは確かに万能薬ではありませんが、優先度を変更する際の苦痛を和らげることはできます。かつては数日かかっていた作業が、今では数時間、場合によっては数分かかるだけです。
-
-新しいプロジェクトをポートフォリオに追加する場合でも、分析を行い、優先順位を付ける必要があります。[!UICONTROL ビジネスケース]と最適化スコアを使用することで、新しいプロジェクトをリクエストしたプロジェクト、予定プロジェクト、現在のプロジェクトと簡単に比較できます。
-
-![[!UICONTROL ポートフォリオオプティマイザー]のプロジェクト[!UICONTROL ステータス]列の画像。](assets/17-project-management16.png)
-
-比較中に、新しいプロジェクトの優先度を高くする必要があることがわかった場合は、最適化スコアに基づいてリストを並べ替えるか、リストの上位にドラッグ＆ドロップすることができます。 完了後に「**[!UICONTROL 優先度の設定]**」ボタンをクリックして保存するだけで、ジョブは完了です。
-
-<!-- Learn more graphic and documentation article links
-
-* Portfolio Optimizer overview 
-* Optimize projects in the Portfolio Optimizer 
-* Overview of the Portfolio Optimizer score 
-* Prioritizing projects in the Portfolio Optimizer
-
--->
+* [ポートフォリオについて](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+* [[!UICONTROL ビジネスケース]について](/help/portfolios-and-programs/introduction-to-the-business-case.md)
