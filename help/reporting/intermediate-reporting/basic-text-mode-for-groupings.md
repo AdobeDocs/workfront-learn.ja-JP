@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '292'
 ht-degree: 97%
 
 ---
@@ -41,11 +41,9 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## アクティビティのグループ化に使用される基本的なテキストモードについて
+## 「グループ化の基本的なテキストモードについて」アクティビティ
 
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)してください。
-
-## タスク - 4 つの親のグループ化
+### タスク - 4 つの親のグループ化
 
 次のテキストモードでは、最大 4 つ上の親のレベルに基づいてタスクをグループ化し、存在しない親を空白のままにします。
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![4 つ上の親でグループ化されたプロジェクトタスクを示す画面の画像](assets/4-parents-grouping.png)
 
 
-## タスク - 完了率のグループ化
+### タスク - 完了率のグループ化
 
 次のテキストモードでは、完了率に基づいてタスクをグループ化します。 タスクはグループ化されると、次のカテゴリのいずれかに分類されます。
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![完了率でグループ化されたプロジェクトタスクを示す画面の画像](assets/percent-complete-grouping.png)
 
-## タスク - statusEquatesWith、ステータスの順
+### タスク - statusEquatesWith、ステータスの順
 
 次のテキストモードは、タスクを statusEquatesWith でグループ化してから、ステータスでグループ化します。
 
@@ -108,7 +106,7 @@ textmode=true
 ![statusEquatesWith でグループ化されたプロジェクトタスクを示す画面の画像](assets/status-equates-with.png)
 
 
-## プルーフの承認 - プロジェクト名でグループ化
+### プルーフの承認 - プロジェクト名でグループ化
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![プロジェクト名でグループ化された、プルーフの承認を示す画面の画像](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## プルーフの承認 - ドキュメント名でグループ化
+### プルーフの承認 - ドキュメント名でグループ化
 
 ```
 group.0.displayname=Document Name

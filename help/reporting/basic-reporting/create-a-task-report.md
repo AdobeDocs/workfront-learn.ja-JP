@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## タスクレポートの作成アクティビティ
-
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-task-report-activities.pdf)してください。
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ ht-degree: 100%
 >お客様からのお気に入りのレポートを集め、軽食で消化しやすいクックブックにまとめました。持ち帰ってご自身の Workfront キッチンで試してみてください。
 >この 10 件のレポートは、お客様と同じような顧客からのものです。業界、部門、チーム、役職を超えて、様々な企業にまたがって、お気に入りのレポートを共有してくださった素晴らしいお客様に多大な感謝を申し上げます。レポートの中には、シンプル (ただし非常に便利) なものもあれば、レポートを次のレベルに引き上げるために複雑なものもあります。
 
+## 「タスクレポートの作成」アクティビティ
 
 
-## アクティビティ 1：プロンプト付きのメモレポートの作成
+### アクティビティ 1：プロンプト付きのメモレポートの作成
 
 メモの内容、作成者、エントリ日、プロジェクト名、監査タイプに基づいて、ユーザーのメモ（コメントや更新など）またはシステムのメモを検索するために使用できるメモレポートを作成します。レポートに「メモ検索」という名前を付けます。
 
@@ -68,9 +66,9 @@ ht-degree: 100%
 * プロジェクト名
 * 監査の種類
 
-## 回答 1
+### 回答 1
 
-1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
+1. **[!UICONTROL メインメニュー]**&#x200B;から「**[!UICONTROL レポート]**」を選択します。
 1. **[!UICONTROL 新しいレポート]**&#x200B;メニューをクリックし、「**[!UICONTROL メモ]**」を選択します。
 1. **[!UICONTROL 列（表示）]**&#x200B;で、以下を含む列を設定します。
 
@@ -111,7 +109,7 @@ ht-degree: 100%
 1. 「**[!UICONTROL ダッシュボードにプロンプトを表示]**」チェックボックスをオンにします。
 1. レポートを保存して閉じます。
 
-## アクティビティ 2：管理チームのフィードバックレポートの作成
+### アクティビティ 2：管理チームのフィードバックレポートの作成
 
 これは、システム管理者向けに作成されたフィードバックリクエストキューからのすべての問題を表示する問題のレポートです。このリクエストキューの作成方法については、[システム管理者のフィードバックリクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=ja)チュートリアルを参照してください。
 
@@ -162,7 +160,7 @@ ht-degree: 100%
 
 
 
-## 回答 2
+### 回答 2
 
 1. **[!UICONTROL メインメニュー]**&#x200B;から&#x200B;**[!UICONTROL レポート]**&#x200B;を選択します。
 1. **[!UICONTROL 新規レポート]**&#x200B;メニューをクリックし、「**[!UICONTROL イシュー]**」を選択します。

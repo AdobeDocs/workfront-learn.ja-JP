@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 48%
+source-wordcount: '348'
+ht-degree: 47%
 
 ---
 
@@ -40,9 +40,7 @@ ht-degree: 48%
 >ユーザーベースのワイルドカードを使用する場合は、常に「次に等しい」フィルター修飾子を使用する必要があります。
 
 
-## ユーザーベースのワイルドカード アクティビティを使用してフィルターを作成する
-
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-filters-with-user-based-wildcards-activities.pdf)してください。
+## 「ユーザーベースのワイルドカードを使用してフィルターを作成する」アクティビティ
 
 ### アクティビティ 1
 

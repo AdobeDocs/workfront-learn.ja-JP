@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 97%
+source-wordcount: '158'
+ht-degree: 96%
 
 ---
 
@@ -28,9 +28,8 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
-## ビルトインプロジェクトフィルターアクティビティについて
+## 「ビルトインプロジェクトフィルターについて」アクティビティ
 
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/understand-built-in-project-filters-activities.pdf)してください。
 
 ### アクティビティ：プロジェクトフィルターの作成
 

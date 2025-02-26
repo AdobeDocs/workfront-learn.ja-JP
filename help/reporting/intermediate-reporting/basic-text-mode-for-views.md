@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 98%
 
 ---
@@ -42,15 +42,13 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## ビューアクティビティの基本的なテキストモードについて
+## 「ビューの基本的なテキストモードについて」アクティビティ
 
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/understand-basic-text-mode-for-views-activities.pdf)してください。
-
-## タスク - 4 つ上の親のビュー
+### タスク - 4 つ上の親のビュー
 
 最初にタスクの名前と親の名前の列を作成し、次のテキストモードを使用して他の 3 つの列を作成します。
 
-### タスク - 親の親（2 つ上の親）の名前
+#### タスク - 親の親（2 つ上の親）の名前
 
 ```
 displayname=Parent of Parent Name
@@ -64,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### タスク - 親の親の親（3 つ上の親）の名前
+#### タスク - 親の親の親（3 つ上の親）の名前
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -78,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### タスク - 親の親の親の親（4 つ上の親）の名前
+#### タスク - 親の親の親の親（4 つ上の親）の名前
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -94,9 +92,9 @@ valueformat=HTML
 
 ![4 つ上の親のビューを示す画面の画像](assets/4-parents-view.png)
 
-## ユーザー - ユーザービューでリストを表示するイテレーション
+### ユーザー - ユーザービューでリストを表示するイテレーション
 
-### ユーザー - すべての担当業務
+#### ユーザー - すべての担当業務
 
 ```
 displayname=All job roles
@@ -108,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### ユーザー - プライマリを示すすべての担当業務
+#### ユーザー - プライマリを示すすべての担当業務
 
 ```
 displayname=All Job Roles showing primary
@@ -120,7 +118,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### ユーザー - すべてのチーム
+#### ユーザー - すべてのチーム
 
 ```
 displayname=All teams
@@ -137,7 +135,7 @@ valueformat=HTML
 >UI からアクセスできるチームフィールドがあり、すべてのチームをコンマで区切って表示しますが、上のテキストモードを使用すると、各チームが別々の行に表示されます。
 
 
-### ユーザー - すべてのグループ
+#### ユーザー - すべてのグループ
 
 ```
 displayname=All groups
@@ -149,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### ユーザー - ホームグループを表示するすべてのグループ
+#### ユーザー - ホームグループを表示するすべてのグループ
 
 ```
 displayname=All groups showing home group
@@ -162,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### ユーザー - ダイレクトレポート
+#### ユーザー - ダイレクトレポート
 
 ```
 displayname=Direct reports
@@ -174,7 +172,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### ユーザー - 将来の PTO
+#### ユーザー - 将来の PTO
 
 ```
 displayname=Future PTO
@@ -190,7 +188,7 @@ width=150
 
 ![ユーザーリストビューを表示する画面の画像](assets/user-lists-view-large.png)
 
-## タスク - タスクの割り当ての表示とステータスの操作
+### タスク - タスクの割り当ての表示とステータスの操作
 
 ```
 displayname=Assignments and Status
@@ -207,9 +205,9 @@ width=150
 ![割り当てビューとステータスビューを示す画面の画像](assets/assignments-and-status-view.png)
 
 
-## タスク - 複数のタスクの割り当てに関する役割と割り当てを表示する方法
+### タスク - 複数のタスクの割り当てに関する役割と割り当てを表示する方法
 
-### タスク - 役割と時間数
+#### タスク - 役割と時間数
 
 ```
 displayname=Role+hours
@@ -221,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### タスク - 割り当てと割り当て率
+#### タスク - 割り当てと割り当て率
 
 ```
 displayname=Assignment+percent
@@ -235,9 +233,9 @@ type=iterate
 
 ![割り当てビューと役割ビューを示す画面の画像](assets/assignments-roles-and-percent-view.png)
 
-## タスク - プロジェクト間の先行タスクと後続タスク
+### タスク - プロジェクト間の先行タスクと後続タスク
 
-### タスクフィルター（オプション）
+#### タスクフィルター（オプション）
 
 **現在のプロジェクトで、1 つ以上のプロジェクト間の先行タスクまたは 1 つ以上のプロジェクト間の後続タスクを持つすべてのタスクを表示**
 
@@ -254,7 +252,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### タスク - プロジェクトの先行タスク名と先行タスクが次の場所にあることを表示
+#### タスク - プロジェクトの先行タスク名と先行タスクが次の場所にあることを表示
 
 ```
 displayname=Predecessor names
@@ -268,7 +266,7 @@ valueformat=HTML
 width=150
 ```
 
-### タスク - プロジェクトの後続タスク名と後続タスクが次の場所にあることを表示
+#### タスク - プロジェクトの後続タスク名と後続タスクが次の場所にあることを表示
 
 ```
 displayname=Successor names
@@ -282,7 +280,7 @@ valueformat=HTML
 width=150
 ```
 
-### タスク - 先行タスクの完了日の見込みを表示
+#### タスク - 先行タスクの完了日の見込みを表示
 
 ```
 displayname=Predecessor projected completion dates
@@ -297,7 +295,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### タスク - 先行タスクの進捗ステータスを表示
+#### タスク - 先行タスクの進捗ステータスを表示
 
 ```
 displayname=Predecessor progress status
@@ -312,7 +310,7 @@ valueformat=HTML
 width=90
 ```
 
-### タスク - プロジェクト間の先行タスクのプロジェクト完了率を表示
+#### タスク - プロジェクト間の先行タスクのプロジェクト完了率を表示
 
 ```
 displayname=Predecessor project percent complete
@@ -329,7 +327,7 @@ width=150
 ![プロジェクト間先行タスクと後続タスクビューを示す画面の画像](assets/cross-project-predecessors-and-successors.png)
 
 
-## タスク - 割り当てられた担当者と、割り当てを行った担当者をすべて示すイテレーション
+### タスク - 割り当てられた担当者と、割り当てを行った担当者をすべて示すイテレーション
 
 ```
 displayname=All assignees and requesters
@@ -343,7 +341,7 @@ valueformat=HTML
 
 ![割り当てられた担当者と、割り当てを行った担当者をすべて示す画面の画像](assets/all-assignees-and-requesters.png)
 
-## タスクまたはプロジェクト - プロジェクトまたはタスク上のすべてのカスタムフォームを表示するイテレーション
+### タスクまたはプロジェクト - プロジェクトまたはタスク上のすべてのカスタムフォームを表示するイテレーション
 
 ```
 displayname=All Forms Assigned
@@ -358,7 +356,7 @@ valueformat=HTML
 ![プロジェクト上のすべてのカスタムフォームを示す画面の画像](assets/all-custom-forms-on-a-project.png)
 
 
-## プロジェクト - プロジェクトビューで解決可能なすべてのプライマリ連絡先を示すイテレーション
+### プロジェクト - プロジェクトビューで解決可能なすべてのプライマリ連絡先を示すイテレーション
 
 ```
 displayname=Requestor
@@ -374,7 +372,7 @@ width=150
 
 ![解決可能なプライマリ連絡先を示す画面の画像](assets/primary-contacts-for-resolvables.png)
 
-## プロジェクト - すべてのプロジェクトチームメンバーを示すイテレーション
+### プロジェクト - すべてのプロジェクトチームメンバーを示すイテレーション
 
 ```
 displayname=Project Team Members
@@ -389,7 +387,7 @@ valueformat=HTML
 
 ![すべてのプロジェクトチームメンバーを示す画面の画像](assets/all-project-team-members.png)
 
-## プロジェクト - プロジェクトで解決可能なすべてのイシューの entryDate を示すイテレーション
+### プロジェクト - プロジェクトで解決可能なすべてのイシューの entryDate を示すイテレーション
 
 ```
 displayname=Resolvables entry date
@@ -407,7 +405,7 @@ valueformat=HTML
 
 ![プロジェクトで解決可能なすべてのイシューの entryDate を示す画面の画像](assets/resolvables-entry-date.png)
 
-## プロジェクト - 元のプロジェクトリクエスタのホームグループを示します
+### プロジェクト - 元のプロジェクトリクエスタのホームグループを示します
 
 ```
 displayname=Requestor home group
@@ -421,7 +419,7 @@ valueformat=HTML
 
 ![プロジェクト依頼者のホームグループを示す画面の画像](assets/requestor-home-group.png)
 
-## プロジェクト - プロジェクトがリクエストキューであるかどうかを示します
+### プロジェクト - プロジェクトがリクエストキューであるかどうかを示します
 
 ```
 querysort=queueDef:isPublic
@@ -439,7 +437,7 @@ displayname=Public Selection
 
 ![プロジェクトがリクエストキューであるかどうかを示す画面の画像](assets/project-is-a-request-queue.png)
 
-## イシュー - すべての解決プロジェクトチームメンバーを示すイテレーション
+### イシュー - すべての解決プロジェクトチームメンバーを示すイテレーション
 
 ```
 displayname=Resolve Project: Team Members
@@ -455,7 +453,7 @@ width=150
 
 ![すべての解決プロジェクトチームメンバーを示す画面の画像](assets/all-resolve-project-team-members.png)
 
-## イシュー - イシューのプライマリ連絡先のすべてのチームを示すイテレーション
+### イシュー - イシューのプライマリ連絡先のすべてのチームを示すイテレーション
 
 ```
 displayname=Requestor Teams
@@ -471,7 +469,7 @@ width=150
 
 ![すべてのプライマリ連絡先チームを示す画面の画像](assets/all-primary-contact-teams.png)
 
-## ドキュメント - ドキュメントレポートのフォルダーを示すイテレーション
+### ドキュメント - ドキュメントレポートのフォルダーを示すイテレーション
 
 ```
 displayname=Folder
@@ -485,7 +483,7 @@ valueformat=HTML
 
 ![ドキュメントレポートのフォルダーを示す画面の画像](assets/folder-in-a-document-report.png)
 
-## ドキュメント - ドキュメントレポートの親フォルダーを示すイテレーション
+### ドキュメント - ドキュメントレポートの親フォルダーを示すイテレーション
 
 ```
 displayname=Parent Folder
@@ -499,7 +497,7 @@ valueformat=HTML
 
 ![ドキュメントレポートの親フォルダーを示す画面の画像](assets/parent-folder-in-a-document-report.png)
 
-## ドキュメント - ドキュメントの承認日
+### ドキュメント - ドキュメントの承認日
 
 ```
 displayname=Document approval dates
@@ -517,9 +515,9 @@ section=0
 
 ![ドキュメントの承認日ビューの画面画像](assets/document-approval-dates.png)
 
-## プルーフの承認
+### プルーフの承認
 
-### プルーフの承認 - プロジェクト名を示します
+#### プルーフの承認 - プロジェクト名を示します
 
 ```
 displayname=Project Name
@@ -528,7 +526,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### プルーフの承認 - タスク名を示します
+#### プルーフの承認 - タスク名を示します
 
 ```
 displayname=Task Name

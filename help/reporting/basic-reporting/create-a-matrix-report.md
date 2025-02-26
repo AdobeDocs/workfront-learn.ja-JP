@@ -11,10 +11,10 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '268'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '260'
+ht-degree: 98%
 
 ---
 
@@ -27,9 +27,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## マトリックスレポートアクティビティの作成
-
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-matrix-report-activities.pdf)してください。
+## 「マトリックスレポートの作成」アクティビティ
 
 ### アクティビティ 1：マトリックスレポートの作成
 

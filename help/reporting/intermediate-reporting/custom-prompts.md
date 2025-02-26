@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 98%
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## カスタムプロンプトアクティビティの作成
+## 「カスタムプロンプトの作成」アクティビティ
 
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-custom-prompts-activities.pdf)してください。
 
-## アクティビティ：カスタムプロンプトの作成
+### アクティビティ：カスタムプロンプトの作成
 
 1. プロンプトのドロップダウンメニューで次のプロジェクトステータスを表示するカスタムプロンプトを作成します。
    * 計画
@@ -41,7 +40,7 @@ ht-degree: 98%
    * 停止
 1. プロンプトを変更して、今月が期限の現行プロジェクトを表示します。
 
-## 解答
+### 解答
 
 1. カスタムプロンプトは次のように表示され、次のテキストモードになります。
 

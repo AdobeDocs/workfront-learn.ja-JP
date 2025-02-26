@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 71%
+source-wordcount: '238'
+ht-degree: 70%
 
 ---
 
@@ -31,9 +31,8 @@ ht-degree: 71%
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## 日付ベースのワイルドカード アクティビティを使用してフィルターを作成する
+## 「日付ベースのワイルドカードを使用してフィルターを作成」アクティビティ
 
-このページの PDF をダウンロードするには、[こちらをクリック](/help/assets/create-filters-with-date-based-wildcards-activities.pdf)してください。
 
 ### アクティビティの設問
 
