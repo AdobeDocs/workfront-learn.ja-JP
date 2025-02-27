@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 99%
@@ -27,14 +27,13 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## 「タスクレポートの作成」アクティビティ
 
 >[!TIP]
 >
 >スパチュラとミキシングボウルを取り出して、[Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf) の「レシピ」を試す準備をしましょう。10 件のレポートに関する段階的な手順が記載されています。今すぐ環境に取り組むことができます。
 >お客様からのお気に入りのレポートを集め、軽食で消化しやすいクックブックにまとめました。持ち帰ってご自身の Workfront キッチンで試してみてください。
 >この 10 件のレポートは、お客様と同じような顧客からのものです。業界、部門、チーム、役職を超えて、様々な企業にまたがって、お気に入りのレポートを共有してくださった素晴らしいお客様に多大な感謝を申し上げます。レポートの中には、シンプル (ただし非常に便利) なものもあれば、レポートを次のレベルに引き上げるために複雑なものもあります。
-
-## 「タスクレポートの作成」アクティビティ
 
 
 ### アクティビティ 1：プロンプト付きのメモレポートの作成
