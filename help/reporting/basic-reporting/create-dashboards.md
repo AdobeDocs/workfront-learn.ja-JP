@@ -11,10 +11,10 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 64%
+source-wordcount: '645'
+ht-degree: 61%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 64%
 
 ### 回答 1
 
-1. 「メモレポートを作成」アクティビティで作成したレポートを実行します。
+1. 「メモレポートを作成」アクティビティで作成したレポートを実行します。 まだ作成していないのですか？ [ タスクレポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) チュートリアルでアクティビティを確認するには、ここをクリックします。
 1. 「**[!UICONTROL レポートアクション]**」をクリックし、「**[!UICONTROL コピー]**」を選択します。[!DNL Workfront] で「メモ検索（コピー）」という名前の新しいレポートが作成されます。
 1. **[!UICONTROL レポートアクション]**&#x200B;に移動し、「**[!UICONTROL 編集]**」を選択します。「**[!UICONTROL レポート設定]**」をクリックし、名前を「このプロジェクトのメモを検索」に変更します。
 1. 「[!UICONTROL レポートプロンプト]」をクリックし、[!UICONTROL プロジェクト]／[!UICONTROL 名前]のリストからプロンプトを削除します。

@@ -1,6 +1,6 @@
 ---
 title: リクエストの検索と管理
-description: フィルターの使用方法、チームの割り当ての管理方法、カスタムレポートとダッシュボードの作成方法、および効果的なリクエスト管理を行うために様々なコンテキストでの_my_の意味を明確にする方法について説明します。
+description: フィルターの使用方法、チームの割り当ての管理方法、カスタムレポートとダッシュボードの作成方法および効果的なリクエスト管理のための様々なコンテキストでの「my」の意味を明確にする方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 9%
