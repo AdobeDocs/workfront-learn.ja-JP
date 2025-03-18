@@ -1,6 +1,6 @@
 ---
 title: タスクの順序付けを学ぶ
-description: 先行タスクについて、また先行タスクがプロジェクト内のタスクを順序付けする方法を学びます。次に、期間と先行タスクを使用してタイムラインを作成する方法を学びます。
+description: 先行タスクとのタスク順序の定義、期間を通じたタイムラインの設定、テンプレートを使用したシーケンスの簡略化、手動の制約の回避、練習によるスキルの調整によって、プロジェクト管理を合理化します。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 10%
 
 ---
 
 # タスクの順序付けを学ぶ
 
-このビデオでは、次のことを学習します。
+このビデオでは、先行タスクと期間を使用してWorkfrontでタスクのシーケンスを作成し、プロジェクトのタイムラインを効果的に管理する方法を説明します。
+このビデオでは、新しいタスクの先行タスクを設定して、順序と正確な開始日を確実に設定する方法を説明します。
+&#x200B;プロジェクトのタイムラインに対する影響を理解するために先行タスクと共に練習することが重要であると強調し、効率的なプロジェクト計画のために期間と先行タスクを使用することを推奨します。
 
-* Workfront の先行タスクとは
-* 期間と先行タスクを使用してタイムラインを作成する方法
-* 先行タスクがプロジェクトのタスクをどのように順序付けるか
-* タスク開始日の設定がタスクの制約に与える影響
-* 先行タスクの入力方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## 重要ポイント
+
+* **先行タスクはタスクの順序を定義する：** 先行タスクはタスクのシーケンスを確立し、特定のタスクが完了してから他のタスクが開始されるようにしますが、これはプロジェクトの成功にとって重要です。&#x200B;
+* **期間の影響タイムライン：** タスク期間は作業の時間枠を設定し、開始日と完了日を調整して、依存タスクにカスケード効果を与えます。&#x200B;
+* **テンプレート設定の簡素化：** 先行タスクと制約をプロジェクトテンプレートに事前に設定できるので、タスクシーケンスの管理プロセスを合理化できます。&#x200B;
+* **手動による調整が制約に影響：** 特定の日付を手動で設定すると、期間または先行タスクの変更によって発生するカスケード更新が上書きされます。&#x200B;
+* **プラクティスによりスキルが向上：** 先行タスクと期間でプラクティスを行うと、プロジェクト管理スキルを磨き、タイムラインをより適切に制御できます。
 
 ## このトピックに関する推奨チュートリアル
 
