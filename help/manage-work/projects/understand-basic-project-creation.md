@@ -1,6 +1,6 @@
 ---
 title: 基本的なプロジェクト作成について
-description: プロジェクトを効率的に作成、管理、完了する方法、予期しない問題を処理する方法、基本的なプロジェクト管理機能を習得するための初心者にわかりやすいヒントを紹介します。​
+description: プロジェクトを効率的に作成、管理、完了する方法、予期しない問題を処理する方法、基本的なプロジェクト管理機能を習得するための初心者にわかりやすいヒントを探索する方法について説明します。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
