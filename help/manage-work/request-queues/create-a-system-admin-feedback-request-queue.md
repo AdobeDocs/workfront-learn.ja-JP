@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 * システム管理者のフィードバックリクエストキューの作成方法
 * 管理チームのフィードバックレポートをプロセスの改善に役立てる方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ビデオで使用される&#x200B;**管理チームのフィードバックレポート**&#x200B;の作成方法については、[タスクレポートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ja)チュートリアルを参照し、ビデオの終了後に、**管理チームのフィードバックレポートの作成**&#x200B;を行うアクティビティを検索してください。
 

@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '2418'
-ht-degree: 98%
+source-wordcount: '2427'
+ht-degree: 97%
 
 ---
 
@@ -156,6 +156,7 @@ ht-degree: 98%
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グローバルおよび単一使用承認プロセスの作成](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [リクエストキューにイシュー承認プロセスを適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [デジタル作品のレビューと承認](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [タスク、イシュー、承認を委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [マイルストーンの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
