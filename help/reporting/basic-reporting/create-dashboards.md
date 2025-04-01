@@ -1,6 +1,6 @@
 ---
 title: ダッシュボードの作成
-description: プロジェクトデータをWorkfrontのダッシュボードで整理して表示します。ダッシュボードでは、シームレスなプロジェクト管理と共同作業を行うために、カスタマイズ、アクセス、共有、印刷を簡単に行うことができます。
+description: Workfront ダッシュボードを使用してプロジェクトデータを整理および表示します。ダッシュボードはカスタマイズ可能で、アクセスしやすく、共有および印刷できるので、シームレスなプロジェクト管理と共同作業が可能になります。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 62%
+ht-degree: 65%
 
 ---
 
