@@ -12,9 +12,9 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '727'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 91%
 
 ### [!UICONTROL ホーム]からプルーフを開く
 
-[!DNL Workfront] で作業しているとき、プルーフの承認依頼を受けていれば、[!DNL Workfront] の [!UICONTROL  ホーム ] の [!UICONTROL  マイ承認 ] ウィジェットに割り当てが表示されます。
+[!DNL Workfront] で作業しているとき、プルーフの承認依頼を受けていれば、[!DNL Workfront] [!UICONTROL ホーム]の[!UICONTROL マイ承認]ウィジェットに割り当てが表示されます。
 
 ![[!DNL Workfront] の [!UICONTROL  ホーム [!UICONTROL  の ] マイ承認 ] ウィジェットの画像 ](assets/open-proof-from-home.png)
 
-プルーフが [!DNL Workfront] [!UICONTROL ホーム]に表示されるのは、承認するように割り当てられている場合のみです。プルーフの確認のみを求められている場合は、[!DNL Workfront] の [!UICONTROL  ホーム ] には表示されません。
+プルーフが [!DNL Workfront] [!UICONTROL ホーム]に表示されるのは、承認するように割り当てられている場合のみです。プルーフの確認依頼のみを受けた場合は、[!DNL Workfront] [!UICONTROL ホーム]には表示されません。
 
-[!UICONTROL  プルーフに移動 ] リンクをクリックして、プルーフビューアを開きます。
+「[!UICONTROL プルーフに移動]」リンクをクリックして、プルーフビューアで開きます。
 
 組織のプルーフとプロジェクトのワークフローによっては、プルーフの承認リクエストの代わりに、[!DNL Workfront] [!UICONTROL ホーム]にタスクの割り当てが表示される場合があります。この場合は、タスク自体の[!UICONTROL ドキュメント]セクションからプルーフを開きます（手順については以下を参照）。
 
@@ -82,7 +82,7 @@ ht-degree: 91%
 
 ## プルーフの確認と承認
 
-このビデオでは、次の方法を学習します：
+このビデオでは、以下の方法を説明します。
 
 * プルーフを確認する際に求められる事項を把握する
 * プルーフにコメントする

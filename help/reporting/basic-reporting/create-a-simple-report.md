@@ -12,21 +12,21 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # シンプルなレポートの作成
 
-このビデオでは、次の方法を学習します：
+このビデオでは、以下の方法を説明します。
 
 * 既存のフィルター、表示、グループ化を使用してシンプルなレポートを作成します
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 「シンプルなレポートを作成」アクティビティ
+## 「シンプルなレポートの作成」アクティビティ
 
 ### アクティビティ 1：シンプルなタスクレポートの作成
 

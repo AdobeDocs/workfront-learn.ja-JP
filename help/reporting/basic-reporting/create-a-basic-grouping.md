@@ -12,9 +12,9 @@ jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## 「基本的なグループ化の作成」アクティビティ
+## 「基本グループ化の作成」アクティビティ
 
 
 ### アクティビティ 1：基本グループ化の作成
