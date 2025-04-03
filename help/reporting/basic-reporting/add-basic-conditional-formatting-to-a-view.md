@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '464'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 97%
    * 置換テキスト
    * アイコンを表示
 
-## 「ビューへの基本的な条件付き書式の追加」アクティビティ
+## 「ビューに基本的な条件付き書式を追加」アクティビティ
 
 ### アクティビティ 1：ビューに条件付き書式を追加
 

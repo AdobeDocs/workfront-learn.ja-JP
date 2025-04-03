@@ -15,7 +15,7 @@ exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
 
-## 重要ポイント
+## 主な要点
 
 * **公正な比較のための完全なビジネスケース：** すべてのプロジェクトのビジネスケースが完了および送信されていることを確認してから、Portfolio Optimization ツールで比較して、データの欠落や評価の不正確さを避けます。&#x200B;
 * **ステータス別にプロジェクトをフィルター：** フィルターを使用して、特定のプロジェクトステータス（リクエスト済み、承認済み、現在など）にフォーカスし、効率的な比較と意思決定を行います。&#x200B;
