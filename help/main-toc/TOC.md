@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2432'
 ht-degree: 97%
 
 ---
@@ -336,6 +336,7 @@ ht-degree: 97%
    + [ワークスペースの作成](/help/workfront-planning/create-a-workspace.md)
    + [レコードタイプの作成と管理](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [テーブルビューの作成と管理](/help/workfront-planning/create-and-manage-table-views.md)
+   + [タイムラインビューの作成と管理](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [UX 設計チーム向けWorkfront計画のメリット](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 統合 {#integrations}
