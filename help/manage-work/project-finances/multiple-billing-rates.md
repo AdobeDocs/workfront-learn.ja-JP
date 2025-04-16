@@ -1,6 +1,6 @@
 ---
 title: 複数の請求レートについて
-description: プロジェクト内のシステム請求レートを上書きする方法を学びます。
+description: プロジェクトレベルでの担当業務の請求率をカスタマイズおよび管理します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,49 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '173'
+ht-degree: 10%
 
 ---
 
+
 # 複数の請求レートについて
 
-プロジェクトマネージャーは [!DNL Workfront] 内で、特定のプロジェクト内のシステム請求レートを上書きすることができます。以前は、新しい請求レートがプロジェクトに適用された場合、その請求レートが将来の時間に影響を与えるだけでなく、プロジェクトに既に記録されている時間にも影響がありました。
+このビデオでは、プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法を説明します。&#x200B;同じ担当業務に対して複数の請求レートを設定する柔軟性と、正確な時間ベースの調整を確保する方法が重視されます。&#x200B;
 
-[!DNL Workfront] の新しい複数請求レート機能を使用すると、プロジェクトマネージャーは請求レートを適用する期間を決定することができます。このようにして、レートが交渉または変更された場合、プロジェクトマネージャはそのレートがいつ有効になるかを判断することができます。
 
-## 請求レートの変更
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
 
-1. プロジェクトのランディングページに移動します。 左側のパネルから「**[!UICONTROL 請求レート]**」を選択します。
+## 主な要点
 
-   ![で[!UICONTROL 請求レート]を選択している画像[!DNL Workfront]](assets/project-finances-1.png)
 
-1. 「**[!UICONTROL 請求レート]**」タブで、「**[!UICONTROL 請求レートを追加]**」ボタンをクリックします。 「**[!UICONTROL 新しい請求レート]**」をドロップダウンから選択します。
+* **デフォルトの請求レート：** システム管理者は担当業務ごとにデフォルトの請求レートを設定しますが、個々のプロジェクトに対してカスタマイズできます。&#x200B;
+* **請求レートの柔軟性：** プロジェクト内の同じ担当業務に対して複数の請求レートを作成し、カスタマイズされた調整を可能にします。&#x200B;
+* **時間別レート：** 開始日と終了日を追加して、特定の期間に対して請求レートを設定し、プロジェクトの様々な段階で正確なレートを適用できます。&#x200B;
+* **簡単なカスタマイズ：** 請求レートの変更は簡単です。担当業務を選択し、新しいレートを入力して、「請求レート」タブから直接更新を保存します。&#x200B;
 
-   ![で[!UICONTROL 新しい請求レート]を選択している画像[!DNL Workfront]](assets/project-finances-2.png)
+## このトピックに関する推奨チュートリアル
 
-1. [!UICONTROL 新しい請求レート]ダイアログボックスが表示されます。 **[!UICONTROL 担当業務]**&#x200B;ドロップダウンで、新しい請求レートを適用する担当業務を選択します。
+* [財務情報の検索](/help/manage-work/project-finances/find-financial-information.md)
+* [ 財務の更新 ](/help/manage-work/project-finances/update-and-review-finances.md)
+&lt;!—* [ 複数の請求レートについて ](/help/manage-work/project-finances/multiple-billing-rates.md)—>
 
-   ![ の新しい請求レートで担当業務を選択している画像[!DNL Workfront]](assets/project-finances-3.png)
-
-1. 担当業務が選択されると、[!UICONTROL デフォルトの請求レート]および[!UICONTROL 請求レート 1] フィールドが表示されます。新しい請求レートを[!UICONTROL 請求レート 1] フィールドに入力します。 その請求レートがプロジェクト全体（記録された過去、現在、および未来の時間）に適用される場合は、「**[!UICONTROL 保存]**」ボタンをクリックします。
-
-   ![ でプロジェクト全体に適用される新しい請求レートを保存している画像[!DNL Workfront]](assets/project-finances-5.png)
-
-1. 新しい請求レートが特定の期間のみ適用される場合は、「**[!UICONTROL レートの追加]**」ボタンをクリックします。 [!UICONTROL 請求レート 1 の終了日]と[!UICONTROL 請求レート 2] フィールドが表示されます。 [!UICONTROL 請求レート 1] の終了日を入力します。[!UICONTROL 請求レート 1] の開始日は入力できません。システムが、この請求レートはプロジェクトの最初に開始されたと想定しているからです。
-
-   ![ で、プロジェクト開始から一定期間適用される新しい請求レートを作成している画像[!DNL Workfront]](assets/project-finances-6.png)
-
-1. そうでない場合：
-
-   * [!UICONTROL 請求レート 1] に、デフォルトの請求レートを入力します。
-   * [!UICONTROL 請求レート 1]（[!UICONTROL デフォルトの請求レート]）の終了日を選択をします。
-   * [!UICONTROL 請求レート 2] の開始日は、 [!UICONTROL 請求レート 1] 終了の翌日に、自動的に設定されます
-   * [!UICONTROL 請求レート 2] セクションに希望の請求レートを入力します。
-   * 必要な場合は「**[!UICONTROL 請求レートの追加]**」ボタンをクリックして、請求レートの追加を継続します。
-   * 完了したら、「**[!UICONTROL 保存]**」をクリックします。
-   * すべての請求レートが、プロジェクトの「[!UICONTROL 請求レート]」タブに表示されます。
-
-   ![ で、異なる期間に適用される新しい請求レートを作成している画像。[!DNL Workfront]](assets/project-finances-7.png)

@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2432'
-ht-degree: 97%
+source-wordcount: '2430'
+ht-degree: 96%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 97%
       + [マイルストーンの作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + システムのパフォーマンスとメンテナンス {#system-perfomance-and-maintenance}
-      + [既存の Adobe Workfront インスタンスの担当](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+      + [既存の Adobe Workfront インスタンスの管理](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
 
    + プロジェクトの財務 {#project-finances}
       + [パフォーマンス指標について](/help/manage-work/project-finances/understand-performance-metrics.md)
@@ -86,7 +86,7 @@ ht-degree: 97%
       + [カスタムフォームの編集](/help/custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [カスタムフォームをオブジェクトへ添付](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームへのセクション区切りとロジックの追加](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
-      + [カスタムフォーを PDF として書き出し](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [カスタムフォームを PDF として書き出し](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 計算式 {#calculated-expressions}
       + [計算フィールドと式の基本を学ぶ](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -131,7 +131,7 @@ ht-degree: 97%
       + [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
       + [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
 
-   + イシュー／リクエスト {#issues-requests}
+   + イシュー/リクエスト {#issues-requests}
       + [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
       + [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
       + [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
@@ -182,9 +182,9 @@ ht-degree: 97%
       + [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-   + ユーザーのプロジェクトの財務 {#project-finances-users}
-      + [財務の更新とレビュー](/help/manage-work/project-finances/update-and-review-finances.md)
+   + プロジェクトの財務（ユーザー向け） {#project-finances-users}
       + [財務情報の検索](/help/manage-work/project-finances/find-financial-information.md)
+      + [財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
       + [複数の請求レートについて](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 中間プロジェクト {#intermediate-projects}
@@ -224,7 +224,7 @@ ht-degree: 97%
       + [グループ化の基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [カスタムプロンプトの作成](/help/reporting/intermediate-reporting/custom-prompts.md)
 
-   + 詳細レポート {#advanced-reporting}
+   + 高度なレポート {#advanced-reporting}
       + [詳細レポート機能へようこそ](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
       + [詳細レポート第 1 部](/help/reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [詳細レポート第 2 部](/help/reporting/advanced-reporting/advanced-reporting-part-2.md)
@@ -331,7 +331,7 @@ ht-degree: 97%
       + [目標の進捗の計算](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [目標ステータスを伝える](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
-+ Workfront計画 {#workfront-planning}
++ Workfront Planning {#workfront-planning}
    + [インスタンスへの Planning の追加](/help/workfront-planning/add-planning-to-your-instance.md)
    + [ワークスペースの作成](/help/workfront-planning/create-a-workspace.md)
    + [レコードタイプの作成と管理](/help/workfront-planning/create-and-manage-a-record-type.md)
@@ -353,7 +353,7 @@ ht-degree: 97%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [ [!DNL Jira]  統合によって視認性を高める](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -477,7 +477,7 @@ ht-degree: 97%
       + [シナリオガードレール](/help/fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [テストと起動](/help/fusion/11-design-optimization-and-testing/testing-considerations.md)
 
-+ Workfront プルーフ {#workfront-proof}
++ Workfront Proof {#workfront-proof}
    + [プルーフのメリットを学ぶ](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
    + [ドキュメントとプルーフの違いについて](/help/workfront-proof/document-vs-proof.md)
    + [プルーフビューアについて](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -589,7 +589,7 @@ ht-degree: 97%
 
 + アジャイル {#agile}
 
-   + アジャイル作業管理 {#intro-to-agile} ールの概要
+   + アジャイル作業管理の概要 {#intro-to-agile}
       + [アジャイルを使用するメリット](/help/agile/benefits-of-using-agile.md)
       + [スクラム方式の概要と仕組み](/help/agile/what-is-the-scrum-methodology.md)
       + [かんばん方式の概要と仕組み](/help/agile/what-is-the-kanban-methodology.md)
@@ -606,7 +606,7 @@ ht-degree: 97%
       + [かんばんチームの作成](/help/agile/create-a-kanban-team.md)
       + [かんばんチームとしての作業の管理](/help/agile/manage-work-kanban-team.md)
 
-   + ボード {#boards}
+   + ボード  {#boards}
       + [基本ボードの検索と作成](/help/boards/find-and-create-a-basic-board.md)
       + [ボードの列の管理](/help/boards/manage-board-columns.md)
       + [ボードへのカードの追加](/help/boards/add-cards-to-a-board.md)
