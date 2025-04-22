@@ -13,9 +13,9 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+source-git-commit: d6a69745a75e326f99b19be633ced01badabd5ec
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '205'
 ht-degree: 8%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 8%
 
 ## このトピックに関する推奨チュートリアル
 
-&lt;!—* [ 財務情報の検索 ](/help/manage-work/project-finances/find-financial-information.md)—>
+<!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
 * [財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
 * [複数の請求レートについて](/help/manage-work/project-finances/multiple-billing-rates.md)
 
