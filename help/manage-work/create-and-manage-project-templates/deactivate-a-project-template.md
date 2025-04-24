@@ -16,7 +16,7 @@ exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 75%
+ht-degree: 76%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 75%
 
 >[!NOTE]
 >
->テンプレートを削除しても、そのテンプレートを使用して作成したプロジェクトは影響を受けません。 削除されたテンプレートは 30 日間ごみ箱に移動され、システム管理者のみが復元できます。
+>テンプレートを削除する場合、そのテンプレートを使用して作成したプロジェクトは影響を受けません。 削除されたテンプレートは 30 日間ごみ箱に移動され、復元することができるのはシステム管理者のみとなります。
 
 
 
 ## プロジェクトテンプレートのアクティブなステータスを表示および編集するためのカスタムビューを作成する方法について説明します。
 
-アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、[基本ビューの作成](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view)の「**プロジェクトテンプレートのアクティブなステータスビュー**」アクティビティを参照してください。
+アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、[基本ビューの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view)の「**プロジェクトテンプレートのアクティブなステータスビュー**」アクティビティを参照してください。
 
 ## このトピックに関する推奨チュートリアル
 
