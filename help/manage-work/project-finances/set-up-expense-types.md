@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 28%
 
 ---
 
 # 費用タイプを設定する
 
-[!DNL Workfront] の費用は、プロジェクトや他の作業に関連する非労務費を表します。例えば、クライアントを訪問する際の旅費や、撮影した写真を完了するために必要な補給品の購入などの費用が発生します。これらの費用はプロジェクト内に記録する必要があるので、任意のプロジェクトに対して計画コストと実際のコストを計算し、レポートできます。
+このビデオでは、Workfrontで費用タイプを管理する方法を、費用タイプの作成、使用、削除に重点を置いて説明します。
 
-[!DNL Workfront] には、費用の入力時に使用できる事前定義済みの費用タイプがあります。 デフォルトは削除または変更できませんが、新しいデフォルトは追加できます。
 
-* 広告宣伝費
-* コンサルティング
-* 接待交際費
-* 一般
-* 部材費
-* 印刷
-* 送料
-* 交通費
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-システム管理者は、組織に必要な費用タイプを追加できます。 組織で必要な財務報告をサポートするために、これらの追加の費用タイプを変更、非表示または削除できます。
+## 主な要点
 
-プロジェクトマネージャーやエグゼクティブなどは、[!DNL Workfront] 内のタスク、プロジェクト、プログラム、ポートフォリオについて、必要に応じて個々の費用をタイプ別にグループ化した費用レポートを生成できます。費用タイプを使用すると、プロジェクトの財務管理がはるかに容易になります。
+* **事前定義済み費用タイプ：** Workfrontには、削除、非表示、変更ができない事前定義済み費用タイプが含まれており、システム全体での一貫性を確保しています。
+* **カスタム費用タイプ：** システム管理者は、独自の費用タイプを作成できます。費用タイプは、編集、削除およびシステム全体で使用できます。 これには、マイレージレートなどの計算単位を含めることができます。
+* **費用作成：** 費用を作成する際、ユーザーは費用タイプを選択し、詳細（走行距離など）を入力すると、設定されたレートに基づいて計画金額が自動的に計算されます。
+* **費用タイプの削除：** カスタム費用タイプは、使用されているすべてのインスタンスで置き換えた後にのみ削除できます。 レポートを生成して、これらのインスタンスを識別できます。
 
-## 費用タイプを作成する
+## このトピックに関する推奨チュートリアル
 
-**メインメニューから、[!UICONTROL 設定]を選択**
-
-1. 左側のパネルメニューで、**[!UICONTROL 費用タイプ]**&#x200B;をクリックします。
-1. 「**[!UICONTROL 新規費用タイプ]** 」ボタンをクリックします。
-1. 費用タイプに名前を付けます。
-1. 必要に応じて、説明を追加します。
-1. 「**[!UICONTROL 保存]** 」ボタンをクリックします。
-
-![新しい費用タイプ作成の画像](assets/setting-up-finances-6.png)
-
-## 費用タイプの使用
-
-ユーザーが [!DNL Workfront] でプロジェクトまたはタスクの費用を作成すると、**[!UICONTROL 費用タイプ]**&#x200B;ドロップダウンに費用オプションが表示されます。
-
-![新規費用を追加する画像](assets/setting-up-finances-7.png)
+* [パフォーマンス指標について](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [タスクの収益とコストのデフォルトの設定](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [為替レートの設定](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [財務アクセスについて](/help/manage-work/project-finances/understand-financial-access.md)

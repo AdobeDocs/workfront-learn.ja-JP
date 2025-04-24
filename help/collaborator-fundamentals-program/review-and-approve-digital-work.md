@@ -6,8 +6,8 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8808
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -24,11 +24,11 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

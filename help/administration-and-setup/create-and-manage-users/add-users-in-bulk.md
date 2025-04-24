@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,9 +41,9 @@ ht-degree: 100%
 
 [!DNL Workfront] は、システムにデータを読み込むためのキックスタートテンプレートを提供しています。また、ユーザーの読み込みにも使用できます。 注意すべき考慮事項があるため、キックスタートを使用する前に、[!DNL Workfront] では、組織の [!DNL Workfront] コンサルタントと協力することをお勧めします。
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 詳しくは、キックスタートを使用した Workfront へのデータの読み込みを参照してください。
 

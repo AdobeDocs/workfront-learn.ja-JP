@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -27,6 +27,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more URLS
---->
+-->

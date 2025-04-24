@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-10152
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 すべて設定したら、プロジェクトのステータスを「現在」に変更して、プロジェクトを稼働させます。プロジェクトが進むにつれて、完了した作業、発生した問題、回答が必要な問い合わせなどを追跡する必要がでてきます。それらの情報はすべて [!DNL Workfront] で見つけて管理できます。
 
-<!---
+<!--
 footer urls for the LP
 Plan a project 
 Edit projects
@@ -39,4 +39,4 @@ Task duration and duration types
 Use task predecessors 
 Modify multiple user assignments in a task list
 Notifications: Information about work assigned to me 
---->
+-->

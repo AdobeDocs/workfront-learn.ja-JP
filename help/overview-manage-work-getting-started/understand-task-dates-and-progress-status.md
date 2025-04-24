@@ -12,7 +12,7 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -33,8 +33,8 @@ ht-degree: 100%
 >ビデオで説明されているように、[!UICONTROL 実際の開始日]が正しくなるように、タスクの開始時にステータスを「**[!UICONTROL 新規]**」から「**[!UICONTROL 進行中]**」に変更することが重要です。ただし、タスクの開始時にこの操作を実行し忘れた場合は、戻って[!UICONTROL 実際の開始日]をいつでも編集できます。
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->

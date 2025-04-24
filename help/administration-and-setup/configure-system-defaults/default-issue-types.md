@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 各イシュータイプは異なるタイプの情報をトラッキングするので、イシューを解決するにはタイプごとに一意のワークフローが必要になる場合があります。各イシュータイプのステータスを、そのイシュータイプのワークフローに合わせてカスタマイズします。
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## 既定の状態
 
@@ -42,9 +42,9 @@ add URL in paragraph below
 * 完了確認
 * 解決しない
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 イシューのステータスは、[!UICONTROL 問題の詳細]で表示および変更できます。イシューのステータスは、右端にある問題ページのヘッダーで変更することもできます。
@@ -55,9 +55,9 @@ need URL in paragraph below
 
 ![[!UICONTROL ビューの状態列]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 イシューのステータスの基本事項は次のとおりです。
 

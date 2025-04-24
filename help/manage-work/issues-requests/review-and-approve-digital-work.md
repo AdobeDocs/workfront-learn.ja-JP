@@ -12,10 +12,10 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
-## 重要ポイント
+## 主な要点
 
 * **一元的な承認管理：** 承認待ちのすべての項目は、ホーム領域の「承認待ち」ウィジェットからアクセスできます。&#x200B;
 * **柔軟なレビューオプション：** ホームエリアから直接承認または却下するか、項目名をクリックして決定を下す前に詳細をレビューできます。&#x200B;
@@ -52,11 +52,11 @@ ht-degree: 12%
 * [タスク、イシュー、承認を委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

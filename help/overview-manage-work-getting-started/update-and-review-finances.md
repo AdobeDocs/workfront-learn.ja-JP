@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: 6be2fc928ec02513ff27189d590dd1f09298bb27
+exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 92%
@@ -34,7 +35,7 @@ ht-degree: 92%
 
 ## 請求記録
 
-請求レコードは [!DNL Workfront] で使用され、請求可能な時間、請求可能な費用、請求可能な収益、および追加の請求可能な金額を 1 つのレコードと金額に収集します。多くの場合、これらは [!DNL Workfront] からサードパーティの請求システムまたは会計システムに書き出されます。
+請求記録は [!DNL Workfront] で使用され、請求可能な時間、請求可能な費用、請求可能な収益、および追加の請求可能な金額を 1 つのレコードと金額に収集します。多くの場合、これらは [!DNL Workfront] からサードパーティの請求システムまたは会計システムに書き出されます。
 
 請求記録を作成および表示するには、[!DNL Workfront] の財務データにアクセスできる必要があります。
 
@@ -46,9 +47,9 @@ ht-degree: 92%
 
 [!UICONTROL プロジェクトの詳細]の財務情報のほとんどは、プロジェクトの作成中に設定され、ここに表示される数値はその情報に基づいています。そのため、プロジェクトを閉じる際に、財務の詳細では何も更新または追加する必要はありません。
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->
