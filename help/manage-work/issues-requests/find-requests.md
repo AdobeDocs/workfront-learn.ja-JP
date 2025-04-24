@@ -1,6 +1,6 @@
 ---
 title: リクエストの検索と管理
-description: フィルターの使用方法、チームの割り当ての管理方法、カスタムレポートとダッシュボードの作成方法および効果的なリクエスト管理のための様々なコンテキストでの「my」の意味を明確にする方法について説明します。
+description: フィルターの使用方法、チーム割り当ての管理方法、カスタムレポートとダッシュボードの作成方法、様々なコンテキストでの「マイ」の意味を明確にして、効果的なリクエスト管理を行う方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -14,9 +14,9 @@ doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 83%
 このビデオでは、Workfront でリクエストを検索および管理する方法について説明します。次の 4 つの主なエリアについて説明します。
 
 * Workfront ホーム
-* リクエスト領域
-* チームページ&#x200B;
+* リクエストエリア
+* チームページ
 * カスタムレポートとダッシュボード
 
 
@@ -46,6 +46,6 @@ ht-degree: 83%
 * [リクエストキューについて](/help/manage-work/request-queues/understand-request-queues.md)
 * [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
 * [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
-* [イシュー／リクエストのプロジェクトへ変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [イシュー／リクエストのタスクへ変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 
