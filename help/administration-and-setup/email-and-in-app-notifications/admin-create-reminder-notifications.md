@@ -11,7 +11,7 @@ thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
 ht-degree: 100%
 

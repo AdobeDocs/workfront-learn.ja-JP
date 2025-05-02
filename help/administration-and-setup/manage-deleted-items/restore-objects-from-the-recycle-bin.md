@@ -11,7 +11,7 @@ thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
 ht-degree: 100%
 

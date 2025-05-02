@@ -1,6 +1,6 @@
 ---
 title: 複数の請求レートについて
-description: プロジェクトレベルでの担当業務の請求率をカスタマイズおよび管理します。
+description: プロジェクトレベルで、担当業務の請求レートをカスタマイズおよび管理できます。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,16 +14,16 @@ last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
 # 複数の請求レートについて
 
-このビデオでは、プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法を説明します。&#x200B;同じ担当業務に対して複数の請求レートを設定する柔軟性と、正確な時間ベースの調整を確保する方法が重視されます。&#x200B;
+ビデオでは、プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法について説明します。ここでは、同じ担当業務に対して複数の請求レートを設定する柔軟性と、正確な時間ベースの調整の確保を強調しています。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
@@ -31,14 +31,14 @@ ht-degree: 10%
 ## 主な要点
 
 
-* **デフォルトの請求レート：** システム管理者は担当業務ごとにデフォルトの請求レートを設定しますが、個々のプロジェクトに対してカスタマイズできます。&#x200B;
-* **請求レートの柔軟性：** プロジェクト内の同じ担当業務に対して複数の請求レートを作成し、カスタマイズされた調整を可能にします。&#x200B;
-* **時間別レート：** 開始日と終了日を追加して、特定の期間に対して請求レートを設定し、プロジェクトの様々な段階で正確なレートを適用できます。&#x200B;
-* **簡単なカスタマイズ：** 請求レートの変更は簡単です。担当業務を選択し、新しいレートを入力して、「請求レート」タブから直接更新を保存します。&#x200B;
+* **デフォルトの請求レート：**&#x200B;システム管理者は各担当業務に対してデフォルトの請求レートを設定しますが、個々のプロジェクトに対してカスタマイズできます。
+* **請求レートの柔軟性：**&#x200B;プロジェクト内の同じ担当業務に対して複数の請求レートを作成できるので、カスタマイズされた調整が可能になります。
+* **時間固有のレート：**&#x200B;開始日と終了日を追加することで特定の期間の請求レートを設定できるので、プロジェクトの様々なフェーズで正確なレートの適用が確保されます。
+* **簡単なカスタマイズ：**&#x200B;請求レートの変更は簡単です。担当業務を選択し、新しいレートを入力して、「請求レート」タブから直接更新を保存します。
 
 ## このトピックに関する推奨チュートリアル
 
 * [財務情報の検索](/help/manage-work/project-finances/find-financial-information.md)
-* [ 財務の更新 ](/help/manage-work/project-finances/update-and-review-finances.md)
+* [財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 
