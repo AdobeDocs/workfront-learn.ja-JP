@@ -1,6 +1,6 @@
 ---
 title: 日付タイプと進捗ステータスについて
-description: ' [!DNL  Workfront]  で様々な日付タイプを表示する方法と、進捗ステータスを使用して作業の進捗を追跡する方法を説明します。'
+description: ' [!DNL &#x200B; Workfront]  で様々な日付タイプを表示する方法と、進捗ステータスを使用して作業の進捗を追跡する方法を説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

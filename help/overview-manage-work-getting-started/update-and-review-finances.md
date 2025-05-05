@@ -1,6 +1,6 @@
 ---
 title: 財務の更新とレビュー
-description: ' [!DNL  Workfront] で、プロジェクトに関連する財務情報を確認する方法を学びます。'
+description: ' [!DNL &#x200B; Workfront] で、プロジェクトに関連する財務情報を確認する方法を学びます。'
 activity: use
 team: Technical Marketing
 feature: Work Management

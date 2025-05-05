@@ -18,7 +18,7 @@ ht-degree: 69%
 
 + [作業の管理 – はじめに](overview.md)
 + 作業の管理 – はじめに {#manage-work-getting-started}
-   + プロジェクト {#create-a-project} を作成する
+   + プロジェクト を作成する {#create-a-project}
       + [基本的なプロジェクト作成について](understand-basic-project-creation.md)
       + [イシュー／リクエストのプロジェクトへ変換](create-a-project-from-a-request.md)
       + [プロジェクトを作成する 4 つの方法を学ぶ](understand-other-ways-to-create-projects.md)
@@ -39,7 +39,7 @@ ht-degree: 69%
       + [[!UICONTROL 作業量]について](understand-work-effort.md)
       + [プロジェクトを稼動させる](take-a-project-live.md)
 
-   + プロジェクト {#manage-a-project} ールの管理
+   + プロジェクト ールの管理 {#manage-a-project}
       + [プロジェクト管理の基本を学ぶ](getting-started-manage-a-project.md)
       + [プロジェクトの検索](find-projects.md)
       + [プロジェクトの共有](share-a-project.md)

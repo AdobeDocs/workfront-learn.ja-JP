@@ -152,7 +152,7 @@ ht-degree: 96%
    + ポートフォリオ {#portfolios}
       + [ポートフォリオについて](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [[!UICONTROL ビジネスケース]について](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [[!UICONTROL Portfolio Optimizer について ]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [[!UICONTROL Portfolio Optimizer について &#x200B;]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グローバルおよび単一使用承認プロセスの作成](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
