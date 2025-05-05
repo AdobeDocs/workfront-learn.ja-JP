@@ -21,4 +21,4 @@ ht-degree: 0%
 
 プロジェクトのトラッキングを一元化し、設計作業をビジネス目標に合わせて調整することで、Workfront プランニングが UX チームの効率を向上させる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452181/?learn=on&enablevpops&captions=jpn)

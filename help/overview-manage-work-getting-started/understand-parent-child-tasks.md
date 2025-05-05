@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * [!DNL Workfront] プロジェクトでタスクを構造化する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445597/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -26,7 +26,7 @@ ht-degree: 100%
 * バーンダウンチャートへのアクセス方法
 * プロジェクトの残り時間、プロジェクトの状態、プロジェクトの速度の間の関係を確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438885/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## プロジェクトの速度の追跡
 

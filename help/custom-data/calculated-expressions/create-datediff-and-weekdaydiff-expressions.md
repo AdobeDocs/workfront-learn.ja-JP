@@ -25,6 +25,6 @@ ht-degree: 100%
 * DATEDIFF 式と WEEKDAYDIFF 式の計算対象
 * 計算フィールドで WEEKDAYDIFF データ式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417117/?quality=12&learn=on&enablevpops&captions=jpn)
 
 **メモ**：WEEKDAYDIFF データ式は、組織で指定した休日を考慮しません。

@@ -26,4 +26,4 @@ ht-degree: 100%
 * レスポンシブ Webhook とパッシブ Webhook フックの違い
 * Webhook を使用して受信データのキューを作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417941/?quality=12&learn=on&enablevpops&captions=jpn)

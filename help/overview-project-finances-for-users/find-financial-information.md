@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * プロジェクトの財務情報を見つけ、その情報の出所を把握します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415897/?quality=12&learn=on&enablevpops&captions=jpn)

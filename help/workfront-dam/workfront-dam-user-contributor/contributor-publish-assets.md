@@ -41,4 +41,4 @@ ht-degree: 100%
 * [!UICONTROL Brand Connect] へのアセットの公開
 * [!UICONTROL Brand Connect] へのフォルダーの公開
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414415/?quality=12&learn=on&enablevpops&captions=jpn)

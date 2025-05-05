@@ -25,7 +25,7 @@ ht-degree: 100%
 * SUB、SUM、DIV、PROD 式の機能
 * 計算フィールドで SUB データ式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414002/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 追加情報：ROUND 式
 

@@ -26,7 +26,7 @@ ht-degree: 100%
 * そのビューにリソース情報を表示する方法を確認する
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416531/?quality=12&learn=on&enablevpops&captions=jpn)
 
 「担当業務別に表示」オプションのデフォルトでは「予算」列が表示され、プロジェクトに必要な推定リソース数がビジネスケースから取り込まれます（入力済みの場合）。これは、「予算」列の数値を使用して、デフォルトで「NET」列に残りのリソースの数が示されることも意味します。
 

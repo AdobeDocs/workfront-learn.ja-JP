@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。お客様とお客様の組織の両方が Workfront を使用して成功へつながる、ベストプラクティス、厳選された演習、その他のリソースのコレクションが含まれています。
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422439/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!-- 
 

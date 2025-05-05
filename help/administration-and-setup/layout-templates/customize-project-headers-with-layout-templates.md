@@ -22,4 +22,4 @@ ht-degree: 100%
 
 レイアウトテンプレートを使用して、プロジェクトヘッダーにフィールドを追加および削除する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422846?captions=jpn)

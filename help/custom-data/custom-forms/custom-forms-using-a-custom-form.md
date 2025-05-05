@@ -23,4 +23,4 @@ ht-degree: 100%
 
 このビデオでは、Workfront のオブジェクトにカスタムフォームを添付する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431640/?quality=12&learn=on&enablevpops&captions=jpn)

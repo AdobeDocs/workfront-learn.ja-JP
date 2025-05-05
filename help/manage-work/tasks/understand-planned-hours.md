@@ -27,7 +27,7 @@ ht-degree: 100%
 また、タスクに費やした時間を追跡し、今後の見積もりを改善し、作業者への期待を明確にするのにも役立ちます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445334/?quality=12&learn=on&enablevpops&captions=jpn)
 
 
 ## 主な要点

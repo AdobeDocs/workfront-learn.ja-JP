@@ -26,4 +26,4 @@ ht-degree: 100%
 * フライトプランチャートでプロジェクトをドリルダウンして、バーンダウンチャートとフライトチャートのタスクを表示する方法
 * 日付範囲内でズームインするための期間フィルターの作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437266/?quality=12&learn=on&enablevpops&captions=jpn)

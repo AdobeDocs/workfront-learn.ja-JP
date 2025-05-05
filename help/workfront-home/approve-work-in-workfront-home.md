@@ -25,7 +25,7 @@ ht-degree: 100%
 * 作業を承認または却下
 * プルーフの確認
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447908/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 learn more URLs

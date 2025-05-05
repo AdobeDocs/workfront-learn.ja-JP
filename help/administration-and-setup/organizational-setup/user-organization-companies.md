@@ -25,4 +25,4 @@ ht-degree: 100%
 * Workfront における会社の定義
 * 会社と関連団体の作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432862/?quality=12&learn=on&enablevpops&captions=jpn)

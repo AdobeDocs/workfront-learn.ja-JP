@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目標の例
 * 影響力の範囲
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415999/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 定期的なチェックアップおよびメンテナンスの頻度を計画する
 

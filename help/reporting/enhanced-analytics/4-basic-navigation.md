@@ -29,4 +29,4 @@ Workfront で [!UICONTROL Analytics] に移動するには、「[!UICONTROL メ�
 * 作業チャートの概要
 * 人物チャートの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436387/?quality=12&learn=on&enablevpops&captions=jpn)

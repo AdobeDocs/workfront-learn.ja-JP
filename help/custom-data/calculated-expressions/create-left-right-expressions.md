@@ -25,4 +25,4 @@ ht-degree: 100%
 * LEFT／RIGHT 式の概要
 * 計算フィールドでの LEFT／RIGHT テキスト式の使い方
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417123/?quality=12&learn=on&enablevpops&captions=jpn)

@@ -27,7 +27,7 @@ ht-degree: 100%
 * ライトボックスの監視と管理
 * ライトボックスでの共同作業
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454351/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## ライトボックスとフォルダー
 

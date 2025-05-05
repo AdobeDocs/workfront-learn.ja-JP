@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 組織がより効率的に運営できるようにするためのレコメンデーションを作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438830/?quality=12&learn=on&enablevpops&captions=jpn)

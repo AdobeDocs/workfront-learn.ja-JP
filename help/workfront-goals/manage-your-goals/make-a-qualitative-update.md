@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 質的な（書面による）更新を行う
 
->[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415950/?quality=12&learn=on&enablevpops&captions=jpn)

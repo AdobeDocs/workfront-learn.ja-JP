@@ -27,7 +27,7 @@ ht-degree: 100%
 * ビューの作成および変更方法
 * 他の Workfront ユーザーとビューを共有する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450239/?quality=12&learn=on&captions=jpn)
 
 ## 「基本ビューの作成」アクティビティ
 

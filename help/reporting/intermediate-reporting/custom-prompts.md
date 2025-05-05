@@ -26,7 +26,7 @@ ht-degree: 100%
 * テキストモードを使用したカスタムプロンプトの作成方法
 * レポートで使用できる例
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412692/?quality=12&learn=on&captions=jpn)
 
 ## 「カスタムプロンプトの作成」アクティビティ
 

@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ビデオは、正確なトラッキングとタイムリーなプロジェクト完了を確保にするために、チームメンバーによる定期的な更新とプロアクティブなイシュー管理の重要を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447411/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

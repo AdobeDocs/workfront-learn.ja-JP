@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner] のナビゲーションの概要を把握する
 * お客様のビジネスの成果と意思決定を一致させる上で [!DNL Scenario Planner] がいかに役立つかを理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414403/?quality=12&learn=on&enablevpops&captions=jpn)

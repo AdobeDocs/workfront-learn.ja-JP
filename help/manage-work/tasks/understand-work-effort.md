@@ -24,7 +24,7 @@ ht-degree: 100%
 ビデオでは、正確な見積もりを決定するのが困難な場合に、Workfront の作業量機能を使用してタスクの予定時間数を見積もる方法について説明します。
 作業量、予定時間数、期間タイプなどの関連する列を追加して、タスク管理を効率化するカスタム作業量ビューを作成する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447400/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

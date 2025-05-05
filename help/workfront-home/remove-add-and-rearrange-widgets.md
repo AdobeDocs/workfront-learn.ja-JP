@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ホームページのウィジェットの削除、追加、並べ替えを行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448974/?quality=12&learn=on&enablevpops&captions=jpn)
 
 
 >[!NOTE]

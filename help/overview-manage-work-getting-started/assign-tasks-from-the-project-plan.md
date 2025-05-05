@@ -31,7 +31,7 @@ ht-degree: 100%
 * タスクを割り当てる際のプロジェクトテンプレートの価値について
 * チームにタスクを割り当てる価値について
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445734/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 learn more urls:

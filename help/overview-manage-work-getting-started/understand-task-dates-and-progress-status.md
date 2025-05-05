@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL Workfront's] の様々な日付タイプを比較するビューの選択
 * 進捗ステータスを使用した作業の進捗の追跡
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436608/?quality=12&learn=on&enablevpops&captions=jpn)
 
 >[!NOTE]
 >

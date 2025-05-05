@@ -23,7 +23,7 @@ ht-degree: 100%
 
 このビデオでは、Workfront でのタスク管理について説明します。プロジェクト計画内のタスクの編集、削除、追加、複製、再整理など、効率的なタスク管理を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448557/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

@@ -50,4 +50,4 @@ Fusion システム管理者の場合は、以下のチュートリアルを参�
 * Fusion のコア機能とデザイナー機能
 * Fusion のサンプルシナリオ
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416555/?quality=12&learn=on&enablevpops&captions=jpn)

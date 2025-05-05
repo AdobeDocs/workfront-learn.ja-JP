@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Slack] 経由で承認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436356/?quality=12&learn=on&enablevpops&captions=jpn)

@@ -25,7 +25,7 @@ ht-degree: 100%
 * 新しいバージョンのプルーフをアップロードする
 * そのバージョンにプルーフワークフローを適用する
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441852/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## プルーフビューアからバージョンをアップロードする
 

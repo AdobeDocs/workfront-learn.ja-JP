@@ -27,7 +27,7 @@ ht-degree: 100%
 * グラフに時間枠を作成する
 * 追加のグラフを表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438566/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 詳しくは、グラフをクリックしてください
 

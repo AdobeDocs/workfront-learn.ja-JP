@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * プロジェクトのステータスを使用してプロジェクトを稼動させる
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438984/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

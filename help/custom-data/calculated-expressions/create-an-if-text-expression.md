@@ -25,4 +25,4 @@ ht-degree: 100%
 * IF 式の概要
 * 計算フィールドでの IF テキスト式の使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335180/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417105/?quality=12&learn=on&enablevpops&captions=jpn)

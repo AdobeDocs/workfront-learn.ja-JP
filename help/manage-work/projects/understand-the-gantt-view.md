@@ -40,7 +40,7 @@ ht-degree: 100%
 
 ビデオでは、ガントチャートの柔軟性を強調し、ユーザーがビューをカスタマイズして複数の要素を同時に表示し、プロジェクト管理を向上させることができることについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448007/?quality=12&learn=on&enablevpops&captions=jpn)
 
 詳しくは、オンラインで[ガントチャートの基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=)の記事を参照してください。
 

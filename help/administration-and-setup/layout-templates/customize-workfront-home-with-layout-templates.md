@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ユーザーの[!UICONTROL ホーム]エリアをカスタマイズして、作業に素早く簡単にアクセス、追跡、承認および更新する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432779/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ ht-degree: 100%
 * [!UICONTROL ホーム]からアイテムを削除
 * [!UICONTROL ホーム]に項目を追加
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432313/?quality=12&learn=on&enablevpops&captions=jpn)

@@ -32,7 +32,7 @@ ht-degree: 100%
 * 使用上のベストプラクティス
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422827/?quality=12&learn=on&enablevpops&captions=jpn)
 
 
 期間タイプとタスク制約のビューを作成する方法については、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の「期間タイプとタスク制約のビューのアクティビティ」を参照してください。

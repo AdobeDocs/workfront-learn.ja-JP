@@ -29,4 +29,4 @@ ht-degree: 100%
 
 * [!UICONTROL Workfront DAM] コースの概要の確認
 
->[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419538/?quality=12&learn=on&enablevpops&captions=jpn)

@@ -28,7 +28,7 @@ ht-degree: 100%
 * フォルダーの詳細の表示
 * アセットのメタデータとキーワードの表示と更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453920/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 基本検索条件
 

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * エンドユーザーがフライトチャートでフライトプラン、バーンダウン、およびタスクを使用する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437690/?quality=12&learn=on&enablevpops&captions=jpn)

@@ -31,4 +31,4 @@ ht-degree: 100%
 * 今後および既存の作業割り当ての検索
 * 割り当て情報のレビュー
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432294/?quality=12&learn=on&enablevpops&captions=jpn)

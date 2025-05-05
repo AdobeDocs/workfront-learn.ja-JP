@@ -35,4 +35,4 @@ ht-degree: 100%
 * アセットを検索して表示する
 * フォルダー構造がアセットの編成とアクセスに与える影響を確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420104/?quality=12&learn=on&enablevpops&captions=jpn)

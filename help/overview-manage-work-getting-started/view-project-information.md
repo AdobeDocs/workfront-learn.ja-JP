@@ -28,7 +28,7 @@ ht-degree: 100%
 * タスクレベルの情報
 * イシューレベルの情報
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453067/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * 既存のフィルター、表示、グループ化を使用してシンプルなレポートを作成します
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413122/?quality=12&learn=on&captions=jpn)
 
 ## 「シンプルなレポートの作成」アクティビティ
 

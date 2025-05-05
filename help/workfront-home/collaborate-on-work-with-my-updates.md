@@ -27,4 +27,4 @@ ht-degree: 100%
 * 「メンション」セクションを使用して、自分が含まれている更新を表示する
 * 更新に返信する
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414235/?quality=12&learn=on&enablevpops&captions=jpn)

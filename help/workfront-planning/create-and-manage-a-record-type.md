@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Adobe Workfront Planning でカスタムレコードタイプを作成、読み込み、管理し、作業関連のアイテムを効率的に整理および追跡する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448085/?learn=on&enablevpops&captions=jpn)

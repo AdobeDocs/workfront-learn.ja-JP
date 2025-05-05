@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Workfront Planning ツールを追加し、インスタンスのユーザーに表示するために必要な要件について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447967/?learn=on&enablevpops&captions=jpn)

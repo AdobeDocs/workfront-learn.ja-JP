@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!DNL  Workfront] でプルーフユーザーの設定を調整する
 * プルーフのバックエンドの設定でプルーフユーザーの設定を調整する
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432925/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 Lean More URLs

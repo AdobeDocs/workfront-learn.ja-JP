@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!UICONTROL ビュー]を使用して必要な情報を表示する方法
 * 開始日または完了日を設定する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448568/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

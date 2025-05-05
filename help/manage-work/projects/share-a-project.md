@@ -41,7 +41,7 @@ ht-degree: 100%
 
 ビデオでは、効率的な共有管理にチームとテンプレートを使用することを強調し、共有環境設定をカスタマイズする際の管理者の役割をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423150/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

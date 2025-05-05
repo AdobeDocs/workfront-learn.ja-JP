@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 結果とアクティビティの進捗状況を更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415956/?quality=12&learn=on&enablevpops&captions=jpn)

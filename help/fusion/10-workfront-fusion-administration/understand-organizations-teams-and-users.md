@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 組織、チーム、ユーザー間の使用方法、作成方法およびナビゲーション
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418187/?quality=12&learn=on&enablevpops&captions=jpn)

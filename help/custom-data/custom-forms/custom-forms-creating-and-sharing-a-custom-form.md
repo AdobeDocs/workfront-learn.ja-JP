@@ -26,5 +26,5 @@ ht-degree: 100%
 * 様々な形式での一意のフィールドの追加
 * 他のユーザーとのフォームの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420151/?quality=12&learn=on&enablevpops&captions=jpn)
 

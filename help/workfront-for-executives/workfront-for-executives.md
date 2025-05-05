@@ -79,7 +79,7 @@ Workfront のダッシュボードでのレポートの例
 * リクエストする
 * 送信したリクエストを表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413116/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 承認待ちの項目
 

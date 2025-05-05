@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、カスタムフォームとは何か、および組織固有の情報を取り込むためにカスタムフォームを使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432757/?quality=12&learn=on&enablevpops&captions=jpn)

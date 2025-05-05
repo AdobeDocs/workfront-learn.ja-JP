@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目標の例
 * 影響力の範囲
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413134/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 責任を持つ担当者の指定
 

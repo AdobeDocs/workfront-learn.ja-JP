@@ -22,7 +22,7 @@ ht-degree: 100%
 * ドキュメントの承認を行う
 * プルーフの承認を行う
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444947/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 learn more URLS

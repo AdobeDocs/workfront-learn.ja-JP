@@ -20,4 +20,4 @@ ht-degree: 100%
 
 ピンの概要と、レイアウトテンプレートを使用して一連のユーザーに対して重要なページや関連するページをピン留めする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422809/?quality=12&learn=on&enablevpops&captions=jpn)

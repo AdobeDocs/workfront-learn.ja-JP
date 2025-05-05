@@ -25,7 +25,7 @@ ht-degree: 100%
 * 複雑なフィルターを使用したタスクレポートの作成方法
 * 作成するレポートの検索方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448343/?quality=12&learn=on&captions=jpn)
 
 ## 「タスクレポートの作成」アクティビティ
 

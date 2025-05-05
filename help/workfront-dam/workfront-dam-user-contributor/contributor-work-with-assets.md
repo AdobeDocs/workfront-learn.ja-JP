@@ -27,4 +27,4 @@ ht-degree: 100%
 * アセットへの関連ファイルの追加
 * アセットのダウンロード
 
->[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454807/?quality=12&learn=on&enablevpops&captions=jpn)

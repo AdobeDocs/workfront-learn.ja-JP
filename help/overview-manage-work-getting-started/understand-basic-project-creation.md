@@ -30,7 +30,7 @@ ht-degree: 100%
 * タスクとイシューについて
 * プロジェクトの作成を開始するためのベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435897/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

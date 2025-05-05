@@ -24,7 +24,7 @@ ht-degree: 100%
 
 このビデオでは、プロジェクトチームが使用できる内容とその管理方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444590/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

@@ -25,7 +25,7 @@ ht-degree: 100%
 * ADDDAYS 式、ADDWEEKDAY 式、ADDMONTHS 式、ADDYEAR 式で計算すること
 * 計算フィールドで ADDWEEKDAYS データ式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416191/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## その他の例
 

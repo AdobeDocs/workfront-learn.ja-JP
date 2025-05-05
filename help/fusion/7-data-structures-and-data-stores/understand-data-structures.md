@@ -25,4 +25,4 @@ ht-degree: 100%
 * データ構造の使用と機能について
 * シナリオ内でのデータ構造の作成と使用
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417953/?quality=12&learn=on&enablevpops&captions=jpn)

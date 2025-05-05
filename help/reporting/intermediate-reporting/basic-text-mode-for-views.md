@@ -40,7 +40,7 @@ ht-degree: 100%
 * キャメルケースとは
 * ビューで使用できる基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422890/?quality=12&learn=on&captions=jpn)
 
 ## 「ビューの基本的なテキストモードについて」アクティビティ
 

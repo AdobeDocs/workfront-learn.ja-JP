@@ -29,7 +29,7 @@ ht-degree: 100%
 * ドリルダウンしてタスクの詳細を表示する方法
 * 関係者とのコミュニケーションを図る方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445168/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -26,4 +26,4 @@ ht-degree: 100%
 * モジュール内でフィルターを検索条件として使用する
 * 実行履歴でフィルター評価の確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416474/?quality=12&learn=on&enablevpops&captions=jpn)

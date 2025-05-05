@@ -31,7 +31,7 @@ ht-degree: 100%
 * プロジェクト、タスク、イシューの承認をデリゲートする
 * デリゲートされた承認を特定する
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446377/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

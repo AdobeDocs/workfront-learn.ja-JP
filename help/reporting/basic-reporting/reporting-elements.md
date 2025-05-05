@@ -24,7 +24,7 @@ ht-degree: 3%
 
 また、このビデオでは、レポート要素をカスタマイズして他のユーザーと共有する方法も説明します。&#x200B; これらのツールを使用すると、ユーザーは、ニーズに合わせてリストレポートをカスタマイズし、可視性と管理を向上させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447789/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

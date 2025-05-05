@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ボードの概要と、作業を管理する際のユーザーおよびチームのメリットについての理解を深めます。ボードにアクセスできる場所と基本ボードの作成方法を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422941/?quality=12&learn=on&enablevpops&captions=jpn)

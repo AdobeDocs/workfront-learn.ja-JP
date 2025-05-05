@@ -22,6 +22,6 @@ ht-degree: 100%
 
 システム管理者がグループ管理者を活用して設定を効率的に維持し、作業プロセスをより詳細に制御してグループを強化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439324/?quality=12&learn=on&enablevpops&captions=jpn)
 
 

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] でのタスクの割り当て
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441518/?quality=12&learn=on&enablevpops&captions=jpn)

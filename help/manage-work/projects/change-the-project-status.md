@@ -28,7 +28,7 @@ ht-degree: 100%
 * プロジェクトのステータスを「[!UICONTROL 完了]」に変更する理由
 * プロジェクトのステータスを「[!UICONTROL 完了]」に変更できない場合の対処方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439355/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

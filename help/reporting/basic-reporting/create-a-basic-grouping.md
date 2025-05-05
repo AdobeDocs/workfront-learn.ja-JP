@@ -26,7 +26,7 @@ ht-degree: 100%
 * グループ化を作成する方法
 * 他の Workfront ユーザーとグループ化を共有する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449816/?quality=12&learn=on&captions=jpn)
 
 ## 「基本グループ化の作成」アクティビティ
 

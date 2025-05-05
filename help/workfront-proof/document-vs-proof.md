@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] でのドキュメントとプルーフの違い
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439860/?quality=12&learn=on&enablevpops&captions=jpn)

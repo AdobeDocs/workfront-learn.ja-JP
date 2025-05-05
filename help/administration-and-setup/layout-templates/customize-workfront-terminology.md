@@ -22,4 +22,4 @@ ht-degree: 100%
 
 このビデオでは、レイアウトテンプレートを使用して用語を設定する方法を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445475/?quality=12&learn=on&enablevpops&captions=jpn)

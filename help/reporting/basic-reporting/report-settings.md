@@ -25,4 +25,4 @@ ht-degree: 100%
 * レポート設定にアクセスする方法
 * 一般的なレポート設定の用途
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445864/?quality=12&learn=on&enablevpops&captions=jpn)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 ストーリーを小さく分割する方法、バックログでストーリーの優先度を変更する方法、ストーリーを反復する準備が整ったことをマークする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412187/?quality=12&learn=on&enablevpops&captions=jpn)

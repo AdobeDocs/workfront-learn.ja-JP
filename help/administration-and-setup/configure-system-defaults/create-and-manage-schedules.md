@@ -21,5 +21,5 @@ ht-degree: 100%
 
 スケジュールの目的、スケジュールの作成および編集方法および作業を完了できるタイミングをより適切に決定するための追加設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423341/?quality=12&learn=on&enablevpops&captions=jpn)
 

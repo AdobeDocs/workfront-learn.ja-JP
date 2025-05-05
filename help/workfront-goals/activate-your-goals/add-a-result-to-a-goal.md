@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 結果を追加して目標をアクティベートする
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415981/?quality=12&learn=on&enablevpops&captions=jpn)

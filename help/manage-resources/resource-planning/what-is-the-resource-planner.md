@@ -25,4 +25,4 @@ ht-degree: 100%
 ただし、Workfront のリソースプランナーを使用すると、リソースに対する作業が少し簡単になります。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437255/?quality=12&learn=on&enablevpops&captions=jpn)

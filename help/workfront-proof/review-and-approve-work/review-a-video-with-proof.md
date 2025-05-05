@@ -25,7 +25,7 @@ ht-degree: 100%
 * ビデオにタイムスタンプ付きのコメントを追加する
 * ビューア設定を調整する
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444223/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 ## Learn more

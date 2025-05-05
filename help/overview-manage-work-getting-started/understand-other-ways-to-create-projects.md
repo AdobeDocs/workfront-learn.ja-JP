@@ -30,7 +30,7 @@ ht-degree: 100%
 * 既存のプロジェクトのコピー
 * [!DNL Microsoft Project] ファイルの読み込み
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432166/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

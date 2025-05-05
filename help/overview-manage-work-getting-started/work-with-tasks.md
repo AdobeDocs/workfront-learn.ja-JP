@@ -28,7 +28,7 @@ ht-degree: 100%
 * タスクを追加および削除する方法
 * タスクの順序の変更方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448557/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ビデオでは、プロジェクト成功の強固な基盤を構築するために、現実的なタイムライン、チームの可用性、正確な計画の重要性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448568/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

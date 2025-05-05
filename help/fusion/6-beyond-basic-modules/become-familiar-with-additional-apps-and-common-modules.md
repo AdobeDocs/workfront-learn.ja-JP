@@ -45,4 +45,4 @@ ht-degree: 100%
 * トリガー、アクション、検索の概要とその違い
 * 様々なアプリコネクタにあるモジュールの種類とその機能
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417439/?quality=12&learn=on&enablevpops&captions=jpn)

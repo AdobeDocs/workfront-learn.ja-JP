@@ -30,7 +30,7 @@ ht-degree: 100%
 * カスタムレポートとダッシュボード
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441655/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

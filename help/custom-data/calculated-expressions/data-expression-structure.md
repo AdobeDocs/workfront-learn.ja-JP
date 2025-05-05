@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] で式を作成する際に使用する標準的な要素
 
->[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416227/?quality=12&learn=on&enablevpops&captions=jpn)

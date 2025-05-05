@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * Workfront Fusion での実行、サイクル、バンドルのバランスとは
 
->[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417427/?quality=12&learn=on&enablevpops&captions=jpn)

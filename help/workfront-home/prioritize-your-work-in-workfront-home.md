@@ -25,4 +25,4 @@ ht-degree: 100%
 * 作業を優先割り当てとしてマークする
 * [!UICONTROL 作業リスト]をフィルタリングして優先度の高い仕事だけを表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438533/?quality=12&learn=on&enablevpops&captions=jpn)

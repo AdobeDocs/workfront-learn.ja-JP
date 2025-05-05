@@ -24,7 +24,7 @@ ht-degree: 100%
 * 明確な目的のステートメントまたはコマンダーインテントの作成
 * 強力な企業目標や組織目標の作成
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416011/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 Your turn graphic

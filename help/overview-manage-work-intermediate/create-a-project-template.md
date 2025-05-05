@@ -32,7 +32,7 @@ ht-degree: 100%
 * テンプレートを最初から作成する
 * テンプレートを既存のプロジェクトから作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415446/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## [!UICONTROL ブループリント]で作成されたテンプレート
 

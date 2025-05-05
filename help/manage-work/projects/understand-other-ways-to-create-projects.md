@@ -55,7 +55,7 @@ ht-degree: 100%
 
 ビデオでは、様々なユーザーのニーズに応じて、テンプレート、最初から作成、コピー、読み込みを通じてプロジェクトを作成する Workfront の柔軟性について強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432166/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 主な要点
 

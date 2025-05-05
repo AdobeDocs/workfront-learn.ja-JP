@@ -21,4 +21,4 @@ ht-degree: 100%
 
 タグとは何か、タグが便利な理由、タグの作成、削除、追加、削除の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423032/?quality=12&learn=on&enablevpops&captions=jpn)

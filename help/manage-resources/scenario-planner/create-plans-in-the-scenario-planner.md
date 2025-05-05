@@ -22,7 +22,7 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Scenario Planner] でプランを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412632/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## プランの担当業務情報の見積もり
 

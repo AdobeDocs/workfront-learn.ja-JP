@@ -21,4 +21,4 @@ ht-degree: 100%
 
 個人やチームをボードに追加および削除して、ボード情報にアクセスできるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423043/?quality=12&learn=on&enablevpops&captions=jpn)

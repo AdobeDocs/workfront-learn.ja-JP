@@ -27,4 +27,4 @@ ht-degree: 100%
 * 日付範囲の変更方法
 * 2 つの異なるフィルターを並べて KPI を比較する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440248/?quality=12&learn=on&enablevpops&captions=jpn)

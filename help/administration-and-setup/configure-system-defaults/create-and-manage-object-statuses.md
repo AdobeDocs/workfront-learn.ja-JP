@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Workfront のオブジェクトやワークフローのシステムステータスとグループステータスを作成および管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451848/?learn=on&captions=jpn)

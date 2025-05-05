@@ -23,5 +23,5 @@ ht-degree: 100%
 
 受信するアプリ内通知とメール通知を制御して、自分の作業に関連する有用なメールを受信できるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442808/?quality=12&learn=on&enablevpops&captions=jpn)
 

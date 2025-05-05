@@ -24,7 +24,7 @@ ht-degree: 100%
 * 標準的な作業のライフサイクルの 6 つのステップ
 * 作業のライフサイクルの「戦略的フェーズ」におけるコア構成要素
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415993/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 Your turn graphic

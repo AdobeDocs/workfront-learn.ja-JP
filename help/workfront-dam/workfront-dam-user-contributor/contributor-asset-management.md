@@ -30,7 +30,7 @@ ht-degree: 100%
 * フォルダーへのメタデータテンプレートの適用
 * フォルダー権限の設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414421/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## アセットバージョンの仕組み
 

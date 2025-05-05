@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフのすべてのバージョンをダウンロードする
 * プルーフのバージョンを削除する
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438643/?quality=12&learn=on&enablevpops&captions=jpn)
 
 <!--
 ## Learn more

@@ -29,7 +29,7 @@ ht-degree: 100%
 * 完了率
 * 進捗ステータス
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438209/?quality=12&learn=on&enablevpops&captions=jpn)
 
 
 ## このトピックに関する推奨チュートリアル

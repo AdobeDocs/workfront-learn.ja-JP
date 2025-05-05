@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!UICONTROL プロジェクト別に表示]ビューを確認する
 * そのビューにリソース情報を表示する方法を確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420157/?quality=12&learn=on&enablevpops&captions=jpn)
 
 「プロジェクト別に表示」オプションのデフォルトでは予算列が表示され、プロジェクトに必要な推定リソース数がビジネスケースから取り込まれます（入力済みの場合）。これは、「予算」列の数値を使用して、デフォルトで「NET」列に残りのリソースの数が示されることも意味します。
 

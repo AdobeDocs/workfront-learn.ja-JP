@@ -23,5 +23,5 @@ ht-degree: 100%
 
 このビデオでは、カスタムフィールドの表示や編集を行うことができるユーザーを決定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446543/?quality=12&learn=on&enablevpops&captions=jpn)
 

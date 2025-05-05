@@ -25,4 +25,4 @@ ht-degree: 100%
 * メタデータテンプレートの設定
 * フォルダーへのテンプレートの適用
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419483/?quality=12&learn=on&enablevpops&captions=jpn)

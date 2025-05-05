@@ -27,7 +27,7 @@ ht-degree: 100%
 * ライトボックスを使用した共同作業
 * ライトボックスのコンテンツの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420181/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## フォルダーとライトボックス
 

@@ -34,7 +34,7 @@ ht-degree: 100%
 詳細なガイダンスとして、レポートとカスタムフォームを作成するチュートリアルへのリンクが提供されています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450498/?quality=12&learn=on&captions=jpn)
 
 ## 主な要点
 

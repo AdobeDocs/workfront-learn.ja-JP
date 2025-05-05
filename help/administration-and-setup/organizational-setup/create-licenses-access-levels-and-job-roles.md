@@ -26,4 +26,4 @@ ht-degree: 100%
 * ライセンスとアクセスレベルとは
 * アクセスレベルの作成および管理方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3421303/?quality=12&learn=on&enablevpops&captions=jpn)
