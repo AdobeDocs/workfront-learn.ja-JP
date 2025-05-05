@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
+source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2384'
 ht-degree: 96%
 
 ---
@@ -137,8 +137,8 @@ ht-degree: 96%
       + [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
       + [イシューの割り当てを管理](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
-      + [イシュー／リクエストのプロジェクトへ変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [イシュー／リクエストのタスクへ変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [イシューに関するレポート](/help/manage-work/issues-requests/report-on-issues.md)
 
    + リクエストキュー {#request-queues}
@@ -152,11 +152,11 @@ ht-degree: 96%
    + ポートフォリオ {#portfolios}
       + [ポートフォリオについて](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [[!UICONTROL ビジネスケース]について](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [[!UICONTROL Portfolio Optimizer について &#x200B;]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [[!UICONTROL ポートフォリオオプティマイザー]について](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グローバルおよび単一使用承認プロセスの作成](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [リクエストキューにイシュー承認プロセスを適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
+      + [リクエストキューへのイシュー承認プロセスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [デジタル作品のレビューと承認](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [タスク、イシュー、承認を委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [マイルストーンの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
@@ -164,9 +164,9 @@ ht-degree: 96%
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
       + [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-      + [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+      + [プロジェクトをテンプレートから直接作成](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [既存のプロジェクトをコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [既存のプロジェクトのコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
@@ -575,17 +575,7 @@ ht-degree: 96%
 
 + ホーム {#home}
    + [ホームのウィジェットを削除、追加、並べ替え](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-   + [作業の検索](/help/workfront-home/find-your-work-in-workfront-home.md)
-   + [TODO リストの整理](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-   + [作業の優先度設定](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-   + [作業ステータスの表示](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-   + [作業に関するコミュニケーション](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-   + [作業時間のログ記録](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [割り当てられた作業を完了としてマークする](/help/workfront-home/mark-assigned-work-as-complete.md)
-   + [[!UICONTROL ホーム]での作業の承認](/help/workfront-home/approve-work-in-workfront-home.md)
-   + [[!UICONTROL マイアップデート]での共同作業](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-   + [[!UICONTROL マイアップデート]または[!UICONTROL ホーム]での作業のレビュー](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [アップデートと通知について](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
 
 + アジャイル {#agile}
 
