@@ -38,7 +38,7 @@ Workfrontを最大限に活用する方法について詳しくは、こちら�
 >
 >* Workfrontの使用に関する十分な理解
 >* プロジェクトを作成する権限がある標準ライセンスタイプ
->* [ 作業の管理 – はじめに ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [ 作業の管理 – はじめに ](https://experienceleague.adobe.com/?lang=ja&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## プロジェクトテンプレート

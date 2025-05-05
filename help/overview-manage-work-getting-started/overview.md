@@ -26,7 +26,7 @@ ht-degree: 4%
 
 このチュートリアルでは、プロジェクトの作成、プロジェクトの計画、プロジェクトの管理、およびプロジェクトの終了方法を学びます。
 
-このチュートリアルを完了したら、プロジェクト管理スキルをさらに磨くために [ 作業を管理 – 中級 ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) をお勧めします。
+このチュートリアルを完了したら、プロジェクト管理スキルをさらに磨くために [ 作業を管理 – 中級 ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=ja) をお勧めします。
 
 >[!PREREQUISITES]
 >
