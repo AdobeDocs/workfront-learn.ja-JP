@@ -1,6 +1,6 @@
 ---
 title: ' [!DNL My Updates]  または  [!DNL Home] での作業のレビュー'
-description: '[!DNL  Workfront] には、レビューと承認のために割り当てられた作業にアクセスする 2 つの場所（ [!DNL My Updates]  と  [!DNL Home]  が用意されています。'
+description: '[!DNL &#x200B; Workfront] には、レビューと承認のために割り当てられた作業にアクセスする 2 つの場所（ [!DNL My Updates]  と  [!DNL Home]  が用意されています。'
 feature: Work Management
 type: Tutorial
 role: User
