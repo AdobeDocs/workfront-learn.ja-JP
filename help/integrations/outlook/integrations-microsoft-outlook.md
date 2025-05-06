@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Microsoft Outlook] アドインのインストール'
-description: 'Microsoft Outlook アドイン ]0} をインストールして、Microsoft Outlook の予定表をWorkfrontのホームの予定表と統合する方法を説明します。[!UICONTROL '
+description: 'Microsoft Outlook アドイン 0&rbrace; をインストールして、Microsoft Outlook の予定表をWorkfrontのホームの予定表と統合する方法を説明します。'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -19,7 +19,7 @@ ht-degree: 70%
 
 # Microsoft Outlook アドインのインストール
 
-[!UICONTROL Microsoft Outlook アドインをインストールして ]**Microsoft Outlook 予定表** を **[!DNL Workfront Home calendar]** と統合する方法を説明します。
+[!UICONTROL Microsoft Outlook アドインをインストールして &#x200B;]&#x200B;**Microsoft Outlook 予定表** を **[!DNL Workfront Home calendar]** と統合する方法を説明します。
 
 **[!DNL Workfront Home calendar]** の設定で次の操作を実行できます。
 
