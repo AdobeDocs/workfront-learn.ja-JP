@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 48%
+source-wordcount: '595'
+ht-degree: 39%
 
 ---
 
@@ -78,10 +78,11 @@ ht-degree: 48%
    ![レポートにフィルターを追加する画面の画像](assets/chart-report-filters.png)
 
 1. 「**[!UICONTROL グラフ]**」タブで、グラフタイプとして「**[!UICONTROL 列]**」を選択します。
-1. [!UICONTROL 左（Y）軸]については、[!UICONTROL プロジェクト]／[!UICONTROL 予定コスト]を選択します。
-1. [!UICONTROL 下（X）軸]については、[!UICONTROL プロジェクト]／[!UICONTROL 名前]を選択します。
-1. 「**[!UICONTROL 組み合わせグラフ]**」ボタンをクリックし、「**[!UICONTROL 値]**」フィールドで[!UICONTROL プロジェクト]／[!UICONTROL 実際のコスト]を選択します。
-1. カラーボックスの横にある矢印をクリックし、[!UICONTROL 実際のコスト]のカラーを変更します。表示されるカラーの 1 つを選択するか、右下隅のボックスをクリックしてカラーパレットを表示します。
+1. [!UICONTROL  左（Y）軸 ] については、「[!UICONTROL  予定コスト ]」を選択します。
+1. [!UICONTROL  下（X）軸 ] には、「[!UICONTROL  名前 ]」を選択します。
+1. **[!UICONTROL 組み合わせグラフ]** ボタンをクリックし、「[!UICONTROL  値 ]**」フィールドで**[!UICONTROL  実際のコスト ] を選択します。
+1. **[!UICONTROL グラフタイプ]** フィールドで「折れ線グラフ」を選択します。
+1. カラーボックスをクリックして、[!UICONTROL  実際のコスト ] のカラーを変更します。 カラーを選択します。
 1. 「**[!UICONTROL 保存して閉じる]**」をクリックします。レポート名の入力を求められたら、「前四半期に完了したプロジェクトごとの予定コストと実際のコスト」と入力します。
 
    ![レポートにグラフを追加する画面の画像](assets/chart-report-chart.png)
