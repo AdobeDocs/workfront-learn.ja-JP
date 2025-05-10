@@ -38,7 +38,7 @@ ht-degree: 39%
 
 このビデオでは、円グラフや積み重ね列グラフなどのグラフで、タスクの配分やプロジェクトのパフォーマンスに関するインサイトを提供し、ユーザーがプロジェクトを比較してタスクの進行状況を視覚的に理解するのに役立つ方法を重点的に説明します。&#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450015/?quality=12&learn=on&captions=jpn)
 
 ## 主な要点
 
