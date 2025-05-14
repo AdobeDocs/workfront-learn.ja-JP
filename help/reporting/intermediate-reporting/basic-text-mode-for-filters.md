@@ -41,7 +41,7 @@ ht-degree: 100%
 * キャメルケースとは
 * レポートフィルターで使用できるいくつかの基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412686/?quality=12&learn=on&captions=jpn)
 
 ## 「フィルターの基本的なテキストモードについて」アクティビティ
 
