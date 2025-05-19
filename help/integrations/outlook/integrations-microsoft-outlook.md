@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Microsoft Outlook] アドインのインストール'
-description: 'Microsoft Outlook アドイン 0&rbrace; をインストールして、Microsoft Outlook の予定表をWorkfrontのホームの予定表と統合する方法を説明します。'
+description: '[!UICONTROL Microsoft Outlook アドイン]をインストールして、Microsoft Outlook カレンダーを Workfront ホームカレンダーと統合する方法について説明します。'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
 source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # Microsoft Outlook アドインのインストール
 
-[!UICONTROL Microsoft Outlook アドインをインストールして &#x200B;]&#x200B;**Microsoft Outlook 予定表** を **[!DNL Workfront Home calendar]** と統合する方法を説明します。
+[!UICONTROL Microsoft Outlook アドイン]をインストールして、**Microsoft Outlook カレンダー**&#x200B;を **[!DNL Workfront Home calendar]** と統合する方法について説明します。
 
-**[!DNL Workfront Home calendar]** の設定で次の操作を実行できます。
+**[!DNL Workfront Home calendar]** を設定して、次の項目を実行できます。
 
 * クラウドでホストされている [!DNL Office 365] または [!DNL Outlook Live] の web ベースバージョンの [!DNL Outlook] と統合する[!DNL Outlook] のカレンダーおよび選択した関連カレンダー（誕生日や祝日のカレンダーなど）のすべてのイベントを、[!DNL Workfront] の[!UICONTROL ホームのカレンダー]に表示できます。
 
@@ -32,7 +32,7 @@ ht-degree: 70%
 
 * Microsoft Outlook アドインのインストール
 
->[!VIDEO](https://video.tv.adobe.com/v/3421309/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

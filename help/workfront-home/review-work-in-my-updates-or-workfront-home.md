@@ -1,6 +1,6 @@
 ---
 title: ' [!DNL My Updates]  または  [!DNL Home] での作業のレビュー'
-description: '[!DNL &#x200B; Workfront] には、レビューと承認のために割り当てられた作業にアクセスする 2 つの場所（ [!DNL My Updates]  と  [!DNL Home]  が用意されています。'
+description: '[!DNL  Workfront] には、レビューと承認のために割り当てられた作業にアクセスするための 2 つの場所（ [!DNL My Updates]  および  [!DNL Home] ）が用意されています'
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,9 +13,9 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
 hidefromtoc: true
 source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
