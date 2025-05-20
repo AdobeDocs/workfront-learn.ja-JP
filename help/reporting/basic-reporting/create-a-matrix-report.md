@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+workflow-type: tm+mt
+source-wordcount: '418'
+ht-degree: 62%
 
 ---
 
@@ -25,7 +26,15 @@ ht-degree: 100%
 * マトリックスレポートが役立つ場面
 * マトリックスレポートの作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3448184/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## 主な要点
+
+* **マトリックスレポート構造：** マトリックスレポートは、行と列にデータを整理し、行と列の自動合計を示します。&#x200B; 作業時間、コスト、収益などの指標のトラッキングに最適です。&#x200B;
+* **フィルターの設定：** フィルターを使用して、特定のホームチームのユーザーが前四半期に作業した時間など、特定のデータに焦点を当てます。&#x200B; 「所有者フィールドソース」は、関連するチームメンバーを特定するのに役立ちます。&#x200B;
+* **グループ化オプション：** この例では、行は「所有者名」（時間を使用したユーザー）でグループ化され、列は「時間エントリ日」（月と週）でグループ化されています。&#x200B;
+* **集計データ：** 時間、実績コスト、収益などの列は、デフォルトで集計され、合計がマトリックスに表示されます。 必要に応じて、これらのデフォルトをオフにすることができます。&#x200B;
+* **グラフの統合：** マトリックスレポートを、同じグループ化情報を使用して、代替データビジュアライゼーション用のグラフで補完できます。 マトリックス タブまたはグラフ タブを既定のビューとして設定できます。&#x200B;
 
 ## 「マトリックスレポートの作成」アクティビティ
 
