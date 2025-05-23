@@ -39,7 +39,7 @@ ht-degree: 100%
 * キャメルケースとは
 * グループ化で使用できる基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422899/?quality=12&learn=on&captions=jpn)
 
 ## 「グループ化の基本的なテキストモードについて」アクティビティ
 
