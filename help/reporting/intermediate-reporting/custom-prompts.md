@@ -12,7 +12,7 @@ jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
 source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * テキストモードを使用したカスタムプロンプトの作成方法
 * レポートで使用できる例
 
->[!VIDEO](https://video.tv.adobe.com/v/3412692/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
 ## 「カスタムプロンプトの作成」アクティビティ
 

@@ -13,7 +13,7 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ ht-degree: 100%
 * キャメルケースとは
 * レポートフィルターで使用できるいくつかの基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/3412686/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## 「フィルターの基本的なテキストモードについて」アクティビティ
 

@@ -12,7 +12,7 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 * キャメルケースとは
 * グループ化で使用できる基本的な「プラグ＆プレイ」テキストモード
 
->[!VIDEO](https://video.tv.adobe.com/v/3422899/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## 「グループ化の基本的なテキストモードについて」アクティビティ
 
