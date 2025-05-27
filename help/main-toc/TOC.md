@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
+source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
 workflow-type: tm+mt
-source-wordcount: '2384'
-ht-degree: 96%
+source-wordcount: '2274'
+ht-degree: 97%
 
 ---
 
@@ -236,28 +236,6 @@ ht-degree: 96%
       + [追加のカレンダーレポートオプションについて](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [カレンダーレポートを作成してみましょう](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 拡張分析 {#enhanced-analytics}
-      + [製品に関する重要性 [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [[!UICONTROL 拡張分析]の基本を学ぶ](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [[!UICONTROL 拡張分析]にアクセスする方法](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-      + [基本的なナビゲーションについて](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-      + [作業グラフと人物グラフについて](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [フィルターについて](/help/reporting/enhanced-analytics/6-filters-overview.md)
-      + [日付範囲と期間について](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-      + [予定時間数ビューと期間ビューについて](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [アクションについて：ポインタを合わせてクリック＆ドラッグし、クリックイン](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [KPI について](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-      + [プロジェクトの移動とレビューについて](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [時間枠と追加のグラフを使用して、さらに掘り下げる](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [プロジェクトアクティビティの移動とレビューについて](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [ナビゲーションの詳細](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [バーンダウンのアクセスとレビューについて](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-      + [進行中のタスクのレビュー](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-      + [更新してアクションを実行](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-      + [チーム別アクティビティのグラフについて](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [KPI 比較のユースケースについて](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-      + [エンドユーザーのユースケースについて](/help/reporting/enhanced-analytics/22-end-user-use.md)
-      + [コンサルティングガイダンスについて](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + リソースの管理 {#manage-resources}
    + リソース管理 {#resource-management}
