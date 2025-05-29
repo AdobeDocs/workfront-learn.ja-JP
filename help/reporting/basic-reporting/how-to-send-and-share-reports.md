@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '216'
-ht-degree: 100%
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 61%
 
 ---
 
@@ -26,7 +27,16 @@ ht-degree: 100%
 * すべてのユーザーとレポートを共有する方法
 * Workfront レポートで受信者が表示および実行できること
 
->[!VIDEO](https://video.tv.adobe.com/v/3447813/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## 主な要点
+
+* **社外ユーザーへのレポートの送信：** Workfront以外のユーザーのメールアドレスを入力してレポートを送信でき、社外でデータを簡単に共有できます。&#x200B;
+* **アクセス権の制御表示：** レポートの受信者の表示は、設定したアクセス権によって異なり、データのセキュリティと適切な表示を確保しています。&#x200B;
+* **スナップショット用の繰り返し配信：** スケジュールされた配信は、特定の時間にデータの固定スナップショットを提供し、トレンドの追跡やプロジェクトデータの履歴の維持に役立ちます。&#x200B;
+* **レポートをチームと共有：** レポートを個人、チーム、担当業務と共有し、表示権限または管理権限を付与できます。&#x200B; 共有レポートは、「自分と共有」ユーザーのセクションに表示されます。&#x200B;
+* **公開およびシステム全体の共有：** レポートは、外部ユーザーに対して公開リンクを介して共有したり、Workfront ユーザー全員に対してシステム全体で表示されるようにしたりできます。
+
 
 ## 「レポートの送信と共有」アクティビティ
 
