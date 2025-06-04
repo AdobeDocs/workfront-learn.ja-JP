@@ -1,6 +1,6 @@
 ---
 title: プルーフの進捗状態を追跡する
-description: '[!UICONTROL SOCD] インジケーター、プルーフの進捗状況、レポートを使用して、 [!DNL  Workfront] でプルーフの進捗状況を追跡する方法を学びます。'
+description: '[!UICONTROL SOCD] インジケーター、プルーフの進捗状況、レポートを使用して、 [!DNL &#x200B; Workfront] でプルーフの進捗状況を追跡する方法を学びます。'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ ht-degree: 64%
 
 [!UICONTROL ドキュメント]リストの [!UICONTROL SOCD] アイコンを使用して、プルーフがレビューと承認プロセスでどのように進行しているかの概要を表示します。これらのアイコンは、プルーフに対して実行された特定のアクションを示します。
 
-![[!UICONTROL SOCD] アイコンが強調表示された、[!DNL  Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-socd.png)
+![[!UICONTROL SOCD] アイコンが強調表示された、[!DNL &#x200B; Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-socd.png)
 
 アイコンは、プルーフを受信者に送信してから受信者がプルーフで決定を下すまでに、プルーフで行われた作業を示します。
 
@@ -43,7 +43,7 @@ ht-degree: 64%
 * **橙** プルーフの期限は 24 時間以内ですが、ステップが実行されていません。
 * **赤** プルーフの期限が過ぎましたが、ステップが実行されていません。
 
-[!UICONTROL  ドキュメント ] リスト、概要パネル、または [!UICONTROL  ドキュメントの詳細 ] にある [!UICONTROL SOCD] は、プルーフの進捗状態です。 [!DNL Workfront] では、プルーフプロセスで「最も遅れている」受信者に基づいてこれを設定します。
+[!UICONTROL &#x200B; ドキュメント &#x200B;] リスト、概要パネル、または [!UICONTROL &#x200B; ドキュメントの詳細 &#x200B;] にある [!UICONTROL SOCD] は、プルーフの進捗状態です。 [!DNL Workfront] では、プルーフプロセスで「最も遅れている」受信者に基づいてこれを設定します。
 
 例えば、3 人のレビュアー／承認者がいて、そのうち 2 人だけがプルーフを閲覧してコメントを付けた場合、[!UICONTROL SOCD] アイコンは、プルーフが送信され（[!UICONTROL S]）て開かれた（[!UICONTROL O]）ことを示しますが、コメントが作成された（[!UICONTROL C]）ことは示しません。
 
@@ -59,9 +59,9 @@ ht-degree: 64%
 
 プルーフのステータスは、ステージのプルーフ受信者のステータスに基づきます。 [!UICONTROL SOCD] インジケーターの右側にある[!UICONTROL ドキュメント]ページに全体的なプルーフステータスが表示されるため、プルーフに関する決定があるかどうかを簡単に確認できます。
 
-![全体的なプルーフステータスが強調表示されている、[!DNL  Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-overall-status.png)
+![全体的なプルーフステータスが強調表示されている、[!DNL &#x200B; Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-overall-status.png)
 
-このプルーフのステータスは、プルーフの全体的なステータスを示します。 例えば、2 人の受信者がプルーフを承認した場合、個々のステータスが[!UICONTROL 承認済み]として示されます。ただし、3 人目の受信者はまだ決定していないので、そのユーザーのステータスは [!UICONTROL  保留中 ] になります。 したがって、全体のステータスは[!UICONTROL 保留中]になります。
+このプルーフのステータスは、プルーフの全体的なステータスを示します。 例えば、2 人の受信者がプルーフを承認した場合、個々のステータスが[!UICONTROL 承認済み]として示されます。ただし、3 人目の受信者はまだ決定していないので、そのユーザーのステータスは [!UICONTROL &#x200B; 保留中 &#x200B;] になります。 したがって、全体のステータスは[!UICONTROL 保留中]になります。
 
 組織に対してカスタムステータスが設定されている場合は、それらのステータスが使用されます。 それ以外の場合は、次の標準ステータスオプションが表示されます。
 
@@ -79,11 +79,11 @@ ht-degree: 64%
 
 プルーフ承認レポートを使用すると、未処理の承認を追跡して、期限に間に合わせることができます。
 
-![[!DNL  Workfront] のプルーフ承認レポートの画像](assets/proof-approval-report.png)
+![[!DNL &#x200B; Workfront] のプルーフ承認レポートの画像](assets/proof-approval-report.png)
 
 ドキュメントのバージョンレポートでは、プルーフのバージョンを管理および追跡できます。
 
-![[!DNL  Workfront] のドキュメントのバージョンレポートの画像 ](assets/document-version-report.png)
+![[!DNL &#x200B; Workfront] のドキュメントのバージョンレポートの画像 ](assets/document-version-report.png)
 
 [!DNL Workfront] コンサルタントと協力して、組織の要件を満たすレポートを作成することをお勧めします。一部のレポートでは、[!DNL Workfront's] テキストモードレポートの知識が必要です。
 
