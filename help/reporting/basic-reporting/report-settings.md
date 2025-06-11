@@ -13,9 +13,9 @@ last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 source-git-commit: cc611bf43c51dde02af715d19246cfd17bcce095
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 61%
 このビデオでは、次のことを学習します。
 
 * レポート設定にアクセスする方法
-* 特定のユーザーのアクセス権限でレポートを実行する方法
+* 特定のユーザーのアクセス権でレポートを実行する方法
 * レポートプロンプトの設定および使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3445864/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)

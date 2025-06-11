@@ -13,9 +13,9 @@ last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '985'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
    ![最初のシナリオデザイン画像 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. 次のページで、「Workfront」を検索してアプリを選択します。「続行」をクリックします。
-1. シナリオデザイナー画面の左上で、シナリオの名前を「最初のシナリオデザイン」に変更します。
+1. シナリオデザイナー画面の左上で、シナリオの名前を「最初のシナリオのデザイン」に変更します。
 1. 画面の中央にある空のトリガーモジュールをクリックし、Workfront アプリを選択して、「ドキュメントをダウンロード」モジュールを選択します。
 
    **モジュールの Workfront アカウントへの接続を認証します。**
@@ -56,7 +56,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
 
    ![最初のシナリオデザイン画像 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. **Workfront テストドライブのアカウント** の URL を入力し、「次へ」をクリックします。
+1. **Workfront テストドライブアカウント**&#x200B;の URL を入力してから、「次へ」をクリックします。
 
    ![最初のシナリオデザイン画像 5](../12-exercises/assets/initial-scenario-design-5.png)
 
