@@ -34,5 +34,5 @@ ht-degree: 83%
 * カレンダーのグループ化に作業アイテムを追加する
 * 休暇カレンダーを作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452394/?quality=12&learn=on&enablevpops&captions=jpn)
 
