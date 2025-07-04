@@ -12,7 +12,7 @@ thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 * 概要情報
 * アドホックカレンダー項目の作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3438759/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)

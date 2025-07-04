@@ -1,6 +1,6 @@
 ---
-title: カスタムカレンダーレポートを作成
-description: 作業アイテムと個人的な休暇を表示するカスタムカレンダーの作成方法を説明します。
+title: カスタムカレンダーレポートの作成
+description: 作業アイテムと個人的な休暇を表示するカスタムカレンダーを作成する方法を学びます。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,13 +12,13 @@ thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# カスタムカレンダーレポートを作成
+# カスタムカレンダーレポートの作成
 
 カレンダーレポートは、作業と休暇をカレンダービューに表示する動的なレポートです。次のオブジェクトの日付情報をカレンダーレポートに表示できます。
 
@@ -34,5 +34,5 @@ ht-degree: 83%
 * カレンダーのグループ化に作業アイテムを追加する
 * 休暇カレンダーを作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/3452394/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
 
