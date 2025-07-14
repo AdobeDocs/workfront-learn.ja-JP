@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 64c683bc598a811c398561b7e1895edd316c5af3
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '2277'
-ht-degree: 97%
+source-wordcount: '2275'
+ht-degree: 96%
 
 ---
 
@@ -234,7 +234,7 @@ ht-degree: 97%
       + [カレンダーレポートインターフェイスについて](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [カスタムカレンダーレポートを作成](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [追加のカレンダーレポートオプションについて](/help/reporting/basic-reporting/additional-calendar-options.md)
-      + [カレンダーレポートを作成してみましょう](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [アクティビティ – カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
 
 + リソースの管理 {#manage-resources}
