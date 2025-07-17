@@ -1,6 +1,6 @@
 ---
-title: アクティビティ – カレンダーレポートの作成
-description: 未完了のタスクと問題を示す顧客カレンダーの作成方法に関する手順を説明します。
+title: アクティビティ - カレンダーレポートの作成
+description: 未完了のタスクとイシューを表示する顧客カレンダーの作成方法についての段階的な手順。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,13 +12,13 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '362'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# アクティビティ – カレンダーレポートの作成
+# アクティビティ - カレンダーレポートの作成
 
 「マイ未完了タスク」という名前の顧客カレンダーを作成します。
 
