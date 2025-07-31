@@ -46,5 +46,5 @@ Workfront の顧客は、一般的に次の 2 つの数式セットを使用し�
 
 >[!NOTE]
 >
->式の完全なリストと各式の詳細については、[ 計算データ式 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) のドキュメントページを参照してください。
+>式の完全なリストと各式の詳細については、[ 計算データ式 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) のドキュメントページを参照してください。
 
