@@ -1,6 +1,6 @@
 ---
 title: 初期シナリオデザインのチュートリアル
-description: フォルダーと新しいシナリオの作成、シナリオデザイナーの使用、および  [!DNL Adobe Workfront Fusion] での基本的なシナリオの作成方法を説明します。
+description: フォルダーと新しいシナリオの作成、シナリオ designer の使用、および  [!DNL Adobe Workfront Fusion] での基本的なシナリオの作成方法を説明します。
 short-description: ここでは、シナリオの作成に関する演習のチュートリアルビデオを視聴できます。
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -30,10 +30,10 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 このビデオでは、次の方法を学習します：
 
 * フォルダーの作成と新しいシナリオ
-* シナリオデザイナーの使用
+* シナリオ designer の使用
 * 基本的なシナリオの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3415975/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops)
 
 
 ## 詳細情報 以下をお勧めします。
