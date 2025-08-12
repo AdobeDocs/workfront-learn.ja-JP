@@ -41,7 +41,7 @@ ht-degree: 94%
 * キャメルケースとは
 * レポートビューで使用できる _テキストモードのコードブロック_ がいくつかあります
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422890/?quality=12&learn=on&captions=jpn)
 
 ## 「ビューの基本的なテキストモードについて」アクティビティ
 

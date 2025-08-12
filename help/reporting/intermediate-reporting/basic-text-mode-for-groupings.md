@@ -40,7 +40,7 @@ ht-degree: 88%
 * キャメルケースとは
 * 一部の _テキストモードコードブロック_ レポートのグループ化で使用できます
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422899/?quality=12&learn=on&captions=jpn)
 
 ## 「グループ化の基本的なテキストモードについて」アクティビティ
 
