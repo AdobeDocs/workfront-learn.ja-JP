@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
 workflow-type: tm+mt
-source-wordcount: '2275'
+source-wordcount: '2281'
 ht-degree: 96%
 
 ---
@@ -234,7 +234,7 @@ ht-degree: 96%
       + [カレンダーレポートインターフェイスについて](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [カスタムカレンダーレポートを作成](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [追加のカレンダーレポートオプションについて](/help/reporting/basic-reporting/additional-calendar-options.md)
-      + [アクティビティ – カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [アクティビティ - カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
 
 + リソースの管理 {#manage-resources}
@@ -316,6 +316,7 @@ ht-degree: 96%
    + [テーブルビューの作成と管理](/help/workfront-planning/create-and-manage-table-views.md)
    + [タイムラインビューの作成と管理](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [レコードタイプの接続](/help/workfront-planning/connect-record-types.md)
+   + [レコードタイプのリクエストフォームの作成](/help/workfront-planning/create-a-record-type-request-form.md)
    + [UX 設計チーム向けWorkfront計画のメリット](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 統合 {#integrations}
