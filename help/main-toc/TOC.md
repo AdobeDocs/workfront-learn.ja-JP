@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
+source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
 workflow-type: tm+mt
-source-wordcount: '2281'
+source-wordcount: '2284'
 ht-degree: 96%
 
 ---
@@ -223,6 +223,7 @@ ht-degree: 96%
       + [ビューの基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
       + [グループ化の基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [カスタムプロンプトの作成](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [EXISTS フィルターについて](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + 高度なレポート {#advanced-reporting}
       + [詳細レポート機能へようこそ](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
