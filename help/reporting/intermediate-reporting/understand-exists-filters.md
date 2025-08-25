@@ -23,7 +23,7 @@ EXISTS フィルターは、標準の Report Builder における 2 つのテー
 
 このビデオでは、EXISTS フィルターを作成して、プルーフ承認レポートに「現在のプロジェクトでのプルーフ承認」を表示する方法を説明します。
 
-EXISTS 関数の仕組みに関する詳細な説明については、[EXISTS ステートメントを使用した複雑なテキストモードフィルターの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) ドキュメントを参照してください。
+EXISTS 関数の仕組みに関する詳細な説明については、[EXISTS ステートメントを使用した複雑なテキストモードフィルターの作成 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) ドキュメントを参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
 
