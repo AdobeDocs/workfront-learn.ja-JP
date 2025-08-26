@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
+source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
 workflow-type: tm+mt
-source-wordcount: '2284'
+source-wordcount: '2288'
 ht-degree: 96%
 
 ---
@@ -126,6 +126,7 @@ ht-degree: 96%
       + [親子タスクについて](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
       + [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+      + [タスクステータスの更新](/help/manage-work/tasks/update-the-task-status.md)
       + [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
       + [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
