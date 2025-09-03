@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 96%
 
 ---
@@ -136,7 +136,8 @@ ht-degree: 96%
       + [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
       + [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
       + [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
-      + [イシューの割り当てを管理](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [イシューの割り当ての管理](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [イシューステータスの更新](/help/manage-work/tasks/update-the-issue-status.md)
       + [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
       + [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
