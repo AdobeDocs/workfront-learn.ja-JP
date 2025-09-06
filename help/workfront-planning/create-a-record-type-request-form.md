@@ -21,4 +21,4 @@ ht-degree: 0%
 
 タスクを整理し、重要な情報を収集し、チームの効率を高めるカスタムリクエストフォームの作成方法を学習することで、作業を合理化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471082/?learn=on&enablevpops&captions=jpn)
