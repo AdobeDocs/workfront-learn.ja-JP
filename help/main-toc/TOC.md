@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
+source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2298'
 ht-degree: 96%
 
 ---
@@ -238,6 +238,9 @@ ht-degree: 96%
       + [カスタムカレンダーレポートを作成](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [追加のカレンダーレポートオプションについて](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [アクティビティ - カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+
+   + キャンバスダッシュボード {#canvas-dashboards}
+      + [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 
 + リソースの管理 {#manage-resources}
