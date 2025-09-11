@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-18768
 last-substantial-update: 2025-09-09T00:00:00Z
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
+source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -22,3 +23,5 @@ ht-degree: 0%
 キャンバスダッシュボード機能は、Workfrontでダッシュボードを作成する別の方法です。 現在は、一般的なBetaになっています。つまり、ベータ版に登録されていれば、すべてのWorkfrontのお客様がこの機能を使用できます。 システム管理者が登録を行う必要があります。 このビデオでは、その方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+
+詳しくは、[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) の記事を参照してください。
