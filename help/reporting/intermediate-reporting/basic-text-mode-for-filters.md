@@ -1,6 +1,6 @@
 ---
 title: フィルターの基本的なテキストモードについて
-description: テキストモード、キャメルケース、Workfrontのレポートフィルターで使用できる基本的なテキストモードについて説明します。
+description: Workfront のレポートフィルターで使用できるテキストモード、キャメルケース、基本的なテキストモードについて学習します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -13,9 +13,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '423'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ ht-degree: 90%
 
 * テキストモード
 * キャメルケース
-* レポートフィルターで使用できる _テキストモードのコードブロック_ がいくつかあります
+* レポートフィルターで使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO](https://video.tv.adobe.com/v/3412686/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## 「フィルターの基本的なテキストモードについて」アクティビティ
 

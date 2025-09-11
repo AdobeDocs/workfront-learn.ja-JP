@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -46,5 +46,5 @@ Workfront の顧客は、一般的に次の 2 つの数式セットを使用し�
 
 >[!NOTE]
 >
->式の完全なリストと各式の詳細については、[ 計算データ式 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) のドキュメントページを参照してください。
+>式の完全なリストと各式の詳細については、[計算データ式](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)のドキュメントページを参照してください。
 

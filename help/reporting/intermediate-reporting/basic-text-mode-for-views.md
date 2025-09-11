@@ -1,6 +1,6 @@
 ---
 title: ビューの基本的なテキストモードについて
-description: テキストモード、キャメルケース、およびWorkfrontのレポートビューで使用できる基本的なテキストモードについて説明します。
+description: Workfront のレポートビューで使用できるテキストモード、キャメルケース、基本的なテキストモードについて学習します。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -13,9 +13,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '651'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ ht-degree: 94%
 
 * テキストモードとは
 * キャメルケースとは
-* レポートビューで使用できる _テキストモードのコードブロック_ がいくつかあります
+* レポートビューで使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO](https://video.tv.adobe.com/v/3422890/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## 「ビューの基本的なテキストモードについて」アクティビティ
 
