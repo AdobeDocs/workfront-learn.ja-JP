@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
+source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
 workflow-type: tm+mt
-source-wordcount: '2306'
-ht-degree: 96%
+source-wordcount: '2314'
+ht-degree: 95%
 
 ---
 
@@ -242,6 +242,7 @@ ht-degree: 96%
    + キャンバスダッシュボード {#canvas-dashboards}
       + [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [ キャンバスダッシュボードでの KPI レポートの作成 ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 
 
 + リソースの管理 {#manage-resources}
