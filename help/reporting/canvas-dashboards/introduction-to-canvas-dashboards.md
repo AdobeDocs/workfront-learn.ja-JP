@@ -22,7 +22,7 @@ ht-degree: 4%
 
 キャンバスダッシュボード機能は、Workfrontでダッシュボードを作成する別の方法です。 現在は、一般的なBetaになっています。つまり、ベータ版に登録されていれば、すべてのWorkfrontのお客様がこの機能を使用できます。 システム管理者が登録を行う必要があります。 このビデオでは、その方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474021/?quality=12&learn=on&enablevpops&captions=jpn)
 
 詳しくは、[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) の記事を参照してください。
 
