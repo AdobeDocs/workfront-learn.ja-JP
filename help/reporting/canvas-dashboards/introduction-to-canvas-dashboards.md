@@ -24,7 +24,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-詳しくは、[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) の記事を参照してください。
+詳しくは、[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) の記事を参照してください。
 
 ## このトピックに関する推奨チュートリアル
 
