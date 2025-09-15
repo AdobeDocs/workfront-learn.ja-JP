@@ -28,7 +28,7 @@ Web サービスを呼び出して複数の国に関する詳細を返し、サ�
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417305/?quality=12&learn=on&enablevpops&captions=jpn)
 
 ## 演習 URL
 
