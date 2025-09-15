@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ Web サービスを呼び出して複数の国に関する詳細を返し、サ�
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3417305/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## 演習 URL
 
@@ -53,10 +53,10 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 この練習は、チュートリアルで学習した内容に基づいて構築されますが、ソリューションは提供されていません。
 
-新しいシナリオを作成して、マーケティングポートフォリオのプロジェクトのタスクにログオンしたすべての時間を合計します。次に、「{Project Name} プロジェクトチームが、合計 {planned hours} 時間の予定時間数のうち {summed hours} 時間をログに記録し、計画の {percentage}％に達しています」というメールを 1 通送信します。
+新しいシナリオを作成して、マーケティングポートフォリオのプロジェクトのタスクにログオンしたすべての時間を合計します。次に、「{Project Name} プロジェクトチームが、合計およ {summed hours} 予定時間のうち {planned hours} をログに記録し、計画の {percentage} に達しています」というメールを 1 通送信します。
 
 **課題：**&#x200B;同じことを、ログに記録された時間を今年のみに限ってできるかどうかを試してください。
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ja)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
