@@ -1,14 +1,14 @@
 ---
-title: キャンバスダッシュボードでの KPI レポートの作成
-description: キャンバスダッシュボードで KPI レポートを作成する方法を説明します。
+title: キャンバスダッシュボードレポートへの条件付き書式の追加
+description: キャンバスダッシュボードレポートに条件付き書式を追加する方法を説明します。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18769
-last-substantial-update: 2025-09-11T00:00:00Z
+jira: KT-18771
+last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ---
 
-# キャンバスダッシュボードでの KPI レポートの作成
+# キャンバスダッシュボードレポートへの条件付き書式の追加
 
 >[!PREREQUISITES]
 >
@@ -31,14 +31,15 @@ ht-degree: 4%
 
 [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **詳しくは、次のヘルプ記事を参照してください。**
 [ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ キャンバスダッシュボードでの KPI レポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[ キャンバスダッシュボードでのテーブルレポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## このトピックに関する推奨チュートリアル
 
 * [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [ キャンバスダッシュボードでの KPI レポートの作成 ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-* [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+
