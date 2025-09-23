@@ -33,7 +33,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 * シナリオ designer の使用
 * 基本的なシナリオの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415975/?quality=12&learn=on&enablevpops&captions=jpn)
 
 
 ## 詳細情報 以下をお勧めします。
