@@ -11,9 +11,9 @@ jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '697'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -73,4 +73,4 @@ Workfront Fusion トレーニングの早い段階で、シナリオを読みや
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

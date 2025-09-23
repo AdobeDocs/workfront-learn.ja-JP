@@ -12,9 +12,9 @@ exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,10 +32,10 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 * シナリオ内で JSON を作成および解析して、デザインのニーズに応えます
 
->[!VIDEO](https://video.tv.adobe.com/v/3418114/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
 
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

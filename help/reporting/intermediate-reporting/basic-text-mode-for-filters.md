@@ -13,9 +13,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '423'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -30,8 +30,8 @@ ht-degree: 99%
 
 >[!TIP]
 >
->* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/ja/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)」（所要時間：1 時間）の視聴をお勧めします。
->* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
+>* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)」（所要時間：1 時間）の視聴をお勧めします。
+>* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=jp)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
 >* ここをクリックして、[[!UICONTROL API エクスプローラー]](https://developer.adobe.com/workfront/api-explorer/)にアクセスします
 
 
@@ -41,7 +41,7 @@ ht-degree: 99%
 * キャメルケース
 * レポートフィルターで使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO](https://video.tv.adobe.com/v/3412686/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## 「フィルターの基本的なテキストモードについて」アクティビティ
 
