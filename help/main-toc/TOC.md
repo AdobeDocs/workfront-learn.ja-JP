@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront チュートリアル
-source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
+source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2331'
 ht-degree: 95%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 95%
       + [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
       + [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
       + [イシューの割り当ての管理](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [イシューステータスの更新](/help/manage-work/tasks/update-the-issue-status.md)
+      + [イシューの状態を更新](/help/manage-work/tasks/update-the-issue-status.md)
       + [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
       + [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
@@ -244,7 +244,7 @@ ht-degree: 95%
       + [ キャンバスダッシュボードでの KPI レポートの作成 ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-
+      + [キャンバスダッシュボードレポートでの OR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + リソースの管理 {#manage-resources}
    + リソース管理 {#resource-management}

@@ -11,10 +11,11 @@ jira: KT-18773
 last-substantial-update: 2025-09-12T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
+exl-id: 1204fc4f-c73d-49eb-981d-712524271ce9
+source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 4%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
@@ -31,15 +32,15 @@ ht-degree: 4%
 
 [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474866/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
 
 **詳しくは、次のヘルプ記事を参照してください。**
-[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ キャンバスダッシュボードでのテーブルレポートの作成 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[ キャンバスダッシュボードでのテーブルレポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## このトピックに関する推奨チュートリアル
 
 * [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [ キャンバスダッシュボードでの KPI レポートの作成 ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-
+* [キャンバスダッシュボードレポートでの OR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
