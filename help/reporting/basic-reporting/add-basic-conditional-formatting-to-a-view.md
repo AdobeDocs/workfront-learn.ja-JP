@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: ht
-source-wordcount: '464'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '465'
+ht-degree: 99%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * ビューの条件付き書式とは
 * 条件付き書式の作成および変更方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3445442/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/335149/?quality=12&amp;learn=on&amp;enablevpops=0
 
 
 ## 条件付き書式の概要

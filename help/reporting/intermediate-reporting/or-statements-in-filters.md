@@ -12,10 +12,10 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: b3cff8f86ceeb6e79e2b88ab335b2671aa25600a
-workflow-type: ht
-source-wordcount: '320'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 または、フィルターロジックを「OR」に変更して、いずれかの条件を満たす項目を表示することもできます。
 このビデオでは、フィルターグループを使用してタスクのフィルターを作成する方法も説明します。例えば、2 つのグループを作成できます。1 つはクリエイティブチームに割り当てられた未完了タスクのうち遅れているもの、もう 1 つはクリエイティブチームに割り当てられた未完了タスクのうち未割り当てのものです。各グループ内で「AND」ロジックが適用されます。つまり、グループ内のすべての条件を満たす必要があります。グループ間の「OR」ロジックにより、いずれかのグループの条件を満たすタスクが表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470694/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/3470692/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## OR フィルターアクティビティ
 

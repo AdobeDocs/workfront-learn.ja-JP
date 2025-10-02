@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ビデオでは、プロジェクトのステータスを「現在」に変更してプロジェクトを稼動させる最後の手順について説明します。その前に、タスク名、期間、予定時間数、先行タスク、開始日と完了日、割り当てなどの主要なプロジェクト要素を確認して、すべてが正確で適切に設定されていることの確認を強調しています。プロジェクトを稼動させると、プロジェクトマネージャーはグローバル設定と個人用設定に基づいて通知を受信し、アクティブなプロジェクトのレポートとフィルターにプロジェクトが表示されます。これにより、正式な作業の開始がマークされます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3438984/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

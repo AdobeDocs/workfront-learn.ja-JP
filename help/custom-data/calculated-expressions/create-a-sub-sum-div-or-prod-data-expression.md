@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '386'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * SUB、SUM、DIV、PROD 式の機能
 * 計算フィールドで SUB データ式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3414002/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
 
 ## 追加情報：ROUND 式
 
@@ -37,11 +37,11 @@ ROUND 式は、任意の数を取り、特定の小数点以下の桁数に丸�
 
 タスクの予定時間数と実際に記録された時間数との差を特定する計算フィールドを作成してみましょう。これには SUB 式が必要で、次のようになります。
 
-**SUB({workRequired},{actualWorkRequired})**
+**SUB （{workRequired},{actualWorkRequired}）**
 
 また、時間は分単位で追跡され、情報を時間単位で表示する形式が望ましいので、式を 60 で割って次のようにする必要があります。
 
-**DIV(SUB({workRequired},{actualWorkRequired}),60)**
+**DIV （SUB （{workRequired},{actualWorkRequired}）,60）**
 
 カスタムフォームで計算フィールドを作成する際に形式を「数値」に変更した場合は、ビューでフィールドを追加する際に数値の形式を変更できます。
 
@@ -57,8 +57,8 @@ ROUND 式には、式の名前（ROUND）と、通常は 2 つのデータポイ
 
 式の構造は「ROUND(data point, #)」となります。
 
-予定時間と実際の時間の差を計算する式では、最初のデータポイントとして「DIV(SUB({workRequired},{actualWorkRequired}),60)」を使用します。次に、その式から得られる数が何であっても、小数点以下の数が 2 桁を超えないようにします。
+予定時間と実際の時間の差を計算する式では、最初のデータポイントとして「DIV （SUB （{workRequired},{actualWorkRequired}）,60）」を使用します。 次に、その式から得られる数が何であっても、小数点以下の数が 2 桁を超えないようにします。
 
 ![ワークロードバランサーと稼働率レポート](assets/round03.png)
 
-式は次のように記述できます：ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2)。
+式は次のように記述できます：ROUND （DIV （SUB （{workRequired},{actualWorkRequired}）,60）,2）。

@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * ライトボックスを使用した共同作業
 * ライトボックスのコンテンツの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/3420181/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
 
 ## フォルダーとライトボックス
 

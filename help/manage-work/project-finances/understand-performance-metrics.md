@@ -13,8 +13,8 @@ exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ビデオでは、システム管理者とプロジェクトマネージャーの両方がパフォーマンス指標と計算を管理する際の柔軟性と制御を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

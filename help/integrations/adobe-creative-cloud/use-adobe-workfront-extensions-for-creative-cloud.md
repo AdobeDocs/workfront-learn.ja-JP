@@ -13,8 +13,8 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="統合" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
 
@@ -52,4 +52,4 @@ Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud �
 * 時間のログ記録
 * 作業の完了のマーク
 
->[!VIDEO](https://video.tv.adobe.com/v/3420646/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)

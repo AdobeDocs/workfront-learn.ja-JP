@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 結果のレポートによって、ユーザーは遅延タスクに集中し、依存関係に関するインサイトを得て、ホストプロジェクトへのナビゲーションが簡素化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448343/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 主な要点
 
@@ -178,7 +178,7 @@ ht-degree: 100%
 
    * [!UICONTROL イシュー]／[!UICONTROL 名前]
    * [!UICONTROL プライマリ連絡先]／[!UICONTROL 名前]
-      * メモ：これは、列のラベルとして「所有者：名前」と表示されます。これを「報告者」に変更するには、「詳細オプション」をクリックし、「**カスタム列ラベル**」フィールドに「報告者」と入力します。
+      * メモ：これは、列のラベルとして「所有者 :Name」と表示されます。 これを「報告者」に変更するには、「詳細オプション」をクリックし、「**カスタム列ラベル**」フィールドに「報告者」と入力します。
    * [!UICONTROL イシュー]／[!UICONTROL プロセスタイプ]
    * [!UICONTROL イシュー]／[!UICONTROL プロセス名]
    * [!UICONTROL イシュー]／[!UICONTROL プロセスグレード]

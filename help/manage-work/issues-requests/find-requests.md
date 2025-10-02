@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * カスタムレポートとダッシュボード
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441655/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

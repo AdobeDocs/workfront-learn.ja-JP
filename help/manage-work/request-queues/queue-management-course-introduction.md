@@ -9,8 +9,8 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8956
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、[!DNL  Workfront] リクエストキューでデマンド管理を一元化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437590/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

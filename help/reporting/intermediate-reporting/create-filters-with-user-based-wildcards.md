@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
-workflow-type: ht
-source-wordcount: '354'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * ワイルドカードを使用する理由について
 * ユーザーベースのワイルドカードを使用してフィルターを作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/3412656/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/336810/?quality=12&amp;learn=on&amp;enablevpops=0
 
 >[!TIP]
 >

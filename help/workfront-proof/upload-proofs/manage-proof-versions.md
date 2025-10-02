@@ -11,8 +11,8 @@ thumbnail: 335137.png
 jira: KT-8837
 exl-id: 5121b112-2b17-44f4-8e36-1ce4eb9898f8
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフのすべてのバージョンをダウンロードする
 * プルーフのバージョンを削除する
 
->[!VIDEO](https://video.tv.adobe.com/v/3438643/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

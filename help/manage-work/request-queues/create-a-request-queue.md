@@ -13,8 +13,8 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ビデオでは、Workfont 内でリクエストキューを作成する方法する手順について段階的に説明します。ビデオの最後には、新しく作成したキューを使用してリクエストを送信する方法を示し、「送信済みリクエスト」タブで詳細を入力して送信を確認するプロセスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

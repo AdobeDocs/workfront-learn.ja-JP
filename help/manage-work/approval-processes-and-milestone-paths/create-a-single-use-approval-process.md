@@ -13,8 +13,8 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 ビデオでは、承認プロセスの作成、承認者の設定、ステータスの設定、複数レベルの承認に対するステージの使用について説明します。
 タスク承認を効果的に管理するグローバルプロセスと単一使用プロセスの両方の柔軟性をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434688/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

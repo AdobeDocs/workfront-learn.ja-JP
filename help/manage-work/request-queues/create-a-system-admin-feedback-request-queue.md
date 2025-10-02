@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
-workflow-type: ht
-source-wordcount: '356'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '357'
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 詳細なガイダンスとして、レポートとカスタムフォームを作成するチュートリアルへのリンクが提供されています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450498/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 主な要点
 

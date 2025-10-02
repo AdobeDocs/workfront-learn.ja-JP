@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 このビデオでは、プロジェクトを簡単に検索するいくつかの方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439549/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

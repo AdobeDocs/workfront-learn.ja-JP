@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * [!UICONTROL Pulse] 更新ストリームで個人の目標を表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/3415931/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
 
 ## Pulse ストリーム内で情報をフィルターする
 

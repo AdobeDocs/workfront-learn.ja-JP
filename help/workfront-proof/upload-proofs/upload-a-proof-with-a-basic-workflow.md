@@ -11,8 +11,8 @@ thumbnail: 335132.png
 jira: KT-8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 基本プルーフワークフローを追加して、関係者がアセットをレビューおよび承認できるようにする
 * プルーフレビューの期限を設定する
 
->[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on&enablevpops=1)
 
 ## やってみよう
 

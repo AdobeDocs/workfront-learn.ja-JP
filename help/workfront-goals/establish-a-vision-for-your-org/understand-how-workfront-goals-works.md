@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目標の例
 * 影響力の範囲
 
->[!VIDEO](https://video.tv.adobe.com/v/3413134/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops=1)
 
 ## 責任を持つ担当者の指定
 

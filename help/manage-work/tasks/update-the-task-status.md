@@ -9,8 +9,8 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: 25aad7c0c02e4317cdf27707c689f063b1c3f013
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 このビデオは、タスクステータスを更新する方法、理由、頻度に関するチュートリアルを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471168/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

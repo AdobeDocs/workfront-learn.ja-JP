@@ -13,10 +13,10 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
-workflow-type: ht
-source-wordcount: '402'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '403'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 次に、ビデオでは、ルーティングルール、トピックグループ、カスタムフォーム、承認プロセス、デフォルトの期間にリンクされるキュートピックを作成する方法について説明します。
 最後に、ビデオでは、正しくルーティングされていることを確認するために、リクエストを送信して設定をテストする方法について説明します。イシューが発生した場合は、キューを調整できます。ビデオでは、適切なルーティングと整理を確実に行うために、リクエストフローの構造と機能を検証することの重要性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433823/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 主な要点
 

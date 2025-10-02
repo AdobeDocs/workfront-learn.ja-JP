@@ -12,8 +12,8 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ビデオでは、プロジェクト管理でのビジネスケースの重要性について説明します。ビジネスケースに入力することで、マネージャーが同じリソースを求めて競合するプロジェクトを分析し、優先順位を付けるのに十分に役立つことを強調しています。完了したら、ビジネスケースを送信すると、プロジェクトのステータスが「リクエスト済み」に変更され、ポートフォリオ最適化ツールでの比較に全体的なスコアが計算されます。どのフィールドも必須ではありませんが、より詳細な情報があれば意思決定が向上します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442845/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

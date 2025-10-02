@@ -11,10 +11,10 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 キャンバスダッシュボード **レポート** を作成する前に行う必要がある最初の操作は、次のとおりです。
 
@@ -31,15 +31,15 @@ ht-degree: 3%
 
 [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **詳しくは、次のヘルプ記事を参照してください。**
-[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ キャンバスダッシュボードでのレポートフィルターの編集 ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[ キャンバスダッシュボードでのレポートフィルターの編集 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## このトピックに関する推奨チュートリアル
 
-* [ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
-* [ キャンバスダッシュボードでの KPI レポートの作成 ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+* [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [キャンバスダッシュボードでの KPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)

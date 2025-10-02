@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 このビデオでは、Workfront でのタスク管理について説明します。プロジェクト計画内のタスクの編集、削除、追加、複製、再整理など、効率的なタスク管理を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448557/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

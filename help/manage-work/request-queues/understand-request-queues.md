@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 このビデオでは、Workfront のリクエストキューの概念、その目的、リクエストの送信および管理の方法について説明します。リクエストキューは、様々なタイプのリクエストを送信する一元的な場所として機能します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447011/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

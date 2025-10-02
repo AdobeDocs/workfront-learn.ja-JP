@@ -12,7 +12,7 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 このビデオでは、プロジェクト、タスクまたはイシューに対して、グローバル承認プロセスと単一使用承認プロセスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434688/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -52,7 +52,7 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスク、イシュー、承認を委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [タスク、イシュー、承認の委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [グループ特有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [リクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
 

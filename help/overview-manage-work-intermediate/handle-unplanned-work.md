@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 hide: true
 exl-id: e2d538db-f2bf-46b9-a4d8-425c62870d1b
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
@@ -28,11 +28,11 @@ ht-degree: 100%
 * イシューをログに記録する方法
 * イシュー管理のベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/3446567/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 
 * [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [プロジェクトのコミュニケーションについて](/help/manage-work/projects/understand-project-communication.md)
-* [イシュー／リクエストのプロジェクトへ変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [イシュー／リクエストのタスクへ変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

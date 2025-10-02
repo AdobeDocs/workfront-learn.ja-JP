@@ -9,8 +9,8 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-8756
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * グループ
 * チーム
 
->[!VIDEO](https://video.tv.adobe.com/v/3444275/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
 
 始める前に、[!DNL Workfront] でユーザー組織について詳しく学ぶ際に知っておくべき重要な用語を以下に示します。
 

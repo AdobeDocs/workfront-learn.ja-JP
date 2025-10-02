@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 イシューは予定作業とは見なされないので、このプロセス中に直接コピーすることはできません。イシューをコピーするには、「イシュー」タブに移動し、目的のイシューを選択し、「コピー先」オプションを使用して新しいプロジェクトに転送します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456039/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

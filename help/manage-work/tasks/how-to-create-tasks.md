@@ -10,8 +10,8 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 ビデオでは、Workfront プロジェクトでタスクを作成する方法に関するチュートリアルを提供し、長い方法と便利なショートカットの両方について説明します。タスク作成の柔軟性を強調し、効率的なタスク管理のヒントを提供します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423159/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

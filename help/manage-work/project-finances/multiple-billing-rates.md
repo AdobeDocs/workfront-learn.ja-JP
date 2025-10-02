@@ -13,8 +13,8 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 ビデオでは、プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法について説明します。ここでは、同じ担当業務に対して複数の請求レートを設定する柔軟性と、正確な時間ベースの調整の確保を強調しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -1,6 +1,6 @@
 ---
 title: レコードタイプのリクエストフォームの作成
-description: タスクを整理し、重要な情報を収集し、チームの効率を高めるカスタムリクエストフォームの作成方法を学習することで、作業を合理化します。
+description: カスタムリクエストフォームの作成方法を学んで、タスクの整理、重要情報の収集、チームの効率向上を実現し、チームの業務を効率化します。
 feature: Workfront Planning,Requests
 topic: Administration,Collaboration
 role: Admin, Leader, User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 duration: 288
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18667
-source-git-commit: ca19e51981a9f75b0abe20349f2576632432c911
+exl-id: 23dacab2-5294-4c56-90a6-194b23c0dbdf
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 76%
 
 ---
 
-
 # レコードタイプのリクエストフォームの作成
 
-タスクを整理し、重要な情報を収集し、チームの効率を高めるカスタムリクエストフォームの作成方法を学習することで、作業を合理化します。
+カスタムリクエストフォームの作成方法を学んで、タスクの整理、重要情報の収集、チームの効率向上を実現し、チームの業務を効率化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471082/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops=1)

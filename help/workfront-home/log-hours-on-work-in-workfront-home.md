@@ -11,8 +11,8 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ログインしている時間の値
 * 作業の割り当てに関する時間の記録方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3438599/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
 
 ## [!DNL Home] での作業時間を記録するためのヒント
 

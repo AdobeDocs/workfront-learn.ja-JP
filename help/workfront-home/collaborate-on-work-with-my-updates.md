@@ -11,8 +11,8 @@ thumbnail: 340342.png
 jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 * 「メンション」セクションを使用して、自分が含まれている更新を表示する
 * 更新に返信する
 
->[!VIDEO](https://video.tv.adobe.com/v/3414235/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops=1)

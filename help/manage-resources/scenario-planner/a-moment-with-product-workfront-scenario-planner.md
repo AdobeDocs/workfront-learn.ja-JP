@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner] のナビゲーションの概要を把握する
 * お客様のビジネスの成果と意思決定を一致させる上で [!DNL Scenario Planner] がいかに役立つかを理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3414403/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops=1)

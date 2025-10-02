@@ -12,8 +12,8 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 last-substantial-update: 2025-01-09T00:00:00Z
-source-git-commit: 3f02a9fd7fc4cd2b19e26047473a88758c0a5d1f
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -23,5 +23,5 @@ ht-degree: 100%
 
 受信するアプリ内通知とメール通知を制御して、自分の作業に関連する有用なメールを受信できるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442808/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
 

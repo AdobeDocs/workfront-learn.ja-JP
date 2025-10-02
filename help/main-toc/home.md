@@ -2,7 +2,7 @@
 title: Workfront チュートリアル
 description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。お客様とお客様の組織の両方が Workfront を使用して成功へつながる、ベストプラクティス、厳選された演習、その他のリソースのコレクションが含まれています。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 2d9e6ca1aa49d223d99d71d78b295614160281e4
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。お客様とお客様の組織の両方が Workfront を使用して成功へつながる、ベストプラクティス、厳選された演習、その他のリソースのコレクションが含まれています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422439/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
 
 <!-- 
 

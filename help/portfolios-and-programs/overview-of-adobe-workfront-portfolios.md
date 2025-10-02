@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 ビデオでは、マネージャーが会社の目標に合わせてプロジェクトの選択を最適化する方法に焦点を当てたポートフォリオ管理について説明します。共有リソース、予算、スケジュールについて競合するプロジェクトのコレクションとしてのポートフォリオの概念を紹介します。マネージャーは、ポートフォリオオプティマイザーなどのツールを使用して、労力、費用、リスク、ROI、ポートフォリオ目標との整合性などの条件に基づいてプロジェクトを比較できます。比較のためにプロジェクトを準備するには、それぞれのビジネスケースを作成する必要があります。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442829/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -12,8 +12,8 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ ht-degree: 100%
 
 ビデオでは、効率的な共有管理にチームとテンプレートを使用することを強調し、共有環境設定をカスタマイズする際の管理者の役割をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423150/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

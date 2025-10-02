@@ -13,8 +13,8 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 ビデオでは、Workfront 財務トラッキングシステムで通貨を管理する方法について説明します。ここでは、デフォルトの通貨は米ドルですが、追加の通貨をグローバルまたは個々のプロジェクトや担当業務ごとに設定できることについて説明しています。
 ビデオでは、システムが現在の為替レートを提供していないので、ユーザーは外部から入手する必要があることを強調しています。一度設定すると、為替レートはプロジェクトや担当業務のデフォルトになりますが、自動的には更新されません。適切な権限を持つユーザーが手動で更新する必要があります。通貨を設定した後、ユーザーは新しいプロジェクトを作成し、使用可能な通貨オプションから選択して、個々のプロジェクトの為替レートをカスタマイズできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

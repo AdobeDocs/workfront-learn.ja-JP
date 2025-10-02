@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
-workflow-type: ht
-source-wordcount: '287'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '288'
+ht-degree: 99%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/ja/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)」（所要時間：1 時間）の視聴をお勧めします。
+>* テキストモードをより深く理解するために、録画されたウェビナーイベント「[エキスパートに聞く - テキストモードレポートの概要](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)」（所要時間：1 時間）の視聴をお勧めします。
 >* テキストモードの詳細については、[詳細なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=jp)のチュートリアルをご覧ください。このチュートリアルは合わせて 5 時間半です。
 >* ここをクリックして、[[!UICONTROL API エクスプローラー]](https://developer.adobe.com/workfront/api-explorer/)にアクセスします
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 * キャメルケースとは
 * レポートのグループ化で使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470782/?quality=12&learn=on&captions=jpn)
+>[!VIDEO] （https://video.tv.adobe.com/v/3410641/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 「グループ化の基本的なテキストモードについて」アクティビティ
 

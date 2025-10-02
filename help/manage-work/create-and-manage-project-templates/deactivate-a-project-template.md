@@ -13,8 +13,8 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * プロジェクトテンプレートを共有してアクティブ化および非アクティブ化する権限を付与する方法。
 * プロジェクトテンプレートをアクティブ化および非アクティブ化する方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444991/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

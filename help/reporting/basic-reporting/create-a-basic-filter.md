@@ -12,8 +12,8 @@ jira: kt-8857
 last-substantial-update: 2025-04-30T00:00:00Z
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 このビデオでは、Workfront でフィルターを作成して使用し、特定の条件に基づいてリストレポートをカスタマイズする方法について説明します。フィルターを使用すると、ユーザーは、条件を定義して、タスク、プロジェクト、ドキュメントなどのリストを絞り込むことができます。フィルター条件に一致し、ログインしたユーザーがアクセスできるアイテムのみがリストに表示されます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

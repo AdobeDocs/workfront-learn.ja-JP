@@ -11,8 +11,8 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Workfront Fusion のテストでは、接続されたソフトウェアプラッ
 * 詳細で共有可能なドキュメントを作成する
 * 深さ、広さ、複雑さ、負荷をテストする
 
->[!VIDEO](https://video.tv.adobe.com/v/3418734/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## テストに関する考慮事項のチェックリスト
 
@@ -48,4 +48,4 @@ Workfront Fusion 実装のライフサイクル全体を通してテストを優
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

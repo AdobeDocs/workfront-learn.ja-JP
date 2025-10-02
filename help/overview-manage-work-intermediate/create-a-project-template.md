@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 100%
@@ -32,7 +32,7 @@ ht-degree: 100%
 * テンプレートを最初から作成する
 * テンプレートを既存のプロジェクトから作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/3415446/?quality=12&learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
 
 ## [!UICONTROL ブループリント]で作成されたテンプレート
 
@@ -58,8 +58,8 @@ Workfront ユーザーは、[!UICONTROL ブループリント]を使用してプ
 
 ## このトピックに関する推奨チュートリアル
 
-* [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [プロジェクトをテンプレートから直接作成](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
 * [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [既存のプロジェクトをコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [既存のプロジェクトのコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

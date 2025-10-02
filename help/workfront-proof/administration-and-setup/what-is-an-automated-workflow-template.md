@@ -11,8 +11,8 @@ thumbnail: 335129.png
 jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフユーザーがワークフローテンプレートからメリットを得る方法
 * 作成するテンプレートの計画を始める方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn More Icon
