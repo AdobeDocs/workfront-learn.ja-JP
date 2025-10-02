@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 99%
+source-wordcount: '287'
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 99%
 * キャメルケースとは
 * レポートのグループ化で使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO] （https://video.tv.adobe.com/v/3470782/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## 「グループ化の基本的なテキストモードについて」アクティビティ
 

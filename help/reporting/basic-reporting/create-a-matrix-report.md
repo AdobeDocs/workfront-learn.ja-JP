@@ -12,10 +12,10 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 99%
+source-wordcount: '418'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 99%
 * マトリックスレポートが役立つ場面
 * マトリックスレポートの作成方法
 
->[!VIDEO] （https://video.tv.adobe.com/v/3448184/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## 主な要点
 

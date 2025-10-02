@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 99%
 * テンプレートを作成したら、新しいプロジェクトの作成に使用できます。ビデオでは、テンプレートから新しいプロジェクトを作成し、必要な調整を行い、必要に応じてタスクを追加したり期間を変更したりする方法について説明します。また、リソースのスケジュール設定と計画機能を使用して、担当業務をタスクに割り当てる方法についても説明します。
 * ビデオでは、既存のプロジェクトを新しいテンプレートとして保存し、ワークフローを更新および改善する方法について説明します。テンプレートを管理して、混乱を回避し、効率的なプロジェクトの実行を確保することの重要性を強調しています。
 
->[!VIDEO] （https://video.tv.adobe.com/v/3415446/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## 主な要点
 

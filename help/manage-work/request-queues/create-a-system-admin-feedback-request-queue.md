@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 99%
+source-wordcount: '356'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 99%
 詳細なガイダンスとして、レポートとカスタムフォームを作成するチュートリアルへのリンクが提供されています。
 
 
->[!VIDEO] （https://video.tv.adobe.com/v/3450498/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ## 主な要点
 
@@ -45,7 +45,7 @@ ht-degree: 99%
 * **テストとアクセシビリティ：**&#x200B;キューはサンプルリクエストでテストされ、機能性が確保されます。これは、すべてのユーザーがアクセスできるヘルプリクエストキューとして公開され、デフォルトの完了期間は 10 日です。
 
 
-ビデオで使用する **管理者チームのフィードバックレポート** の作成方法については、**タスクレポートの作成 [&#x200B; チュートリアルの** 管理者チームのフィードバックレポートの作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) アクティビティを参照してください。
+ビデオで使用する **管理者チームのフィードバックレポート** の作成方法については、**タスクレポートの作成 [ チュートリアルの** 管理者チームのフィードバックレポートの作成 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) アクティビティを参照してください。
 
 カスタムフォームの作成方法について詳しくは、[カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ja)チュートリアルを参照してください。
 

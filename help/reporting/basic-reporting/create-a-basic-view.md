@@ -12,9 +12,9 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '976'
 ht-degree: 97%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 このビデオでは、Workfront のビューの柔軟性に重点を置き、ビューの作成、カスタマイズ、管理の手順を説明します。
 
->[!VIDEO] （https://video.tv.adobe.com/v/3450239/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## 主な要点
 
@@ -133,9 +133,9 @@ ht-degree: 97%
 1. 「**[!UICONTROL 列を追加]**」を再度クリックします。
 1. 「[!UICONTROL このカラムに表示]」フィールドに[!UICONTROL 「制約」]と入力し、タスクフィールドソースで[!UICONTROL 「制約の指定日」]を選択します。
 1. [!UICONTROL 開始日]列を選択して、「[!UICONTROL 詳細オプション]」をクリックします。
-1. [!UICONTROL &#x200B; フィールド形式 &#x200B;] ドロップダウンで [!UICONTROL &#x200B; 「10/17/60 3:00 AM」 &#x200B;] を選択します。
+1. [!UICONTROL  フィールド形式 ] ドロップダウンで [!UICONTROL  「10/17/60 3:00 AM」 ] を選択します。
 1. [!UICONTROL 期限]列を選択し、「[!UICONTROL 詳細オプション]」をクリックします。
-1. [!UICONTROL &#x200B; フィールド形式 &#x200B;] ドロップダウンで [!UICONTROL &#x200B; 「10/17/60 3:00 AM」 &#x200B;] を選択します。
+1. [!UICONTROL  フィールド形式 ] ドロップダウンで [!UICONTROL  「10/17/60 3:00 AM」 ] を選択します。
 1. **[!UICONTROL 保存]**&#x200B;をクリックします。
 
 ### アクティビティ 4：プロジェクトテンプレートのアクティブなステータスビューを作成

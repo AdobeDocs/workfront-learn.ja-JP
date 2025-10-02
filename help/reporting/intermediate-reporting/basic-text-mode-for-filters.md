@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 99%
+source-wordcount: '423'
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 99%
 * キャメルケース
 * レポートフィルターで使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO] （https://video.tv.adobe.com/v/3412686/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## 「フィルターの基本的なテキストモードについて」アクティビティ
 

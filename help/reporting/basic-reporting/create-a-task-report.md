@@ -12,9 +12,9 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '1115'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 結果のレポートによって、ユーザーは遅延タスクに集中し、依存関係に関するインサイトを得て、ホストプロジェクトへのナビゲーションが簡素化できます。
 
->[!VIDEO] （https://video.tv.adobe.com/v/3448343/?quality=12&learn=on&enablevpops=0&captions=jpn
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## 主な要点
 
@@ -41,8 +41,8 @@ ht-degree: 99%
 >[!TIP]
 >
 >スパチュラとミキシングボウルを取り出して、[Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf) の「レシピ」を試す準備をしましょう。10 件のレポートに関する段階的な手順が記載されています。今すぐ環境に取り組むことができます。
->&#x200B;>お客様からのお気に入りのレポートを集め、軽食で消化しやすいクックブックにまとめました。持ち帰ってご自身の Workfront キッチンで試してみてください。
->&#x200B;>この 10 件のレポートは、お客様と同じような顧客からのものです。業界、部門、チーム、役職を超えて、様々な企業にまたがって、お気に入りのレポートを共有してくださった素晴らしいお客様に多大な感謝を申し上げます。レポートの中には、シンプル (ただし非常に便利) なものもあれば、レポートを次のレベルに引き上げるために複雑なものもあります。
+>>お客様からのお気に入りのレポートを集め、軽食で消化しやすいクックブックにまとめました。持ち帰ってご自身の Workfront キッチンで試してみてください。
+>>この 10 件のレポートは、お客様と同じような顧客からのものです。業界、部門、チーム、役職を超えて、様々な企業にまたがって、お気に入りのレポートを共有してくださった素晴らしいお客様に多大な感謝を申し上げます。レポートの中には、シンプル (ただし非常に便利) なものもあれば、レポートを次のレベルに引き上げるために複雑なものもあります。
 
 
 ### アクティビティ 1：プロンプト付きのメモレポートの作成
