@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Workfront Planning でワークスペースを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448262/?learn=on&enablevpops=1&captions=jpn)

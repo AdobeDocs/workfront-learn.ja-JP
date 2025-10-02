@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Slack] での最近の作業の表示
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435927/?quality=12&learn=on&enablevpops=1&captions=jpn)

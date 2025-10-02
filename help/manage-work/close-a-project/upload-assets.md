@@ -29,7 +29,7 @@ ht-degree: 100%
 * ドキュメントをアップロード
 * プルーフのアップロードに関するトレーニングを検索
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440371/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

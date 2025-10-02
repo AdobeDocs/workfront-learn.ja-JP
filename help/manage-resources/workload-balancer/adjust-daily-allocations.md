@@ -26,4 +26,4 @@ ht-degree: 100%
 * あるユーザーから別のユーザーへの作業の再割り当て
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413846/?quality=12&learn=on&enablevpops=1&captions=jpn)

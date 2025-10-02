@@ -24,4 +24,4 @@ ht-degree: 100%
 * Brand Connect でのアセットの表示
 * メタデータやキーワードなど、アセットに関するデータの表示
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418741/?quality=12&learn=on&enablevpops=1&captions=jpn)

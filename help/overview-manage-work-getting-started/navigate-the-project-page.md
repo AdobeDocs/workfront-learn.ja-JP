@@ -30,7 +30,7 @@ ht-degree: 100%
 * ドキュメントをアップロードする場所
 * 更新履歴の表示方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449727/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## プロジェクトページの主要な部分
 

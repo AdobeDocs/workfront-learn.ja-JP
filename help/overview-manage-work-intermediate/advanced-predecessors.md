@@ -37,7 +37,7 @@ ht-degree: 100%
 * 依存関係ループエラー
 * ショートカットとベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454527/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 先行タスクの使用について詳しくは、[タスク先行タスクを使用](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ja)を参照してください。
 

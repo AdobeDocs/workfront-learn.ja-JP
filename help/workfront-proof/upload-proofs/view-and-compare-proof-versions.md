@@ -27,7 +27,7 @@ ht-degree: 100%
 * バージョンに対してコメントやマークアップを付ける
 * ファイルの現在のバージョンと以前のバージョンを比較する
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446897/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 <!--
 ## Learn more

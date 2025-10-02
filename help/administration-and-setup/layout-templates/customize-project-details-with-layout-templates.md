@@ -25,4 +25,4 @@ ht-degree: 100%
 * プロジェクト詳細領域へのナビゲーション
 * レイアウトテンプレートを使用したプロジェクト詳細フィールドのカスタマイズ
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432903/?quality=12&learn=on&enablevpops=1&captions=jpn)

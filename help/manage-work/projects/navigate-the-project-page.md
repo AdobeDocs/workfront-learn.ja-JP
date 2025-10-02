@@ -33,7 +33,7 @@ ht-degree: 100%
 * **ドキュメントセクション：**&#x200B;プロジェクト関連のファイルとプルーフをアップロードおよび管理できます。タスクに添付されたドキュメントは、プロジェクトレベルにロールアップされ、簡単にアクセスできます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449727/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 主な要点
 

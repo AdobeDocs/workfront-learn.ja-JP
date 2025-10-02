@@ -28,7 +28,7 @@ ht-degree: 100%
 * プロジェクトテンプレートを共有してアクティブ化および非アクティブ化する権限を付与する方法。
 * プロジェクトテンプレートをアクティブ化および非アクティブ化する方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444991/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## プロジェクトテンプレートのアクティブなステータスを表示および編集するためのカスタムビューを作成する方法について説明します。
 

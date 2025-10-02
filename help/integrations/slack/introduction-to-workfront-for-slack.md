@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * その他の [!DNL Workfront] for [!DNL Slack] のビデオから学ぶ概要を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435916/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 >[!NOTE]
 >

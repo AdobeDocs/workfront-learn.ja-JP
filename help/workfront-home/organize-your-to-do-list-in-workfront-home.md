@@ -31,7 +31,7 @@ ht-degree: 100%
 * 開始する準備が整った作業を特定する
 * 作業の割り当てを承認する
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445079/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 >[!NOTE]
 >

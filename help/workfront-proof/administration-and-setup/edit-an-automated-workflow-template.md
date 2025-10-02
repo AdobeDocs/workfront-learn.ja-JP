@@ -44,7 +44,7 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL ワークフロー]エリアで実行できる変更のいくつかを実演します。 このビデオの下にある箇条書きリストを参照してください。このビデオでは、これらの設定を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432615/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 確認として、「[!UICONTROL ワークフロー]」セクションで実行できるプルーフテンプレートの変更は次の通りです。
 

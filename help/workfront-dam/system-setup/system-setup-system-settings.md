@@ -27,4 +27,4 @@ ht-degree: 100%
 * ダウンロードに関するルールの作成
 * レポートと監査ログの表示
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414463/?quality=12&learn=on&enablevpops=1&captions=jpn)

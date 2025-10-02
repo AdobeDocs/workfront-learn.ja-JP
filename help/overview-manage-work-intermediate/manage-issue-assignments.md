@@ -31,7 +31,7 @@ ht-degree: 100%
 * イシューの進捗の更新
 * イシューステータスの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446956/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

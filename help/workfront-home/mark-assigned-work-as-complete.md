@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL  Workfront] でステータスが重要な理由
 * [!UICONTROL 作業リスト]をフィルタリングして、完了した作業を表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444286/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 
 ## 作業が完了したことを示す他の 2 つの方法

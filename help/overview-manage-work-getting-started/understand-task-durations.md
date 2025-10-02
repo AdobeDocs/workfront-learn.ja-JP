@@ -30,7 +30,7 @@ ht-degree: 100%
 * プロジェクトタイムラインへの期間係数の適用方法
 * タスク期間を使用するためのベストプラクティスのレコメンデーション
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449344/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

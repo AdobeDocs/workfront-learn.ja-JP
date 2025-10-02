@@ -40,7 +40,7 @@ Workfront でのアジャイルチームは、イテレーションページ [1]
 - スクラム方式の選択
 - スクラムチームの設定の決定
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412166/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 アジャイル チームに変換したい Workfront のチームが既にありますか？問題ありません。チーム設定に移動し、「アジャイルチームです」ボックスをオンにします。
 

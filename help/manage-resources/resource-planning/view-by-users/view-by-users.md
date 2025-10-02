@@ -26,4 +26,4 @@ ht-degree: 100%
 * そのビューにリソース情報がどのように表示されるかを確認する
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443807/?quality=12&learn=on&enablevpops=1&captions=jpn)

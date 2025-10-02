@@ -26,7 +26,7 @@ ht-degree: 100%
 * 既存のワークフローにユーザーを追加する
 * 既存のワークフローを自動ワークフローに切り替える
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445453/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## やってみよう
 

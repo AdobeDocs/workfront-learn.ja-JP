@@ -24,4 +24,4 @@ ht-degree: 100%
 * Brand Connect ユーザーまたは外部関係者とのライトボックスの共有
 * 1 つまたは複数のアセットのダウンロード
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414457/?quality=12&learn=on&enablevpops=1&captions=jpn)

@@ -34,7 +34,7 @@ ht-degree: 100%
 * リクエストの下書きを検索する
 * 最後の 3 つのリクエストパスを確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413116/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

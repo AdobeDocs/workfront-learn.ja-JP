@@ -25,4 +25,4 @@ ht-degree: 100%
 * グラフモードを選択して、ユーザー割り当ての概要を表示する
 * ユーザーの毎日の割り当ての分類を表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413840/?quality=12&learn=on&enablevpops=1&captions=jpn)

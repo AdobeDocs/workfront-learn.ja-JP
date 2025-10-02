@@ -33,7 +33,7 @@ ht-degree: 100%
 * カスタムダッシュボード内
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441655/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 
 ## このトピックに関する推奨チュートリアル

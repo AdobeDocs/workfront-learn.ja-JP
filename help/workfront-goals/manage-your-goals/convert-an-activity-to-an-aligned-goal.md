@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * アクティビティを提携された目標に変換する
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416525/?quality=12&learn=on&enablevpops=1&captions=jpn)

@@ -27,7 +27,7 @@ ht-degree: 100%
 
 このビデオでは、プロジェクト、タスクまたはイシューに対して、グローバル承認プロセスと単一使用承認プロセスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434688/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 >[!TIP]
 >

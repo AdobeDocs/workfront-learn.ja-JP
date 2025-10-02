@@ -24,4 +24,4 @@ ht-degree: 100%
 * ブランドガイドラインとは
 * [!UICONTROL Brand Connect] でブランドガイドラインページを作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418764/?quality=12&learn=on&enablevpops=1&captions=jpn)

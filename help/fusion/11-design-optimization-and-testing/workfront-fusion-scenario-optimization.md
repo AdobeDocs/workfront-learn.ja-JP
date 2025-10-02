@@ -32,7 +32,7 @@ ht-degree: 100%
 * API 呼び出しの送信を減らす
 * 使用するモジュール数を減らす
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418206/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 詳細情報 以下をお勧めします。
 

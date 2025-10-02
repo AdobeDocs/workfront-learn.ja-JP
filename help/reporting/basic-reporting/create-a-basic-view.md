@@ -25,7 +25,7 @@ ht-degree: 97%
 
 このビデオでは、Workfront のビューの柔軟性に重点を置き、ビューの作成、カスタマイズ、管理の手順を説明します。
 
->[!VIDEO] （https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] （https://video.tv.adobe.com/v/3450239/?quality=12&learn=on&enablevpops=0&captions=jpn
 
 ## 主な要点
 

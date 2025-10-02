@@ -29,4 +29,4 @@ ht-degree: 100%
 * アプリ内通知を制御する
 * [!UICONTROL Workfront DAM] の設定および保守の計画を立てる
 
->[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454264/?quality=12&learn=on&enablevpops=1&captions=jpn)

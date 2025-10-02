@@ -26,4 +26,4 @@ ht-degree: 100%
 * 担当業務の作成方法。
 * ユーザーが正しい作業に割り当てられるように、担当業務をユーザーに適用する方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452427/?quality=12&learn=on&enablevpops=1&captions=jpn)

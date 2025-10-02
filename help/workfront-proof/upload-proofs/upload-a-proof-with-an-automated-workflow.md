@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフテンプレートを使用してワークフローを適用する方法
 * 自動ワークフローを最初から設定する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453007/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 
 

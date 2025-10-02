@@ -30,7 +30,7 @@ ht-degree: 100%
 * ファイルガードレール
 * Webhook ガードレール
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418727/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 詳細情報 以下をお勧めします。
 

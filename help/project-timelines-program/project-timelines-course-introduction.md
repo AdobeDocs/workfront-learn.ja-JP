@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、[!DNL  Workfront] でプロジェクトのタイムラインを作成し管理する際に使用する要素（日付タイプやタスクの制約など）について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436741/?quality=12&learn=on&enablevpops=1&captions=jpn)

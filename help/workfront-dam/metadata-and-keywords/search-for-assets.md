@@ -25,4 +25,4 @@ ht-degree: 100%
 * メタデータとキーワード保持のプラン
 * [!UICONTROL Workfront DAM] ベストプラクティスの確立
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419475/?quality=12&learn=on&enablevpops=1&captions=jpn)

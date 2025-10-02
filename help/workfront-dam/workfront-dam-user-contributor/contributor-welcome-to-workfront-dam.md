@@ -25,4 +25,4 @@ ht-degree: 100%
 * このコースで学習する内容
 * [!UICONTROL Workfront DAM] の概要と使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445700/?quality=12&learn=on&enablevpops=1&captions=jpn)

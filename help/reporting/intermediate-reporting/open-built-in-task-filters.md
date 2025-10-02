@@ -27,7 +27,7 @@ ht-degree: 99%
 * いくつかの便利なタスクレポート要素について学ぶ
 * 独自のタスクフィルターを作成する方法を学ぶ
 
->[!VIDEO] （https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] （https://video.tv.adobe.com/v/3412674/?quality=12&learn=on&enablevpops=0&captions=jpn
 
 ## 「ビルトインタスクフィルターについて」アクティビティ
 

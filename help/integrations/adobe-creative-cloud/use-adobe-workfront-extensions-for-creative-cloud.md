@@ -52,4 +52,4 @@ Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud �
 * 時間のログ記録
 * 作業の完了のマーク
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420646/?quality=12&learn=on&enablevpops=1&captions=jpn)

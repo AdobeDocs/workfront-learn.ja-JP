@@ -25,4 +25,4 @@ ht-degree: 100%
 * 通知設定の変更
 * アドレス帳の作成
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414451/?quality=12&learn=on&enablevpops=1&captions=jpn)

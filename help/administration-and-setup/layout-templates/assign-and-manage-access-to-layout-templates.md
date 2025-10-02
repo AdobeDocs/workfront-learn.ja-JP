@@ -26,4 +26,4 @@ ht-degree: 100%
 * レイアウトテンプレートをユーザー、グループまたはチームに割り当てる
 * レイアウトテンプレートへのアクセスを管理できるユーザーを制御する
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432330/?quality=12&learn=on&enablevpops=1&captions=jpn)

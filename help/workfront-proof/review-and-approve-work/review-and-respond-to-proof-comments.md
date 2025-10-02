@@ -26,4 +26,4 @@ ht-degree: 100%
 * 「[!UICONTROL 更新]」セクションでプルーフコメントを表示する
 * 「[!UICONTROL 更新]」セクションからのプルーフコメントに返信する
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438654/?quality=12&learn=on&enablevpops=1&captions=jpn)

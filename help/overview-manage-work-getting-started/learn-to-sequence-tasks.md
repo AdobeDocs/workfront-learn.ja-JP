@@ -31,7 +31,7 @@ ht-degree: 100%
 * タスク開始日の設定がタスクの制約に与える影響
 * 先行タスクの入力方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447321/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 <!--
 Learn more urls

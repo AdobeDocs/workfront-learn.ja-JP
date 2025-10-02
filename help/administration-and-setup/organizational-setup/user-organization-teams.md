@@ -26,7 +26,7 @@ ht-degree: 100%
 * 職務を横断するチームの使用方法
 * チームの作成と関連付けの方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432879/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## チームの作成
 

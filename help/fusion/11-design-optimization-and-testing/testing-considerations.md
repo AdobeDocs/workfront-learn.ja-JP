@@ -32,7 +32,7 @@ Workfront Fusion のテストでは、接続されたソフトウェアプラッ
 * 詳細で共有可能なドキュメントを作成する
 * 深さ、広さ、複雑さ、負荷をテストする
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418734/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## テストに関する考慮事項のチェックリスト
 

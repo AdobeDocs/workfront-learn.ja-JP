@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフの生成中にワークフローを追加
 * プルーフ作成後にワークフローを追加または編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443464/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 
 ## ドキュメントをアップロードできるユーザー

@@ -31,7 +31,7 @@ ht-degree: 100%
 * 高いパフォーマンスを実現する適切なデザインの決定
 * 前提条件に異議を唱え、利害関係者に最善のアドバイスを与える
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418199/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 詳細情報 以下をお勧めします。
 

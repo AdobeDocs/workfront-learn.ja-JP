@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフ決定オプションの名前を変更する方法
 * 不要なプルーフ決定オプションを非表示にする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444650/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## やってみよう
 

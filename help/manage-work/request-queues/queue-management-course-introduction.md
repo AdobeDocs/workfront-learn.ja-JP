@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、[!DNL  Workfront] リクエストキューでデマンド管理を一元化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437590/?quality=12&learn=on&enablevpops=1&captions=jpn)

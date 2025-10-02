@@ -31,7 +31,7 @@ ht-degree: 100%
 
 * [!UICONTROL Brand Connect] の概要の確認
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418793/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 <!-- Learn more graphic and link to article, below
 * Workfront DAM within Workfront

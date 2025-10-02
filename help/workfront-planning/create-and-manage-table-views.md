@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Adobe Workfront Planning でレコードタイプのテーブルビューを作成、管理、カスタマイズして、プロジェクトの組織化と共同作業を強化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448125/?learn=on&enablevpops=1&captions=jpn)
