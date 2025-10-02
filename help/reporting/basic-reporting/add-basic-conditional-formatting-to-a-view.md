@@ -27,7 +27,7 @@ ht-degree: 99%
 * ビューの条件付き書式とは
 * 条件付き書式の作成および変更方法
 
->[!VIDEO] （https://video.tv.adobe.com/v/335149/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] （https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0
 
 
 ## 条件付き書式の概要

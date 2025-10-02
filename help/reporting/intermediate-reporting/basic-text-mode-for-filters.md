@@ -41,7 +41,7 @@ ht-degree: 99%
 * キャメルケース
 * レポートフィルターで使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO] （https://video.tv.adobe.com/v/336820/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] （https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0
 
 ## 「フィルターの基本的なテキストモードについて」アクティビティ
 

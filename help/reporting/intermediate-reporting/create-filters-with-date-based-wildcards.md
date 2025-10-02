@@ -29,7 +29,7 @@ ht-degree: 99%
 * ワイルドカード、属性、演算子、修飾子を使用してカスタム日付を作成する
 * ワイルドカードを使用してカスタムの日付範囲を作成する
 
->[!VIDEO] （https://video.tv.adobe.com/v/336812/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] （https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0
 
 
 ## 「日付ベースのワイルドカードを使用したフィルターの作成」アクティビティ
