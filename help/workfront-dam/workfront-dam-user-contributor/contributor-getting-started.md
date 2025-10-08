@@ -24,4 +24,4 @@ ht-degree: 100%
 * 3 つの [!UICONTROL Workfront DAM] ユーザープロファイルの違い
 * [!UICONTROL Workfront DAM] の操作方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414427/?quality=12&learn=on&enablevpops=1&captions=jpn)

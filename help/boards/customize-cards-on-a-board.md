@@ -20,4 +20,4 @@ ht-degree: 100%
 
 ボード内のカードに表示される情報を、フル表示または縮小表示にカスタマイズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446532/?quality=12&learn=on&enablevpops=1&captions=jpn)

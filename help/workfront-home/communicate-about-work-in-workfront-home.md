@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL Workfront] の更新でユーザーにタグを付ける
 * 既存の更新に返信する
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445278/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## [!UICONTROL ホーム]で作業を更新するためのヒント
 

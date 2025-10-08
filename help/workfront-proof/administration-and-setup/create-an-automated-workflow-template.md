@@ -28,7 +28,7 @@ ht-degree: 100%
 * レビューおよび承認プロセスの期限の設定
 * 他のユーザーとの自動ワークフローテンプレートの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454252/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 追加のステージアクティベーションオプション
 

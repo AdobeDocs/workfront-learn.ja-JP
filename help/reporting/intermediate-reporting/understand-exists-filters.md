@@ -26,7 +26,7 @@ EXISTS フィルターは、標準の Report Builder における 2 つのテー
 
 EXISTS の機能に関する詳細な説明については、[EXISTS ステートメントを使用した複雑なテキストモードフィルターの作成](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)ドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471204/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## EXISTS フィルターの例
 

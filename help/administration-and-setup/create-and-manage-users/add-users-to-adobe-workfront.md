@@ -21,5 +21,5 @@ ht-degree: 100%
 
 既存のユーザーをコピーし、新規ユーザーを一括で読み込み、新規ユーザーを最初から作成して、Workfront にユーザーを追加する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447044/?quality=12&learn=on&enablevpops=1&captions=jpn)
 

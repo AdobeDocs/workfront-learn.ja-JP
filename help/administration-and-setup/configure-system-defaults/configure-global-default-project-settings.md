@@ -30,7 +30,7 @@ ht-degree: 100%
 * グローバルプロジェクト環境設定の指定
 * スケジュールの作成と使用
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423350/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## グローバルおよびグループのプロジェクト、タスク、イシューの設定
 

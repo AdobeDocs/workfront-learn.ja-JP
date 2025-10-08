@@ -27,4 +27,4 @@ ht-degree: 100%
 * 外部 API に接続する方法
 * 式エディターを使用して、配列から情報を抽出する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416543/?quality=12&learn=on&enablevpops=1&captions=jpn)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 このビデオでは、新しいイテレーションを作成し、イテレーションのストーリーをチェック/チェック解除する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412193/?quality=12&learn=on&enablevpops=1&captions=jpn)

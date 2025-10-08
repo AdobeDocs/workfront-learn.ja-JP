@@ -52,4 +52,4 @@ ht-degree: 100%
 * ボトムアップとトップダウンの両方のアプローチを使用して目標を整合させる
 * 「[!UICONTROL 目標の整合性]」セクションに移動する
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415969/?quality=12&learn=on&enablevpops=1&captions=jpn)

@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * マッピングパネルで提供される演算子の使用の重要性
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416005/?quality=12&learn=on&enablevpops=1&captions=jpn)

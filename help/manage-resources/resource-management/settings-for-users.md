@@ -28,4 +28,4 @@ ht-degree: 100%
 * 個人の休暇
 * 担当業務
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420169/?quality=12&learn=on&enablevpops=1&captions=jpn)

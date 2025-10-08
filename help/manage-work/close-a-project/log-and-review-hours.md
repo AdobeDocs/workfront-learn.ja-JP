@@ -27,7 +27,7 @@ ht-degree: 100%
 * プロジェクトに記録された時間を確認
 * 必要に応じてプロジェクト時間を承認
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441070/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## このトピックに関する推奨チュートリアル
 

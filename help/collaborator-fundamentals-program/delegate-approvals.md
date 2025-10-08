@@ -21,7 +21,7 @@ ht-degree: 100%
 * 委任期間を終了する
 * 委任された承認を検索する
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446377/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 <!--
 learn more URLS

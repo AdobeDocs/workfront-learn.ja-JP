@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] の TODO リストにアクセスする
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437921/?quality=12&learn=on&enablevpops=1&captions=jpn)

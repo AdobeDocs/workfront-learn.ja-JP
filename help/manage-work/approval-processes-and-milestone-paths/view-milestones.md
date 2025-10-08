@@ -27,7 +27,7 @@ ht-degree: 100%
 * 特定のプロジェクトでマイルストーンを確認する
 * プロジェクトのリストでマイルストーンビューを読み取る
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415903/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 >[!TIP]
 >

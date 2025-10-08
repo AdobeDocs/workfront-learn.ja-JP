@@ -26,7 +26,7 @@ ht-degree: 100%
 * コメントに対するアクションの使用方法
 * アクションラベルをカスタマイズする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432936/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## やってみよう
 

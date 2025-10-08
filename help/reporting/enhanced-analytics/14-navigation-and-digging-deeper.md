@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 従業員が各プロジェクトに費やしている時間を迅速に確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437800/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## プロジェクトに費やした時間のレビュー
 

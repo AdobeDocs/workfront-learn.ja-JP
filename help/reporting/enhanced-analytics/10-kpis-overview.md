@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * KPI データから値を取得する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445493/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## KPI の比較
 

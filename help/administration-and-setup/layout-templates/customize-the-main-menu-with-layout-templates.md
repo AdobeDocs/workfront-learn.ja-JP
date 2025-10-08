@@ -27,4 +27,4 @@ ht-degree: 100%
 * [!UICONTROL メインメニュー]への項目の追加
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432311/?quality=12&learn=on&enablevpops=1&captions=jpn)

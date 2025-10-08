@@ -27,4 +27,4 @@ Fusion の練習用ファイルを設定する方法を説明します。
 
 1. これらのファイルを Workfront のフォルダーにアップロードする方法について詳しくは、ビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416549/?quality=12&learn=on&enablevpops=1&captions=jpn)

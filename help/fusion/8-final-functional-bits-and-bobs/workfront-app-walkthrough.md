@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * Workfront アプリの様々な便利なトリガー、アクション、検索モジュール
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417977/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 
 ## 詳細情報 以下をお勧めします。

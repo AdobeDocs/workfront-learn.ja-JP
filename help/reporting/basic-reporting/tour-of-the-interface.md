@@ -35,4 +35,4 @@ ht-degree: 100%
 * 概要情報
 * アドホックカレンダー項目の作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438759/?quality=12&learn=on&enablevpops=1&captions=jpn)

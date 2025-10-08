@@ -26,4 +26,4 @@ ht-degree: 100%
 * 左側のパネルメニューへの項目の追加
 * パネルメニューでの項目の並べ替え
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432889/?quality=12&learn=on&enablevpops=1&captions=jpn)

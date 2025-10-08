@@ -27,7 +27,7 @@ Workfront では、制約によって自動調整を防ぐ場合があるので�
 正確な期間を設定することは、効果的なプロジェクト計画とリソース管理にとって重要です。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449344/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 主な要点
 

@@ -27,7 +27,7 @@ ht-degree: 100%
 * 不完全な実行とは
 * 不完全な実行につながるエラーの処理方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418151/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 不完全な実行につながるエラー
 

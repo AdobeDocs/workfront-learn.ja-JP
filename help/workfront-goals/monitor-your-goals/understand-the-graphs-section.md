@@ -28,4 +28,4 @@ ht-degree: 100%
 * 目標のヘルスグラフの読み取りと解釈
 * 目標の進捗グラフの読み取りと解釈
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415922/?quality=12&learn=on&enablevpops=1&captions=jpn)

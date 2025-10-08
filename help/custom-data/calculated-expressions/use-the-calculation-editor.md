@@ -26,4 +26,4 @@ ht-degree: 100%
 * 計算エディターの機能
 * 計算エディターを使用して計算フィールドに ADDWEEKDAYS 日付式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412698/?quality=12&learn=on&enablevpops=1&captions=jpn)

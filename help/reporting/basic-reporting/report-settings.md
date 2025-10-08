@@ -27,4 +27,4 @@ ht-degree: 100%
 * 特定のユーザーのアクセス権でレポートを実行する方法
 * レポートプロンプトの設定および使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445864/?quality=12&learn=on&enablevpops=1&captions=jpn)

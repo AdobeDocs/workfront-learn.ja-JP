@@ -25,4 +25,4 @@ ht-degree: 100%
 * 一般的なエラータイプと、システムによるデフォルトでの処理方法
 * エラー処理モジュールを使用したカスタムエラー処理を適用する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418132/?quality=12&learn=on&enablevpops=1&captions=jpn)

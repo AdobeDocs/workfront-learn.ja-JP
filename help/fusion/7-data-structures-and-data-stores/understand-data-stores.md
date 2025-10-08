@@ -26,4 +26,4 @@ ht-degree: 100%
 * データ構造によるデータストアのサポート
 * データストアを使用してシステムを同期する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417965/?quality=12&learn=on&enablevpops=1&captions=jpn)

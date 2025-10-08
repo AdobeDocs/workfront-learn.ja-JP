@@ -26,4 +26,4 @@ ht-degree: 100%
 * アグリゲータの使用方法
 * アグリゲータの様々なタイプ
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417287/?quality=12&learn=on&enablevpops=1&captions=jpn)

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ビデオでは、イシューまたはリクエストをタスクに変換する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445431/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## 主な要点
 

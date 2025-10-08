@@ -25,7 +25,7 @@ ht-degree: 100%
 * ログインしている時間の値
 * 作業の割り当てに関する時間の記録方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438599/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## [!DNL Home] での作業時間を記録するためのヒント
 

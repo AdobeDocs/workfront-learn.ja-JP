@@ -26,7 +26,7 @@ ht-degree: 100%
 * 静的な web サイトのプルーフにコメントする
 * インタラクティブな web サイトのプルーフにコメントする
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445963/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 <!--
 ## Learn more

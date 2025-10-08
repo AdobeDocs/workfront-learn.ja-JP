@@ -25,4 +25,4 @@ ht-degree: 100%
 * [!UICONTROL 設定]エリアでレイアウトテンプレートを検索する
 * Workfront でレイアウトテンプレートの作成を開始する。
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413110/?quality=12&learn=on&enablevpops=1&captions=jpn)

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 目標が完了したとき、またはその目標に取り組んでいない、当面目標を実行する予定がないことを示すために、目標をクローズします
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415942/?quality=12&learn=on&enablevpops=1&captions=jpn)

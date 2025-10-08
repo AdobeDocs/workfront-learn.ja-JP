@@ -35,4 +35,4 @@ ht-degree: 100%
 * カレンダーの共有
 * カレンダーの削除
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445057/?quality=12&learn=on&enablevpops=1&captions=jpn)

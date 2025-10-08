@@ -28,7 +28,7 @@ Workfront で特定のプロジェクトを確認してから、そのプロジ�
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417299/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 
 

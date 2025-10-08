@@ -26,7 +26,7 @@ ht-degree: 100%
 * フィルター、ビュー、グループの削除
 * フィルター、ビュー、グループ化の追加
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432909/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## リストのデフォルトの設定
 

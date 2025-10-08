@@ -26,4 +26,4 @@ ht-degree: 100%
 * [!UICONTROL Workfront DAM] と Brand Connect とは
 * [!UICONTROL Brand Connect] の使い方
 
->[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418757/?quality=12&learn=on&enablevpops=1&captions=jpn)

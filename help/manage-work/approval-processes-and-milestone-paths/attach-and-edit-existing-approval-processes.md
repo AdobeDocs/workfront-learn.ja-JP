@@ -25,7 +25,7 @@ ht-degree: 100%
 * 既存の承認プロセスの使用
 * 特定のプロジェクト、タスクまたは問題用に既存の承認プロセスを編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414475/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 <!--
 learn more URLS

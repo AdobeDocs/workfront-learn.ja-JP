@@ -27,7 +27,7 @@ ht-degree: 100%
 * グループを関連付ける
 * サブグループを作成して関連付ける
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432869/?quality=12&learn=on&enablevpops=1&captions=jpn)
 
 ## グループ管理者
 
