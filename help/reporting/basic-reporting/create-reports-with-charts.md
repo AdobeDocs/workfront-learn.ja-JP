@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ビデオでは、円グラフや積み重ね縦棒グラフなどのグラフを使用して、タスクの分布とプロジェクトのパフォーマンスに関するインサイトを提供し、ユーザーがプロジェクトを比較してタスクの進捗を視覚的に理解できるようにする方法をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450015/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## 主な要点
 

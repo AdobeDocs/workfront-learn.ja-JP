@@ -27,7 +27,7 @@ ht-degree: 100%
 * いくつかの便利なイシューレポート要素について学ぶ
 * 独自のイシューフィルターを作成する方法を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3412680/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
 ## 「ビルトインイシューフィルターについて」アクティビティ

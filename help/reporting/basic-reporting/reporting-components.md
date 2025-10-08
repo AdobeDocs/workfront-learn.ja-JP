@@ -29,7 +29,7 @@ ht-degree: 100%
 * **フィルター修飾子：**&#x200B;優先度が「高」のタスクを表示するなど、レポートに含める値または除外する値を定義します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447022/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## 主な要点
 
