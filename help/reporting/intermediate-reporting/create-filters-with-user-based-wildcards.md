@@ -26,7 +26,7 @@ ht-degree: 100%
 * ワイルドカードを使用する理由について
 * ユーザーベースのワイルドカードを使用してフィルターを作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412656/?quality=12&learn=on&captions=jpn)
 
 >[!TIP]
 >
