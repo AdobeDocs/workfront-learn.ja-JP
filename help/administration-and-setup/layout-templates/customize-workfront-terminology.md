@@ -12,7 +12,7 @@ jira: KT-8761
 exl-id: fc8f31ae-61f8-4705-9cc4-18068bc25fc9
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '45'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 このビデオでは、レイアウトテンプレートを使用して用語を設定する方法を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445475/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)

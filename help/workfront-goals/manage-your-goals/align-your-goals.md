@@ -11,7 +11,7 @@ jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '493'
 ht-degree: 100%
 
@@ -52,4 +52,4 @@ ht-degree: 100%
 * ボトムアップとトップダウンの両方のアプローチを使用して目標を整合させる
 * 「[!UICONTROL 目標の整合性]」セクションに移動する
 
->[!VIDEO](https://video.tv.adobe.com/v/3415969/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)

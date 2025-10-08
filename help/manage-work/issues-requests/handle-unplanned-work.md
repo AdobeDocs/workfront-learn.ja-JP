@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 ビデオでは、プロジェクト管理でのコミュニケーションの重要性を強調し、コミュニケーションを促進する重要なツールとしてのイシューの役割をハイライト表示しています。更新とイシューの違いについて説明し、イシューはプロジェクトを完了する前に割り当て、追跡、解決する必要がある作業に適していることを示しています。ビデオでは、イシューを記録する方法について段階的に説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446567/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

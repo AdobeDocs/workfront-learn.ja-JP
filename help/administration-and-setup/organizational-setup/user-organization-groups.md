@@ -12,7 +12,7 @@ jira: KT-8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * グループを関連付ける
 * サブグループを作成して関連付ける
 
->[!VIDEO](https://video.tv.adobe.com/v/3432869/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
 
 ## グループ管理者
 

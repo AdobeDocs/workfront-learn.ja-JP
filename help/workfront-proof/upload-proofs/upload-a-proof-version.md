@@ -12,7 +12,7 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 新しいバージョンのプルーフをアップロードする
 * そのバージョンにプルーフワークフローを適用する
 
->[!VIDEO](https://video.tv.adobe.com/v/3441852/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
 
 ## プルーフビューアからバージョンをアップロードする
 

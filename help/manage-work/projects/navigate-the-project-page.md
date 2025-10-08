@@ -14,7 +14,7 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '803'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 * **ドキュメントセクション：**&#x200B;プロジェクト関連のファイルとプルーフをアップロードおよび管理できます。タスクに添付されたドキュメントは、プロジェクトレベルにロールアップされ、簡単にアクセスできます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449727/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

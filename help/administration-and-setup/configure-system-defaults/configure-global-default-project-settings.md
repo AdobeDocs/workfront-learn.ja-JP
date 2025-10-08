@@ -12,7 +12,7 @@ jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * グローバルプロジェクト環境設定の指定
 * スケジュールの作成と使用
 
->[!VIDEO](https://video.tv.adobe.com/v/3423350/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## グローバルおよびグループのプロジェクト、タスク、イシューの設定
 

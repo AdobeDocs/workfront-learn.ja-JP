@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-15T00:00:00Z
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '458'
 ht-degree: 100%
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 詳細な手順の説明がページの後半にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443380/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
 
 ## アクティビティ 2 に対する回答
 

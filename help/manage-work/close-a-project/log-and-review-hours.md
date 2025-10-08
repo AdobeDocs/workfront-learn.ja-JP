@@ -14,7 +14,7 @@ last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * プロジェクトに記録された時間を確認
 * 必要に応じてプロジェクト時間を承認
 
->[!VIDEO](https://video.tv.adobe.com/v/3441070/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

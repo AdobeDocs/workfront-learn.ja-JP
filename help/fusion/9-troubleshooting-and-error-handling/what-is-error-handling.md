@@ -12,7 +12,7 @@ exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 一般的なエラータイプと、システムによるデフォルトでの処理方法
 * エラー処理モジュールを使用したカスタムエラー処理を適用する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3418132/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops=1)

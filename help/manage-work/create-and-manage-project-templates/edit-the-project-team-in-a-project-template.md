@@ -14,7 +14,7 @@ jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * テンプレートプロジェクトチームに&#x200B;**非**&#x200B;プロジェクトチームのメンバーを意図せず含めないようにする方法。
 * テンプレートプロジェクトチームの編集方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441551/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

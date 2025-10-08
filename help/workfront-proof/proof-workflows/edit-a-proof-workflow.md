@@ -12,7 +12,7 @@ jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 既存のワークフローにユーザーを追加する
 * 既存のワークフローを自動ワークフローに切り替える
 
->[!VIDEO](https://video.tv.adobe.com/v/3445453/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
 
 ## やってみよう
 

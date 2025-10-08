@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '246'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * フライトチャートにアクセスする方法
 * プロジェクトの未完了タスクをすぐに確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3437001/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
 
 ## タスクレベルのデータ
 

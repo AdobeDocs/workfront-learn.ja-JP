@@ -12,7 +12,7 @@ jira: KT-8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 * [!UICONTROL メインメニュー]への項目の追加
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432311/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)

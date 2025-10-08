@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 86bdeadc-ab72-4936-bc3a-45079d7a4ce1
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 新規または既存の作業アイテムからボードにカードを追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423052/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)

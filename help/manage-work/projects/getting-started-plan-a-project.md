@@ -13,7 +13,7 @@ jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ビデオでは、プロジェクト成功の強固な基盤を構築するために、現実的なタイムライン、チームの可用性、正確な計画の重要性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448568/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -13,7 +13,7 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ビデオでは、正確な比較にビジネスケースを完成させることの重要性を強調し、プロジェクトの優先度を効果的に最適化および管理する手順について段階的に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446276/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 2744efec-9194-4bd9-8bc4-391cc796c5a4
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ボードの概要と、作業を管理する際のユーザーおよびチームのメリットについての理解を深めます。ボードにアクセスできる場所と基本ボードの作成方法を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422941/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops=1)

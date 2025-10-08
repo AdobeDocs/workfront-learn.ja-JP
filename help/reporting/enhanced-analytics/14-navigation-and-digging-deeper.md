@@ -13,7 +13,7 @@ doc-type: video
 recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 従業員が各プロジェクトに費やしている時間を迅速に確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3437800/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
 
 ## プロジェクトに費やした時間のレビュー
 

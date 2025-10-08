@@ -12,7 +12,7 @@ jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * そのビューにリソース情報を表示する方法を確認する
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3416531/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
 「担当業務別に表示」オプションのデフォルトでは「予算」列が表示され、プロジェクトに必要な推定リソース数がビジネスケースから取り込まれます（入力済みの場合）。これは、「予算」列の数値を使用して、デフォルトで「NET」列に残りのリソースの数が示されることも意味します。
 

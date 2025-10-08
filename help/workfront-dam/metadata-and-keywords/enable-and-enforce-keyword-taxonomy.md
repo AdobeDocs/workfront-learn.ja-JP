@@ -11,7 +11,7 @@ jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 * [!UICONTROL Workfront DAM] ユーザーが独自のキーワードを入力できるケースについて
 * 検索ファセットの設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3419503/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops=1)

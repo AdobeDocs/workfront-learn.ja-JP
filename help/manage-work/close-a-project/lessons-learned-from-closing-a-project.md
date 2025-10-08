@@ -14,7 +14,7 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 「教訓」カスタムレポートの作成
 * 「教訓」プロジェクトの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3441013/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

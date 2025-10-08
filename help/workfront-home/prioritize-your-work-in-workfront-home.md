@@ -12,7 +12,7 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 作業を優先割り当てとしてマークする
 * [!UICONTROL 作業リスト]をフィルタリングして優先度の高い仕事だけを表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/3438533/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)

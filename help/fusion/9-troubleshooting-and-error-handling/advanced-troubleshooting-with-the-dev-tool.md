@@ -12,7 +12,7 @@ exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * Workfront Fusion 開発ツールのインストールと使用方法
 * 様々な詳細なシナリオデザインツールのレビュー方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3418120/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops=1)

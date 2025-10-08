@@ -10,7 +10,7 @@ recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '709'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 詳しくは、このビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434157/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **キューへのアクセス権をユーザーに付与しましたが、リクエストキューのプロジェクトも表示できるようになりました。なぜでしょうか。**
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 詳しくは、このビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434177/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **レポートのリクエストキューをフィルタリングする最善の方法を教えてください。**
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 詳しくは、このビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434331/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **リクエストキューのカスタムステータスを作成することをお勧めしますか？**
 

@@ -12,7 +12,7 @@ jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Scenario Planner] でプランを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412632/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops=1)
 
 ## プランの担当業務情報の見積もり
 

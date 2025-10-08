@@ -12,7 +12,7 @@ exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 * モジュール内の 2 つのモジュール間にフィルターを追加する
 
->[!VIDEO](https://video.tv.adobe.com/v/3416486/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops=1)
 
 
 ## やってみよう
@@ -49,4 +49,4 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

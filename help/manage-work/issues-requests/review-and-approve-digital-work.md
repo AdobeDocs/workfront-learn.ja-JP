@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ビデオでは、作業のレビューと承認の柔軟性を強調しています。必要に応じてコメントの追加と変更の指定を行うオプションが用意されています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444947/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

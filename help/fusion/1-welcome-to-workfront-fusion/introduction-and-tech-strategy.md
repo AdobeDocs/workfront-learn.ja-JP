@@ -13,7 +13,7 @@ exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
 ht-degree: 100%
 
@@ -50,4 +50,4 @@ Fusion システム管理者の場合は、以下のチュートリアルを参�
 * Fusion のコア機能と designer 機能
 * Fusion のサンプルシナリオ
 
->[!VIDEO](https://video.tv.adobe.com/v/3416555/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)

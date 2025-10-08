@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * グラフに時間枠を作成する
 * 追加のグラフを表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3438566/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
 
 ## 詳しくは、グラフをクリックしてください
 

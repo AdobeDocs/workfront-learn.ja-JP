@@ -12,7 +12,7 @@ exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 実行を続行できる 3 つのエラーハンドラーディレクティブ
 * 実行を停止する 2 つのエラーハンドラーディレクティブ
 
->[!VIDEO](https://video.tv.adobe.com/v/3418138/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
 
 ## ディレクティブ - シナリオは続行します
 

@@ -9,7 +9,7 @@ thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 このビデオでは、アジャイルチームバックログプロジェクトを作成し、新しいストーリーを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412172/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
 
 アジャイルチームがバックログを一緒に整理します。これにより、基本的に 3 つの作業が発生します。
 

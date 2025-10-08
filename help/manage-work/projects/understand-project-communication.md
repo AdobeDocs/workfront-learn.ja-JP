@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '398'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ビデオでは、Workfront でコミュニケーション、タスク管理、レポートを簡素化し、プロジェクト関連のすべての情報にアクセスして整理する方法をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436147/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

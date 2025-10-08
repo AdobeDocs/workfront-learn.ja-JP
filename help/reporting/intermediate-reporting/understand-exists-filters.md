@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '682'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ EXISTS フィルターは、標準の Report Builder における 2 つのテー
 
 EXISTS の機能に関する詳細な説明については、[EXISTS ステートメントを使用した複雑なテキストモードフィルターの作成](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)ドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471204/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS フィルターの例
 

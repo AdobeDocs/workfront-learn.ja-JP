@@ -12,7 +12,7 @@ jira: KT-8724
 recommendations: noDisplay,catalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -29,4 +29,4 @@ Workfront で [!UICONTROL Analytics] に移動するには、「[!UICONTROL メ�
 * 作業チャートの概要
 * 人物チャートの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3436387/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops=1)

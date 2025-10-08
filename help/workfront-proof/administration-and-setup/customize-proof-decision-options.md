@@ -12,7 +12,7 @@ jira: KT-8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * プルーフ決定オプションの名前を変更する方法
 * 不要なプルーフ決定オプションを非表示にする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3444650/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
 
 ## やってみよう
 

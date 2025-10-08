@@ -12,7 +12,7 @@ jira: KT-8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * グラフモードを選択して、ユーザー割り当ての概要を表示する
 * ユーザーの毎日の割り当ての分類を表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/3413840/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops=1)

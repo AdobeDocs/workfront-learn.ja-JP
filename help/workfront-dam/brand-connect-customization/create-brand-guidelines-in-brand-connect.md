@@ -11,7 +11,7 @@ jira: KT-8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 * ブランドガイドラインとは
 * [!UICONTROL Brand Connect] でブランドガイドラインページを作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3418764/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops=1)

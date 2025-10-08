@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * イシューの進捗の更新
 * イシューステータスの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/3446956/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

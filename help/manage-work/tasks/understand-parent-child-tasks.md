@@ -13,7 +13,7 @@ jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 このビデオでは、Workfront のタスク構造について説明します。タスクは、プロジェクトの基本のコンポーネントで、完了に必要な作業項目を表します。ビデオでは、プロジェクト計画と管理の重要なステップとして、タスクを正確に整理することの重要性を強調しています。タスクの操作を開始する方法を示し、親子タスクの関係について説明します。
 親タスクはオーガナイザーとして機能し、プロジェクトをフェーズ、ステージ、マイルストーンにグループ化しますが、個人には割り当てられません。子タスクまたはサブタスクは、チームメンバーに割り当てられた実行可能な作業を表します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445597/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -11,7 +11,7 @@ jira: KT-8817
 exl-id: 419b3937-0a7c-4ee9-bc1c-34b03d818b3f
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] でのタスクの割り当て
 
->[!VIDEO](https://video.tv.adobe.com/v/3441518/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops=1)

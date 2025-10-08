@@ -12,7 +12,7 @@ jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## リソース管理の成熟度の 4 つのステージ
 
->[!VIDEO](https://video.tv.adobe.com/v/3420163/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
 
 
 ## 今後の展開

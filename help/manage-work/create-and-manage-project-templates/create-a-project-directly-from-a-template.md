@@ -14,7 +14,7 @@ jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ビデオでは、テンプレートからプロジェクトを作成する方法について説明します。テンプレートを開く権限がある場合は、ショートカットとして使用してプロジェクトを作成できます。これを行うには、テンプレートを開き、3 つのドットのメニューにアクセスして、「プロジェクトを作成」を選択します。プロジェクト詳細を編集できる画面が表示されます。準備が整ったら、「プロジェクトを作成」をクリックして完了します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3456014/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

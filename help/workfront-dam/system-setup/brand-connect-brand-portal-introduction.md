@@ -11,7 +11,7 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 個々のアセットへの有効期限の設定
 * アセット設定の編集
 
->[!VIDEO](https://video.tv.adobe.com/v/3419546/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
 
 ## アセットフォルダー
 

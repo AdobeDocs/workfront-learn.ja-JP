@@ -11,7 +11,7 @@ jira: KT-8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 選択したユーザーに対する目標へのアクセス権を付与
 
->[!VIDEO](https://video.tv.adobe.com/v/3416480/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops=1)
 
 システム管理者は、Workfront の&#x200B;**[!UICONTROL 設定]**&#x200B;エリアを通じて、使用された [!DNL Workfront Goals] のライセンス数を追跡できます。
 
