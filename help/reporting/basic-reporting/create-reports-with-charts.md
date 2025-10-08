@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '595'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ビデオでは、円グラフや積み重ね縦棒グラフなどのグラフを使用して、タスクの分布とプロジェクトのパフォーマンスに関するインサイトを提供し、ユーザーがプロジェクトを比較してタスクの進捗を視覚的に理解できるようにする方法をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450015/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## 主な要点
 

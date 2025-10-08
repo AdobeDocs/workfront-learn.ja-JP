@@ -13,7 +13,7 @@ last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '646'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 ビデオでは、Workfront のダッシュボードについて、および使用方法について包括的に説明します。
 ここでは、ダッシュボードとは、ユーザーが関連データを 1 か所に整理して表示できるレポートのコレクションであると説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449123/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## 主な要点
 

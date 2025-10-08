@@ -13,7 +13,7 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1115'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 結果のレポートによって、ユーザーは遅延タスクに集中し、依存関係に関するインサイトを得て、ホストプロジェクトへのナビゲーションが簡素化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448343/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## 主な要点
 

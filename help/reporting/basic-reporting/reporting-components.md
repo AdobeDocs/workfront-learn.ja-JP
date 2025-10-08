@@ -13,7 +13,7 @@ last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * **フィルター修飾子：**&#x200B;優先度が「高」のタスクを表示するなど、レポートに含める値または除外する値を定義します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447022/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## 主な要点
 
