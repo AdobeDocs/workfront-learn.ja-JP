@@ -35,15 +35,15 @@ ht-degree: 93%
 
 1. [!UICONTROL 新しい請求レート]ダイアログボックスが表示されます。 **[!UICONTROL 担当業務]**&#x200B;ドロップダウンで、新しい請求レートを適用する担当業務を選択します。
 
-   ![ の新しい請求レートで担当業務を選択している画像[!DNL Workfront]](assets/project-finances-3.png)
+   ![&#x200B; の新しい請求レートで担当業務を選択している画像[!DNL Workfront]](assets/project-finances-3.png)
 
 1. 担当業務が選択されると、[!UICONTROL デフォルトの請求レート]および[!UICONTROL 請求レート 1] フィールドが表示されます。新しい請求レートを[!UICONTROL 請求レート 1] フィールドに入力します。 その請求レートがプロジェクト全体（記録された過去、現在、および未来の時間）に適用される場合は、「**[!UICONTROL 保存]**」ボタンをクリックします。
 
-   ![ でプロジェクト全体に適用される新しい請求レートを保存している画像[!DNL Workfront]](assets/project-finances-5.png)
+   ![&#x200B; でプロジェクト全体に適用される新しい請求レートを保存している画像[!DNL Workfront]](assets/project-finances-5.png)
 
 1. 新しい請求レートが特定の期間のみ適用される場合は、「**[!UICONTROL レートの追加]**」ボタンをクリックします。 [!UICONTROL 請求レート 1 の終了日]と[!UICONTROL 請求レート 2] フィールドが表示されます。 [!UICONTROL 請求レート 1] の終了日を入力します。[!UICONTROL 請求レート 1] の開始日は入力できません。システムが、この請求レートはプロジェクトの最初に開始されたと想定しているからです。
 
-   ![ で、プロジェクト開始から一定期間適用される新しい請求レートを作成している画像[!DNL Workfront]](assets/project-finances-6.png)
+   ![&#x200B; で、プロジェクト開始から一定期間適用される新しい請求レートを作成している画像[!DNL Workfront]](assets/project-finances-6.png)
 
 1. そうでない場合：
 
@@ -55,4 +55,4 @@ ht-degree: 93%
    * 完了したら、「**[!UICONTROL 保存]**」をクリックします。
    * すべての請求レートが、プロジェクトの「[!UICONTROL 請求レート]」タブに表示されます。
 
-   ![ で、異なる期間に適用される新しい請求レートを作成している画像。[!DNL Workfront]](assets/project-finances-7.png)
+   ![&#x200B; で、異なる期間に適用される新しい請求レートを作成している画像。[!DNL Workfront]](assets/project-finances-7.png)

@@ -35,7 +35,7 @@ ht-degree: 69%
       + [タスクの順序付けを学ぶ](learn-to-sequence-tasks.md)
       + [予定時間数について](understand-planned-hours.md)
       + [プロジェクトタイムラインについて](understand-project-timelines.md)
-      + [ 日付タイプと進捗ステータスについて ](understand-task-dates-and-progress-status.md)
+      + [&#x200B; 日付タイプと進捗ステータスについて &#x200B;](understand-task-dates-and-progress-status.md)
       + [[!UICONTROL 作業量]について](understand-work-effort.md)
       + [プロジェクトを稼動させる](take-a-project-live.md)
 
