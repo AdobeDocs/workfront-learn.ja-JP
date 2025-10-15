@@ -13,9 +13,9 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '273'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * いくつかの便利なイシューレポート要素について学ぶ
 * 独自のイシューフィルターを作成する方法を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3412680/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## 「ビルトインイシューフィルターについて」アクティビティ

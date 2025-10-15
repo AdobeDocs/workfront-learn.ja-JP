@@ -12,7 +12,7 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * ビューの条件付き書式とは
 * 条件付き書式の作成および変更方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3445442/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
 
 
 ## 条件付き書式の概要

@@ -12,10 +12,10 @@ last-substantial-update: 2025-09-12T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 1204fc4f-c73d-49eb-981d-712524271ce9
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 16%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 
@@ -30,17 +30,18 @@ ht-degree: 16%
 * キャンバスダッシュボードベータ版への登録
 * キャンバスダッシュボードの作成
 
-[&#x200B; キャンバスダッシュボードの概要 &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
+[ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474866/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops=1)
 
 **詳しくは、次のヘルプ記事を参照してください。**
-[&#x200B; キャンバスダッシュボードの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[&#x200B; キャンバスダッシュボードでのテーブルレポートの作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[ キャンバスダッシュボードでのテーブルレポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## このトピックに関する推奨チュートリアル
 
 * [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [キャンバスダッシュボードでの KPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+* [ キャンバスダッシュボードでのグラフレポートの作成 ](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [キャンバスダッシュボードレポートでの OR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

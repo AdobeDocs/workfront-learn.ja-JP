@@ -13,9 +13,9 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '238'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * ワイルドカード、属性、演算子、修飾子を使用してカスタム日付を作成する
 * ワイルドカードを使用してカスタムの日付範囲を作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/3412662/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## 「日付ベースのワイルドカードを使用したフィルターの作成」アクティビティ

@@ -13,9 +13,9 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '158'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * ビルトインプロジェクトフィルターをレビューして、その仕組みを確認する
 * 学習した内容を使用して独自のプロジェクトフィルターを作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3412668/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## 「ビルトインプロジェクトフィルターについて」アクティビティ
 
