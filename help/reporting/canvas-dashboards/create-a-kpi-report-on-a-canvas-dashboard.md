@@ -30,18 +30,18 @@ ht-degree: 14%
 * キャンバスダッシュボードベータ版への登録
 * キャンバスダッシュボードの作成
 
-[ キャンバスダッシュボードの概要 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
+[&#x200B; キャンバスダッシュボードの概要 &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **詳しくは、次のヘルプ記事を参照してください。**
-[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ キャンバスダッシュボードでの KPI レポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[&#x200B; キャンバスダッシュボードの概要 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[&#x200B; キャンバスダッシュボードでの KPI レポートの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## このトピックに関する推奨チュートリアル
 
 * [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
-* [ キャンバスダッシュボードでのグラフレポートの作成 ](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
+* [&#x200B; キャンバスダッシュボードでのグラフレポートの作成 &#x200B;](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [キャンバスダッシュボードレポートでの OR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

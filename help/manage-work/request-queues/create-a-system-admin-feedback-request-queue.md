@@ -45,7 +45,7 @@ ht-degree: 0%
 * **テストとアクセシビリティ：**&#x200B;キューはサンプルリクエストでテストされ、機能性が確保されます。これは、すべてのユーザーがアクセスできるヘルプリクエストキューとして公開され、デフォルトの完了期間は 10 日です。
 
 
-ビデオで使用する **管理者チームのフィードバックレポート** の作成方法については、**タスクレポートの作成 [ チュートリアルの** 管理者チームのフィードバックレポートの作成 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) アクティビティを参照してください。
+ビデオで使用する **管理者チームのフィードバックレポート** の作成方法については、**タスクレポートの作成 [&#x200B; チュートリアルの** 管理者チームのフィードバックレポートの作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) アクティビティを参照してください。
 
 カスタムフォームの作成方法について詳しくは、[カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ja)チュートリアルを参照してください。
 
