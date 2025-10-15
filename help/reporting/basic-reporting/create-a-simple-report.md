@@ -12,7 +12,7 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: ht
 source-wordcount: '467'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 このビデオでは、カスタムレポートはデフォルト設定を維持しますが、表示時に一時的な変更を加えることができることを強調しています。レポートは「マイレポート」セクションに保存され、共有レポートは「自分と共有」に表示されます。頻繁に使用するレポートは、すぐにアクセスできるように、ピン留めしたり、お気に入りに追加したりできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413122/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

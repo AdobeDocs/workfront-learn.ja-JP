@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: ht
 source-wordcount: '651'
 ht-degree: 100%
@@ -41,7 +41,7 @@ ht-degree: 100%
 * キャメルケースとは
 * レポートビューで使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470791/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## 「ビューの基本的なテキストモードについて」アクティビティ
 

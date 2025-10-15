@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: ht
 source-wordcount: '199'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * いくつかの便利なタスクレポート要素について学ぶ
 * 独自のタスクフィルターを作成する方法を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3412674/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## 「ビルトインタスクフィルターについて」アクティビティ
 
