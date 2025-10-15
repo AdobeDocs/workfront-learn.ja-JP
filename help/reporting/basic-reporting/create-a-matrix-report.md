@@ -26,7 +26,7 @@ ht-degree: 0%
 * マトリックスレポートが役立つ場面
 * マトリックスレポートの作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448184/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

@@ -32,7 +32,7 @@ ht-degree: 9%
 
 [&#x200B; キャンバスダッシュボードの概要 &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) では、これら両方の方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474866/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 **詳しくは、次のヘルプ記事を参照してください。**
 [&#x200B; キャンバスダッシュボードの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
