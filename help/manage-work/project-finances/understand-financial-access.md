@@ -25,7 +25,7 @@ ht-degree: 100%
 ビデオでは、Workfront 内で財務情報へのアクセスを管理する際のシステム管理者の役割について説明します。管理者は、アクセスレベルを通じてアクセスを制御します。
 ビデオでは、ユーザーが財務アクセスを使用できるのは、自分が作成したプロジェクトや、財務アクセス権を持つユーザーが共有したプロジェクトのみであることを強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457732/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

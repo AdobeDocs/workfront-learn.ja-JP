@@ -25,7 +25,7 @@ ht-degree: 100%
 
 収益タイプおよびコストタイプを使用する場所と、システムのデフォルトの設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457686/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ビデオでは、システム管理者とプロジェクトマネージャーの両方がパフォーマンス指標と計算を管理する際の柔軟性と制御を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457683/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 
