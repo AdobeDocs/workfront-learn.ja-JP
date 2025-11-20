@@ -343,7 +343,7 @@ ht-degree: 95%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -518,13 +518,13 @@ ht-degree: 95%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
