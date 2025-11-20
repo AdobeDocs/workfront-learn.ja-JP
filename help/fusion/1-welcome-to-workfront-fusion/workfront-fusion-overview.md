@@ -60,6 +60,6 @@ Workfront では、Workfront Fusion 体験版を提供していません。 チ�
 
 チュートリアルの演習を完了するのに役立つように、段階的な手順が提供されています。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-質問を投稿できる [Workfront Fusion 2.0 コミュニティ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)もあります。
+質問を投稿できる [Workfront Fusion 2.0 コミュニティ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=ja)もあります。
