@@ -1,9 +1,10 @@
 ---
-user-guide-description: Workfront チュートリアル
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+user-guide-title: Workfront チュートリアル
+user-guide-description: Workfrontの機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
+source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
 workflow-type: tm+mt
-source-wordcount: '2339'
-ht-degree: 95%
+source-wordcount: '2356'
+ht-degree: 94%
 
 ---
 
@@ -343,7 +344,7 @@ ht-degree: 95%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -518,13 +519,13 @@ ht-degree: 95%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
@@ -568,7 +569,6 @@ ht-degree: 95%
 
 
 + アジャイル {#agile}
-
    + アジャイル作業管理の概要 {#intro-to-agile}
       + [アジャイルを使用するメリット](/help/agile/benefits-of-using-agile.md)
       + [スクラム方式の概要と仕組み](/help/agile/what-is-the-scrum-methodology.md)
