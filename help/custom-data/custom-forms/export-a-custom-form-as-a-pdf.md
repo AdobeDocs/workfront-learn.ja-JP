@@ -18,5 +18,5 @@ ht-degree: 100%
 
 # カスタムフォームを PDF として書き出し
 
->[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3477595/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
