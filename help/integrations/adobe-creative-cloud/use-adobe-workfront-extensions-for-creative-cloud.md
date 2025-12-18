@@ -9,13 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="統合" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '208'
+source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
+workflow-type: tm+mt
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -25,7 +26,6 @@ ht-degree: 100%
 Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud アプリケーションを離れることなく、自分に割り当てられた作業を Adobe Workfront で検索したり更新したりできます。
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -34,12 +34,7 @@ Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud �
 使用している Adobe Creative Cloud アプリケーションに適したプラグインをインストールする必要があります。
 
 * Photoshop については、[Photoshop 用の Adobe Workfront をインストールして開く](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=ja)を参照してください
-* XD については、[XD 用の Adobe Workfront をインストールして開く](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=ja)を参照してください
 * InDesign、Illustrator、Premiere Pro、After Effects については、[デザインとビデオ用の Adobe Workfront をインストールして開く](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=ja)を参照してください
-
->[!NOTE]
->
->**Premiere Pro** と **After Effects** のビデオのアップロードと、Workfront でのレビューと承認は、現時点ではプラグインから使用できません。
 
 
 このビデオでは、Creative Cloud アプリ内から次の作業を行う方法を説明します。
@@ -52,4 +47,4 @@ Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud �
 * 時間のログ記録
 * 作業の完了のマーク
 
->[!VIDEO](https://video.tv.adobe.com/v/3420646/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
