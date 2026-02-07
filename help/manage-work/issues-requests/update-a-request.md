@@ -1,5 +1,5 @@
 ---
-title: リクエストの更新
+title: Workfrontでのリクエストの更新
 description: フィルターを使用してリクエストを検索し、ステータスと詳細を効率的に更新し、完全な情報にアクセスし、効率化されたワークフローの一元化された共同作業を促進することで、Workfront でのリクエスト管理を簡素化します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '248'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 96%
 
 ---
 
-# リクエストの更新
+# Workfrontでのリクエストの更新
 
 ビデオでは、Adobe Workfront でリクエストを検索および更新する方法について説明します。リクエストを送信した後、情報を追加したり質問したりして、作業中のユーザーが最新の詳細を確認できます。
 

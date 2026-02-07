@@ -1,5 +1,5 @@
 ---
-title: プロジェクト詳細の入力
+title: プロジェクトの基本的な詳細を入力します
 description: わかりやすい名前の使用、適切なステータスの設定、適切なスケジュールモードの選択、テンプレートとカスタムフォームの活用、リソースプールとスケジュールを使用したリソースの管理により、プロジェクト管理の効率を最適化します。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
-# プロジェクト詳細の入力
+# プロジェクトの基本的な詳細を入力します
 
 このビデオでは、プロジェクトの作成時に必要となる、最も一般的なプロジェクト設定について説明します。
 

@@ -1,5 +1,5 @@
 ---
-title: イシューの割り当ての管理
+title: イシューの割り当てを効果的に管理する
 description: インライン編集とワークロードバランサーを使用して割り当て、進捗のトラッキングと更新、イシューステータスの変更、チーム固有のワークフローの遵守を行い、シームレスなプロジェクト実行を実現することで、Workfront でイシューを効果的に管理します。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '289'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 97%
 
 ---
 
-# イシューの割り当ての管理
+# イシューの割り当てを効果的に管理する
 
 イシューの管理は、プロジェクトマネージャーや、イシューに関する作業に割り当てられたユーザーの重要な責務です。
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * イシューの進捗の更新
 * イシューステータスの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/3446956/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

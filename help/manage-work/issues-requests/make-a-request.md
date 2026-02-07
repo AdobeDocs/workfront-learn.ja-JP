@@ -1,5 +1,5 @@
 ---
-title: リクエストの作成
+title: Workfrontでのリクエストの作成と管理
 description: 効率化されたリクエスト作成、カスタマイズ可能なワークフロー、ドラフト自動保存、トラッキングおよびフィルタリングツール、リクエストのコピーと再利用の機能により、Workfront の効率が向上します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '254'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '260'
+ht-degree: 95%
 
 ---
 
-# リクエストの作成
+# Workfrontでのリクエストの作成と管理
 
 ビデオでは、Workfront 内でリクエストを作成および管理する方法について説明します。メインメニューから「リクエスト」を選択し、「新規リクエスト」ボタンをクリックすることから開始し、リクエストを作成するプロセスについて説明します。ユーザーは、組織のワークフローに合わせてカスタム設計されたキューからリクエストタイプを選択できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413116/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

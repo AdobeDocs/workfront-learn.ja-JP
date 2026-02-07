@@ -1,5 +1,5 @@
 ---
-title: 教訓の記録
+title: 今後のプロジェクトで得た教訓を記録する
 description: プロジェクトを終了する際に「教訓」を活用する方法について説明します。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-# 教訓の記録
+# 今後のプロジェクトで得た教訓を記録する
 
 このビデオでは、次のメリットを確認します。
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 「教訓」カスタムレポートの作成
 * 「教訓」プロジェクトの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3441013/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfrontの機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2356'
-ht-degree: 94%
+source-wordcount: '2428'
+ht-degree: 86%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 94%
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グループ固有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [マイルストーンの作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [マイルストーンパスと手順の作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + システムのパフォーマンスとメンテナンス {#system-perfomance-and-maintenance}
       + [既存の Adobe Workfront インスタンスの管理](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 94%
 
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
-      + [基本的なプロジェクト作成について](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [プロジェクトをゼロから作成および管理](/help/manage-work/projects/understand-basic-project-creation.md)
       + [プロジェクトページのナビゲーション](/help/manage-work/projects/navigate-the-project-page.md)
-      + [プロジェクトを作成する 4 つの方法を学ぶ](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [プロジェクト詳細の入力](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [プロジェクトのプランニングの基本を学ぶ](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [プロジェクトを作成する 4 つの方法を検討します](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [プロジェクトの基本的な詳細を入力します](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Workfrontでプロジェクトを効果的に計画する](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [プロジェクトを稼動させる](/help/manage-work/projects/take-a-project-live.md)
-      + [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [プロジェクトの検索](/help/manage-work/projects/find-projects.md)
-      + [プロジェクトの共有](/help/manage-work/projects/share-a-project.md)
+      + [現在のステータスでプロジェクトを管理](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [プロジェクトを効率的に検索](/help/manage-work/projects/find-projects.md)
+      + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
-      + [プロジェクトのコミュニケーションについて](/help/manage-work/projects/understand-project-communication.md)
-      + [プロジェクト情報の表示](/help/manage-work/projects/view-project-information.md)
+      + [効果的なコミュニケーションを通じてプロジェクトの成功を向上](/help/manage-work/projects/understand-project-communication.md)
+      + [ プロジェクト管理のフィルター、ビュー、グループ化の探索 ](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL ガント]ビューについて](/help/manage-work/projects/understand-the-gantt-view.md)
       + [[!UICONTROL ボード]ビューについて](/help/manage-work/projects/understand-the-board-view.md)
 
    + タスク {#tasks}
-      + [タスクを作成](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [親子タスクについて](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
+      + [Workfrontでのタスクの効率的な作成](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [親子タスクの関係について](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [Workfrontでのタスクの効率的な管理](/help/manage-work/tasks/work-with-tasks.md)
       + [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [タスクステータスの更新](/help/manage-work/tasks/update-the-task-status.md)
+      + [正確なレポートを行うためのタスクステータスの更新](/help/manage-work/tasks/update-the-task-status.md)
       + [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
-      + [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Workfrontでタスクの効果的な順序付け](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
-      + [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
+      + [作業量を使用したタスク時間の見積もり](/help/manage-work/tasks/understand-work-effort.md)
 
    + イシュー/リクエスト {#issues-requests}
-      + [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
-      + [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
-      + [イシューの割り当ての管理](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [イシューの状態を更新](/help/manage-work/tasks/update-the-issue-status.md)
-      + [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
+      + [予定外作業の効率的な処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [Workfrontでのリクエストの作成と管理](/help/manage-work/issues-requests/make-a-request.md)
+      + [リクエストの効率的な検索と管理](/help/manage-work/issues-requests/find-requests.md)
+      + [イシューの割り当てを効果的に管理する](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [イシューステータスを効果的に更新](/help/manage-work/tasks/update-the-issue-status.md)
+      + [Workfrontでのリクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
       + [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [イシューに関するレポート](/help/manage-work/issues-requests/report-on-issues.md)
+      + [イシュー管理のカスタムレポートの作成](/help/manage-work/issues-requests/report-on-issues.md)
 
    + リクエストキュー {#request-queues}
       + [リクエストキューについて](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 94%
       + [リクエストキューに関するよくある質問へ回答](/help/manage-work/request-queues/request-queue-faq.md)
 
    + ポートフォリオ {#portfolios}
-      + [ポートフォリオについて](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [[!UICONTROL ビジネスケース]について](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [[!UICONTROL ポートフォリオオプティマイザー]について](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [ポートフォリオの管理と最適化の詳細](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [包括的なビジネスケースの作成](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Portfolio最適化ツールを使用したプロジェクトの優先度の最適化](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グローバルおよび単一使用承認プロセスの作成](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [リクエストキューへのイシュー承認プロセスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [デジタル作品のレビューと承認](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [タスク、イシュー、承認を委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [マイルストーンの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [マイルストーンの表示](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [タスク、イシュー、承認を効果的に委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [プロジェクトとタスクにマイルストーンパスを適用する](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [プロジェクトでマイルストーンを表示する](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
-      + [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [プロジェクトテンプレートの作成とブループリントの調査](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [プロジェクトをテンプレートから直接作成](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [既存のプロジェクトのコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [プロジェクトテンプレートの効果的な共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [既存プロジェクトの効率的なコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [テンプレートでプロジェクトチームを編集する](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + プロジェクトタイムライン {#project-timelines}
-      + [プロジェクトタイムラインについて](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [Workfrontでのプロジェクトタイムラインの調査](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [日付タイプと進捗ステータスについて](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [プロジェクトタイムラインからの進捗の追跡](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [完了率と進捗ステータスを使用した進捗の追跡](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-      + [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
-      + [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
-      + [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [タスクと問題の承認を解決する](/help/manage-work/close-a-project/complete-approvals.md)
+      + [プロジェクトアセットのアップロードと管理](/help/manage-work/close-a-project/upload-assets.md)
+      + [今後のプロジェクトで得た教訓を記録する](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + プロジェクトの財務（ユーザー向け） {#project-finances-users}
@@ -344,7 +344,7 @@ ht-degree: 94%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -519,13 +519,13 @@ ht-degree: 94%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)

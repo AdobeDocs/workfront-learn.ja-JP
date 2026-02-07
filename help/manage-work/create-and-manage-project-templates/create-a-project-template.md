@@ -1,5 +1,5 @@
 ---
-title: プロジェクトテンプレートの作成と、[!UICONTROL ブループリント]の詳細
+title: プロジェクトテンプレートの作成とブループリントの調査
 description: プロジェクトテンプレートを最初から作成する方法と、既存のプロジェクトから作成する方法を説明します。また、[!UICONTROL ブループリント]を使用して Workfront のエキスパートが作成した便利なプロジェクトテンプレートの世界にアクセスする方法を紹介します。
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '633'
+ht-degree: 97%
 
 ---
 
-# プロジェクトテンプレートの作成と、[!UICONTROL ブループリント]の詳細
+# プロジェクトテンプレートの作成とブループリントの調査
 
 
 プロジェクトテンプレートを最初から作成する方法と、既存のプロジェクトから作成する方法を説明します。また、[!UICONTROL ブループリント]を使用して Workfront のエキスパートが作成した便利なプロジェクトテンプレートを利用する方法を紹介します。
@@ -31,7 +31,7 @@ ht-degree: 0%
 * テンプレートを作成したら、新しいプロジェクトの作成に使用できます。ビデオでは、テンプレートから新しいプロジェクトを作成し、必要な調整を行い、必要に応じてタスクを追加したり期間を変更したりする方法について説明します。また、リソースのスケジュール設定と計画機能を使用して、担当業務をタスクに割り当てる方法についても説明します。
 * ビデオでは、既存のプロジェクトを新しいテンプレートとして保存し、ワークフローを更新および改善する方法について説明します。テンプレートを管理して、混乱を回避し、効率的なプロジェクトの実行を確保することの重要性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415446/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

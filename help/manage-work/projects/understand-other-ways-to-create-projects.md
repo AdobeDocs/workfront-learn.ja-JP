@@ -1,5 +1,5 @@
 ---
-title: プロジェクトを作成する 4 つの方法を学ぶ
+title: プロジェクトを作成する 4 つの方法を検討します
 description: テンプレートを使用して、最初から開始したり、既存のプロジェクトをコピーしたり、Microsoft Project ファイルを読み込んだりして、様々なユーザーのニーズに合わせて Workfront でプロジェクトを効率的に作成する方法について説明します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
-# プロジェクトを作成する 4 つの方法を学ぶ
+# プロジェクトを作成する 4 つの方法を検討します
 
 ビデオでは、様々な方法を使用した Workfront でのプロジェクトの作成について包括的に説明します。
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 ビデオでは、様々なユーザーのニーズに応じて、テンプレート、最初から作成、コピー、読み込みを通じてプロジェクトを作成する Workfront の柔軟性について強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432166/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

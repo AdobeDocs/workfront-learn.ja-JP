@@ -1,5 +1,5 @@
 ---
-title: リクエストの検索と管理
+title: リクエストの効率的な検索と管理
 description: フィルターの使用方法、チーム割り当ての管理方法、カスタムレポートとダッシュボードの作成方法、様々なコンテキストでの「マイ」の意味を明確にして、効果的なリクエスト管理を行う方法について説明します。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '227'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 95%
 
 ---
 
-# リクエストの検索と管理
+# リクエストの効率的な検索と管理
 
 このビデオでは、Workfront でリクエストを検索および管理する方法について説明します。次の 4 つの主なエリアについて説明します。
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * カスタムレポートとダッシュボード
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441655/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -1,5 +1,5 @@
 ---
-title: プロジェクトの検索
+title: プロジェクトを効率的に検索
 description: フィルター、検索ツール、最近使用したものリスト、お気に入り、ピン留めされたプロジェクト、カスタムレポートやダッシュボードを使用してプロジェクト管理を簡素化し、プロジェクトにすばやく整理してアクセスできます。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '173'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '175'
+ht-degree: 96%
 
 ---
 
-# プロジェクトの検索
+# プロジェクトを効率的に検索
 
 このビデオでは、プロジェクトを簡単に検索するいくつかの方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439549/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL ビジネスケース]について'
+title: 包括的なビジネスケースの作成
 description: Workfront で包括的なビジネスケースを作成し、詳細なプロジェクト情報、費用、労力とリスクの分析、スコアカード、情報に基づいたポートフォリオ管理のカスタムフォームを含めることで、プロジェクトに優先順位を付けます。
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '243'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 95%
 
 ---
 
-# [!UICONTROL ビジネスケース]について
+# 包括的なビジネスケースの作成
 
 ビデオでは、プロジェクト管理でのビジネスケースの重要性について説明します。ビジネスケースに入力することで、マネージャーが同じリソースを求めて競合するプロジェクトを分析し、優先順位を付けるのに十分に役立つことを強調しています。完了したら、ビジネスケースを送信すると、プロジェクトのステータスが「リクエスト済み」に変更され、ポートフォリオ最適化ツールでの比較に全体的なスコアが計算されます。どのフィールドも必須ではありませんが、より詳細な情報があれば意思決定が向上します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442845/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

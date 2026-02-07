@@ -1,5 +1,5 @@
 ---
-title: プロジェクト情報の表示
+title: プロジェクト管理のフィルター、ビュー、グループ化を探索する
 description: カスタマイズ可能なフィルター、詳細ビュー、効率的なグループ化、タスク管理ツール、イシュートラッキング機能を使用してプロジェクトワークフローを効率化し、組織化と明確性を強化します。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '417'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '427'
+ht-degree: 96%
 
 ---
 
-# プロジェクト情報の表示
+# プロジェクト管理のフィルター、ビュー、グループ化を探索する
 
 このビデオでは、ユーザーがプロジェクト、タスク、イシューを効率的に管理および分析するのに役立つ、Workfront のフィルター、ビュー、グループ化の概要について説明します。主なポイント：
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ビデオでは、カスタマイズを強調し、さらに学習するためのチュートリアルへのリンクを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453067/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

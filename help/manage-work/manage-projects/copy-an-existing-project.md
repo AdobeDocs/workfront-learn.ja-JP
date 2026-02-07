@@ -1,5 +1,5 @@
 ---
-title: 既存のプロジェクトのコピー
+title: 既存プロジェクトの効率的なコピー
 description: 3 つのドットのメニューにある「コピー」オプションを使用してプロジェクトを簡単に複製し、名前を変更してステータスを「計画中」に設定し、カスタムデータとフォームをコピーし、「イシュー」タブからイシューを個別に転送して調整されたプロジェクト設定を行うことができます。
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 96%
 
 ---
 
-# 既存のプロジェクトのコピー
+# 既存プロジェクトの効率的なコピー
 
 ビデオでは、テンプレートを使用する代わりにプロジェクトをコピーする方法について説明します。プロジェクトをコピーするには、目的のプロジェクトを開き、プロジェクト名の横にある 3 つのドットのメニューをクリックして、「コピー」を選択します。「プロジェクトをコピー」ウィンドウでは、プロジェクトの名前を変更し、割り当てられたユーザーへの通知の送信を回避することを目的に、通常は「計画中」にステータスを変更できます。割り当て、進捗、カスタムデータなどをコピーするかどうかを選択できます。
 完了するには、「プロジェクトをコピー」をクリックします。
 イシューは予定作業とは見なされないので、このプロセス中に直接コピーすることはできません。イシューをコピーするには、「イシュー」タブに移動し、目的のイシューを選択し、「コピー先」オプションを使用して新しいプロジェクトに転送します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456039/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

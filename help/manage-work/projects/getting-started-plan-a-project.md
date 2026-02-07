@@ -1,5 +1,5 @@
 ---
-title: プロジェクトの計画の基本を学ぶ
+title: Workfrontでプロジェクトを効果的に計画する
 description: 主要なフィールドに焦点を当てて、ステータスを「計画中」に設定し、適切なビューを使用し、現実的な開始日を選択し、正確なタイムラインのスケジュールモードを活用することで、プロジェクト計画を効率化します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '273'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 95%
 
 ---
 
-# プロジェクトの計画の基本を学ぶ
+# Workfrontでプロジェクトを効果的に計画する
 
 ビデオでは、Workfront でプロジェクトを効果的に計画する方法について説明します。プロジェクトが予定どおりに完了し、成功することを確保するには、強固な基盤を構築することの重要性を強調しています。主な手順には、タスク、割り当て、期間、予定時間数、先行タスクという 5 つの重要なフィールドを理解することが含まれます。これらのフィールドにより、プロジェクト計画を迅速で正確に調整できます。
 
 ビデオでは、プロジェクト成功の強固な基盤を構築するために、現実的なタイムライン、チームの可用性、正確な計画の重要性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448568/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

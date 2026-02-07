@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL ポートフォリオオプティマイザー]について'
+title: Portfolio最適化ツールを使用したプロジェクトの優先度の最適化
 description: 公平な比較にビジネスケースを完成させ、ステータス別にプロジェクトをフィルタリングし、スコアを動的に調整し、プロジェクトを効果的に優先順位付けし、リソース計画をポートフォリオ目標に合わせて調整することで、Workfront でのプロジェクト管理を最適化します。
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '283'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL ポートフォリオオプティマイザー]について
+# Portfolio最適化ツールを使用したプロジェクトの優先度の最適化
 
 ビデオでは、Workfront のポートフォリオ最適化ツールを使用してポートフォリオ内のプロジェクトを評価し、優先順位を付ける方法について説明します。まず、プロジェクトのビジネスケースを送信し、そのステータスを「リクエスト済み」に変更して、承認または却下のオプションを有効にします。承認前に、ユーザーはポートフォリオ最適化ツールを使用して、プロジェクトをポートフォリオ内の他のプロジェクトと比較できます。
 
 ビデオでは、正確な比較にビジネスケースを完成させることの重要性を強調し、プロジェクトの優先度を効果的に最適化および管理する手順について段階的に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446276/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

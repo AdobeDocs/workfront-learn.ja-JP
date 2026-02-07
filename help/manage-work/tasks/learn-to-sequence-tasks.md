@@ -1,5 +1,5 @@
 ---
-title: タスクの順序付けを学ぶ
+title: Workfrontでタスクの効果的な順序付け
 description: 先行タスクとタスクの順序を定義し、期間を通じてタイムラインを設定し、テンプレートを使用して順序付けを簡素化し、手動による制約を回避し、実践でスキルを洗練させることで、プロジェクト管理を効率化します。
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '220'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '222'
+ht-degree: 95%
 
 ---
 
-# タスクの順序付けを学ぶ
+# Workfrontでタスクの効果的な順序付け
 
 ビデオでは、先行タスクと期間を使用して Workfront でタスクを順序付け、プロジェクトのタイムラインを効果的に管理する方法について説明します。
 ビデオでは、新しいタスクの先行タスクを設定し、順序と正確な開始日を確保する方法について説明します。
 プロジェクトのタイムラインに対する影響を理解するために、先行タスクでのプラクティスの重要性を強調し、効率的なプロジェクト計画のために期間と先行タスクを使用することを推奨しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447321/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -1,5 +1,5 @@
 ---
-title: プロジェクトタイムラインについて
+title: Workfrontでのプロジェクトタイムラインの調査
 description: タスクの割り当て方法、ガントチャートとクリティカルパス機能の使用方法、ビュー経由でのプロジェクトの監視方法、タスクの効率的なスケジュール設定方法、最適なプロジェクト計画の制約の適用方法について説明します。
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '701'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '705'
+ht-degree: 98%
 
 ---
 
-# プロジェクトタイムラインについて
+# Workfrontでのプロジェクトタイムラインの調査
 
 学習内容：
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 * Workfront には、計画用の標準ビューや、進捗のモニタリング用のステータスビューなど、様々なビューがあります。ステータスビューには、進捗、コメント、ドキュメント、イシュー、承認、クリティカルパス、マイルストーンのフラグが含まれます。最近のアクティビティを追跡して、更新やメモを確認できます。
 * スケジュール設定は、開始日または完了日から実行できます。Workfront では、タスクの期間と先行タスクに基づいて対応する日付を計算します。ビデオでは、開始日から重要な完了日までに余裕を持ってスケジュール設定することを推奨しています。また、「できるだけ早く」や「できるだけ遅く」などのタスクの制約についても説明し、タスクのスケジュール設定に与える影響を示します。タスクの制約を表示するカスタムビューを作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435836/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

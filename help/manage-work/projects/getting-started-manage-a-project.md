@@ -1,5 +1,5 @@
 ---
-title: プロジェクト管理の基本を学ぶ
+title: 現在のステータスでプロジェクトを管理
 description: レポートを使用してプロジェクトの進捗を効果的に追跡し、ガントビューを通じて依存関係を管理し、タスクと承認を監視し、チームのコミュニケーションを強化し、頻繁な更新でスムーズなワークフローを確保します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '176'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 93%
 
 ---
 
-# プロジェクト管理の基本を学ぶ
+# 現在のステータスでプロジェクトを管理
 
 ビデオでは、プロジェクトのステータスを「現在」に変更した後のプロジェクト管理の概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445168/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -1,5 +1,5 @@
 ---
-title: プロジェクトのコミュニケーションについて
+title: 効果的なコミュニケーションを通じてプロジェクトの成功を向上
 description: 関係者との効果的なコミュニケーション、タスクの明確化、一元化されたディスカッション、正確なステータスレポート、プロアクティブなイシュー解決により、整合性と効率を維持し、プロジェクトの成功を強化します。
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '398'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 97%
 
 ---
 
-# プロジェクトのコミュニケーションについて
+# 効果的なコミュニケーションを通じてプロジェクトの成功を向上
 
 ビデオでは、プロジェクトの成功での効果的なコミュニケーションの重要性を強調し、プロジェクト管理の明確さと効率を確保する戦略について説明します。主なポイント：
+
 * **関係者とのコミュニケーション：**&#x200B;プロジェクトの進捗、イシュー、解決策について関係者に常に通知します。ニーズに合わせた定期的な更新が不可欠です。
 * **タスクの明確さ：**&#x200B;スコープクリープや混乱を回避するには、チームメンバーが自分たちの責任を理解していることを確認します。複数の人物をタスクに割り当てる際は、わかりやすくするためにサブタスクを使用します。
 * **一元化されたコミュニケーション：** Workfront などのツールを使用して、プロジェクト関連のディスカッションをすべて 1 か所に保存します。通知は、チームメンバーがディスカッションに参加し続けるのに役立ちます。
@@ -32,7 +33,7 @@ ht-degree: 100%
 
 ビデオでは、Workfront でコミュニケーション、タスク管理、レポートを簡素化し、プロジェクト関連のすべての情報にアクセスして整理する方法をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436147/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

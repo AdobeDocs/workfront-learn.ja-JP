@@ -1,5 +1,5 @@
 ---
-title: 基本的なプロジェクト作成について
+title: プロジェクトをゼロから作成および管理
 description: プロジェクトを効率的に作成、管理、完了する方法、予期しない問題を処理する方法、基本的なプロジェクト管理機能を習得するための初心者にわかりやすいヒントを探索する方法について説明します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,19 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '249'
+ht-degree: 94%
 
 ---
 
-# 基本的なプロジェクト作成について
+# プロジェクトをゼロから作成および管理
 
 このビデオでは、プロジェクトを最初から作成して管理する方法について説明します。まず、新しいプロジェクトを作成し、名前を変更し、説明、開始日、ターゲット完了日を含む目標を設定します。プロジェクトは、見積もり期間と割り当てを含む予定作業であるタスクに分割できます。タスクは先行タスクを使用して順序付けることができ、プロジェクトのステータスを「現在」に設定してチームに通知し、レポートに含めることができます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435897/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 
