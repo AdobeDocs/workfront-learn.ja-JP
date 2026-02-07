@@ -26,7 +26,7 @@ ht-degree: 87%
 * 他のユーザーとテンプレートの共有
 * テンプレートを使用して作成されたプロジェクトを共有
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415440/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

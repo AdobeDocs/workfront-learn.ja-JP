@@ -27,7 +27,7 @@ ht-degree: 85%
 * 未解決のタスク承認を見つけて処理する方法
 * 未解決のイシュー承認を見つけて処理する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439425/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

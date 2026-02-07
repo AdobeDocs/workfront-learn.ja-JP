@@ -33,7 +33,7 @@ ht-degree: 97%
 
 ビデオでは、Workfront でコミュニケーション、タスク管理、レポートを簡素化し、プロジェクト関連のすべての情報にアクセスして整理する方法をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436147/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

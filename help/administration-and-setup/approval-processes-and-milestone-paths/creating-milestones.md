@@ -25,7 +25,7 @@ ht-degree: 84%
 * マイルストーンパスの作成方法
 * マイルストーンパスへのマイルストーン手順の追加方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415915/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

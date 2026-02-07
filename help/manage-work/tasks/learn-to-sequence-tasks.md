@@ -27,7 +27,7 @@ ht-degree: 95%
 プロジェクトのタイムラインに対する影響を理解するために、先行タスクでのプラクティスの重要性を強調し、効率的なプロジェクト計画のために期間と先行タスクを使用することを推奨しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447321/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

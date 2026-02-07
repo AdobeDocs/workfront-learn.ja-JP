@@ -28,7 +28,7 @@ ht-degree: 79%
 * タスクにマイルストーンを追加する
 * マイルストーンの適用に関するベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430286/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

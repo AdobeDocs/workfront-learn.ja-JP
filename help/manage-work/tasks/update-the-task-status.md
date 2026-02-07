@@ -20,7 +20,7 @@ ht-degree: 92%
 
 このビデオは、タスクステータスを更新する方法、理由、頻度に関するチュートリアルを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471168/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

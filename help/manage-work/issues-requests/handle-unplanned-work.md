@@ -24,7 +24,7 @@ ht-degree: 96%
 ビデオでは、プロジェクト管理でのコミュニケーションの重要性を強調し、コミュニケーションを促進する重要なツールとしてのイシューの役割をハイライト表示しています。更新とイシューの違いについて説明し、イシューはプロジェクトを完了する前に割り当て、追跡、解決する必要がある作業に適していることを示しています。ビデオでは、イシューを記録する方法について段階的に説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446567/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

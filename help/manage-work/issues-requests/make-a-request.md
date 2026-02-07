@@ -24,7 +24,7 @@ ht-degree: 95%
 
 ビデオでは、Workfront 内でリクエストを作成および管理する方法について説明します。メインメニューから「リクエスト」を選択し、「新規リクエスト」ボタンをクリックすることから開始し、リクエストを作成するプロセスについて説明します。ユーザーは、組織のワークフローに合わせてカスタム設計されたキューからリクエストタイプを選択できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413116/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

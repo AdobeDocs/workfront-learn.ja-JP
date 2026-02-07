@@ -24,7 +24,7 @@ ht-degree: 93%
 
 ビデオでは、プロジェクトのステータスを「現在」に変更した後のプロジェクト管理の概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445168/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

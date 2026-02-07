@@ -29,7 +29,7 @@ ht-degree: 84%
 * 「教訓」カスタムレポートの作成
 * 「教訓」プロジェクトの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441013/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 
