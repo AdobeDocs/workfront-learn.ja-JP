@@ -25,7 +25,7 @@ ht-degree: 98%
 
 結果のレポートによって、ユーザーは遅延タスクに集中し、依存関係に関するインサイトを得て、ホストプロジェクトへのナビゲーションが簡素化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448343/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

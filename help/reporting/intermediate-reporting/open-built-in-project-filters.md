@@ -26,7 +26,7 @@ ht-degree: 94%
 * ビルトインプロジェクトフィルターをレビューして、その仕組みを確認する
 * 学習した内容を使用して独自のプロジェクトフィルターを作成
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412668/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 「ビルトインプロジェクトフィルターについて」アクティビティ
 

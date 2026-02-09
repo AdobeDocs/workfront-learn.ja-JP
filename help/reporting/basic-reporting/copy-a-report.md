@@ -23,4 +23,4 @@ ht-degree: 75%
 
 類似したレポートをコピーして編集し、新しいレポートをすばやく作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437046/?captions=jpn&quality=12&learn=on&enablevpops=1)

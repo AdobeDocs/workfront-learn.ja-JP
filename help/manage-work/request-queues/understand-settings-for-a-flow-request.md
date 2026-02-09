@@ -30,7 +30,7 @@ ht-degree: 96%
 
 これらの質問に対処することで、ユーザーは Workfront でリクエストキューを効果的に計画および設定できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441906/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 
