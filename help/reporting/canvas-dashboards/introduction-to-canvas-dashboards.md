@@ -25,12 +25,12 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-詳しくは、[ キャンバスダッシュボードの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) の記事を参照してください。
+詳しくは、[&#x200B; キャンバスダッシュボードの概要 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) の記事を参照してください。
 
 ## このトピックに関する推奨チュートリアル
 
 * [キャンバスダッシュボードでの KPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-* [ キャンバスダッシュボードでのグラフレポートの作成 ](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
+* [&#x200B; キャンバスダッシュボードでのグラフレポートの作成 &#x200B;](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [キャンバスダッシュボードレポートでの OR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
