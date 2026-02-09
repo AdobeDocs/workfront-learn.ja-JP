@@ -1,5 +1,5 @@
 ---
-title: リクエストキューについて
+title: Workfrontのリクエストキューを調べる
 description: 送信用の一元化されたリクエストキュー、効率的なキュー管理、送信済みリクエストへの簡単なアクセスにより、Workfront での操作を効率化し、プロジェクトワークフローを改善します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '221'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '225'
+ht-degree: 95%
 
 ---
 
-# リクエストキューについて
+# Workfrontのリクエストキューを調べる
 
 このビデオでは、Workfront のリクエストキューの概念、その目的、リクエストの送信および管理の方法について説明します。リクエストキューは、様々なタイプのリクエストを送信する一元的な場所として機能します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447011/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

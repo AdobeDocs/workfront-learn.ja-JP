@@ -1,5 +1,5 @@
 ---
-title: EXISTS フィルターについて
+title: 複雑なレポート用の EXISTS フィルターの作成
 description: EXISTS フィルターの概要、機能、ゼロから作成する方法を学習します。さらに、EXISTS フィルターの便利な例も多数紹介します。
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '682'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '688'
+ht-degree: 98%
 
 ---
 
-# EXISTS フィルターについて
+# 複雑なレポート用の EXISTS フィルターの作成
 
 EXISTS フィルターは、標準の Report Builder における 2 つのテーブルやフィールドジャンプの制限を回避できる、高度なテキストモードフィルターです。または、NOTEXISTS を使用して、特定の関係条件を持たないシステム内のオブジェクトを識別することもできます。
 
@@ -26,7 +26,7 @@ EXISTS フィルターは、標準の Report Builder における 2 つのテー
 
 EXISTS の機能に関する詳細な説明については、[EXISTS ステートメントを使用した複雑なテキストモードフィルターの作成](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)ドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471204/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS フィルターの例
 

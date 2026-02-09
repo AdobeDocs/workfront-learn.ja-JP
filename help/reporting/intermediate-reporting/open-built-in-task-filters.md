@@ -1,5 +1,5 @@
 ---
-title: ビルトインタスクフィルターについて
+title: ビルトインタスクフィルターを探索
 description: ビルトインタスクフィルターをレビューしてその仕組みを確認する方法や、Workfront で独自のタスクフィルターを作成する方法を説明します。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '199'
+ht-degree: 95%
 
 ---
 
-# ビルトインタスクフィルターについて
+# ビルトインタスクフィルターを探索
 
 このビデオでは、次の操作を実行します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * いくつかの便利なタスクレポート要素について学ぶ
 * 独自のタスクフィルターを作成する方法を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3412674/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## 「ビルトインタスクフィルターについて」アクティビティ
 

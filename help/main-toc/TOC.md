@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfrontの機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '2428'
-ht-degree: 86%
+source-wordcount: '2483'
+ht-degree: 78%
 
 ---
 
@@ -116,11 +116,11 @@ ht-degree: 86%
       + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
       + [効果的なコミュニケーションを通じてプロジェクトの成功を向上](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化の探索 &#x200B;](/help/manage-work/projects/view-project-information.md)
+      + [ プロジェクト管理のフィルター、ビュー、グループ化の探索 ](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [[!UICONTROL ガント]ビューについて](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [[!UICONTROL ボード]ビューについて](/help/manage-work/projects/understand-the-board-view.md)
+      + [プロジェクト管理のガント ビューを探索する](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [タスク管理のボードビューを探索](/help/manage-work/projects/understand-the-board-view.md)
 
    + タスク {#tasks}
       + [Workfrontでのタスクの効率的な作成](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -140,15 +140,15 @@ ht-degree: 86%
       + [イシューの割り当てを効果的に管理する](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [イシューステータスを効果的に更新](/help/manage-work/tasks/update-the-issue-status.md)
       + [Workfrontでのリクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
-      + [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [イシューまたはリクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [イシューまたはリクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [イシュー管理のカスタムレポートの作成](/help/manage-work/issues-requests/report-on-issues.md)
 
    + リクエストキュー {#request-queues}
-      + [リクエストキューについて](/help/manage-work/request-queues/understand-request-queues.md)
-      + [リクエストキューの作成](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [リクエストフローの設定について](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [リクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [Workfrontのリクエストキューを調べる](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Workfrontでリクエストキューを作成する](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [リクエストフローの設定の整理](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Workfrontでのリクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
       + [システム管理者のフィードバックリクエストキューの作成](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [リクエストキューに関するよくある質問へ回答](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -183,50 +183,50 @@ ht-degree: 86%
       + [タスクと問題の承認を解決する](/help/manage-work/close-a-project/complete-approvals.md)
       + [プロジェクトアセットのアップロードと管理](/help/manage-work/close-a-project/upload-assets.md)
       + [今後のプロジェクトで得た教訓を記録する](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [プロジェクト時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + プロジェクトの財務（ユーザー向け） {#project-finances-users}
-      + [財務情報の検索](/help/manage-work/project-finances/find-financial-information.md)
-      + [財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [複数の請求レートについて](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [プロジェクトとタスクの財務情報へのアクセスと管理](/help/manage-work/project-finances/find-financial-information.md)
+      + [クライアントプロジェクトの財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [担当業務の請求レートのカスタマイズ](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 中間プロジェクト {#intermediate-projects}
-      + [期間のタイプとタスクの制約の確認と管理について](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [プロジェクト間先行タスクについて](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [高度な先行タスク](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [マスターの期間タイプとタスクの制約](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [プロジェクト間先行タスクとの依存関係の確立](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [マスターの高度なタスクの依存関係](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + レポート {#reporting}
    + 基本レポート {#basic-reporting}
-      + [レポート要素について](/help/reporting/basic-reporting/reporting-elements.md)
-      + [レポートコンポーネントについて](/help/reporting/basic-reporting/reporting-components.md)
+      + [Workfront レポート要素の詳細](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Workfrontのレポートコンポーネントの調査](/help/reporting/basic-reporting/reporting-components.md)
       + [基本グループの作成](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [ビューに基本的な条件付き書式を追加](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [新しいフィルターエクスペリエンスの使用方法](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [新しいフィルターエクスペリエンスを探索](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [基本フィルターの作成アクティビティ](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [タスクレポートの作成](/help/reporting/basic-reporting/create-a-task-report.md)
-      + [レポートのコピー](/help/reporting/basic-reporting/copy-a-report.md)
-      + [グラフを使用したレポートの作成](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [遅延割り当てのタスク レポートを作成する](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [レポートのコピーと編集](/help/reporting/basic-reporting/copy-a-report.md)
+      + [レポートのグラフでデータを視覚化](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [マトリックスレポートの作成](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [ダッシュボードの作成](/help/reporting/basic-reporting/create-dashboards.md)
-      + [レポートの送信と共有](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [レポート設定について](/help/reporting/basic-reporting/report-settings.md)
+      + [Workfrontでのダッシュボードの作成](/help/reporting/basic-reporting/create-dashboards.md)
+      + [レポートの効果的な送信と共有](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [レポート設定とプロンプトの調査](/help/reporting/basic-reporting/report-settings.md)
 
    + 中間レポート {#intermediate-reporting}
       + [ユーザーベースのワイルドカードを使用してフィルターを作成する](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [日付ベースのワイルドカードを使用したフィルターの作成](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [フィルターでの OR 文の作成](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [ビルトインプロジェクトフィルターについて](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [ビルトインタスクフィルターについて](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [ビルトインイシューフィルターについて](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [フィルターの基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [ビューの基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [グループ化の基本的なテキストモードについて](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [カスタムプロンプトの作成](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [EXISTS フィルターについて](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [ビルトインプロジェクトフィルターの調査](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [ ビルトインタスクフィルターを探索 ](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [ビルトインイシューフィルターを探索](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [Workfrontのフィルターの基本的なテキストモードの調査](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Workfrontのビューの基本的なテキストモードの探索](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Workfrontのグループ化の基本的なテキストモードの探索](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [テキストモードを使用したカスタムプロンプトの作成](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [複雑なレポート用の EXISTS フィルターの作成](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + 高度なレポート {#advanced-reporting}
       + [詳細レポート機能へようこそ](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -235,18 +235,18 @@ ht-degree: 86%
       + [高度なレポート第 3 部](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + カレンダーレポート {#calendar-reports}
-      + [カレンダーレポートインターフェイスについて](/help/reporting/basic-reporting/tour-of-the-interface.md)
-      + [カスタムカレンダーレポートを作成](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [追加のカレンダーレポートオプションについて](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [カレンダーレポートインターフェイスの探索](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [カスタムカレンダーレポートの作成](/help/reporting/basic-reporting/creating-custom-calendars.md)
+      + [詳細なカレンダーレポート機能の調査](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [アクティビティ - カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + キャンバスダッシュボード {#canvas-dashboards}
-      + [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Workfrontでのキャンバスダッシュボードの調査 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [キャンバスダッシュボードでの KPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードでのグラフレポートの作成](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [キャンバスダッシュボードレポートでの OR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [キャンバスダッシュボードレポートでの OR フィルターの適用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + リソースの管理 {#manage-resources}
    + リソース管理 {#resource-management}
@@ -344,7 +344,7 @@ ht-degree: 86%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -519,13 +519,13 @@ ht-degree: 86%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)

@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL ガント]表示について'
+title: プロジェクト管理の [!UICONTROL  ガント ] ビューを探索
 description: ガントチャートを使用してプロジェクトの効率を最大化します。ガントチャートは、全体像ビュー、進捗のトラッキング、マイルストーンの管理、先行タスクのインサイト、カスタマイズ可能なオプションを提供して、タスクとリソースの管理を効率化します。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '363'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '369'
+ht-degree: 96%
 
 ---
 
-# [!UICONTROL ガント]表示について
+# プロジェクト管理の [!UICONTROL  ガント ] ビューを探索
 
 ビデオでは、プロジェクトガントチャートとタスクガントチャートを使用して、タスクとプロジェクトを効果的に視覚化して管理する方法について説明します。ガントチャートは、タスク、テンプレート、プロジェクトの全体像ビューを提供し、プロジェクト間の関係、特にリソースを共有するプロジェクト間の関係の理解にポートフォリオ内で一般的に使用されます。
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 ビデオでは、ガントチャートの柔軟性を強調し、ユーザーがビューをカスタマイズして複数の要素を同時に表示し、プロジェクト管理を向上させることができることについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448007/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 詳しくは、オンラインで[ガントチャートの基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=)の記事を参照してください。
 

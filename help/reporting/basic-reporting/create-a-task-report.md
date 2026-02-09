@@ -1,5 +1,5 @@
 ---
-title: タスクレポートの作成
+title: 遅延割り当てのタスク レポートを作成する
 description: 複雑なフィルターを使用してタスクレポートを作成し、Workfront で作成したレポートを見つける方法について説明します。
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 100%
+source-wordcount: '1121'
+ht-degree: 98%
 
 ---
 
-# タスクレポートの作成
+# 遅延割り当てのタスク レポートを作成する
 
 ビデオでは、ログインしたユーザーに割り当てられた遅延タスクを追跡するカスタムレポートを作成する手順を段階的に説明します。最初に、既存のフィルター、ビュー、ビルトインレポートが特定の要件を満たしていない場合のカスタムレポートの必要性を説明します。レポートには「自分に割り当てられた遅延タスク」という名前が付けられ、わかりやすくするために説明が追加されています。
 
 結果のレポートによって、ユーザーは遅延タスクに集中し、依存関係に関するインサイトを得て、ホストプロジェクトへのナビゲーションが簡素化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448343/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL ボード]ビューについて'
+title: タスク管理のボードビューを探索
 description: '[!UICONTROL ボード]ビューの [!DNL Kanban] インターフェイスを使用して Workfront でのタスク管理を効率化し、タスクの並べ替え、作成、カスタマイズおよびタスクリストビューとのシームレスな統合を提供して、効率的なプロジェクト組織を実現します。'
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '298'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '304'
+ht-degree: 95%
 
 ---
 
-# [!UICONTROL ボード]ビューについて
+# タスク管理のボードビューを探索
 
 このビデオでは、プロジェクトタスクの表示および管理の別の方法を提供する Workfront のボードビュー機能について説明します。ボードビューでは、タスクはかんばんスタイルのボード上にカードとして表示され、ユーザーは列内または列間でタスクを並べ替え、グループ化、移動できます。タスクを移動すると、そのステータスが自動的に更新され、タスクリストビューに反映されます。ユーザーは、新しいカードを作成してプロジェクトに新しいタスクを生成し、ボードビューで直接編集または割り当てることができます。列とカードを設定し、タスクリストビューで先行タスクを使用してタスクを順序付けることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423280/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

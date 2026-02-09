@@ -1,5 +1,5 @@
 ---
-title: 高度な先行タスク
+title: マスターの高度なタスクの依存関係
 description: 先行タスクの依存関係タイプ、ラグタイプ、強制的な先行タスク、依存関係ループエラー、いくつかのショートカットとベストプラクティスについて説明します。
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -12,14 +12,14 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 92%
 
 ---
 
-# 高度な先行タスク
+# マスターの高度なタスクの依存関係
 
 
 >[!PREREQUISITES]
@@ -36,7 +36,7 @@ ht-degree: 100%
 * 依存関係ループエラー
 * ショートカットとベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/3454527/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
 先行タスクの使用について詳しくは、[タスク先行タスクを使用](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ja)を参照してください。
 

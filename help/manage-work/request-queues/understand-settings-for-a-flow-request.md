@@ -1,5 +1,5 @@
 ---
-title: リクエストフローの設定について
+title: リクエストフローの設定の整理
 description: キュートピックの定義、トピックグループの使用、ルーティングルールの設定、事前の計画、送信の見落とし防止などにより、Workfront リクエスト管理を最適化し、効率を向上させます。
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '287'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 96%
 
 ---
 
-# リクエストフローの設定について
+# リクエストフローの設定の整理
 
 ビデオでは、キュー管理、ルーティングルール、トピックグループ、キュートピックに焦点を当てて、Workfront のリクエストフロープロセスについて説明します。次の 3 つの重要な質問に回答することで、リクエストキューの整理の重要性を強調しています。
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 これらの質問に対処することで、ユーザーは Workfront でリクエストキューを効果的に計画および設定できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441906/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

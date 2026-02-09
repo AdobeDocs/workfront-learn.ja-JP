@@ -1,5 +1,5 @@
 ---
-title: 追加のカレンダーレポートオプションについて
+title: 詳細なカレンダーレポート機能の調査
 description: カレンダーのコピー、編集、共有および削除方法を説明します。
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 追加のカレンダーレポートオプションについて
+# 詳細なカレンダーレポート機能の調査
 
 カレンダーレポートは、作業と休暇をカレンダービューに表示する動的なレポートです。次のオブジェクトの日付情報をカレンダーレポートに表示できます。
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 * カレンダーの共有
 * カレンダーの削除
 
->[!VIDEO](https://video.tv.adobe.com/v/3445057/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)

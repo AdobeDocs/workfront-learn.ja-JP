@@ -1,5 +1,5 @@
 ---
-title: 期間のタイプとタスクの制約の確認と管理について
+title: マスターの期間タイプとタスクの制約
 description: 期間タイプとタスク制約の概要と、それらがプロジェクトで適切に設定されていることを確認する方法について説明します。
 feature: Work Management
 thumbnail: 3420986.jpg
@@ -12,14 +12,14 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
-# 期間のタイプとタスクの制約の確認と管理について
+# マスターの期間タイプとタスクの制約
 
 このビデオでは、期間タイプとタスク制約に関する以下の内容について説明します。
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 使用上のベストプラクティス
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422827/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
 期間タイプとタスク制約のビューを作成する方法について詳しくは、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の&#x200B;**期間タイプとタスク制約のビュー**&#x200B;のアクティビティを参照してください。

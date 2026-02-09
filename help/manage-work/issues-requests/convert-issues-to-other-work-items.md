@@ -1,5 +1,5 @@
 ---
-title: イシュー／リクエストのタスクへの変換
+title: イシューまたはリクエストのタスクへの変換
 description: 編集可能な名前、シームレスなカスタムフォームの添付、柔軟なプロジェクト選択、変換オプション、同期されたステータス更新により、Workfront で簡単にタスクにイシューを変換し、ワークフローを効率化します。
 activity: use
 team: Technical Marketing
@@ -11,18 +11,18 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 93%
 
 ---
 
-# イシュー／リクエストのタスクへの変換
+# イシューまたはリクエストのタスクへの変換
 
 ビデオでは、イシューまたはリクエストをタスクに変換する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445431/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

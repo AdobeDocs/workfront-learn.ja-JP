@@ -1,5 +1,5 @@
 ---
-title: レポートコンポーネントについて
+title: Workfrontのレポートコンポーネントの調査
 description: Workfront のレポートコンポーネントでは、オブジェクトベースのフィルター、動的ビュー、構造化されたグループ化、調整されたインサイトのワイルドカード機能を使用して、データのビジュアライゼーションを絞り込みます。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '537'
+ht-degree: 98%
 
 ---
 
-# レポートコンポーネントについて
+# Workfrontのレポートコンポーネントの調査
 
 ビデオでは、フィルター、ビュー、グループ化の作成に不可欠な、Workfront のレポートコンポーネントの概念について説明します。主なコンポーネントは次のとおりです。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 * **フィルター修飾子：**&#x200B;優先度が「高」のタスクを表示するなど、レポートに含める値または除外する値を定義します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447022/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

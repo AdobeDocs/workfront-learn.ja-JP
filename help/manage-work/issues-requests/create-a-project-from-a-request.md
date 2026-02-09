@@ -1,5 +1,5 @@
 ---
-title: イシュー／リクエストのプロジェクトへの変換
+title: イシューまたはリクエストのプロジェクトへの変換
 description: テンプレートを使用してイシューをプロジェクトに変換し、プロジェクト詳細をカスタマイズし、イシュー解決オプションを管理し、シームレスなワークフローの表示とアクセスを確保することで、Workfront でのプロジェクト管理を効率化します。
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 93%
 
 ---
 
-# イシュー／リクエストのプロジェクトへの変換
+# イシューまたはリクエストのプロジェクトへの変換
 
 ビデオでは、イシューまたはリクエストをプロジェクトに変換する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446623/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

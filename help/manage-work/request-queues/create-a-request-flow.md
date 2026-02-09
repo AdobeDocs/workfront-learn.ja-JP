@@ -1,5 +1,5 @@
 ---
-title: リクエストフローの作成
+title: Workfrontでのリクエストフローの作成
 description: 効率的な割り当てのルーティングルールを作成し、ネストされたトピックグループを使用してリクエストを整理し、キュートピックをワークフローにリンクし、リクエストフローの機能をテストし、正確性と効率を確保する柔軟な調整を行うことで、リクエスト管理を最適化します。
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '406'
+ht-degree: 97%
 
 ---
 
-# リクエストフローの作成
+# Workfrontでのリクエストフローの作成
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 次に、ビデオでは、ルーティングルール、トピックグループ、カスタムフォーム、承認プロセス、デフォルトの期間にリンクされるキュートピックを作成する方法について説明します。
 最後に、ビデオでは、正しくルーティングされていることを確認するために、リクエストを送信して設定をテストする方法について説明します。イシューが発生した場合は、キューを調整できます。ビデオでは、適切なルーティングと整理を確実に行うために、リクエストフローの構造と機能を検証することの重要性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433823/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

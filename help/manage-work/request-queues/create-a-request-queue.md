@@ -1,5 +1,5 @@
 ---
-title: リクエストキューの作成
+title: Workfrontでリクエストキューを作成する
 description: アクセス権限の定義、リクエストタイプとフィールドのカスタマイズ、キューのアクティブ化、シームレスなプロジェクト送信管理の機能のテストを行うことで、効率的な Workfront リクエストキューを作成します。
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '248'
+ht-degree: 95%
 
 ---
 
-# リクエストキューの作成
+# Workfrontでリクエストキューを作成する
 
 ビデオでは、Workfont 内でリクエストキューを作成する方法する手順について段階的に説明します。ビデオの最後には、新しく作成したキューを使用してリクエストを送信する方法を示し、「送信済みリクエスト」タブで詳細を入力して送信を確認するプロセスについて説明します。
 

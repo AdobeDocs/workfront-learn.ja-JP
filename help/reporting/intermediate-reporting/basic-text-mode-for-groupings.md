@@ -1,5 +1,5 @@
 ---
-title: グループ化の基本的なテキストモードについて
+title: Workfrontのグループ化の基本的なテキストモードの探索
 description: Workfront のレポートグループ化で使用できるテキストモード、キャメルケース、基本的なテキストモードについて学習します。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '291'
+ht-degree: 94%
 
 ---
 
-# グループ化の基本的なテキストモードについて
+# Workfrontのグループ化の基本的なテキストモードの探索
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ ht-degree: 0%
 * キャメルケースとは
 * レポートのグループ化で使用できるいくつかの&#x200B;_テキストモードのコードブロック_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470782/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## 「グループ化の基本的なテキストモードについて」アクティビティ
 

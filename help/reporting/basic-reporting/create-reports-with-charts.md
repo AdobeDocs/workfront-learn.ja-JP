@@ -1,5 +1,5 @@
 ---
-title: グラフを使用したレポートの作成
+title: レポートのグラフでデータを視覚化
 description: グラフは、カスタマイズ可能なフィルター、グループ化、積み重ね縦棒グラフ形式を通じてデータインサイトを整理することで、データのビジュアライゼーションを強化し、分析をより明確かつ実用的なものにします。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '599'
+ht-degree: 97%
 
 ---
 
-# グラフを使用したレポートの作成
+# レポートのグラフでデータを視覚化
 
 ビデオでは、特にプロジェクトタスクを追跡する場合に、グラフを使用してデータを効果的に視覚化する方法について説明します。Workfront で 2 つのタイプのレポートを作成する方法を示します。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ビデオでは、円グラフや積み重ね縦棒グラフなどのグラフを使用して、タスクの分布とプロジェクトのパフォーマンスに関するインサイトを提供し、ユーザーがプロジェクトを比較してタスクの進捗を視覚的に理解できるようにする方法をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450015/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

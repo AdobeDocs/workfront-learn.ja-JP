@@ -1,5 +1,5 @@
 ---
-title: ビルトインイシューフィルターについて
+title: ビルトインイシューフィルターを探索
 description: ビルトインイシューフィルターをレビューしてその仕組みを確認する方法や、Workfront で独自のイシューフィルターを作成する方法を説明します。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
-# ビルトインイシューフィルターについて
+# ビルトインイシューフィルターを探索
 
 このビデオでは、次の操作を実行します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * いくつかの便利なイシューレポート要素について学ぶ
 * 独自のイシューフィルターを作成する方法を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3412680/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## 「ビルトインイシューフィルターについて」アクティビティ

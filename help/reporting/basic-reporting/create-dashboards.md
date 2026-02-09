@@ -1,5 +1,5 @@
 ---
-title: ダッシュボードの作成
+title: Workfrontでのダッシュボードの作成
 description: Workfront ダッシュボードを使用してプロジェクトデータを整理および表示します。ダッシュボードはカスタマイズ可能で、アクセスしやすく、共有および印刷できるので、シームレスなプロジェクト管理と共同作業が可能になります。
 activity: use
 feature: Reports and Dashboards
@@ -12,19 +12,19 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 100%
+source-wordcount: '650'
+ht-degree: 98%
 
 ---
 
-# ダッシュボードの作成
+# Workfrontでのダッシュボードの作成
 
 ビデオでは、Workfront のダッシュボードについて、および使用方法について包括的に説明します。
 ここでは、ダッシュボードとは、ユーザーが関連データを 1 か所に整理して表示できるレポートのコレクションであると説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449123/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 

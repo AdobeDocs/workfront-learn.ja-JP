@@ -1,5 +1,5 @@
 ---
-title: レポート要素について
+title: Workfront レポート要素の詳細
 description: カスタマイズ可能なフィルター、ビュー、グループ化により、リストレポートを絞り込み、データを効率的に整理し、シームレスな共同作業を可能にするプロジェクトレポートを強化します。
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '241'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 96%
 
 ---
 
-# レポート要素について
+# Workfront レポート要素の詳細
 
 ビデオでは、Workfront のレポート要素（フィルター、ビュー、グループ化）を使用して、プロジェクト、タスク、その他のオブジェクトのリストレポートで貴重な情報にアクセスして絞り込む方法について説明します。フィルターを使用すると、アクティブなプロジェクトや自分に割り当てられたタスクのみを表示するなど、特定の条件に基づいてリストを絞り込むことができます。ビューでは、列に表示される情報を決定します。これにより、収益や費用などの特定のフィールドがハイライト表示されます。グループ化では、予定完了日や進捗ステータスなどの条件に基づいてリストを整理します。
 
 また、ビデオでは、レポート要素をカスタマイズして他のユーザーと共有する方法についても説明します。これらのツールを使用すると、ユーザーは、リストレポートをニーズに合わせて調整し、表示と管理を向上させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447789/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 
