@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfrontの機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
 workflow-type: tm+mt
-source-wordcount: '2483'
+source-wordcount: '2488'
 ht-degree: 78%
 
 ---
@@ -116,7 +116,7 @@ ht-degree: 78%
       + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
       + [効果的なコミュニケーションを通じてプロジェクトの成功を向上](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化の探索 &#x200B;](/help/manage-work/projects/view-project-information.md)
+      + [ プロジェクト管理のフィルター、ビュー、グループ化の探索 ](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [プロジェクト管理のガント ビューを探索する](/help/manage-work/projects/understand-the-gantt-view.md)
@@ -167,6 +167,7 @@ ht-degree: 78%
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
       + [プロジェクトテンプレートの作成とブループリントの調査](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [ブループリントのインストールと使用](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [プロジェクトをテンプレートから直接作成](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの効果的な共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存プロジェクトの効率的なコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
@@ -220,7 +221,7 @@ ht-degree: 78%
       + [日付ベースのワイルドカードを使用したフィルターの作成](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [フィルターでの OR 文の作成](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
       + [ビルトインプロジェクトフィルターの調査](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [&#x200B; ビルトインタスクフィルターを探索 &#x200B;](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [ ビルトインタスクフィルターを探索 ](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [ビルトインイシューフィルターを探索](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [Workfrontのフィルターの基本的なテキストモードの調査](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
       + [Workfrontのビューの基本的なテキストモードの探索](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
@@ -241,7 +242,7 @@ ht-degree: 78%
       + [アクティビティ - カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + キャンバスダッシュボード {#canvas-dashboards}
-      + [Workfrontでのキャンバスダッシュボードの調査 &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Workfrontでのキャンバスダッシュボードの調査 ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [キャンバスダッシュボードでの KPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードでのグラフレポートの作成](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
@@ -344,7 +345,7 @@ ht-degree: 78%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -519,13 +520,13 @@ ht-degree: 78%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
