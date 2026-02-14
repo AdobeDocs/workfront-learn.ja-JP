@@ -23,7 +23,7 @@ ht-degree: 24%
 管理者がブループリントをインストールする方法と、ユーザーが使用するブループリントを配置する方法について説明します。 この例では、「新規ユーザー向けWorkfront トレーニング」ブループリントをインストールし、作成したテンプレートとビューをトレーニングチェックリストとして使用して、Workfrontでユーザーを有効にします。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479835/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 主な要点
 
