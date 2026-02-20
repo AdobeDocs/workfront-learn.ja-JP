@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
-workflow-type: ht
-source-wordcount: '985'
-ht-degree: 100%
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+workflow-type: tm+mt
+source-wordcount: '1181'
+ht-degree: 78%
 
 ---
 
@@ -43,24 +43,42 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
    ![最初のシナリオデザイン画像 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. 次のページで、「Workfront」を検索してアプリを選択します。「続行」をクリックします。
-1. シナリオデザイナー画面の左上で、シナリオの名前を「最初のシナリオのデザイン」に変更します。
+1. シナリオ designer 画面の左上で、シナリオの名前を「最初のシナリオのデザイン」に変更します。
 1. 画面の中央にある空のトリガーモジュールをクリックし、Workfront アプリを選択して、「ドキュメントをダウンロード」モジュールを選択します。
 
    **モジュールの Workfront アカウントへの接続を認証します。**
 
-1. 接続を初めて作成する場合は、「追加」ボタンをクリックします。
+1. Workfront インスタンスに接続する前に、まずWorkfront インスタンスに OAuth 2.0 コネクタを作成する必要があります。 Workfront インスタンスにログインするには、**設定/システム/OAuth2 アプリケーション** に移動し、「**アプリ統合を作成**」をクリックします。
 
-   ![最初のシナリオデザイン画像 3](../12-exercises/assets/initial-scenario-design-3.png)
+フォームの最初のページに以下のように入力し、「**作成**」をクリックします。
 
-1. 接続に名前を付けます（「My Workfront 2020」など）。
+![ 最初のシナリオデザイン画像 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![最初のシナリオデザイン画像 4](../12-exercises/assets/initial-scenario-design-4.png)
+次の画面が表示されたら、「**リダイレクト URL**」フィールドに次の URL を入力します。
 
-1. **Workfront テストドライブアカウント**&#x200B;の URL を入力してから、「次へ」をクリックします。
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![最初のシナリオデザイン画像 5](../12-exercises/assets/initial-scenario-design-5.png)
+![ 最初のシナリオデザイン画像 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. パスワードを入力して「ログイン」をクリックします。
+次に、「**クライアントシークレットの追加** ボタンをクリックします。 クライアントシークレットが表示されます。 コピーして、後の手順で取得できる場所に保存します。 Fusion シナリオで必要になります。 また、**クライアント ID** をコピーして後の手順で保存します。 コピーが完了したら、アプリケーションの下部にある「**保存** をクリックします。
+
+![ 最初のシナリオデザイン画像 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. Fusion に戻り、「**追加**」ボタンをクリックしてWorkfrontとの接続を作成します。
+
+   ![ 最初のシナリオデザイン画像 3D](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. 接続タイプとして「**Adobe Workfront認証**」を選択し、「**詳細設定を表示**」ボックスをオンにします。 次に、「**続行**」をクリックします。
+
+   ![ 最初のシナリオデザイン画像 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. 以前に保存した **クライアント ID** と **クライアントシークレット** を使用して、ここに入力します。 **認証 URL** については、フィールドの下に表示されているデフォルトの認証 URL をコピーして、`oauth.my` を `<domain name>.testdrive` に置き換え、「**続行**」をクリックするのが簡単です。
+
+   ![ 最初のシナリオデザイン画像 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. 接続は認証中である必要があります。 Workfrontにログインする必要がある場合があります。 「**アクセスを許可**」をクリックします。
+
+   ![ 最初のシナリオデザイン画像 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **接続が確立されました。次に、Workfront からダウンロードするドキュメントのドキュメント ID を入力します。**
 
@@ -81,7 +99,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
    ![最初のシナリオデザイン画像 9](../12-exercises/assets/initial-scenario-design-9.png)
 
 1. このモジュールの名前を「プロジェクトリストを解析」に変更します。
-1. シナリオデザイナーの下部で「保存」をクリックして、シナリオを保存します。
+1. シナリオ designer の下部で「保存」をクリックして、シナリオを保存します。
 1. 「1 回実行」をクリックして出力を表示します。
 
    >[!NOTE]
@@ -117,7 +135,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
 
    >[!NOTE]
    >
-   >「OK」をクリックせずに誤って「戻る」をクリックしてデザイナーに戻った場合は、作業内容は保存されていないため、再度マッピングする必要があります。
+   >「OK」をクリックせずに誤って「戻る」をクリックして designer に戻った場合は、作業内容は保存されていないため、再度マッピングする必要があります。
 
 1. Workfront モジュールを右クリックし、名前を「Workfront プロジェクトの作成」に変更します。
 1. シナリオを保存し、「1 回実行」ボタンをクリックします。
@@ -129,7 +147,7 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
 
    **メモの使用**
 
-1. メモは、シナリオのデザインをより明確に把握するのに役立ちます。 「Workfront プロジェクトを作成」モジュールにメモを追加するには、右クリックして「メモを追加」を選択します。デザイナーウィンドウの右側にあるパネルがポップアウト表示され、モジュールにメモを追加できます。「CSV ファイルからマッピングされた名前、予定開始日、優先度を使用してプロジェクトを作成します。」と入力します。
+1. メモは、シナリオのデザインをより明確に把握するのに役立ちます。 「Workfront プロジェクトを作成」モジュールにメモを追加するには、右クリックして「メモを追加」を選択します。Designer ウィンドウの右側にあるパネルがポップアウト表示され、モジュールにメモを追加できます。「CSV ファイルからマッピングされた名前、予定開始日、優先度を使用してプロジェクトを作成します。」と入力します。
 1. トリガーモジュール（最初の Workfront モジュール）が何をしているかを説明するメモも追加します。
 1. メモパネルを閉じるには、右上隅の X をクリックします。
 
