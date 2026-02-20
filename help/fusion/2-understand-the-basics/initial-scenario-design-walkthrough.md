@@ -34,7 +34,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 * シナリオ designer の使用
 * 基本的なシナリオの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415975/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 以下は、テストドライブインスタンスで OAuth アプリ統合を作成する際に「**リダイレクト URL**」フィールドに貼り付ける URL です
 
