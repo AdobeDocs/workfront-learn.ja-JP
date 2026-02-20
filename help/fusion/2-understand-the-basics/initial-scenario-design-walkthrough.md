@@ -13,7 +13,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 83%
@@ -34,9 +34,9 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 * シナリオ designer の使用
 * 基本的なシナリオの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3415975/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
-## 以下は、テストドライブインスタンスで OAuth アプリ統合を作成する際に「**リダイレクト URL**」フィールドに貼り付ける URL です
+**テストドライブインスタンスで OAuth アプリ統合を作成する際に、「リダイレクト URL」フィールドに貼り付ける URL は次のとおりです**
 
 ```
 https://app.workfrontfusion.com/oauth/cb/workfront-workfront
@@ -44,4 +44,4 @@ https://app.workfrontfusion.com/oauth/cb/workfront-workfront
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

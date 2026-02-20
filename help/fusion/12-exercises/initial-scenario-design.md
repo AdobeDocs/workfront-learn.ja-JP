@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 78%
@@ -52,33 +52,33 @@ Workfront で、プロジェクトリストの CSV ファイルの各レコー�
 
 フォームの最初のページに以下のように入力し、「**作成**」をクリックします。
 
-![&#x200B; 最初のシナリオデザイン画像 3a](../12-exercises/assets/initial-scenario-design-3a.png)
+![ 最初のシナリオデザイン画像 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
 次の画面が表示されたら、「**リダイレクト URL**」フィールドに次の URL を入力します。
 
 `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-![&#x200B; 最初のシナリオデザイン画像 3b](../12-exercises/assets/initial-scenario-design-3b.png)
+![ 最初のシナリオデザイン画像 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
 次に、「**クライアントシークレットの追加** ボタンをクリックします。 クライアントシークレットが表示されます。 コピーして、後の手順で取得できる場所に保存します。 Fusion シナリオで必要になります。 また、**クライアント ID** をコピーして後の手順で保存します。 コピーが完了したら、アプリケーションの下部にある「**保存** をクリックします。
 
-![&#x200B; 最初のシナリオデザイン画像 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+![ 最初のシナリオデザイン画像 3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
 1. Fusion に戻り、「**追加**」ボタンをクリックしてWorkfrontとの接続を作成します。
 
-   ![&#x200B; 最初のシナリオデザイン画像 3D](../12-exercises/assets/initial-scenario-design-3d.png)
+   ![ 最初のシナリオデザイン画像 3D](../12-exercises/assets/initial-scenario-design-3d.png)
 
 1. 接続タイプとして「**Adobe Workfront認証**」を選択し、「**詳細設定を表示**」ボックスをオンにします。 次に、「**続行**」をクリックします。
 
-   ![&#x200B; 最初のシナリオデザイン画像 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+   ![ 最初のシナリオデザイン画像 4a](../12-exercises/assets/initial-scenario-design-4a.png)
 
 1. 以前に保存した **クライアント ID** と **クライアントシークレット** を使用して、ここに入力します。 **認証 URL** については、フィールドの下に表示されているデフォルトの認証 URL をコピーして、`oauth.my` を `<domain name>.testdrive` に置き換え、「**続行**」をクリックするのが簡単です。
 
-   ![&#x200B; 最初のシナリオデザイン画像 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+   ![ 最初のシナリオデザイン画像 5a](../12-exercises/assets/initial-scenario-design-5a.png)
 
 1. 接続は認証中である必要があります。 Workfrontにログインする必要がある場合があります。 「**アクセスを許可**」をクリックします。
 
-   ![&#x200B; 最初のシナリオデザイン画像 5b](../12-exercises/assets/initial-scenario-design-5b.png)
+   ![ 最初のシナリオデザイン画像 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **接続が確立されました。次に、Workfront からダウンロードするドキュメントのドキュメント ID を入力します。**
 
