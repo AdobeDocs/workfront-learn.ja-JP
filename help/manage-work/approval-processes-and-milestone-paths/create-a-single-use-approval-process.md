@@ -1,5 +1,5 @@
 ---
-title: グローバルおよび単一使用承認プロセスの作成
+title: 承認プロセスを作成および管理する
 description: タスク、プロジェクト、イシューに対するグローバル承認プロセスと単一承認プロセスの両方を活用し、複数レベルのステージングされた承認を実装し、プロジェクトテンプレートの再利用性を通じて効率を高めることで、承認ワークフローを強化します。
 activity: use
 feature: Approvals
@@ -13,20 +13,20 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '294'
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
+workflow-type: tm+mt
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
 
-# グローバルおよび単一使用承認プロセスの作成
+# 承認プロセスを作成および管理する
 
 ビデオでは、グローバル承認プロセスと単一使用承認プロセスを区別しながら、プロジェクト、タスク、イシューの承認プロセスを作成および管理する方法について説明します。
 ビデオでは、承認プロセスの作成、承認者の設定、ステータスの設定、複数レベルの承認に対するステージの使用について説明します。
 タスク承認を効果的に管理するグローバルプロセスと単一使用プロセスの両方の柔軟性をハイライト表示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434688/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 
