@@ -11,8 +11,8 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+workflow-type: tm+mt
 source-wordcount: '727'
 ht-degree: 100%
 
@@ -104,4 +104,5 @@ ht-degree: 100%
 <!--
 #### Guides
 * Reviewing proofs in [!DNL Workfront]
-* -->
+* 
+-->

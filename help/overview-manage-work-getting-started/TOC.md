@@ -1,32 +1,32 @@
 ---
-user-guide-title: 作業の管理 – はじめに
-user-guide-description: プロジェクトの作成、計画、管理の基本を理解したら、Workfrontを最大限に活用するために、あといくつか知っておくべきことがあります。
+user-guide-title: 作業管理 – はじめに
+user-guide-description: プロジェクトの作成、計画、管理の基本を学んだら、Workfrontを最大限に活用するために知っておくべきことがいくつかあります。
 feature: Work Management
-breadcrumb-title: 作業の管理 – はじめに
+breadcrumb-title: 作業管理 – はじめに
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 69%
+ht-degree: 71%
 
 ---
 
 
-# 作業の管理 – はじめに {#manage-work-getting-started}
+# 作業管理 – はじめに {#manage-work-getting-started}
 
-+ [作業の管理 – はじめに](overview.md)
-+ 作業の管理 – はじめに {#manage-work-getting-started}
-   + プロジェクト を作成する {#create-a-project}
++ [作業管理 – はじめに](overview.md)
++ 作業管理 – はじめに {#manage-work-getting-started}
+   + プロジェクトの作成 {#create-a-project}
       + [基本的なプロジェクト作成について](understand-basic-project-creation.md)
-      + [イシュー／リクエストのプロジェクトへ変換](create-a-project-from-a-request.md)
+      + [イシュー／リクエストのプロジェクトへの変換](create-a-project-from-a-request.md)
       + [プロジェクトを作成する 4 つの方法を学ぶ](understand-other-ways-to-create-projects.md)
       + [プロジェクト詳細の入力](fill-in-the-project-details.md)
       + [プロジェクトページの移動](navigate-the-project-page.md)
 
-   + プロジェクトの計画 {#plan-a-project}
-      + [プロジェクトのプランニングの基本を学ぶ](getting-started-plan-a-project.md)
+   + プロジェクトを計画 {#plan-a-project}
+      + [プロジェクトの計画の基本を学ぶ](getting-started-plan-a-project.md)
       + [タスクを作成](how-to-create-tasks.md)
       + [親子タスクについて](understand-parent-child-tasks.md)
       + [タスクの操作](work-with-tasks.md)
@@ -35,11 +35,11 @@ ht-degree: 69%
       + [タスクの順序付けを学ぶ](learn-to-sequence-tasks.md)
       + [予定時間数について](understand-planned-hours.md)
       + [プロジェクトタイムラインについて](understand-project-timelines.md)
-      + [&#x200B; 日付タイプと進捗ステータスについて &#x200B;](understand-task-dates-and-progress-status.md)
+      + [日付の種類と進捗状況について](understand-task-dates-and-progress-status.md)
       + [[!UICONTROL 作業量]について](understand-work-effort.md)
       + [プロジェクトを稼動させる](take-a-project-live.md)
 
-   + プロジェクト ールの管理 {#manage-a-project}
+   + プロジェクトの管理 {#manage-a-project}
       + [プロジェクト管理の基本を学ぶ](getting-started-manage-a-project.md)
       + [プロジェクトの検索](find-projects.md)
       + [プロジェクトの共有](share-a-project.md)

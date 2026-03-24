@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 100%
@@ -18,7 +18,9 @@ ht-degree: 100%
 
 # 計算フィールドと式の基本を学ぶ
 
-<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
+<!--
+**Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.
+-->
 
 Workfront は、複数のビジネス領域に共通する、作業管理に常に使用される様々なフィールドを提供します。予定完了日、プロジェクト予算、タスク担当者名などのフィールドです。
 
