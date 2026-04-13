@@ -38,7 +38,7 @@ this has the same content as the system administrator notification setup and man
 * 自動リマインダーを受け取る必要があるユーザー。
 * 作業の期限の前後で通知を送信する必要があるタイミング。
 
-![[!UICONTROL 設定の自動リマインダー][!UICONTROL ウィンドウ]](assets/admin-fund-automatic-reminders-1.png)
+![[!UICONTROL 設定の自動リマインダー]&#x200B;[!UICONTROL ウィンドウ]](assets/admin-fund-automatic-reminders-1.png)
 
 この時点で、自動リマインダーが適用され、条件が満たされるとすぐに送信されます。また、ユーザーが自分の「[!UICONTROL マイ設定]」ウィンドウで自動リマインダーを無効にすることはできません。
 
