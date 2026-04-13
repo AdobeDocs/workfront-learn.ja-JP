@@ -11,9 +11,8 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
-hidefromtoc: true
-source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
-workflow-type: ht
+source-git-commit: d35545dcc670baef47834464a0a7aae9e50daf18
+workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
 
