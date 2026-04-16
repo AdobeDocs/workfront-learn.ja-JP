@@ -9,9 +9,9 @@ doc-type: Feature Video
 duration: 138
 last-substantial-update: 2026-04-15T00:00:00Z
 jira: KT-20166
-source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
+source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # ユーザー定義ローカライゼーションの設定
 
-ユーザーの環境設定に基づいてコンテンツを複数の言語で表示するように、ユーザー定義のローカライゼーションを設定する方法について説明します。 この機能により、チームが自国語で作業できるようになり、地域をまたいだ共同作業が簡素化されます。 言語固有の翻訳を効率的に設定および管理する方法については、次のビデオをご覧ください。
+ユーザーの環境設定に基づいてコンテンツを複数の言語で表示するように、ユーザー定義のローカライゼーションを設定する方法について説明します。 これにより、チームが各地域の言語で作業できるようになり、部門間のコラボレーションが簡素化されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483440/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
 

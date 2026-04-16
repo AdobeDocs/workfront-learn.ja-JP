@@ -9,9 +9,9 @@ duration: 189
 last-substantial-update: 2026-04-15T00:00:00Z
 jira: KT-20168
 thumbnail: KT-20168.jpeg
-source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
+source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 高度な表示ロジックの設定
 
-高度な表示ロジック式を使用して、カスタムフォームフィールドとセクションの表示を制御する方法を説明します。 この機能は、より動的でカスタマイズされたフォームを作成し、特定のユーザーニーズに対応して、ワークフローの効率を向上させるのに役立ちます。
+高度な表示ロジック式を使用して、カスタムフォームフィールドやセクションの表示を制御し、より動的でカスタマイズされたフォームの作成、特定のユーザーニーズへの対応、ワークフロー効率の向上を支援する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483452/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
 
