@@ -1,25 +1,25 @@
 ---
 title: レイアウトテンプレートを使用したプロジェクトヘッダーのカスタマイズ
-description: レイアウトテンプレートを使用して、プロジェクトヘッダーにフィールドを追加および削除する方法を説明します。
+description: Adobeのレイアウトテンプレートを使用して、プロジェクトのヘッダーをカスタマイズし、重要な詳細情報を表示して、ワークフローを効率化する方法を説明します。
 feature: System Setup and Administration
-activity: deploy
-team: Technical Marketing
+topic: Personalization
 role: Admin
-level: Intermediate
-type: Tutorial
-thumbnail: null
-jira: KT-11108
-doc-type: video
-exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+level: Beginner
+doc-type: Feature Video
+duration: 240
+last-substantial-update: 2026-04-15T00:00:00Z
+jira: KT-20209
+source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 
+
 # レイアウトテンプレートを使用したプロジェクトヘッダーのカスタマイズ
 
-レイアウトテンプレートを使用して、プロジェクトヘッダーにフィールドを追加および削除する方法を説明します。
+レイアウトテンプレートを使用して、プロジェクトヘッダーをカスタマイズし、最も関連性の高い情報のみを表示する方法を説明します。 不要なフィールドを削除し、カスタムフィールドを追加し、効果的に整理する方法を説明します。 これにより、チームはプロジェクトの重要な詳細にすばやくアクセスでき、明確性と効率性が向上します。 プロジェクトヘッダーの最適化に関するステップバイステップガイダンスについては、次のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422846?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3483464/?captions=jpn&learn=on&enablevpops)
+

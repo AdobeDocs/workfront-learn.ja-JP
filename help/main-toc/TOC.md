@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
+source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
 workflow-type: tm+mt
-source-wordcount: '2485'
+source-wordcount: '2499'
 ht-degree: 78%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 78%
       + [イシューのタイプと用語をカスタマイズする](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [グローバルなデフォルトのイシュー環境設定を構成する](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [ビジネスルールの作成および管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [ユーザー定義ローカライズの設定](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + レイアウトテンプレート {#layout-templates}
       + [レイアウトテンプレートとは](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -50,7 +51,7 @@ ht-degree: 78%
       + [レイアウトテンプレートを使用したレポートリストのカスタマイズ](/help/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
 
-   + メール通知およびアプリ内通知 {#email-and-in-app-notifications}
+   + メールとアプリ内通知 {#email-and-in-app-notifications}
       + [アプリ内通知およびメール通知の管理](/help/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
       + [イベント通知の設定](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
       + [[!UICONTROL 通知センター]メッセージの送信](/help/administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
@@ -67,7 +68,7 @@ ht-degree: 78%
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [グループ固有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [マイルストーンパスと手順の作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [マイルストーンパスとステップの作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + システムのパフォーマンスとメンテナンス {#system-perfomance-and-maintenance}
       + [既存の Adobe Workfront インスタンスの管理](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -88,6 +89,8 @@ ht-degree: 78%
       + [カスタムフォームをオブジェクトへ添付](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームへのセクション区切りとロジックの追加](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [カスタムフォームを PDF として書き出し](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [カスタムフォームへの検証ロジックの追加](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [高度な表示ロジックの設定](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 計算式 {#calculated-expressions}
       + [計算フィールドと式の基本を学ぶ](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -105,129 +108,129 @@ ht-degree: 78%
 
 + 作業の管理 {#manage-work}
    + プロジェクト {#projects}
-      + [プロジェクトをゼロから作成および管理](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [プロジェクトをゼロから作成、管理する](/help/manage-work/projects/understand-basic-project-creation.md)
       + [プロジェクトページのナビゲーション](/help/manage-work/projects/navigate-the-project-page.md)
-      + [プロジェクトを作成する 4 つの方法を検討します](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [プロジェクトの基本的な詳細を入力します](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [Workfrontでプロジェクトを効果的に計画する](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [プロジェクトを作成するための4つの方法を検討する](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [プロジェクトの基本情報を入力](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Workfrontによる効果的なプロジェクト計画](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [プロジェクトを稼動させる](/help/manage-work/projects/take-a-project-live.md)
-      + [現在のステータスでプロジェクトを管理](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [プロジェクトを効率的に検索](/help/manage-work/projects/find-projects.md)
+      + [現在のステータスを持つプロジェクトの管理](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [プロジェクトを効率的に探す](/help/manage-work/projects/find-projects.md)
       + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
-      + [効果的なコミュニケーションを通じてプロジェクトの成功を向上](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化の探索 &#x200B;](/help/manage-work/projects/view-project-information.md)
+      + [効果的なコミュニケーションによるプロジェクトの成功の向上](/help/manage-work/projects/understand-project-communication.md)
+      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [プロジェクト管理のガント ビューを探索する](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [タスク管理のボードビューを探索](/help/manage-work/projects/understand-the-board-view.md)
+      + [プロジェクト管理におけるガントチャートの活用](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [タスク管理のボードビューを確認する](/help/manage-work/projects/understand-the-board-view.md)
 
    + タスク {#tasks}
-      + [Workfrontでのタスクの効率的な作成](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [Workfrontで効率的にタスクを作成](/help/manage-work/tasks/how-to-create-tasks.md)
       + [親子タスクの関係について](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Workfrontでのタスクの効率的な管理](/help/manage-work/tasks/work-with-tasks.md)
+      + [Workfrontでタスクを効率的に管理](/help/manage-work/tasks/work-with-tasks.md)
       + [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [正確なレポートを行うためのタスクステータスの更新](/help/manage-work/tasks/update-the-task-status.md)
+      + [正確なレポート用にタスクステータスを更新](/help/manage-work/tasks/update-the-task-status.md)
       + [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
-      + [Workfrontでタスクの効果的な順序付け](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Workfrontでタスクを効果的に順序付け](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
-      + [作業量を使用したタスク時間の見積もり](/help/manage-work/tasks/understand-work-effort.md)
+      + [作業量によるタスク時間の見積もり](/help/manage-work/tasks/understand-work-effort.md)
 
    + イシュー/リクエスト {#issues-requests}
-      + [予定外作業の効率的な処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [予定外の作業を効果的に処理する](/help/manage-work/issues-requests/handle-unplanned-work.md)
       + [Workfrontでのリクエストの作成と管理](/help/manage-work/issues-requests/make-a-request.md)
-      + [リクエストの効率的な検索と管理](/help/manage-work/issues-requests/find-requests.md)
-      + [イシューの割り当てを効果的に管理する](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [イシューステータスを効果的に更新](/help/manage-work/tasks/update-the-issue-status.md)
+      + [リクエストを効率的に検索および管理](/help/manage-work/issues-requests/find-requests.md)
+      + [問題の割り当てを効果的に管理](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [問題のステータスを効果的に更新](/help/manage-work/tasks/update-the-issue-status.md)
       + [Workfrontでのリクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
-      + [イシューまたはリクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [イシューまたはリクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [イシュー管理のカスタムレポートの作成](/help/manage-work/issues-requests/report-on-issues.md)
+      + [イシューまたはリクエストをプロジェクトに変換する](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [イシューまたはリクエストをタスクに変換する](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [イシュー管理用のカスタムレポートの作成](/help/manage-work/issues-requests/report-on-issues.md)
 
    + リクエストキュー {#request-queues}
-      + [Workfrontのリクエストキューを調べる](/help/manage-work/request-queues/understand-request-queues.md)
-      + [Workfrontでリクエストキューを作成する](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [リクエストフローの設定の整理](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Workfrontのリクエストキューの詳細](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Workfrontでのリクエストキューの作成](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [リクエストフロー設定の整理](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Workfrontでのリクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
       + [システム管理者のフィードバックリクエストキューの作成](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [リクエストキューに関するよくある質問へ回答](/help/manage-work/request-queues/request-queue-faq.md)
 
    + ポートフォリオ {#portfolios}
-      + [ポートフォリオの管理と最適化の詳細](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [包括的なビジネスケースの作成](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Portfolio最適化ツールを使用したプロジェクトの優先度の最適化](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [ポートフォリオ管理と最適化について詳しく見る](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [包括的なビジネスケースの構築](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Portfolio Optimization Toolでプロジェクトの優先順位を最適化する](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
       + [承認プロセスを作成および管理する](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [リクエストキューへのイシュー承認プロセスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [デジタル作品のレビューと承認](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [タスク、イシュー、承認を効果的に委任する](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [プロジェクトとタスクにマイルストーンパスを適用する](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [プロジェクトでマイルストーンを表示する](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [タスク、イシュー、承認の効果的な委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [プロジェクトとタスクへのマイルストーンパスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [プロジェクトでのマイルストーンの表示](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
-      + [プロジェクトテンプレートの作成とブループリントの調査](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [プロジェクトテンプレートの作成とブループリントの探索](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [ブループリントのインストールと使用](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [プロジェクトをテンプレートから直接作成](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの効果的な共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [既存プロジェクトの効率的なコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [既存のプロジェクトを効率的にコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [テンプレートでプロジェクトチームを編集する](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [テンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + プロジェクトタイムライン {#project-timelines}
-      + [Workfrontでのプロジェクトタイムラインの調査](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [Workfrontのプロジェクトのタイムラインを見る](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [日付タイプと進捗ステータスについて](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [完了率と進捗ステータスを使用した進捗の追跡](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [完了率と進捗状況を使用して進捗状況を追跡する](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + プロジェクトを閉じる {#close-a-project}
       + [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-      + [タスクと問題の承認を解決する](/help/manage-work/close-a-project/complete-approvals.md)
+      + [タスクと問題の承認を解決](/help/manage-work/close-a-project/complete-approvals.md)
       + [プロジェクトアセットのアップロードと管理](/help/manage-work/close-a-project/upload-assets.md)
-      + [今後のプロジェクトで得た教訓を記録する](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [プロジェクト時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [今後のプロジェクトで学んだ教訓を記録する](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [プロジェクト時間の記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + プロジェクトの財務（ユーザー向け） {#project-finances-users}
       + [プロジェクトとタスクの財務情報へのアクセスと管理](/help/manage-work/project-finances/find-financial-information.md)
-      + [クライアントプロジェクトの財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [担当業務の請求レートのカスタマイズ](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [顧客プロジェクトの財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [担当業務の請求率のカスタマイズ](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 中間プロジェクト {#intermediate-projects}
-      + [マスターの期間タイプとタスクの制約](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [プロジェクト間先行タスクとの依存関係の確立](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [マスター期間タイプとタスクの制約](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [プロジェクト間の先行タスクとの依存関係の確立](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
       + [マスターの高度なタスクの依存関係](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + レポート {#reporting}
-   + 基本レポート {#basic-reporting}
-      + [Workfront レポート要素の詳細](/help/reporting/basic-reporting/reporting-elements.md)
-      + [Workfrontのレポートコンポーネントの調査](/help/reporting/basic-reporting/reporting-components.md)
+   + 基本的なレポート {#basic-reporting}
+      + [Workfrontのレポート機能の詳細](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Workfrontのレポートコンポーネントの詳細](/help/reporting/basic-reporting/reporting-components.md)
       + [基本グループの作成](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [ビューに基本的な条件付き書式を追加](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [基本フィルターの作成](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [新しいフィルターエクスペリエンスを探索](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [新しいフィルターエクスペリエンスの詳細](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [基本フィルターの作成アクティビティ](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [シンプルなレポートの作成](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [遅延割り当てのタスク レポートを作成する](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [遅延割り当て用のタスクレポートの作成](/help/reporting/basic-reporting/create-a-task-report.md)
       + [レポートのコピーと編集](/help/reporting/basic-reporting/copy-a-report.md)
-      + [レポートのグラフでデータを視覚化](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [レポートのチャートでデータを可視化](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [マトリックスレポートの作成](/help/reporting/basic-reporting/create-a-matrix-report.md)
       + [Workfrontでのダッシュボードの作成](/help/reporting/basic-reporting/create-dashboards.md)
-      + [レポートの効果的な送信と共有](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [レポート設定とプロンプトの調査](/help/reporting/basic-reporting/report-settings.md)
+      + [レポートを効果的に送信して共有](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [レポート設定とプロンプトについて詳しく見る](/help/reporting/basic-reporting/report-settings.md)
 
    + 中間レポート {#intermediate-reporting}
       + [ユーザーベースのワイルドカードを使用してフィルターを作成する](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [日付ベースのワイルドカードを使用したフィルターの作成](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [フィルターでの OR 文の作成](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [ビルトインプロジェクトフィルターの調査](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [&#x200B; ビルトインタスクフィルターを探索 &#x200B;](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [ビルトインイシューフィルターを探索](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [Workfrontのフィルターの基本的なテキストモードの調査](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [Workfrontのビューの基本的なテキストモードの探索](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [Workfrontのグループ化の基本的なテキストモードの探索](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [組み込みのプロジェクトフィルターについて詳しく見る](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [組み込みのタスクフィルターを検索](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [ビルトインの問題フィルターを確認する](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [Workfrontのフィルターの基本的なテキストモードについて説明します](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Workfrontのビューの基本的なテキストモードについて説明します](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Workfrontのグループ化の基本テキストモードについて説明します](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [テキストモードを使用したカスタムプロンプトの作成](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [複雑なレポート用の EXISTS フィルターの作成](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [複雑なレポート用のEXISTS フィルターの作成](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + 高度なレポート {#advanced-reporting}
       + [詳細レポート機能へようこそ](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -236,18 +239,18 @@ ht-degree: 78%
       + [高度なレポート第 3 部](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + カレンダーレポート {#calendar-reports}
-      + [カレンダーレポートインターフェイスの探索](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [カレンダーレポートのインターフェイスを活用](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [カスタムカレンダーレポートの作成](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [詳細なカレンダーレポート機能の調査](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [高度なカレンダーレポート機能の詳細](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [アクティビティ - カレンダーレポートの作成](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + キャンバスダッシュボード {#canvas-dashboards}
-      + [Workfrontでのキャンバスダッシュボードの調査 &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [WorkfrontのCanvas ダッシュボードを見る](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [キャンバスダッシュボードでの KPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-      + [キャンバスダッシュボードでのグラフレポートの作成](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
-      + [キャンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-      + [キャンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [キャンバスダッシュボードレポートでの OR フィルターの適用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [Canvas ダッシュボードでのグラフ レポートの作成](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
+      + [カンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+      + [カンバスダッシュボードレポートへの条件付き書式の追加](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+      + [カンバスダッシュボードレポートでのOR フィルターの適用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + リソースの管理 {#manage-resources}
    + リソース管理 {#resource-management}
@@ -264,7 +267,7 @@ ht-degree: 78%
       + [ワークロードバランサーで考慮すべき設定](/help/manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
       + [ワークロードバランサーでの作業の割り当て](/help/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
 
-   + リソースプランニング {#resource-planning}
+   + リソース計画 {#resource-planning}
       + [リソースプランナーとは](/help/manage-resources/resource-planning/what-is-the-resource-planner.md)
       + [稼働率の表示](/help/manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
       + [ユーザー別に表示](/help/manage-resources/resource-planning/view-by-users/view-by-users.md)
@@ -322,14 +325,14 @@ ht-degree: 78%
       + [目標ステータスを伝える](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
 + Workfront Planning {#workfront-planning}
-   + [インスタンスへの Planning の追加](/help/workfront-planning/add-planning-to-your-instance.md)
+   + [インスタンスへのプランニングの追加](/help/workfront-planning/add-planning-to-your-instance.md)
    + [ワークスペースの作成](/help/workfront-planning/create-a-workspace.md)
    + [レコードタイプの作成と管理](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [テーブルビューの作成と管理](/help/workfront-planning/create-and-manage-table-views.md)
    + [タイムラインビューの作成と管理](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [レコードタイプの接続](/help/workfront-planning/connect-record-types.md)
    + [レコードタイプのリクエストフォームの作成](/help/workfront-planning/create-a-record-type-request-form.md)
-   + [UX 設計チーム向けWorkfront計画のメリット](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
+   + [UX デザイン部門にとってのWorkfrontプランニングのメリット](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 統合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
