@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
 workflow-type: tm+mt
-source-wordcount: '2499'
+source-wordcount: '2485'
 ht-degree: 78%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 78%
       + [イシューのタイプと用語をカスタマイズする](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [グローバルなデフォルトのイシュー環境設定を構成する](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [ビジネスルールの作成および管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
-      + [ユーザー定義ローカライズの設定](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + レイアウトテンプレート {#layout-templates}
       + [レイアウトテンプレートとは](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -89,8 +88,6 @@ ht-degree: 78%
       + [カスタムフォームをオブジェクトへ添付](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームへのセクション区切りとロジックの追加](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [カスタムフォームを PDF として書き出し](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [カスタムフォームへの検証ロジックの追加](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
-      + [高度な表示ロジックの設定](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 計算式 {#calculated-expressions}
       + [計算フィールドと式の基本を学ぶ](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -119,7 +116,7 @@ ht-degree: 78%
       + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
       + [効果的なコミュニケーションによるプロジェクトの成功の向上](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
+      + [ プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [プロジェクト管理におけるガントチャートの活用](/help/manage-work/projects/understand-the-gantt-view.md)
@@ -348,7 +345,7 @@ ht-degree: 78%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -523,13 +520,13 @@ ht-degree: 78%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
