@@ -21,5 +21,5 @@ ht-degree: 0%
 
 ユーザーの環境設定に基づいてコンテンツを複数の言語で表示するように、ユーザー定義のローカライゼーションを設定する方法について説明します。 この機能により、チームが自国語で作業できるようになり、地域をまたいだ共同作業が簡素化されます。 言語固有の翻訳を効率的に設定および管理する方法については、次のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483440/?captions=jpn&learn=on&enablevpops)
 
