@@ -20,5 +20,5 @@ ht-degree: 0%
 
 カスタムフォームに検証ロジックを追加して、データの正確性を確保する方法について説明します。 検証ロジックを実装することで、エラーを防ぎ、プロセスを合理化し、チームの効率を高めることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483427/?captions=jpn&learn=on&enablevpops)
 
