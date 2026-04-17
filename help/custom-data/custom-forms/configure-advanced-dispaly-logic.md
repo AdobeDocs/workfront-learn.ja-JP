@@ -21,5 +21,5 @@ ht-degree: 0%
 
 高度な表示ロジック式を使用して、カスタムフォームフィールドやセクションの表示を制御し、より動的でカスタマイズされたフォームの作成、特定のユーザーニーズへの対応、ワークフロー効率の向上を支援する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483452/?captions=jpn&learn=on&enablevpops)
 
