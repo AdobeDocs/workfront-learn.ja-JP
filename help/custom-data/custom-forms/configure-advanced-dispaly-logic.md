@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Intermediate
 doc-type: Feature Video
 duration: 189
-last-substantial-update: 2026-04-15T00:00:00Z
+last-substantial-update: 2026-04-16T00:00:00Z
 jira: KT-20168
 thumbnail: KT-20168.jpeg
-source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -21,5 +21,5 @@ ht-degree: 0%
 
 高度な表示ロジック式を使用して、カスタムフォームフィールドやセクションの表示を制御し、より動的でカスタマイズされたフォームの作成、特定のユーザーニーズへの対応、ワークフロー効率の向上を支援する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483452/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
 
