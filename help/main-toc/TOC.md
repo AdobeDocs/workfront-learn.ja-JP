@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
 workflow-type: tm+mt
-source-wordcount: '2494'
+source-wordcount: '2508'
 ht-degree: 78%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 78%
       + [イシューのタイプと用語をカスタマイズする](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [グローバルなデフォルトのイシュー環境設定を構成する](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [ビジネスルールの作成および管理](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [ユーザー定義ローカライゼーションの設定](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + レイアウトテンプレート {#layout-templates}
       + [レイアウトテンプレートとは](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -88,6 +89,8 @@ ht-degree: 78%
       + [カスタムフォームをオブジェクトへ添付](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [カスタムフォームへのセクション区切りとロジックの追加](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [カスタムフォームを PDF として書き出し](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [カスタム Formsへの検証ロジックの追加](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [高度な表示ロジックの設定](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 計算式 {#calculated-expressions}
       + [計算フィールドと式の基本を学ぶ](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
