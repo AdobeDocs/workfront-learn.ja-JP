@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 100%
 * [!DNL Workfront's] の様々な日付タイプを比較するビューの選択
 * 進捗ステータスを使用した作業の進捗の追跡
 
->[!VIDEO](https://video.tv.adobe.com/v/3436608/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3436608/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->ビデオで説明されているように、[!UICONTROL 実際の開始日]が正しくなるように、タスクの開始時にステータスを「**[!UICONTROL 新規]**」から「**[!UICONTROL 進行中]**」に変更することが重要です。ただし、タスクの開始時にこの操作を実行し忘れた場合は、戻って[!UICONTROL 実際の開始日]をいつでも編集できます。
+>ビデオで説明されているように、[!UICONTROL 実際の開始日]が正しくなるように、タスクの開始時にステータスを「**[!UICONTROL 新規]**」から「**[!UICONTROL 進行中]**」に変更することが重要です。 ただし、タスクの開始時にこの操作を実行し忘れた場合は、戻って[!UICONTROL 実際の開始日]をいつでも編集できます。
 
 
 <!--

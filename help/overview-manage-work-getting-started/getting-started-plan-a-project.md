@@ -1,5 +1,5 @@
 ---
-title: プロジェクトのプランニングの基本を学ぶ
+title: プロジェクトの計画の基本を学ぶ
 description: プロジェクトの 5 つのメインコンポーネント、ステータスが示すもの、[!UICONTROL ビュー]を使用して関連情報を表示する方法、開始日または期日を設定する方法について説明します。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!UICONTROL ビュー]を使用して必要な情報を表示する方法
 * 開始日または完了日を設定する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3448568/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3448568/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

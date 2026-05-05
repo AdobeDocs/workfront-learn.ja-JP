@@ -11,7 +11,7 @@ level: Intermediate
 hide: true
 doc-type: video
 exl-id: d33c1c28-63db-4c74-b310-951d091052fa
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * マイルストーンパスの作成方法
 * マイルストーンパスへのマイルストーン手順の追加方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3415915/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3415915/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

@@ -1,6 +1,6 @@
 ---
 title: タスクの順序付けを学ぶ
-description: 先行タスクについて、また先行タスクがプロジェクト内のタスクを順序付けする方法を学びます。次に、期間と先行タスクを使用してタイムラインを作成する方法を学びます。
+description: 先行タスクについて、また先行タスクがプロジェクト内のタスクを順序付けする方法を学びます。 次に、期間と先行タスクを使用してタイムラインを作成する方法を学びます。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * タスク開始日の設定がタスクの制約に与える影響
 * 先行タスクの入力方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3447321/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3447321/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls
