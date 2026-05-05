@@ -28,7 +28,7 @@ ht-degree: 100%
 * イシューをログに記録する方法
 * イシュー管理のベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446567/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

@@ -31,7 +31,7 @@ ht-degree: 100%
 * プロジェクトをポートフォリオに組み込んで共有する方法
 * プロジェクトの共有に関するベストプラクティス
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457547/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

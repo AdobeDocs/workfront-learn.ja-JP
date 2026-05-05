@@ -28,7 +28,7 @@ ht-degree: 100%
 * プロジェクト指標グラフへのアクセス
 * グラフの情報のカスタマイズ
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439171/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 
