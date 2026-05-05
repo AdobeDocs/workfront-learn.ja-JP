@@ -13,9 +13,9 @@ jira: KT-13530
 doc-type: video
 hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 100%
 * 使用上のベストプラクティス
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422827/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
 期間タイプとタスク制約のビューを作成する方法については、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の「期間タイプとタスク制約のビューのアクティビティ」を参照してください。

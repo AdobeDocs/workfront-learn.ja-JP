@@ -13,16 +13,16 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
 
 # プロジェクト間先行タスクについて
 
-プロジェクト間先行タスクは、異なるプロジェクト内のタスク間の依存関係を確立する簡単な方法です。例えば、ある建設会社に、「**Summerhill 住宅開発へのアクセス道路の建設**」というプロジェクトと、「**Summerhill のモデルホームの建設**」という別のプロジェクトがあるとします。「**モデルホームの建設**」の最初のタスクに「**アクセス道路の建設**」の最後のタスクのプロジェクト間先行タスクを含めることで、住宅の建設を開始する前にアクセス道路を確実に敷設することができます。タスクはリンクされているので、**アクセス道路の建設**&#x200B;プロジェクトが遅れると、それに応じて&#x200B;**モデルホームの建設**&#x200B;予定開始日も自動的にずれます。
+プロジェクト間先行タスクは、異なるプロジェクト内のタスク間の依存関係を確立する簡単な方法です。 例えば、ある建設会社に、「**Summerhill 住宅開発へのアクセス道路の建設**」というプロジェクトと、「**Summerhill のモデルホームの建設**」という別のプロジェクトがあるとします。 「**モデルホームの建設**」の最初のタスクに「**アクセス道路の建設**」の最後のタスクのプロジェクト間先行タスクを含めることで、住宅の建設を開始する前にアクセス道路を確実に敷設することができます。 タスクはリンクされているので、**アクセス道路の建設**&#x200B;プロジェクトが遅れると、それに応じて&#x200B;**モデルホームの建設**&#x200B;予定開始日も自動的にずれます。
 
 >[!PREREQUISITES]
 >
@@ -36,6 +36,6 @@ ht-degree: 100%
 * プロジェクト間先行タスクの作成方法
 * レポートでのプロジェクト間先行タスクの追跡方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3422837/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 **プロジェクト間先行タスクと後続タスク**&#x200B;ビューおよびビデオで使用される&#x200B;**プロジェクト間先行タスクと後続タスク**&#x200B;レポートを作成する方法については、[ビューの基本的なテキストモードについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ja)のチュートリアルを参照し、必要に応じて、そこでリストされている必須のチュートリアルを必ず完了してください。

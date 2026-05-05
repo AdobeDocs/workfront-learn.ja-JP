@@ -1,5 +1,5 @@
 ---
-title: イシューの割り当てを管理
+title: イシューの割り当ての管理
 description: 個々のユーザー、複数のユーザーまたはチームにイシューを割り当てて、イシューを解決する方法を説明します。
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
 exl-id: b4999851-e066-4afb-92f4-0abd8a3b84e7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * イシューの進捗の更新
 * イシューステータスの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/3446956/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

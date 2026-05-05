@@ -10,9 +10,10 @@ role: User
 level: Intermediate
 jira: KT-10066
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 4245eb13-0436-429b-a956-ff13c3c824c3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 100%
 
 ---
@@ -34,11 +35,11 @@ ht-degree: 100%
 * コストなし
 * 固定 (毎時)
 * ユーザー (毎時)
-* 役割 (毎時)
+* 役割（毎時）
 
 >[!NOTE]
 >
->収益またはコストのタイプが請求不可またはコストなしに設定されている場合、タスクの収益およびコストの見積もりは生成されません。したがって、タスクの作業は、プロジェクトレベルの収益やコストには影響しません。
+>収益またはコストのタイプが請求不可またはコストなしに設定されている場合、タスクの収益およびコストの見積もりは生成されません。 したがって、タスクの作業は、プロジェクトレベルの収益やコストには影響しません。
 
 ## 収益とコストのデフォルトの設定
 

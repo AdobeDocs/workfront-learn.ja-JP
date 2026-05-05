@@ -1,6 +1,6 @@
 ---
 title: リクエストの作成
-description: '[!UICONTROL リクエスト]エリアを見つけて、リクエストを作成する方法を説明します。送信されたリクエストと下書きのリクエストを表示する方法を説明します。'
+description: '[!UICONTROL リクエスト]エリアを見つけて、リクエストを作成する方法を説明します。 送信されたリクエストと下書きのリクエストを表示する方法を説明します。'
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,7 +14,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 # リクエストする
 
-多くの組織では、新しいプロジェクトを開始したり、新しい製品を開発したり、成果物を作成したりする最初のステップは、Workfront でリクエストすることです。リクエストの進行状況を追跡し、必要に応じて追加情報を提供できます。
+多くの組織では、新しいプロジェクトを開始したり、新しい製品を開発したり、成果物を作成したりする最初のステップは、Workfront でリクエストすることです。 リクエストの進行状況を追跡し、必要に応じて追加情報を提供できます。
 
 このビデオでは、次の方法を学習します：
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 * リクエストの下書きを検索する
 * 最後の 3 つのリクエストパスを確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/3413116/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

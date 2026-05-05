@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,12 +25,12 @@ ht-degree: 100%
 
 このビデオでは、以下について説明します。
 
-*  [!DNL Workfront] でのタスク期間
+* [!DNL Workfront] でのタスク期間
 * 期間がタスクの開始日と終了日に与える影響
 * プロジェクトタイムラインへの期間係数の適用方法
 * タスク期間を使用するためのベストプラクティスのレコメンデーション
 
->[!VIDEO](https://video.tv.adobe.com/v/3449344/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 
