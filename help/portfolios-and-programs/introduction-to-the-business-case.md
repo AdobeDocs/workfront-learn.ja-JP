@@ -34,7 +34,7 @@ ht-degree: 28%
 
 ビデオでは、プロジェクト管理でのビジネスケースの重要性について説明します。 ビジネスケースを徹底的に記入することで、マネージャーが同じリソースを競うプロジェクトを分析し、優先順位付けするのに役立つことを強調しています。 ビジネ&#x200B;ケースを送信すると、プロジェクトのステータスが「リクエスト済み」に変わり、Portfolio Optimization Toolで比較するための全体的なスコアが計算されます。 &#x200B;どのフィールドも必須ではありませんが、より詳細な情報は意思決定を向上させます。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442845/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

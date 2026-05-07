@@ -37,4 +37,4 @@ ht-degree: 100%
 * 単純な配列と複雑な配列の違い
 * 単純な配列と複雑な配列を操作する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417983/?captions=jpn&quality=12&learn=on&enablevpops=1)

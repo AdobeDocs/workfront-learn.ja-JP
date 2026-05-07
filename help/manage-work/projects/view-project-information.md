@@ -44,7 +44,7 @@ ht-degree: 15%
 
 このビデオでは、カスタマイズを強調し、さらに学ぶためのチュートリアルへのリンクを提供しています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453067/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

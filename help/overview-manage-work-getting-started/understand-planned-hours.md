@@ -42,7 +42,7 @@ ht-degree: 100%
 * 予定時間数の見積り方法
 * タスクに予定時間数を追加する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445334/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## このトピックに関する推奨チュートリアルと記事

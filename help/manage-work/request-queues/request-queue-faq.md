@@ -36,7 +36,7 @@ ht-degree: 100%
 
 詳しくは、このビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434157/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 **キューへのアクセス権をユーザーに付与しましたが、リクエストキューのプロジェクトも表示できるようになりました。 なぜでしょうか。**
 
@@ -74,7 +74,7 @@ ht-degree: 100%
 
 詳しくは、このビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434177/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 **レポートのリクエストキューをフィルタリングする最善の方法を教えてください。**
@@ -85,7 +85,7 @@ ht-degree: 100%
 
 詳しくは、このビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434331/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 **リクエストキューのカスタムステータスを作成することをお勧めしますか？**
 

@@ -37,4 +37,4 @@ ht-degree: 100%
 * [!UICONTROL Workfront DAM] ユーザーが独自のキーワードを入力できるケースについて
 * 検索ファセットの設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419503/?captions=jpn&quality=12&learn=on&enablevpops=1)

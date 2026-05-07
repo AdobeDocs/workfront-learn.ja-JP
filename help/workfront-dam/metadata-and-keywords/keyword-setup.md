@@ -36,7 +36,7 @@ ht-degree: 100%
 * キーワードリストの設定
 * キーワードのリストの作成と読み込み
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419511/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## キーワードのベストプラクティス
 

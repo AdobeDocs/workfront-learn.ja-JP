@@ -35,7 +35,7 @@ ht-degree: 100%
 
 * Workfront Fusion を構成する 3 つのコア概念：シナリオ、アプリ、モジュール
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415963/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## コア概念の用語
 

@@ -35,7 +35,7 @@ ht-degree: 28%
 この動画では、マネージャーが自社の目標に合わせてプロジェクトの選択を最適化する方法に焦点を当て、ポートフォリオ管理について解説しています。 &#x200B; ポートフォリオとは、共有リソース、予算、スケジュールを巡って争うプロジェクトの集まりのことです。 &#x200B; Managerは、Portfolio Optimizerなどのツールを使用して、労力、費用、リスク、ROI、ポートフォリオ目標との整合性などの基準にもとづいてプロジェクトを比較できます。 &#x200B;プロジェクトを比較のために準備するには、それぞれにビジネスケースを作成します。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442829/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

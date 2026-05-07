@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * ログインしたユーザー、タスクステータスの変更、完了したタスクに基づいてプロジェクトを比較する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437437/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## プロジェクトの作業の比較
 

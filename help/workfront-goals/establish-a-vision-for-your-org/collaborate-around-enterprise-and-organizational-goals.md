@@ -36,7 +36,7 @@ ht-degree: 100%
 * あなたとチームがトップレベルの目標を達成するために行うべきことの定義
 * 「セクション 2：ビジョンと戦略の確立」からの目標の階層の調整
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416017/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 <!--
 Pro-tips graphic

@@ -40,7 +40,7 @@ ht-degree: 100%
 * 組織に合わせた [!DNL Goals] 用語の変更
 * [!DNL Workfront] [!UICONTROL メインメニュー]への [!DNL Goals] の追加
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416492/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more graphic

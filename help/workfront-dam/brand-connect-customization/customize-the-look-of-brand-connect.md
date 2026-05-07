@@ -35,4 +35,4 @@ ht-degree: 100%
 * [!UICONTROL Brand Connect] の使用目的
 * [!UICONTROL Workfront DAM] における [!UICONTROL Brand Connect] 設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418786/?captions=jpn&quality=12&learn=on&enablevpops=1)

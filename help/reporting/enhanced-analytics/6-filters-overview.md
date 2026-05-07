@@ -38,7 +38,7 @@ ht-degree: 100%
 * カスタムフォームを使用してフィルターを追加する方法
 * フィルタリングのヒント
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439638/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

@@ -37,7 +37,7 @@ ht-degree: 100%
 * Workfront プロジェクトでタスクを作成するまでの長い道のり
 * タスクを作成するための便利なショートカット
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423159/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

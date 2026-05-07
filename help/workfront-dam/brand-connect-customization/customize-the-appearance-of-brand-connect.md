@@ -35,7 +35,7 @@ ht-degree: 97%
 * ナビゲーションバーとフッターのカスタマイズ
 * ホームページとログインページのカスタマイズ
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418778/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## その他の[!UICONTROL 外観]設定
 

@@ -43,7 +43,7 @@ ht-degree: 100%
 * チームの作成方法
 * ユーザーを組織およびチームに招待する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418193/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

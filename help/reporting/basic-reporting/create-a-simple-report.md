@@ -36,7 +36,7 @@ ht-degree: 51%
 
 このビデオでは、カスタムレポートがデフォルトの設定を維持することを強調していますが、表示する際に一時的な変更を行うことができます。 &#x200B; レポートは「マイレポート」セクションに保存され、共有レポートは「自分と共有」に表示されます。 &#x200B;頻繁に使用されるレポートは、簡単にアクセスできるように、ピン留めやお気に入りにマークすることができます。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413122/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 

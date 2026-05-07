@@ -42,7 +42,7 @@ ht-degree: 31%
 
 この動画では、作業のレビューと承認の柔軟性が強調されており、必要に応じてコメントを追加したり、変更を指定したりできるオプションが用意されています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444947/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

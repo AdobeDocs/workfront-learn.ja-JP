@@ -37,4 +37,4 @@ ht-degree: 100%
 * データのバンドルがルーターパスを通過する仕組み
 * ルーターの追加方法と使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416567/?captions=jpn&quality=12&learn=on&enablevpops=1)

@@ -37,7 +37,7 @@ ht-degree: 100%
 * 個々のアセットへの有効期限の設定
 * アセット設定の編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419546/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## アセットフォルダー
 

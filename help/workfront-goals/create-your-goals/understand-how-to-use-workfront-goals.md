@@ -35,4 +35,4 @@ ht-degree: 100%
 * グラフの操作
 * 目標の整合性の操作
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421297/?captions=jpn&quality=12&learn=on&enablevpops=1)

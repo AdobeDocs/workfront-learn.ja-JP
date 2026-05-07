@@ -35,7 +35,7 @@ ht-degree: 17%
 
 このビデオでは、レポート要素をカスタマイズして他のユーザーと共有する方法も示しています。 &#x200B;れらのツールを活用することで、ユーザーはニーズに合わせてレポートをカスタマイズし、可視性と管理を向上させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447789/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

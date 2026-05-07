@@ -38,4 +38,4 @@ ht-degree: 100%
 * キーワード分類のメリット
 * メタデータとキーワードを使用したアセットの検索
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419527/?captions=jpn&quality=12&learn=on&enablevpops=1)

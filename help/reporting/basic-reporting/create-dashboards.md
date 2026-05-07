@@ -35,7 +35,7 @@ ht-degree: 73%
 このビデオでは、Workfrontのダッシュボードについて理解し、使用するための包括的なガイドを提供します。
 &#x200B;ダッシュボードとは、ユーザーが関連データを整理して一元的に表示できるレポートの集まりのことです。
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449123/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 

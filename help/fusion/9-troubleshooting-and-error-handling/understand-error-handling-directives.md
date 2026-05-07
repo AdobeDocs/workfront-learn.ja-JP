@@ -36,7 +36,7 @@ ht-degree: 100%
 * 実行を続行できる 3 つのエラーハンドラーディレクティブ
 * 実行を停止する 2 つのエラーハンドラーディレクティブ
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418138/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## ディレクティブ - シナリオは続行します
 

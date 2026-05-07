@@ -36,7 +36,7 @@ ht-degree: 91%
 * Brand Connect の操作方法
 * アセットの検索方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418749/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 基本検索条件
 

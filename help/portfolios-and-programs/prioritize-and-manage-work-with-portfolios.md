@@ -36,7 +36,7 @@ ht-degree: 14%
 
 この動画では、正確な比較を行うためにビジネスケースを完了することの重要性を強調し、プロジェクトの優先順位を効果的に最適化および管理するためのステップバイステップの手順を説明しています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446276/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

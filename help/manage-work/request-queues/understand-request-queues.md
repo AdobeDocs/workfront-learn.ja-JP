@@ -36,7 +36,7 @@ ht-degree: 33%
 
 このビデオでは、Workfrontのリクエストキューのコンセプト、目的、およびリクエストの送信と管理方法について説明します。 リクエストキュー&#x200B;、さまざまなタイプのリクエストを送信するための一元的な場所として機能します。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447011/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

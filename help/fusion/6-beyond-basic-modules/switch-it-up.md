@@ -36,4 +36,4 @@ ht-degree: 100%
 * switch 関数とモジュールの概要と相違点
 * スイッチモジュールと switch 機能の使い分け
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417445/?captions=jpn&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ ht-degree: 40%
 ビデオでは、プロジェクト計画でタスクを割り当てる様々な方法について説明します。 フィルター、テンプレート、リソース管理機能などのツールを使用して、タスクの割り当てを効率化し、プロジェクトのワークフローの最適化を強調しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445734/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

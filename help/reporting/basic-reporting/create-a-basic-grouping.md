@@ -35,7 +35,7 @@ ht-degree: 56%
 このビデオでは、Workfrontでグループ化を作成および管理し、プロジェクトリストを効果的に整理する方法を説明します。 &#x200B; グループ化は、フィルターやビューと並ぶ3つの主要なレポート要素の1つであり、共有された情報に基づいて結果を整理するのに役立ちます。 &#x200B;
 このチュートリアルでは、日々の作業と共同作業を効率化するために、プロジェクトリストを整理するための実践的な手順を説明します。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449816/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 

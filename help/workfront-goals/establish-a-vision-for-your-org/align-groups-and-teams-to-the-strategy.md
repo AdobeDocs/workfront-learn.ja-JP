@@ -35,7 +35,7 @@ ht-degree: 100%
 * 提案された目標のレビューしてアクティブ化する
 * 四半期ごとの目標を重ねて表示して合わせる
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416468/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 <!--
 Pro-tips graphic

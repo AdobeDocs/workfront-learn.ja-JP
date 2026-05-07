@@ -38,7 +38,7 @@ ht-degree: 100%
 * コメント列のフィルタリング
 * プルーフのクローズ
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449838/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 <!-- 
 ## Learn more

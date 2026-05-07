@@ -39,7 +39,7 @@ ht-degree: 95%
 * グループの作成と編集
 * ユーザーの追加と編集
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414469/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## グループとユーザーのレビュー
 

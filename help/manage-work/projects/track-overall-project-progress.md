@@ -36,7 +36,7 @@ ht-degree: 38%
 
 この動画では、正確な追跡とタイムリーなプロジェクト完了を確実におこなうために、チームメンバーによる定期的なアップデートと積極的な問題管理の重要性が強調されています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447411/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

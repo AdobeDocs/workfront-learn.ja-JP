@@ -38,7 +38,7 @@ ht-degree: 100%
 
 * プロジェクトチームが使用できる内容とその管理方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444590/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

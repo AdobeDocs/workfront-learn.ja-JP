@@ -36,7 +36,7 @@ ht-degree: 21%
 
 この動画では、プロジェクトを成功に導くための強固な基盤を構築するために、現実的なタイムライン、チームの稼働状況、正確な計画の重要性が強調されています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448568/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

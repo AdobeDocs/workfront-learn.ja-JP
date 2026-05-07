@@ -38,7 +38,7 @@ ht-degree: 67%
 このビデオでは、承認プロセスの作成、承認者の設定、ステータスの設定、マルチレベル承認のステージの使用を示します。
 &#x200B;タスクの承認を効果的に管理するための、グローバルなプロセスとシングルユースケースのプロセスの両方の柔軟性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434688/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

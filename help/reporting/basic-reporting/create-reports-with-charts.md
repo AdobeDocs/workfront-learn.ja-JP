@@ -49,7 +49,7 @@ ht-degree: 65%
 
 この動画では、円グラフや積み重ね棒グラフなどのチャートを通じて、タスクの分布とプロジェクトのパフォーマンスに関するインサイトを獲得する方法を解説します。この機能により、ユーザーはプロジェクトを比較し、タスクの進捗状況を視覚的に把握できます。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450015/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 

@@ -47,7 +47,7 @@ ht-degree: 100%
 
 * [!UICONTROL 目標リスト]セクションをナビゲートして新しい目標を追加する
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412620/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 既存の目標をコピーする
 
@@ -104,5 +104,5 @@ ht-degree: 100%
 
 * アクティビティを追加し、整合した目標に変換する
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416525/?captions=jpn&quality=12&learn=on&enablevpops=1)
 

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 * [!DNL Slack] での [!DNL Workfront] の検索
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437506/?captions=jpn&quality=12&learn=on&enablevpops=1)

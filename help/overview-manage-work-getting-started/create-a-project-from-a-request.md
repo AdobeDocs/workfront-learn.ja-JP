@@ -39,7 +39,7 @@ ht-degree: 100%
 * 適切なプロジェクトテンプレートを選択する
 * リクエストからプロジェクトへの変換を実施する
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446623/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## このトピックに関する推奨チュートリアル

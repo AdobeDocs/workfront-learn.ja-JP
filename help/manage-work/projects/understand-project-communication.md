@@ -44,7 +44,7 @@ ht-degree: 47%
 
 この動画では、Workfrontが、プロジェクトに関するあらゆる情報にアクセスして整理しながら、コミュニケーション、タスク管理、レポートをどのように簡素化するのかを解説します。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436147/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

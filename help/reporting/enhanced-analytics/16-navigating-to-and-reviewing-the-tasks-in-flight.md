@@ -37,7 +37,7 @@ ht-degree: 100%
 * フライトチャートにアクセスする方法
 * プロジェクトの未完了タスクをすぐに確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437001/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## タスクレベルのデータ
 

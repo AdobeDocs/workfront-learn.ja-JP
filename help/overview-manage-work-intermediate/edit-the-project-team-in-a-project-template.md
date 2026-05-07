@@ -39,7 +39,7 @@ ht-degree: 100%
 * テンプレートプロジェクトチームに&#x200B;**非**&#x200B;プロジェクトチームのメンバーを意図せず含めないようにする方法。
 * テンプレートプロジェクトチームの編集方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441551/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

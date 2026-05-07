@@ -38,7 +38,7 @@ ht-degree: 35%
 &#x200B;先行者と協力してプロジェクトのタイムラインへの影響を把握する重要性を強調し、効率的なプロジェクト計画のために期間と先行者を使用することを推奨しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447321/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

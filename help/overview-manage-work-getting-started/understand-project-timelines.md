@@ -38,7 +38,7 @@ ht-degree: 100%
 * 開始日または完了日からのプロジェクトのスケジュール
 * タスクの制約
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435836/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

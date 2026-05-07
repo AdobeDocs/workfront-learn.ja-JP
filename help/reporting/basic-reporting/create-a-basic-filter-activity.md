@@ -60,7 +60,7 @@ ht-degree: 100%
 
 詳細な手順の説明がページの後半にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443380/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## アクティビティ 2 に対する回答
 

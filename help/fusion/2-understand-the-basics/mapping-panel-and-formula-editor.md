@@ -40,4 +40,4 @@ ht-degree: 100%
 * 様々な式のタイプ
 * 式エディターの望ましい用途と望ましくない用途
 
->[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415987/?captions=jpn&quality=12&learn=on&enablevpops=1)

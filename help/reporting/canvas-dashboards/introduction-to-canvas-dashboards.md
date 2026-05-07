@@ -34,7 +34,7 @@ ht-degree: 16%
 
 カンバスダッシュボード機能は、Workfrontでダッシュボードを作成するもうひとつの方法です。 現在は一般Betaに属しています。つまり、ベータ版に登録されている場合は、すべてのWorkfrontのお客様がこの機能を使用できます。 システム管理者が登録を行う必要があります。 この動画では、その方法を解説しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474021/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 詳しくは、[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)の記事を参照してください。
 
