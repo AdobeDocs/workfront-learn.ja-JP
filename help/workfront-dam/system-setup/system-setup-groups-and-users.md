@@ -1,6 +1,6 @@
 ---
 title: グループとユーザーの設定
-description: '[!UICONTROL Workfront DAM] でフォルダー、グループ、ユーザーを作成する方法を説明します。ユーザーの役割タイプを理解し、フォルダーに権限を付与します。'
+description: '[!UICONTROL Workfront DAM] でフォルダー、グループ、ユーザーを作成する方法を説明します。 ユーザーの役割タイプを理解し、フォルダーに権限を付与します。'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,10 +10,16 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:28:55.491Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 100%
+source-wordcount: 416
+ht-degree: 95%
 
 ---
 
@@ -28,36 +34,36 @@ ht-degree: 100%
 * グループの作成と編集
 * ユーザーの追加と編集
 
->[!VIDEO](https://video.tv.adobe.com/v/3414469/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
 ## グループとユーザーのレビュー
 
 [!UICONTROL Workfront DAM] システムを設定する際は、ユーザーとグループが全体像で果たす役割を考慮することが重要です。
 
-グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。また、グループ設定は、ユーザーがアクセス権限を持つアセットに対して実行できる操作（表示、ダウンロード、編集など）も制御します。
+グループは、[!UICONTROL Workfront DAM] のアセットフォルダーへのアクセスを制御します。 グループ設定では、ユーザーがアセットで実行できる操作（表示、ダウンロード、編集など）も制御できます。 アクセスする権限を持っています。
 
 グループを作成する際は、そのグループのメンバーが [!UICONTROL Workfront DAM] でアクセスする必要があるアセットフォルダーを念頭に置くことが重要です。
 
-ユーザーは、[!UICONTROL Workfront DAM] にログインしている個人です。ユーザーは、グループに割り当てられていない限り、[!UICONTROL Workfront DAM] のいずれにもアクセスできません。ユーザーは、必要に応じて複数のグループに属することができます。
+ユーザーは、[!UICONTROL Workfront DAM] にログインしている個人です。 ユーザーは、グループに割り当てられていない限り、[!UICONTROL Workfront DAM] のいずれにもアクセスできません。 ユーザーは、必要に応じて複数のグループに属することができます。
 
 ## デフォルトのグループ
 
-[!UICONTROL Workfront DAM] には 2 つのデフォルトのグループがあります。すべてのユーザーは、[!UICONTROL Workfront DAM] ログイン資格情報を持っているかどうかに基づいて、これらのグループに自動的に属します。以下のグループからユーザーを追加または削除することはできません。
+[!UICONTROL Workfront DAM] には 2 つのデフォルトのグループがあります。 すべてのユーザーは、[!UICONTROL Workfront DAM] ログイン資格情報を持っているかどうかに基づいて、これらのグループに自動的に属します。 以下のグループからユーザーを追加または削除することはできません。
 
-* **ゲストグループ** - 匿名ユーザーのアクセスを制御するために使用します。これは、ログイン資格情報を持たないユーザーや、現在ログインしていないユーザーである可能性があります。
+* **ゲストグループ** - 匿名ユーザーのアクセスを制御するために使用します。 これは、ログイン資格情報を持たないユーザーや、現在ログインしていないユーザーである可能性があります。
 * **ログ**&#x200B;イングループ - ログインしているすべてのユーザーがこのグループに属します。
 
-管理者グループとその設定もデフォルトで存在します。このグループにユーザーを追加することはできますが、設定を調整することはできません。
+管理者グループとその設定もデフォルトで存在します。 このグループにユーザーを追加することはできますが、設定を調整することはできません。
 
 ## 役割タイプ
 
-グループを作成すると、役割タイプが割り当てられます。役割タイプは、[!UICONTROL Workfront DAM] システムユーザーが [!UICONTROL Workfront DAM] 自体または [!UICONTROL Brand Connect] にログインした際に取得する部分を決定します。
+グループを作成すると、役割タイプが割り当てられます。 役割タイプは、[!UICONTROL Workfront DAM] システムユーザーが [!UICONTROL Workfront DAM] 自体または [!UICONTROL Brand Connect] にログインした際に取得する部分を決定します。
 
 [!UICONTROL Workfront DAM] ライセンスで使用できる役割タイプは 3 つあります。
 
 * **[!UICONTROL Brand Portal]** - これらのユーザーは、承認済みアセットを表示およびダウンロードできる [!UICONTROL Brand Connect] にのみアクセスできます。
-* **[!UICONTROL 投稿者]** - これらのユーザーは、[!UICONTROL Workfront DAM] および [!UICONTROL Brand Connect] にアクセスできます。アセットとフォルダーへの完全なアクセス権（表示、ダウンロード、アップロード、編集、移動、削除）を持っています。
-* **[!UICONTROL 管理者]** - システム管理者は [!UICONTROL Brand Connect] と [!UICONTROL Workfront DAM] のすべてにアクセスできるほか、それぞれのグローバルシステムの設定を行うことができます。また、有効期限が切れているか、非アクティブに設定されているアセットにアクセスすることもできます。
+* **[!UICONTROL 投稿者]** - これらのユーザーは、[!UICONTROL Workfront DAM] および [!UICONTROL Brand Connect] にアクセスできます。 アセットとフォルダーへの完全なアクセス権（表示、ダウンロード、アップロード、編集、移動、削除）を持っています。
+* **[!UICONTROL 管理者]** - システム管理者は [!UICONTROL Brand Connect] と [!UICONTROL Workfront DAM] のすべてにアクセスできるほか、それぞれのグローバルシステムの設定を行うことができます。 また、有効期限が切れているか、非アクティブに設定されているアセットにアクセスすることもできます。
 
 <!-- 
 Learn more graphic & documentation article link, below

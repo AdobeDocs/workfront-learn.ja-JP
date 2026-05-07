@@ -10,9 +10,15 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '289'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T22:32:06.332Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 290
 ht-degree: 100%
 
 ---
@@ -26,11 +32,11 @@ ht-degree: 100%
 * 既存のメタデータフィールドの使用
 * カスタムメタデータフィールドの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/3419519/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops=1)
 
 ## メタデータのベストプラクティス
 
-メタデータは、[!UICONTROL Workfront DAM] でのアセット検索のプライマリドライバーです。検索性を高めるだけでなく、著作権、場所、画像ソースなど、アセットに関する重要な情報を追跡するために使用できます。
+メタデータは、[!UICONTROL Workfront DAM] でのアセット検索のプライマリドライバーです。 検索性を高めるだけでなく、著作権、場所、画像ソースなど、アセットに関する重要な情報を追跡するために使用できます。
 
 メタデータの取り組みを開始するのに役立つベストプラクティスを以下に示します。
 
@@ -44,12 +50,12 @@ ht-degree: 100%
 
 ## メタデータ戦略の開発
 
-組織のメタデータ戦略を開発する際は、アセットワークフローを検討します。[!DNL Workfront] コンサルタントは、次の重要な質問に回答するのに役立ちます。
+組織のメタデータ戦略を開発する際は、アセットワークフローを検討します。 [!DNL Workfront] コンサルタントは、次の重要な質問に回答するのに役立ちます。
 
 * メタデータの追加を担当するのは誰ですか？
-* 必要なメタデータはどれですか？オプションとなるのはどちらですか？
+* 必要なメタデータはどれですか？ オプションとなるのはどちらですか？
 * メタデータを追加するのはいつですか？
 * 適切なメタデータについてアセットをチェックする頻度はどれくらいですか？
 * メタデータのチェックを担当するのは誰ですか？
 
-メタデータの追加は、時間がかかり面倒な場合があります。ただし、構造化された一貫性のあるメタデータは、高度に検索可能で簡単に参照できる [!UICONTROL Workfront DAM] を構築するための基盤です。
+メタデータの追加は、時間がかかり面倒な場合があります。 ただし、構造化された一貫性のあるメタデータは、高度に検索可能で簡単に参照できる [!UICONTROL Workfront DAM] を構築するための基盤です。
