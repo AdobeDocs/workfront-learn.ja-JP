@@ -1,6 +1,6 @@
 ---
 title: プルーフの詳細について
-description: ' [!DNL  Workfront]  の概要パネルと[!UICONTROL ドキュメントの詳細]ページで、プルーフの背後にある詳細をさらに掘り下げます。'
+description: ' [!DNL &#x200B; Workfront]  の概要パネルと[!UICONTROL ドキュメントの詳細]ページで、プルーフの背後にある詳細をさらに掘り下げます。'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,10 +10,21 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: cb72c429f0ef4cd9945282876aa49189dab1bd96
-workflow-type: ht
-source-wordcount: '1038'
-ht-degree: 100%
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:56:45.995Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 1038
+ht-degree: 97%
 
 ---
 
@@ -47,7 +58,7 @@ ht-degree: 100%
 
 これにより、[!UICONTROL ドキュメントの詳細]ページが表示され、左側のパネルに様々な追加オプションが表示されます。
 
-![[!DNL  Workfront] でのプルーフのページの画像。](assets/document-details.png)
+![[!DNL &#x200B; Workfront] でのプルーフのページの画像。](assets/document-details.png)
 
 プルーフプロセスに関連する情報を表示できるかどうかは、[!DNL Workfront] のプルーフ権限に依存することに注意してください。
 
@@ -68,7 +79,7 @@ ht-degree: 100%
 ![左側のパネルメニューで「[!UICONTROL プルーフビューア設定]」オプションが強調表示された、プルーフページの[!UICONTROL プルーフビューア設定] の画像。](assets/proofing-settings-on-details-page.png)
 
 * **[!UICONTROL ログインが必要です。 このプルーフはゲストユーザーと共有できません] -**&#x200B;プルーフは、[!DNL Workfront] プルーフライセンスを持つユーザーとのみ共有できます。
-* **[!UICONTROL 決定に電子サインが必要] -**&#x200B;プルーフを共有する場合、受信者は [!DNL Workfront] でプルーフ権限を持っている必要があり、プルーフ決定を行うときにプルーフパスワードを入力して、プルーフに「電子サイン」する必要があります。 （メモ：プルーフ用のパスワードは [!DNL Workfront] パスワードとは異なります。 プルーフ用パスワードには容易にアクセスできないので、ほとんどの受信者はこのパスワードを知りません。）アドビでは、[!DNL Workfront] コンサルタントに問い合わせてから、この機能を使用することをお勧めします。
+* **[!UICONTROL 決定に電子サインが必要] -**&#x200B;プルーフを共有する場合、受信者は [!DNL Workfront] でプルーフ権限を持っている必要があり、プルーフ決定を行うときにプルーフパスワードを入力して、プルーフに「電子サイン」する必要があります。 （メモ：プルーフ用のパスワードは [!DNL Workfront] パスワードとは異なります。 プルーフパスワードには簡単にアクセスできないため、ほとんどの受信者はこのパスワードを知りません）。 Adobeでは、この機能を使用する前に[!DNL Workfront] コンサルタントと話すことをお勧めします。
 * **[!UICONTROL 必要な校正判断がすべて完了したらプルーフをロック] -**&#x200B;これにより、プルーフに関するすべての決定が行われると、プルーフはそれ以降のコメント、返信、決定などに対してロックされます。 これにより、プルーフワークフローの特定のステージだけでなく、プルーフのバージョン全体がロックされます。
 * **[!UICONTROL 元のファイルのダウンロードを許可] -** プルーフの受信者は、プルーフビューアからプルーフの元のソースファイルをダウンロードできます。
 * **[!UICONTROL 公開 URL または埋め込みコードを使用したプルーフの共有を許可] -**&#x200B;プルーフ受信者は、誰とでも公開アクセス可能なプルーフリンクを共有できます。

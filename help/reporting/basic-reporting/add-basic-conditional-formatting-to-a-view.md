@@ -11,16 +11,27 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:28:11.136Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: 466
 ht-degree: 100%
 
 ---
 
 # ビューに基本的な条件付き書式を追加
 
-条件付き書式は、段間罫線を作成して行います。段間罫線を使用すると、設定した条件に基づいて特定の方法で列を書式設定できます。
+条件付き書式は、段間罫線を作成して行います。 段間罫線を使用すると、設定した条件に基づいて特定の方法で列を書式設定できます。
 
 このビデオでは、次のことを学習します。
 
@@ -61,16 +72,16 @@ ht-degree: 100%
 1. タスクリストレポートで、「**[!UICONTROL ビュー]**」ドロップダウンメニューに移動し、「**[!UICONTROL 新規ビュー]**」を選択します。
 1. ビューに「標準 + 進捗」という名前を付けます。
 1. 指定したデフォルトの列を使用します。
-1. [!UICONTROL タスク名]列を選択します。これは条件付き書式を適用する列なので、タスクの進捗ステータスが時間どおりでない場合は赤または黄で表示されます。
+1. [!UICONTROL タスク名]列を選択します。 これは条件付き書式を適用する列なので、タスクの進捗ステータスが時間どおりでない場合は赤または黄で表示されます。
 1. Report Builder ウィンドウの右上隅にある「**[!UICONTROL 詳細オプション]**」をクリックします。
 1. 「**[!UICONTROL この列にルールを追加]**」をクリックします。
-1. ウィンドウの上部にある[!UICONTROL タスク]／[!UICONTROL 名前]を[!UICONTROL タスク]／[!UICONTROL 進捗ステータス]に変更して、段間罫線を開始します。[!UICONTROL タスク]／[!UICONTROL 名前]の横にある「**[!UICONTROL X]**」アイコンをクリックするだけで、フィールドから削除できます。
+1. ウィンドウの上部にある[!UICONTROL タスク]／[!UICONTROL 名前]を[!UICONTROL タスク]／[!UICONTROL 進捗ステータス]に変更して、段間罫線を開始します。 [!UICONTROL タスク]／[!UICONTROL 名前]の横にある「**[!UICONTROL X]**」アイコンをクリックするだけで、フィールドから削除できます。
 1. フィールドに「進捗」と入力し、[!UICONTROL タスク]フィールドソースで「[!UICONTROL 進捗ステータス]」を選択します。
 1. [!UICONTROL 次と等しい]修飾子の右側にあるフィールドで「**[!UICONTROL 遅延]**」を選択します。
 1. [!UICONTROL テキストのカラー]行で赤の背景を選択します。
 1. 「**[!UICONTROL ルールを追加]**」をクリックして、段間罫線を保存します。
 1. ここで、「**[!UICONTROL 段間罫線を追加]**」を再度クリックして、別のルールを追加します。
-1. 前と同じように、条件フィールドから[!UICONTROL タスク]／[!UICONTROL 名前]を削除します。「[!UICONTROL タスク]」フィールドソースの下にある[!UICONTROL 進捗ステータス]に置き換えます。
+1. 前と同じように、条件フィールドから[!UICONTROL タスク]／[!UICONTROL 名前]を削除します。 「[!UICONTROL タスク]」フィールドソースの下にある[!UICONTROL 進捗ステータス]に置き換えます。
 1. 次と等しい修飾子の右側にあるフィールドで、「[!UICONTROL リスクあり]」と「[!UICONTROL 遅れている]」の両方を選択します。
 1. [!UICONTROL テキストのカラー]行で黄の背景を選択します。
 1. 「**[!UICONTROL ルールを追加]**」をクリックして、段間罫線を保存します。

@@ -10,18 +10,30 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:01.017Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: 454
 ht-degree: 100%
 
 ---
 
 # プルーフに関するレポート
 
-[!DNL Workfront] のデジタルプルーフ機能を使用すると、プロジェクトと関連するレビューワークフローを [!DNL Workfront] で一元管理できます。レビューおよび承認情報を表示するレポートタイプ、フィールドソース、フィールド名を使用して行なわれるプルーフ作業に関する有益な情報を得ます。
+[!DNL Workfront] のデジタルプルーフ機能を使用すると、プロジェクトと関連するレビューワークフローを [!DNL Workfront] で一元管理できます。 レビューおよび承認情報を表示するレポートタイプ、フィールドソース、フィールド名を使用して行なわれるプルーフ作業に関する有益な情報を得ます。
 
-[!DNL Workfront] コンサルタントと協力して、組織の要件を満たすレポートを作成することをお勧めします。一部のレポートでは、[!DNL Workfront] のテキストモードレポーティングに関する十分な知識が必要です。
+[!DNL Workfront] コンサルタントと協力して、組織の要件を満たすレポートを作成することをお勧めします。 一部のレポートでは、[!DNL Workfront] のテキストモードレポーティングに関する十分な知識が必要です。
 
 これらの基本的で標準的なレポートから始めて、チームが [!DNL Workfront] のレビューと承認プロセスを経たプルーフを管理できるようにします。
 
@@ -31,15 +43,15 @@ ht-degree: 100%
 
 ![[!UICONTROL 新しいレポート]ドロップダウンメニューから「[!UICONTROL プルーフの承認]」を選択する](assets/proof-system-setups-proof-approval-report.png)
 
-表示およびフィルターのオプションには、[!UICONTROL 決定日]、[!UICONTROL プルーフの承認]、[!UICONTROL 承認者ステージ]、[!UICONTROL ワークフローテンプレート]、[!UICONTROL 依頼者情報]が含まれます。テキストモードのレポートを使用すると、ドキュメント名でリストを整理するグループ化を作成できます。[グループ化の基本的なテキストモードについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=ja)を参照してください。
+表示およびフィルターのオプションには、[!UICONTROL 決定日]、[!UICONTROL プルーフの承認]、[!UICONTROL 承認者ステージ]、[!UICONTROL ワークフローテンプレート]、[!UICONTROL 依頼者情報]が含まれます。 テキストモードのレポートを使用すると、ドキュメント名でリストを整理するグループ化を作成できます。 [グループ化の基本的なテキストモードについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=ja)を参照してください。
 
-プルーフの承認レポートを作成する際は、プルーフの現在のバージョンに関する情報を取得していることを確認してください。[!DNL Workfront] では、このフィールドのソースとフィールド名をフィルターに含めることをお勧めします。
+プルーフの承認レポートを作成する際は、プルーフの現在のバージョンに関する情報を取得していることを確認してください。 [!DNL Workfront] では、このフィールドのソースとフィールド名をフィルターに含めることをお勧めします。
 
 **[!UICONTROL プルーフの承認]／[!UICONTROL 現在のドキュメントのバージョン]**
 
 ![Report Builder の「フィルター」タブ](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-承認が必要な各プルーフの最新バージョンのみがレポートにリストされるため、複数のバージョンがあるプルーフのレポートに便利です。これにより、作業する必要がなくなった以前のバージョンが除外されます。
+承認が必要な各プルーフの最新バージョンのみがレポートにリストされるため、複数のバージョンがあるプルーフのレポートに便利です。 これにより、作業する必要がなくなった以前のバージョンが除外されます。
 
 ## [!UICONTROL ドキュメント バージョン]
 
@@ -63,7 +75,7 @@ ht-degree: 100%
 
 このフィールドソース >>フィールド名は、レポートのフィルターとしても使用できます。
 
-「[!UICONTROL プルーフ作成者]」フィールドソースを使用して、プルーフを作成したユーザーに関する情報をレポートします。ビューにプルーフ作成者の名前を表示するには、[!UICONTROL 名前]フィールドソースを選択します。
+「[!UICONTROL プルーフ作成者]」フィールドソースを使用して、プルーフを作成したユーザーに関する情報をレポートします。 ビューにプルーフ作成者の名前を表示するには、[!UICONTROL 名前]フィールドソースを選択します。
 
 **[!UICONTROL プルーフの作成者]／[!UICONTROL 名前]**
 

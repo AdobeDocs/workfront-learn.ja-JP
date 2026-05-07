@@ -11,9 +11,20 @@ jira: KT-11056
 thumbnail: KT11056.png
 recommendations: noDisplay,catalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:11.405Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 497
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ ht-degree: 100%
 
 ## 演習の概要
 
-この演習の目的は、シナリオに送信された情報を JSON 形式で利用し、シナリオ全体でマッピングできるフィールドとアイテムに解析する方法を概念的に示すことです。その後、マッピングされた配列から情報を取得するか、情報を JSON に集計して、JSON を受信入力として期待する別のシステムに送信できます。
+この演習の目的は、シナリオに送信された情報を JSON 形式で利用し、シナリオ全体でマッピングできるフィールドとアイテムに解析する方法を概念的に示すことです。 その後、マッピングされた配列から情報を取得するか、情報を JSON に集計して、JSON を受信入力として期待する別のシステムに送信できます。
 
 ![JSON の操作画像 1](../12-exercises/assets/working-with-json-walkthrough-1.png)
 
@@ -46,7 +57,7 @@ ht-degree: 100%
 
    ![JSON の操作画像 3](../12-exercises/assets/working-with-json-walkthrough-3.png)
 
-1. 「保存」をクリックし、データ構造に「ドーナツデータ」という名前を付けます。次に「保存」をクリックします。
+1. 「保存」をクリックし、データ構造に「ドーナツデータ」という名前を付けます。 次に「保存」をクリックします。
 1. 「変数を設定」モジュールのドーナツデータを「JSON 文字列」フィールドにマッピングします。
 
    ![JSON の操作画像 4](../12-exercises/assets/working-with-json-walkthrough-4.png)
@@ -75,7 +86,7 @@ ht-degree: 100%
 
 1. 下のルーティングパスに「JSON に集計」モジュールを追加します。
 1. ソースモジュールには、イテレータ（「JSON 解析」モジュール）を選択します。
-1. データ構造には、任意のデータ構造を作成するか選択します。この例では、ドーナツデータを使用します。
+1. データ構造には、任意のデータ構造を作成するか選択します。 この例では、ドーナツデータを使用します。
 1. 次に示すように、この例のフィールドを直接マッピングします。
 1. 生地とトッピングを取得すると、これらは配列であることがわかります。そのため、「アイテムを追加」をクリックして、マッピングする必要があります。
 
@@ -83,6 +94,6 @@ ht-degree: 100%
 
 1. シナリオを保存し、「1 回実行」をクリックします。
 
-「JSON に集計」モジュールの実行インスペクターを確認すると、3 つのバンドルが 1 つの JSON 文字列に集計できたことがわかります。その後、この文字列を JSON を待ち受ける他のシステムに送信できます。
+「JSON に集計」モジュールの実行インスペクターを確認すると、3 つのバンドルが 1 つの JSON 文字列に集計できたことがわかります。 その後、この文字列を JSON を待ち受ける他のシステムに送信できます。
 
 ![JSON の操作画像 9](../12-exercises/assets/working-with-json-walkthrough-9.png)

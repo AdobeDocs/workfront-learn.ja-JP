@@ -12,9 +12,20 @@ jira: KT-8733
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '224'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:10:55.122Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 224
 ht-degree: 100%
 
 ---
@@ -25,11 +36,11 @@ ht-degree: 100%
 
 * 従業員が各プロジェクトに費やしている時間を迅速に確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3437800/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3437800/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## プロジェクトに費やした時間のレビュー
 
-プロジェクトツリーマップを使用すると、ユーザーがプロジェクトに費やした時間を把握できます。ボックスはプロジェクトを表します。ボックスのサイズは、他のプロジェクトと比較して、そのプロジェクトに費やした時間を示します。ボックスが大きいほど、長い時間を費やしました。
+プロジェクトツリーマップを使用すると、ユーザーがプロジェクトに費やした時間を把握できます。 ボックスはプロジェクトを表します。 ボックスのサイズは、他のプロジェクトと比較して、そのプロジェクトに費やした時間を示します。 ボックスが大きいほど、長い時間を費やしました。
 
 この情報を確認することで、次の項目を特定することができます。
 

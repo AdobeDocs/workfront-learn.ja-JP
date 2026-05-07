@@ -11,9 +11,20 @@ jira: KT-11053
 thumbnail: KT11053.png
 recommendations: noDisplay,catalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:44.091Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 670
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ Webhook で開始されるシナリオを作成、トリガー、管理する方
 
 ## 演習の概要
 
-このシナリオの目的は、コンビニエンスストアに販売するアプリを作成して、お客様がアルコールを購入できる年齢に達しているかどうかをコンビニエンスストアが簡単に判断できるようにすることです。レジ担当者は、お客様の名前と生年月日を、提供された URL に POST するだけで済みます。その POST によって、回答を計算してリクエスターに返すシナリオがトリガーされます。
+このシナリオの目的は、コンビニエンスストアに販売するアプリを作成して、お客様がアルコールを購入できる年齢に達しているかどうかをコンビニエンスストアが簡単に判断できるようにすることです。 レジ担当者は、お客様の名前と生年月日を、提供された URL に POST するだけで済みます。 その POST によって、回答を計算してリクエスターに返すシナリオがトリガーされます。
 
 1. このシナリオは、3 つの Webhook で構成されています。
 1. トリガーモジュールは、POST をリッスンするカスタム Webhook です。
@@ -47,10 +58,10 @@ Webhook で開始されるシナリオを作成、トリガー、管理する方
 
    ![Webhook 画像 2](../12-exercises/assets/webhooks-walkthrough-2.png)
 
-1. Webhook マッピングパネルに戻ると、この特定の Webhook 用の URL が作成されます。「アドレスをクリップボードにコピー」をクリックして、その URL をコピーします。
+1. Webhook マッピングパネルに戻ると、この特定の Webhook 用の URL が作成されます。 「アドレスをクリップボードにコピー」をクリックして、その URL をコピーします。
 1. 「OK」をクリックします。
 1. 「1 回実行」をクリックします。
-1. Postman で URL を使用して、名前と生年月日をカスタム Webhook に送信します。Postman の設定手順については、[Webhook のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=ja)を参照してください。
+1. Postman で URL を使用して、名前と生年月日をカスタム Webhook に送信します。 Postman の設定手順については、[Webhook のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=ja)を参照してください。
 
    **Webhook モジュールパネルは次のようになります。**
 
@@ -59,7 +70,7 @@ Webhook で開始されるシナリオを作成、トリガー、管理する方
    **Webhook は、データ構造を判断するためにデータをリッスンしている状態になりました。**
 
 1. 取得するペイロードのデータ構造を定義できます（データ構造については後で説明します）。 データ構造を定義していない場合、Fusion は、POST の送信時にデータ構造を自動的に決定します。
-1. Postman 側では、コピーした URL に送信します。投稿には、基本的なフォームデータが含まれている必要があります。この例では、名前、生年月日、clientToken の 3 つのフィールドが必要です。
+1. Postman 側では、コピーした URL に送信します。 投稿には、基本的なフォームデータが含まれている必要があります。 この例では、名前、生年月日、clientToken の 3 つのフィールドが必要です。
 
    ![Webhook 画像 4](../12-exercises/assets/webhooks-walkthrough-4.png)
 
@@ -72,24 +83,24 @@ Webhook で開始されるシナリオを作成、トリガー、管理する方
    **クライアントトークンのルーティングを設定します。**
 
 1. ルーターをトリガーモジュールに追加します。
-1. 上部のパスに Webhook 応答モジュールを追加します。これは、クライアントトークンが一致しない場合のパスになります。
+1. 上部のパスに Webhook 応答モジュールを追加します。 これは、クライアントトークンが一致しない場合のパスになります。
 1. ステータスを 401 に設定します。
-1. 本文を {&quot;エラー&quot; : &quot;リクエストの認証に失敗しました。clientToken を確認してください&quot;} に設定します。
+1. 本文を {&quot;エラー&quot; : &quot;リクエストの認証に失敗しました。 clientToken を確認してください&quot;} に設定します。
 
    ![Webhook 画像 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 
-1. ルーターと Webhook 応答モジュールの間にフィルターを作成します。「クライアントトークンが一致しません」という名前を付けます。
+1. ルーターと Webhook 応答モジュールの間にフィルターを作成します。 「クライアントトークンが一致しません」という名前を付けます。
 1. 条件には、トリガーモジュールの clientToken フィールドを使用し、「次に等しくない」を使用して、5121933 と数値比較を行います。
 
    ![Webhook 画像 7](../12-exercises/assets/webhooks-walkthrough-7.png)
 
 1. 下部のパスに別の Webhook 応答モジュールを追加します。 これは、クライアントトークンが一致する場合のパスになります。
 1. ステータスを 200 に設定します。
-1. 本文の設定では、マッピングパネルの関数を使用して、ユーザーが 21 歳以上かどうかをテストします。そうであれば「あんたは飲酒が可能な年齢です」、そうでなければ「残念ですが…」を返します。
+1. 本文の設定では、マッピングパネルの関数を使用して、ユーザーが 21 歳以上かどうかをテストします。 そうであれば「あんたは飲酒が可能な年齢です」、そうでなければ「残念ですが…」を返します。
 
    ![Webhook 画像 9](../12-exercises/assets/webhooks-walkthrough-9.png)
 
-1. ルーターと下位パスの Webhook 応答モジュールの間にフィルターを作成します。「クライアントトークンが一致します」という名前を付けます。
+1. ルーターと下位パスの Webhook 応答モジュールの間にフィルターを作成します。 「クライアントトークンが一致します」という名前を付けます。
 1. 条件には、トリガーモジュールの clientToken フィールドを使用し、5121933 という数値と「次に等しい」比較を行います。
 
 

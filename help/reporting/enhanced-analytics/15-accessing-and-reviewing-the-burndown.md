@@ -12,9 +12,20 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '293'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:10:10.755Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 295
 ht-degree: 100%
 
 ---
@@ -26,11 +37,11 @@ ht-degree: 100%
 * バーンダウンチャートへのアクセス方法
 * プロジェクトの残り時間、プロジェクトの状態、プロジェクトの速度の間の関係を確認する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3438885/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3438885/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## プロジェクトの速度の追跡
 
-バーンダウンチャートを使用すると、プロジェクトの残り時間、状態、速度の関係を把握できます。 実線は、時間の経過に伴うプロジェクトの消費時間と、各日のプロジェクトの状態を示します。破線は、タスクの日付の変更に合わせて、開始日から予定完了日までの予定速度を示します。
+バーンダウンチャートを使用すると、プロジェクトの残り時間、状態、速度の関係を把握できます。 実線は、時間の経過に伴うプロジェクトの消費時間と、各日のプロジェクトの状態を示します。 破線は、タスクの日付の変更に合わせて、開始日から予定完了日までの予定速度を示します。
 
 この情報を確認することで、次の項目を特定するのに役立ちます。
 

@@ -11,9 +11,20 @@ jira: KT-11049
 thumbnail: KT11049.png
 recommendations: noDisplay,catalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:02.583Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 294
 ht-degree: 100%
 
 ---
@@ -35,11 +46,11 @@ ht-degree: 100%
 
    ![実行履歴画像 2](../12-exercises/assets/execution-history-walkthrough-2.png)
 
-1. 実行を見つけ、「詳細」ボタンをクリックしてページを開くと、右側のパネルに実行された（または実行されなかった）特定の操作が表示されます。左側のパネルでは、実行時のシナリオを確認できます。
+1. 実行を見つけ、「詳細」ボタンをクリックしてページを開くと、右側のパネルに実行された（または実行されなかった）特定の操作が表示されます。 左側のパネルでは、実行時のシナリオを確認できます。
 
    ![実行履歴画像 3](../12-exercises/assets/execution-history-walkthrough-3.png)
 
-1. シナリオパネルでモジュールをクリックすると、モジュールインスペクターのパネルが表示され、モジュールの設定に関する情報が表示されます。モジュールまたはフィルターの横にある実行インスペクターをクリックすると、実行された情報のバンドルを確認できます。
+1. シナリオパネルでモジュールをクリックすると、モジュールインスペクターのパネルが表示され、モジュールの設定に関する情報が表示されます。 モジュールまたはフィルターの横にある実行インスペクターをクリックすると、実行された情報のバンドルを確認できます。
 
    ![実行履歴画像 4](../12-exercises/assets/execution-history-walkthrough-4.png)
 
@@ -52,12 +63,12 @@ ht-degree: 100%
 
    ![実行履歴画像 6](../12-exercises/assets/execution-history-walkthrough-6.png)
 
-   + ログ項目をクリックして、シナリオパネルの操作パネルを開きます。ログは、発生した時点の時系列で表示されます。
+   + ログ項目をクリックして、シナリオパネルの操作パネルを開きます。 ログは、発生した時点の時系列で表示されます。
 
 
    ![実行履歴画像 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 
 
-1. 詳細ログには、同様の情報が表示されます。ただし、1 回の実行で実行されたサイクル数の詳細を提供し、各サイクルで処理された情報のバンドルを詳しく調べることができます。
+1. 詳細ログには、同様の情報が表示されます。 ただし、1 回の実行で実行されたサイクル数の詳細を提供し、各サイクルで処理された情報のバンドルを詳しく調べることができます。
 
 ![実行履歴画像 8](../12-exercises/assets/execution-history-walkthrough-8.png)

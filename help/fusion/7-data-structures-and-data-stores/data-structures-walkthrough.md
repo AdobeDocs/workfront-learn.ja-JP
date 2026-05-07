@@ -11,16 +11,27 @@ jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '115'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:28:30.119Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 131
 ht-degree: 100%
 
 ---
 
 # データ構造のチュートリアル
 
-時間エントリのリストを含む CSV ファイルを開きます。これらの時間エントリは、複数のユーザーによって特定の日にログ記録された分です。目標は、この情報を取得して、各ユーザーが毎日ログ記録した合計時間を時間単位で示す新しい CSV を作成することです。
+時間エントリのリストを含む CSV ファイルを開きます。 これらの時間エントリは、複数のユーザーによって特定の日にログ記録された分です。 目標は、この情報を取得して、各ユーザーが毎日ログ記録した合計時間を時間単位で示す新しい CSV を作成することです。
 
 ![Fusion シナリオの画像](assets/data-structures-and-data-stores-1.png)
 
@@ -28,10 +39,10 @@ ht-degree: 100%
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3417959/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3417959/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 
 ## 詳細情報 以下をお勧めします。
 
-[Workfront Fusion ドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion のドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

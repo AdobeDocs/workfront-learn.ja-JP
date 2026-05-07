@@ -11,9 +11,20 @@ jira: KT-11052
 thumbnail: KT11052.png
 recommendations: noDisplay,catalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:26.747Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 327
 ht-degree: 100%
 
 ---
@@ -43,13 +54,13 @@ ht-degree: 100%
 
    ![スイッチモジュールの画像 3](../12-exercises/assets/switch-module-walkthrough-3.png)
 
-1. 次に、「チャネル」カスタムフィールドから取得される可能性のある値ごとにケースを追加します。可能性のある値は、「パターン」フィールドに取得されます。出力フィールドに、特定の 3 文字コード、プロジェクト参照番号、プロジェクト名を含める必要があります。
+1. 次に、「チャネル」カスタムフィールドから取得される可能性のある値ごとにケースを追加します。 可能性のある値は、「パターン」フィールドに取得されます。 出力フィールドに、特定の 3 文字コード、プロジェクト参照番号、プロジェクト名を含める必要があります。
 
    **マッピングパネルは次のようになります。**
 
    ![スイッチモジュールの画像 4](../12-exercises/assets/switch-module-walkthrough-4.png)
 
-1. 追加のケースは、必要な数だけ追加できます。下部には、「その他」フィールドがあります。これは、入力値がどのケースにも一致しない場合に使用します。
+1. 追加のケースは、必要な数だけ追加できます。 下部には、「その他」フィールドがあります。 これは、入力値がどのケースにも一致しない場合に使用します。
 
    **Workfront でプロジェクト名を更新します。**
 
