@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Workfront Planning でレコードタイプを結び付けて、ワークフローを合理化し、明確性を高め、チームの説明責任と効率性を向上させる方法を説明します。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463799/?captions=jpn&learn=on&enablevpops=1)

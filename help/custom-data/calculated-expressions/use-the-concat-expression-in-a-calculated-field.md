@@ -32,4 +32,4 @@ ht-degree: 100%
 * CONCAT 式の概要
 * 計算フィールドで CONCAT テキスト式を作成する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417111/?captions=jpn&quality=12&learn=on&enablevpops=1)

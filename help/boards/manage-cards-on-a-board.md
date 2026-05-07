@@ -29,4 +29,4 @@ ht-degree: 100%
 
 ボード上のカードを再整理、コピー、アーカイブ、削除、切断する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422922/?captions=jpn&quality=12&learn=on&enablevpops=1)

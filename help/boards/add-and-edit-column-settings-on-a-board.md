@@ -29,4 +29,4 @@ ht-degree: 100%
 
 ボードで列設定を追加および編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422932/?captions=jpn&quality=12&learn=on&enablevpops=1)

@@ -34,7 +34,7 @@ ht-degree: 100%
 * [!DNL  Workfront] でのステータスの目的
 * 作業割り当てのステータスを変更する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443431/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 開始と作業対象
 

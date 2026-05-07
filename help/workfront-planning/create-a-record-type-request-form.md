@@ -34,4 +34,4 @@ ht-degree: 76%
 
 カスタムリクエストフォームの作成方法を学んで、タスクの整理、重要情報の収集、チームの効率向上を実現し、チームの業務を効率化します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471082/?captions=jpn&learn=on&enablevpops=1)

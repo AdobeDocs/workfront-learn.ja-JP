@@ -37,4 +37,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner] でプランを更新する
 * [!DNL Scenario Planner] でプランをコピーする
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412650/?captions=jpn&quality=12&learn=on&enablevpops=1)

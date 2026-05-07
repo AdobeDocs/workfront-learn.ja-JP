@@ -29,4 +29,4 @@ ht-degree: 100%
 
 新規または既存の作業アイテムからボードにカードを追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423052/?captions=jpn&quality=12&learn=on&enablevpops=1)

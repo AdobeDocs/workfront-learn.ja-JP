@@ -32,5 +32,5 @@ ht-degree: 8%
 
 レイアウトテンプレートを使用して、プロジェクトヘッダーをカスタマイズし、最も関連性の高い情報のみを表示する方法を説明します。 不要なフィールドを削除し、カスタムフィールドを追加して、効果的に整理することで、チームがプロジェクトの重要な詳細にすばやくアクセスし、明瞭性と効率性を向上させることができるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483464/?captions=jpn&learn=on&enablevpops)
 

@@ -28,4 +28,4 @@ ht-degree: 100%
 
 イテレーションステータスバーの読み取り、バーンダウンチャートの検索と読み取り、イテレーションストーリーボードでのストーリーの表示と移動の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412180/?captions=jpn&quality=12&learn=on&enablevpops=1)

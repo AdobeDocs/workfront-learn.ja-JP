@@ -32,4 +32,4 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Scenario Planner] のプランの一部としてイニシアチブを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412638/?captions=jpn&quality=12&learn=on&enablevpops=1)

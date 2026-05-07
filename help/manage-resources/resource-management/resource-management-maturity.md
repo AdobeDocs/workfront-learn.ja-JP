@@ -45,7 +45,7 @@ ht-degree: 92%
 
 ## リソース管理の成熟度の 4 つのステージ
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420163/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## 今後の展開

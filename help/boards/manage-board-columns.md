@@ -29,4 +29,4 @@ ht-degree: 100%
 
 ボード上の列の編集、追加、並べ替え、削除の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422951/?captions=jpn&quality=12&learn=on&enablevpops=1)
