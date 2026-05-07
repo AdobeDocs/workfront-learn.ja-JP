@@ -1,5 +1,5 @@
 ---
-title: プロジェクト管理用の[!UICONTROL  ガント ] ビューを探索
+title: プロジェクト管理用の[!UICONTROL &#x200B; ガント &#x200B;] ビューを探索
 description: ガントチャートを使用してプロジェクトの効率を最大化します。ガントチャートは、全体像ビュー、進捗のトラッキング、マイルストーンの管理、先行タスクのインサイト、カスタマイズ可能なオプションを提供して、タスクとリソースの管理を効率化します。
 activity: use
 team: Technical Marketing
@@ -12,11 +12,16 @@ last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -25,7 +30,7 @@ ht-degree: 61%
 
 ---
 
-# プロジェクト管理用の[!UICONTROL  ガント ] ビューを探索
+# プロジェクト管理用の[!UICONTROL &#x200B; ガント &#x200B;] ビューを探索
 
 このビデオでは、プロジェクト ガントチャートとタスク ガントチャートを使用して、タスクとプロジェクトを効果的に視覚化および管理する方法を説明します。 ガントチャート&#x200B;、タスク、テンプレート、プロジェクトを包括的に把握するのに役立ちます。これらのチャートは、ポートフォリオ内で一般的に使用され、プロジェクト間の関係を把握し、特にリソースを共有する際に役立ちます。 &#x200B;
 
