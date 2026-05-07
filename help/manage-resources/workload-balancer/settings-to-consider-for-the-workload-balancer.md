@@ -10,9 +10,14 @@ team: Technical Marketing
 thumbnail: settings-to-consider.png
 jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/9wqffuyCRztBZCBI1kTssGbACTr-qlwbRgWlVBLLhNg
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 325
 ht-degree: 100%
 
 ---
@@ -32,7 +37,7 @@ ht-degree: 100%
 
 ## イシューの時間を含める
 
-デフォルトでは、ワークロードバランサーにタスクのみが表示されます。ただし、ユーザーは、実行または解決する必要があるリクエストやイシューに割り当てられ、プロジェクト作業に費やせる時間を無駄にする可能性があります。
+デフォルトでは、ワークロードバランサーにタスクのみが表示されます。 ただし、ユーザーは、実行または解決する必要があるリクエストやイシューに割り当てられ、プロジェクト作業に費やせる時間を無駄にする可能性があります。
 
 ユーザーのワークロード全体をより深く理解するために、Workfront ではイシューを割り当てられたユーザー作業のリストに含めることをお勧めします。
 
@@ -62,7 +67,7 @@ ht-degree: 100%
 
 ### 完了したタスク
 
-完了したタスクは、現在処理中または開始予定のタスクと共にワークロードバランサーに表示されます。ユーザーが実行できる追加の作業内容をより深く把握するために、完了した作業を除外できます。
+完了したタスクは、現在処理中または開始予定のタスクと共にワークロードバランサーに表示されます。 ユーザーが実行できる追加の作業内容をより深く把握するために、完了した作業を除外できます。
 
 ワークロードバランサーの設定で「完了した作業を表示」オプションをオフにします。
 

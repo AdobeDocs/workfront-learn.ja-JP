@@ -11,9 +11,13 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d9be35425a1b79b20b44caa25b60ed84bed49838
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: 110
 ht-degree: 100%
 
 ---
@@ -25,7 +29,7 @@ ht-degree: 100%
 * [!DNL Workfront's] の様々な日付タイプを比較するビューの選択
 * 進捗ステータスを使用した作業の進捗の追跡
 
->[!VIDEO](https://video.tv.adobe.com/v/3436608/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

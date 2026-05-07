@@ -10,9 +10,13 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '297'
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f0dff02462d4c11075064f6ad7e2adb8b97c40b
+workflow-type: tm+mt
+source-wordcount: 300
 ht-degree: 100%
 
 ---
@@ -23,11 +27,11 @@ ht-degree: 100%
 
 * [!UICONTROL Pulse] 更新ストリームで個人の目標を表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/3415931/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
 
 ## Pulse ストリーム内で情報をフィルターする
 
-[!UICONTROL Pulse] ストリームで取得する情報が多すぎることや適切でないことに気付く場合があります。フィード内の情報をフィルターして、必要な情報のみを確認します。
+[!UICONTROL Pulse] ストリームで取得する情報が多すぎることや適切でないことに気付く場合があります。 フィード内の情報をフィルターして、必要な情報のみを確認します。
 
 1. 左側のパネルで「[!UICONTROL **Pulse**]」をクリックします。
 1. 右上隅にある&#x200B;[!UICONTROL **フィルター**]&#x200B;アイコンをクリックします。
@@ -39,7 +43,7 @@ ht-degree: 100%
 
    ![ の[!UICONTROL フィルター]パネルの画像[!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
-**メモ**：フィルターの選択内容は保持され、[!DNL Goals] の他のセクションの情報は、この情報に従って表示されます。[!DNL Workfront] の [!DNL Goals] エリアの様々なセクションで、目標を見つけてフィルターできます。
+**メモ**：フィルターの選択内容は保持され、[!DNL Goals] の他のセクションの情報は、この情報に従って表示されます。 [!DNL Workfront] の [!DNL Goals] エリアの様々なセクションで、目標を見つけてフィルターできます。
 
 * [!UICONTROL 目標リスト]
 * [!UICONTROL グラフ]

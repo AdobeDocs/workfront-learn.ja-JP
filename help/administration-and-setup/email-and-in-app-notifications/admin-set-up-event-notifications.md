@@ -10,9 +10,15 @@ level: Intermediate
 thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '622'
+TQID: https://experienceleague.adobe.com/VpeDSuAKqWlXviBhwNl8oV2LJ8LRQCjfhu0-XqIRZ6k
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 625
 ht-degree: 100%
 
 ---
@@ -29,7 +35,7 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->ロールアウトが段階的なので、一部の [!DNL Workfront] 顧客はシステムおよびグループ管理者がイベント通知を管理できるようにする機能を一時的に利用できません。リリースに関する更新については、「グループのイベント通知の設定をロック解除する」の記事を参照してください。
+>ロールアウトが段階的なので、一部の [!DNL Workfront] 顧客はシステムおよびグループ管理者がイベント通知を管理できるようにする機能を一時的に利用できません。 リリースに関する更新については、「グループのイベント通知の設定をロック解除する」の記事を参照してください。
 
 システム管理者は、ユーザーが [!DNL Workfront] を介してどの通知を受け取るかを決定します。
 
@@ -45,9 +51,9 @@ add URL link in the note at the top of the LP
 
 ## 通知をオンにする
 
-グローバルなシステムレベルで通知を管理するには、検索バーに「[!UICONTROL システムイベント通知]」と表示されていることを確認します。 
+グローバルなシステムレベルで通知を管理するには、検索バーに「[!UICONTROL システムイベント通知]」と表示されていることを確認します。
 
-特定の通知をオンにしてすべてのユーザーが使用できるようにするには、青が表示されるように切り替えボタンをクリックします。青が非表示の場合、通知はオフになります。
+特定の通知をオンにしてすべてのユーザーが使用できるようにするには、青が表示されるように切替スイッチボタンをクリックします。 青が非表示の場合、通知はオフになります。
 
 ![[!UICONTROL メール通知]ページのアクティブ列](assets/admin-fund-notifications-2.png)
 
@@ -71,7 +77,7 @@ add URL link in the note at the top of the LP
 
 ![[!UICONTROL メール通知]ページのグループアクセス列](assets/ganotifications_02.png)
 
-ロック解除された通知をロックするには、切り替えボタンをクリックして表示がグレーになるようにします。チェックボックスをオンにし、ツールバーのロック解除アイコンをクリックして、複数の通知を同時にロックします。
+ロック解除された通知をロックするには、切替スイッチボタンをクリックして表示がグレーになるようにします。 チェックボックスをオンにし、ツールバーのロック解除アイコンをクリックして、複数の通知を同時にロックします。
 
 ![[!UICONTROL メール通知]ページのグループアクセス列](assets/ganotifications_03.png)
 

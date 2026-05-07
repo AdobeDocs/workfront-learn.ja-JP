@@ -10,18 +10,24 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '255'
+TQID: https://experienceleague.adobe.com/FH5-fqz-u62W04-Cm8x4nU6cYSb2bKhrZ27No-yScG8
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 255
 ht-degree: 100%
 
 ---
 
 # ごみ箱からのオブジェクトの復元
 
-プロジェクトの作業には、多くの変更が伴います。何かを削除しても、30 分後にそのタスクが必要であったことや、解決しようとしているイシューにとってドキュメントが不可欠であったことに気付く場合があります。
+プロジェクトの作業には、多くの変更が伴います。 何かを削除しても、30 分後にそのタスクが必要であったことや、解決しようとしているイシューにとってドキュメントが不可欠であったことに気付く場合があります。
 
-ごみ箱を使用して、オブジェクトが削除されると、Workfront では最大 30 日間保存します。システム管理者は、すべての情報（アップデート、ログ記録された時間、ドキュメントなど）と共に、オブジェクトを Workfront の元の位置に復元できます。
+ごみ箱を使用して、オブジェクトが削除されると、Workfront では最大 30 日間保存します。 システム管理者は、すべての情報（アップデート、ログ記録された時間、ドキュメントなど）と共に、オブジェクトを Workfront の元の位置に復元できます。
 
 ## オブジェクトの復元
 
@@ -39,7 +45,7 @@ ht-degree: 100%
 
 ![ごみ箱で選択された項目](assets/admin-fund-recycle-bin-2.png)
 
-復元中のオブジェクトが「[!UICONTROL 処理中]」セクションに一時的にポップアップされます。画面が更新されると、オブジェクトは復元されているので、画面に表示されなくなります。項目は、[!DNL Workfront] の以前の場所に表示され、[!UICONTROL 最近復元された項目]画面で確認できます。
+復元中のオブジェクトが「[!UICONTROL 処理中]」セクションに一時的にポップアップされます。 画面が更新されると、オブジェクトは復元されているので、画面に表示されなくなります。 項目は、[!DNL Workfront] の以前の場所に表示され、[!UICONTROL 最近復元された項目]画面で確認できます。
 
 ![設定エリアのごみ箱の「最近復元された項目」セクション](assets/admin-fund-recycle-bin-3.png)
 

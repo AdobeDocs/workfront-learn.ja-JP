@@ -10,9 +10,15 @@ level: Beginner
 thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '312'
+TQID: https://experienceleague.adobe.com/sfd4zrfrTkqEfkO5cPL85ZiD-RawPbikiUQO5oq-nuc
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 316
 ht-degree: 100%
 
 ---
@@ -23,7 +29,7 @@ this has the same content as the system administrator notification setup and man
 
 # リマインダー通知を設定
 
-リマインダー通知は、システム管理者が[!UICONTROL 設定]エリアで作成します。プロジェクト、タスク、イシューの所有者が、作業の期限が近い、期限が切れている時期のリマインダーとして、リマインダー通知を添付して使用できます。
+リマインダー通知は、システム管理者が[!UICONTROL 設定]エリアで作成します。 プロジェクト、タスク、イシューの所有者が、作業の期限が近い、期限が切れている時期のリマインダーとして、リマインダー通知を添付して使用できます。
 
 リマインダーはオブジェクト固有なので、通知を送信できるように、対応する作業項目に手動で添付する必要があります。
 
@@ -42,10 +48,10 @@ this has the same content as the system administrator notification setup and man
 
 リマインダーを設定する際に考慮すべき点を以下に示します。
 
-* **[!UICONTROL リマインダー通知名] -**&#x200B;これは、プロジェクトマネージャがリマインダーをオブジェクトに付加する際に表示される名前です。名前は簡潔でわかりやすいものにしてください。
+* **[!UICONTROL リマインダー通知名] -**&#x200B;これは、プロジェクトマネージャがリマインダーをオブジェクトに付加する際に表示される名前です。 名前は簡潔でわかりやすいものにしてください。
 * **[!UICONTROL 対象期間] -**「タイミング」セクションで選択した日付の前後の時間、日、週、月の数。
 * **[!UICONTROL タイミング] -**&#x200B;リマインダーを、オブジェクトの予定日、見込み日、実際の開始日／完了日の前後のどちらに送信するかを選択します。 タイムシートのオプションは、開始日、終了日、最終更新日に関連します。
-* **[!UICONTROL 条件] -**&#x200B;送信するリマインダーを絞り込むための条件を指定します。オプションは、オブジェクト固有のリマインダーに応じて異なります。
+* **[!UICONTROL 条件] -**&#x200B;送信するリマインダーを絞り込むための条件を指定します。 オプションは、オブジェクト固有のリマインダーに応じて異なります。
 * **[!UICONTROL 受信者] -**&#x200B;リマインダーの送信先を選択します。 関係者のオプションは、リマインダー用に選択したオブジェクトタイプに応じて異なります。
 
 リマインダー設定を確立して保存すると、オブジェクト所有者は、[!DNL Workfront] 内でリマインダー通知を使用できるようになります。
