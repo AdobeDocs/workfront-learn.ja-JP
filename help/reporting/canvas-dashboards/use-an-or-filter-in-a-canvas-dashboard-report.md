@@ -46,8 +46,8 @@ ht-degree: 18%
 >[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **詳細については、次のヘルプ記事を参照してください。**
-[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[&#x200B; キャンバスダッシュボードでレポートフィルターを編集](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[&#x200B; キャンバスダッシュボードでレポートフィルターを編集](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## このトピックに関する推奨チュートリアル
 
