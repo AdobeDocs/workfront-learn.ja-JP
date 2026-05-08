@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL ホーム]での更新方法'
-description: 作業の割り当てを更新する方法と、既存の更新に返信する方法を説明します。更新で  [!DNL Workfront]  ユーザーにタグを付けて、コミュニケーションについて通知されるようにします。
+description: 作業の割り当てを更新する方法と、既存の更新に返信する方法を説明します。 更新で  [!DNL Workfront]  ユーザーにタグを付けて、コミュニケーションについて通知されるようにします。
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,9 +11,18 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '245'
+TQID: https://experienceleague.adobe.com/60Yk-4-IP08-3oEUcIQIqKVitDezxAC-fIV0e2uVYRQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 247
 ht-degree: 100%
 
 ---
@@ -22,25 +31,25 @@ ht-degree: 100%
 
 このビデオでは、以下の方法を説明します。
 
-* 作業の割り当てに関する最新情報を通じてコミュニケーションを行う
+* 作業の割り当てに関する更新を通じてコミュニケーションを行う
 * [!DNL Workfront] の更新でユーザーにタグを付ける
 * 既存の更新に返信する
 
->[!VIDEO](https://video.tv.adobe.com/v/3445278/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3445278/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## [!UICONTROL ホーム]で作業を更新するためのヒント
 
 * 更新を使用して、質問したり、追加情報を入力したり、実行中の作業に関する一般的な最新情報を共有したりします。
-* 他の [!UICONTROL Workfront] ユーザーに @name で「タグ付け」を行い、最新情報に関する通知を確実に受信できるようにします。これは、特定のユーザーに最新情報を確実に表示するための最適な方法です。更新で個々のユーザーやチームを「タグ付け」できます。
-* チームまたはグループにタグを付けてスレッド内で応答を続けることは、悪名高い「全員に返信」メールに相当します。迷惑にならないように気をつける必要があります。オブジェクトのコンテキスト内で、タグを上または下に向けることができます。
+* 他の [!UICONTROL Workfront] ユーザーに @name で「タグ付け」を行い、アップデートに関する通知を確実に受信できるようにします。 これは、特定のユーザーに最新情報を確実に表示するための最適な方法です。 更新で個々のユーザーやチームを「タグ付け」できます。
+* チームまたはグループにタグを付けてスレッド内で応答を続けることは、悪名高い「全員に返信」メールに相当します。 迷惑にならないように気をつける必要があります。 オブジェクトのコンテキスト内で、タグを上または下に向けることができます。
 
 <!--
 paragraph below needs a hyperlink to an article
 -->
 
-* タスクに割り当てられていないが、通知を受け取りたい場合は、タスクをサブスクライブします。詳しくは、新しい [!UICONTROL Workfront] エクスペリエンスでの [!UICONTROL Workfront] の項目の購読に関する記事を参照してください。
+* タスクに割り当てられていないが、通知を受け取りたい場合は、タスクをサブスクライブします。 詳しくは、新しい [!UICONTROL Workfront] エクスペリエンスでの [!UICONTROL Workfront] の項目の購読に関する記事を参照してください。
 * 更新を特定の曜日に投稿して、すべてのユーザーが最新情報を検索するタイミングを把握できるようにします。
-* リッチテキストツールを使用して、更新を書式設定します。情報を太字で目立たせたり、箇条書きで読みやすい概要を作成したりします。
+* リッチテキストツールを使用して、更新を書式設定します。 情報を太字で目立たせたり、箇条書きで読みやすい概要を作成したりします。
 
 <!--
 learn more URLs

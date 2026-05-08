@@ -9,9 +9,21 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '368'
+TQID: https://experienceleague.adobe.com/Ox5zZ29nZxPd801bzB5A8nu-PHDrS4OuaD-3E--tkRs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 369
 ht-degree: 100%
 
 ---
@@ -24,7 +36,7 @@ ht-degree: 100%
 
 ![[!UICONTROL イシューの詳細]ウィンドウの重要度メニュー](assets/admin-fund-severity-issue-details.png)
 
-「[!UICONTROL 重要度]」フィールドは、[!UICONTROL イシューの詳細]でアクセスできます。また、リストの列表示やカスタムレポートに含めることもできます。
+「[!UICONTROL 重要度]」フィールドは、[!UICONTROL イシューの詳細]でアクセスできます。 また、リストの列表示やカスタムレポートに含めることもできます。
 
 [!DNL Workfront] には 5 つのデフォルトの重要度があります。
 
@@ -44,14 +56,14 @@ ht-degree: 100%
 
 ![[!UICONTROL 設定]の重要度ページ](assets/admin-fund-severity-section.png)
 
-1. **[!UICONTROL メインメニュー]**&#x200B;の&#x200B;**[!UICONTROL 設定]**&#x200B;をクリック します。
-1. 左側のメニュー パネルで「**[!UICONTROL プロジェクト環境設定]**」セクションを展開します。
+1. **[!UICONTROL メインメニュー]**&#x200B;で「**[!UICONTROL 設定]**」をクリックします。
+1. 左側のメニューパネルで「**[!UICONTROL プロジェクト環境設定]**」セクションを展開します。
 1. 「**[!UICONTROL 重用度]**」を選択します。
 1. 「**[!UICONTROL 新しい重要度を追加]**」をクリックします。
 1. 重要度に、目的に合った名前を付けます。
-1. この **[!UICONTROL 重要度]**&#x200B;番号は、イシューの重要度に一致します。 最大の数は、最も大きい重要度に対応します。[!UICONTROL 重要度]番号は一意である必要があります。
+1. この **[!UICONTROL 重要度]**&#x200B;番号は、イシューの重要度に一致します。 最大の数は、最も大きい重要度に対応します。 [!UICONTROL 重要度]番号は一意である必要があります。
 1. 優先度の色を選択します。 これは、[!DNL Workfront] のチャートレポートやその他の場所で使用されます。
-1. 重要度オプションの 1 つを&#x200B;**[!UICONTROL デフォルトの重要度]**&#x200B;として指定します。これは、Workfront のすべての新しいイシューに自動的に適用されます。
+1. 重要度オプションの 1 つを&#x200B;**[!UICONTROL デフォルトの重要度]**&#x200B;として指定します。 これは、Workfront のすべての新しいイシューに自動的に適用されます。
 1. 重要度の説明（使用方法など）を含めます。
 1. フィールドの外側をクリックして保存します。
 
@@ -61,11 +73,11 @@ ht-degree: 100%
 
 重要度がイシューのワークフローに関連しなくなった場合は、名前の変更、非表示、削除が可能です。
 
-重要度が不要になった場合は、 [!DNL Workfront] では、重要度を非表示にすることをお勧めします（設定エリアで隣にある「[!UICONTROL 非表示] 」ボックスをクリック）。これにより、イシューのドロップダウンメニューから重要度が削除されますが、履歴データの重要度は保持されるので、レポートで引き続き使用できます。
+重要度が不要になった場合は、 [!DNL Workfront] では、重要度を非表示にすることをお勧めします（設定エリアで隣にある「[!UICONTROL 非表示] 」ボックスをクリック）。 これにより、イシューのドロップダウンメニューから重要度が削除されますが、履歴データの重要度は保持されるので、レポートで引き続き使用できます。
 
 ![設定の[!UICONTROL 重要度]ページで強調表示された列を非表示にする](assets/admin-fund-severity-hide.png)
 
-[!DNL Workfront] では、過去のイシューで使用された重要度を削除&#x200B;**しない**&#x200B;ことを推奨しています。重要度を削除すると、別の重要度を置き換えるように求められます。 削除することで履歴データが変更され、レポートに影響を与える可能性があります。
+[!DNL Workfront] では、過去のイシューで使用された重要度を削除&#x200B;**しない**&#x200B;ことを推奨しています。 重要度を削除すると、別の重要度を置き換えるように求められます。 削除することで履歴データが変更され、レポートに影響を与える可能性があります。
 
 ![重要度ウィンドウを削除する](assets/admin-fund-severity-delete.png)
 
