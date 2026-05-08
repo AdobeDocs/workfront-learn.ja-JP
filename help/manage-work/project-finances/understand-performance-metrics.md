@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:49:39.708Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 419
-ht-degree: 41%
+source-wordcount: 425
+ht-degree: 40%
 
 ---
 
@@ -60,8 +60,8 @@ ht-degree: 41%
 
 ## このトピックに関する推奨チュートリアル
 
-<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
 * [タスクの収益とコストのデフォルトの設定](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [為替レートの設定](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [費用タイプを設定する](/help/manage-work/project-finances/set-up-expense-types.md)
 * [財務アクセスについて](/help/manage-work/project-finances/understand-financial-access.md)
+* [担当業務とレートカードの作成](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)

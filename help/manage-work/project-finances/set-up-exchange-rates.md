@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:54:38.081Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 271
+source-wordcount: 277
 ht-degree: 28%
 
 ---
@@ -55,3 +55,4 @@ ht-degree: 28%
 * [タスクの収益とコストのデフォルトの設定](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [費用タイプを設定する](/help/manage-work/project-finances/set-up-expense-types.md)
 * [財務アクセスについて](/help/manage-work/project-finances/understand-financial-access.md)
+* [担当業務とレートカードの作成](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
