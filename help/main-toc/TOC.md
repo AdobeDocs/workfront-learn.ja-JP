@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: '2508'
+source-wordcount: '2680'
 ht-degree: 78%
 
 ---
@@ -78,6 +78,7 @@ ht-degree: 78%
       + [タスクの収益とコストのデフォルトの設定](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [為替レートの設定](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [費用タイプを設定する](/help/manage-work/project-finances/set-up-expense-types.md)
+      + [担当業務とレートカードの作成](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
       + [財務アクセスについて](/help/manage-work/project-finances/understand-financial-access.md)
 
 
@@ -119,7 +120,7 @@ ht-degree: 78%
       + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
       + [効果的なコミュニケーションによるプロジェクトの成功の向上](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
+      + [ プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [プロジェクト管理におけるガントチャートの活用](/help/manage-work/projects/understand-the-gantt-view.md)
@@ -161,7 +162,7 @@ ht-degree: 78%
       + [Portfolio Optimization Toolでプロジェクトの優先順位を最適化する](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 承認プロセスとマイルストーンパス {#approval-processes-and-milestone-paths}
-      + [承認プロセスを作成および管理する](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [承認プロセスの作成と管理](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [リクエストキューへのイシュー承認プロセスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [デジタル作品のレビューと承認](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [タスク、イシュー、承認の効果的な委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -171,7 +172,7 @@ ht-degree: 78%
    + プロジェクトテンプレートの作成と管理 {#create-and-manage-project-templates}
       + [プロジェクトテンプレートの作成とブループリントの探索](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [ブループリントのインストールと使用](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
-      + [プロジェクトをテンプレートから直接作成](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+      + [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [プロジェクトテンプレートの効果的な共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [既存のプロジェクトを効率的にコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
@@ -343,20 +344,20 @@ ht-degree: 78%
       + [統合の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja)
       + [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ja)
       + [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ja)
-      + [バージョン履歴の管理](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ja)
+      + [バージョン履歴の維持](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ja)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
       + [Adobe Workfront for Microsoft Teams の概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ja)
-      + [Adobe Workfront for Microsoft Teams のインストール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ja)
+      + [Microsoft Teams 用 Adobe Workfront のインストール](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ja)
       + [Microsoft Teams から Adobe Workfront へのアクセス](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ja)
       + [Microsoft Teams での Adobe Workfront 項目の検索と共有](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ja)
       + [Microsoft Teams からの Adobe Workfront タスクの作成](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ja)
@@ -524,13 +525,13 @@ ht-degree: 78%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
