@@ -37,7 +37,7 @@ ht-degree: 96%
 ビデオでは、費用タイプの作成、使用、削除に焦点を当てて、Workfront で管理する方法について説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457703/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
