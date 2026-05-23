@@ -35,7 +35,7 @@ ht-degree: 13%
 このビデオでは、担当業務とレートカードの作成方法、およびプロジェクトからレートカードを添付および削除する方法について説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486519/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
