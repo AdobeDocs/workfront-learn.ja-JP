@@ -35,7 +35,7 @@ ht-degree: 21%
 この動画では、プロジェクト管理におけるコミュニケーションの重要性を強調し、コミュニケーションを促進する重要なツールとしての課題の役割を強調しています。 &#x200B;プロジェクトを完了する前に割り当て、追跡、解決する必要がある作業に適している、更新とイシューの違いを説明しています。 &#x200B;このビデオでは、問題をログに記録する方法をステップバイステップガイドで説明します。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446567/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

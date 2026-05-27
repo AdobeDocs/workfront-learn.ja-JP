@@ -22,7 +22,7 @@ ht-degree: 0%
 この動画では、ベースライン、スナップショット、効果的なプロジェクトの追跡、履歴分析、関係者とのコミュニケーションのためにレポートを送信することの重要性を解説します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483618/?captions=jpn&quality=12&learn=on&enablevpops)
 
 ## 重要な留意点
 
