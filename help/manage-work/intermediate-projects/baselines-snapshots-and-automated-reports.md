@@ -12,7 +12,7 @@ jira: KT-20256
 doc-type: video
 source-git-commit: e90a7ab4dcb8341ab1f942c50a018ad429550570
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 この動画では、ベースライン、スナップショット、効果的なプロジェクトの追跡、履歴分析、関係者とのコミュニケーションのためにレポートを送信することの重要性を解説します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483618/?captions=jpn&quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
 
-## 主な要点
+## 重要な留意点
 
 * **ベースラインは履歴参照ポイントを提供します：** ベースラインは、主要なマイルストーン（キックオフ、大規模な再計画など）でのプロジェクトの状態をキャプチャし、元の計画に対する進捗状況を測定するために使用されます。
 * **自動および手動ベースライン作成：** ベースラインは、プロジェクトのステータスが「現在」に変更されたときに自動的に作成され、手動で作成することもできます。 あらゆるプロジェクトフィールドがベースラインで処理されるわけではありません。
