@@ -11,8 +11,8 @@ thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '220'
+workflow-type: tm+mt
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -33,13 +33,13 @@ ht-degree: 100%
 
 ![ユーザーを読み込みウィンドウ](assets/admin-fund-adding-users-6.png)
 
-読み込まれたユーザーが、[!UICONTROL ユーザー]リストに表示されます。必要な場合は、個々のユーザーまたは複数のユーザーに関する情報を編集します。
+読み込まれたユーザーが、[!UICONTROL ユーザー]リストに表示されます。 必要な場合は、個々のユーザーまたは複数のユーザーに関する情報を編集します。
 
 ![ユーザーリスト](assets/admin-fund-adding-users-7.png)
 
 ## ユーザーを読み込み：キックスタートの使用
 
-[!DNL Workfront] は、システムにデータを読み込むためのキックスタートテンプレートを提供しています。また、ユーザーの読み込みにも使用できます。 注意すべき考慮事項があるため、キックスタートを使用する前に、[!DNL Workfront] では、組織の [!DNL Workfront] コンサルタントと協力することをお勧めします。
+[!DNL Workfront] は、システムにデータを読み込むためのキックスタートテンプレートを提供しています。 また、ユーザーの読み込みにも使用できます。 注意すべき考慮事項があるため、キックスタートを使用する前に、[!DNL Workfront] では、組織の [!DNL Workfront] コンサルタントと協力することをお勧めします。
 
 <!--
 paragraph below needs URL to article
