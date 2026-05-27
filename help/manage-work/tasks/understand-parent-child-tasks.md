@@ -12,16 +12,11 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -35,7 +30,7 @@ ht-degree: 34%
 このビデオでは、Workfront のタスク構造について説明します。 タスクは、プロジェクトの重要な要素であり、完了に必要な作業項目を表します。&#x200B;このビデオでは、プロジェクトの計画と管理の重要なステップとして、タスクを正確に整理することの重要性を強調しています。 タスクの操作を開始する方法を示し、親子タスクの関係について説明します。
 &#x200B;親タスクはオーガナイザーとしての役割を果たし、プロジェクトをフェーズ、ステージ、マイルストーンにグループ化します。各タスクは個人に割り当てられません。 子タスクまたはサブタスクは、チームメンバーに割り当てられた実行可能な作業を表します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445597/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

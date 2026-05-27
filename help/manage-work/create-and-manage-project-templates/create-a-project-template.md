@@ -13,16 +13,11 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -42,7 +37,7 @@ ht-degree: 59%
 * テンプレートを作成したら、新しいプロジェクトの作成に使用できます。 このビデオでは、テンプレートから新しいプロジェクトを作成し、必要な調整をおこない、必要に応じてタスクを追加したり、期間を変更したりする方法を説明します。 &#x200B;また、リソースのスケジュール機能とプランニング機能を利用して、タスクに担当業務を割り当てる方法も紹介します。 &#x200B;
 * このビデオでは、既存のプロジェクトを新しいテンプレートとして保存し、ワークフローの更新と改善を可能にする方法について説明します。 &#x200B; テンプレートを管理して混乱を避け、プロジェクトを効率的に実行することの重要性を強調しています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415446/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 

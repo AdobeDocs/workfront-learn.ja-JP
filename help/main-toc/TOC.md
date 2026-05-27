@@ -120,7 +120,7 @@ ht-degree: 78%
       + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
       + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
       + [効果的なコミュニケーションによるプロジェクトの成功の向上](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
+      + [ プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
       + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
       + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [プロジェクト管理におけるガントチャートの活用](/help/manage-work/projects/understand-the-gantt-view.md)
@@ -350,7 +350,7 @@ ht-degree: 78%
       + [G Suite 統合によるワークフローの強化](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 統合による表示の作成](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook アドインのインストール](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -525,13 +525,13 @@ ht-degree: 78%
 
 + Workfront DAM {#workfront-dam-program}
    + システム設定 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + メタデータとキーワード {#metadata-and-keywords}
       + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
