@@ -13,16 +13,11 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -39,7 +34,7 @@ ht-degree: 76%
 * Workfront には、計画用の標準ビューや、進捗のモニタリング用のステータスビューなど、様々なビューがあります。ステータスビューには、進捗、コメント、ドキュメント、イシュー、承認、クリティカルパス、マイルストーンのフラグが含まれます。 最近のアクティビティを追跡して、更新やメモを確認できます。
 * スケジュール設定は、開始日または完了日から実行できます。Workfront では、タスクの期間と先行タスクに基づいて対応する日付を計算します。 ビデオでは、開始日から重要な完了日までに余裕を持ってスケジュール設定することを推奨しています。 また、「できるだけ早く」や「できるだけ遅く」などのタスクの制約についても説明し、タスクのスケジュール設定に与える影響を示します。 タスクの制約を表示するカスタムビューを作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435836/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
