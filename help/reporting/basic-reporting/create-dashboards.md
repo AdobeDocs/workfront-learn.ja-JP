@@ -12,11 +12,16 @@ jira: KT-8862
 last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:51.376Z'
 source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
@@ -88,7 +93,7 @@ ht-degree: 52%
 
 ### アクティビティ 2：チームのオープンタスク
 
-タスクに割り当てられた異なるチームによってフィルタリングされた3つの「開いているタスク」レポートを含む[!UICONTROL  ダッシュボード ]を作成します。
+タスクに割り当てられた異なるチームによってフィルタリングされた3つの「開いているタスク」レポートを含む[!UICONTROL &#x200B; ダッシュボード &#x200B;]を作成します。
 
 チーム別にフィルタリングされた既存の「オープンタスク」レポートがある場合は、それを使用するか、このダッシュボード用に新しいレポートを作成します。 2つの追加のチームに対してレポートを2回コピーして編集し、**「マイチームのオープンタスク」**&#x200B;という名前の単一のダッシュボードに配置します。
 
@@ -105,12 +110,12 @@ ht-degree: 52%
 
    * [!UICONTROL プロジェクト]／[!UICONTROL 名前]
    * [!UICONTROL タスク]／[!UICONTROL 名前]
-   * [!UICONTROL  タスク ] > [!UICONTROL 割り当て]
-   * [!UICONTROL  タスク ] > [!UICONTROL 期間]
-   * [!UICONTROL  タスク ] > [!UICONTROL 予定時間数]
-   * [!UICONTROL  タスク ] > [!UICONTROL 予定開始日]
-   * [!UICONTROL  タスク ] > [!UICONTROL 予定完了日]
-   * [!UICONTROL  タスク ] > [!UICONTROL 完了率]
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 割り当て]
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 期間]
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 予定時間数]
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 予定開始日]
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 予定完了日]
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 完了率]
 
 1. **[!UICONTROL 完了予定日]**&#x200B;列を選択し、並べ替えを&#x200B;**昇順**&#x200B;に変更します。
 
@@ -118,22 +123,22 @@ ht-degree: 52%
 
    ![開いているタスクレポートのフィルターを作成する画面の画像](assets/create-dashboards-activity-2-2.png)
 
-   * [!UICONTROL  プロジェクト ] > [!UICONTROL 状態が] > [!UICONTROL 次と等しい] > &quot;現在&quot;
+   * [!UICONTROL &#x200B; プロジェクト &#x200B;] > [!UICONTROL 状態が] > [!UICONTROL 次と等しい] > &quot;現在&quot;
    * [!UICONTROL Task] > [!UICONTROL Team ID] > [!UICONTROL Equal] > &quot;Creative&quot;
-   * [!UICONTROL  タスク ] > [!UICONTROL 完了率] > [!UICONTROL 未満] > &quot;100&quot;
+   * [!UICONTROL &#x200B; タスク &#x200B;] > [!UICONTROL 完了率] > [!UICONTROL 未満] > &quot;100&quot;
 
 1. 「**[!UICONTROL 保存+閉じる]**」ボタンをクリックして、レポートを保存して閉じます。
 
 #### パート 2 – 作成したレポートをコピーし、2番目のチーム用に新しいレポートを作成します
 
-![ レポートをコピーする画面の画像](assets/create-dashboards-activity-2-3.png)
+![&#x200B; レポートをコピーする画面の画像](assets/create-dashboards-activity-2-3.png)
 
 1. 作成したレポートを表示するには、**[!UICONTROL Report Actions]/[!UICONTROL Copy]**&#x200B;をクリックします。
 1. 新しいレポートが表示され、タイトルに「**」（コピー）「**」という名前が追加されます。
 1. 「**[!UICONTROL アクションを報告] > [!UICONTROL 編集]**」をクリックします。 次に、フィルターとレポートタイトルを変更して、Orion チーム（または他のチーム）に焦点を当てます。
-1. 「[!UICONTROL  フィルター]」タブをクリックし、フィルタールールを変更します
-   **[!UICONTROL Task] > [!UICONTROL Team ID] > [!UICONTROL Equal] > &quot;Creative&quot;**から
-   **[!UICONTROL タスク ] > [!UICONTROL  チーム ID] > [!UICONTROL 次と等しい] > &quot;Orion&quot;**
+1. 「[!UICONTROL &#x200B; フィルター]」タブをクリックし、フィルタールールを変更します
+   **[!UICONTROL Task] > [!UICONTROL Team ID] > [!UICONTROL Equal] > &quot;Creative&quot;**&#x200B;から
+   **[!UICONTROL タスク &#x200B;] > [!UICONTROL &#x200B; チーム ID] > [!UICONTROL 次と等しい] > &quot;Orion&quot;**
 1. 「レポートのタイトル」フィールドで、「**[!UICONTROL &quot;Creative&quot;]**」という単語を「**[!UICONTROL &quot;Orion&quot;]**」に変更し、「**&quot;（コピー）&quot;**」という単語を削除します。
 1. 「**[!UICONTROL 保存+閉じる]**」ボタンをクリックして、レポートを保存して閉じます。
 
@@ -146,18 +151,18 @@ ht-degree: 52%
 1. メインメニューから、**[!UICONTROL ダッシュボード]**&#x200B;をクリックします。
 1. 次に、**[!UICONTROL 新規ダッシュボード]**&#x200B;をクリックします。
 
-   ![ ダッシュボードを作成する画面の画像](assets/create-dashboards-activity-2-4.png)
+   ![&#x200B; ダッシュボードを作成する画面の画像](assets/create-dashboards-activity-2-4.png)
 
 1. ダッシュボードに&#x200B;**「チームの開いているタスク」**&#x200B;という名前を付けます。
 1. 「**[!UICONTROL 名前で検索]**」フィールドにレポートの名前を入力します。
 1. レポート名はすべて同じ単語で始まるので、次のように表示される場合があります。
 
-   ![ ダッシュボードレイアウト画面の画像](assets/create-dashboards-activity-2-5.png)
+   ![&#x200B; ダッシュボードレイアウト画面の画像](assets/create-dashboards-activity-2-5.png)
 
 1. 各レイヤーをレイアウト領域にドラッグし、「保存」をクリックして閉じます。
 
-   ![ ダッシュボードレイアウト画面の画像](assets/create-dashboards-activity-2-6.png)
+   ![&#x200B; ダッシュボードレイアウト画面の画像](assets/create-dashboards-activity-2-6.png)
 
 1. これが最後のダッシュボードです。
 
-   ![ ダッシュボードレイアウト画面の画像](assets/create-dashboards-activity-2-7.png)
+   ![&#x200B; ダッシュボードレイアウト画面の画像](assets/create-dashboards-activity-2-7.png)
