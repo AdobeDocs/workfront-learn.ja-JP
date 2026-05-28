@@ -12,17 +12,11 @@ jira: KT-8830
 last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2:
-  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T20:09:06.617Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -35,12 +29,12 @@ ht-degree: 91%
 
 このビデオでは、次の方法を学習します：
 
-* [!DNL &#x200B; Workfront] プルーフ用の自動ワークフローテンプレートの作成
+* [!DNL  Workfront] プルーフ用の自動ワークフローテンプレートの作成
 * プルーフの受信者の割り当て
 * レビューおよび承認プロセスの期限の設定
 * 他のユーザーとの自動ワークフローテンプレートの共有
 
->[!VIDEO](https://video.tv.adobe.com/v/3454252/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
 
 ## 追加のステージアクティベーションオプション
 
