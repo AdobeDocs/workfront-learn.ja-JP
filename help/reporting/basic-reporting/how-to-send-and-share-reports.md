@@ -38,7 +38,7 @@ ht-degree: 67%
 * すべてのユーザーとレポートを共有する方法
 * Workfront レポートで受信者が表示および実行できること
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447813/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 

@@ -36,7 +36,7 @@ ht-degree: 84%
 
 生成されたレポートは、ユーザーが遅延タスクに集中し、依存関係に関するインサイトを提供し、ホストプロジェクトへのナビゲーションを簡素化するのに役立ちます。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448343/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 
