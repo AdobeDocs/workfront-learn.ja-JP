@@ -13,32 +13,26 @@ last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:05:30.420Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 297
-ht-degree: 67%
+source-wordcount: 267
+ht-degree: 60%
 
 ---
 
 # 承認プロセスの作成と管理
 
-ビデオでは、グローバル承認プロセスと単一使用承認プロセスを区別しながら、プロジェクト、タスク、イシューの承認プロセスを作成および管理する方法について説明します。
+このビデオでは、プロジェクト、タスク、イシューの承認プロセスを作成および管理する方法を説明し、グローバル承認プロセスと単回使用の承認プロセスを区別します。
 このビデオでは、承認プロセスの作成、承認者の設定、ステータスの設定、マルチレベル承認のステージの使用を示します。
 &#x200B;タスクの承認を効果的に管理するための、グローバルなプロセスとシングルユースケースのプロセスの両方の柔軟性を強調しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434688/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
@@ -61,8 +55,8 @@ ht-degree: 67%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスク、イシュー、承認の委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [グループ特有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [リクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
+* [タスク、イシュー、承認の効果的な委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [承認プロセスの作成と管理](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Workfrontでのリクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
 * [リクエストキューへのイシュー承認プロセスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

@@ -13,29 +13,24 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: '2025-04-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 215
-ht-degree: 61%
+source-wordcount: 203
+ht-degree: 62%
 
 ---
 
 # プロジェクトとタスクの財務情報へのアクセスと管理
 
-このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。 &#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを管理し、理解するための包括的な概要を提供します。 &#x200B;
+このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。&#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを操作し、理解するための包括的な概要を提供&#x200B;ます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415897/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
@@ -49,6 +44,6 @@ ht-degree: 61%
 ## このトピックに関する推奨チュートリアル
 
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
-* [財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
-* [複数の請求レートについて](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [顧客プロジェクトの財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
+* [担当業務の請求率のカスタマイズ](/help/manage-work/project-finances/multiple-billing-rates.md)
 

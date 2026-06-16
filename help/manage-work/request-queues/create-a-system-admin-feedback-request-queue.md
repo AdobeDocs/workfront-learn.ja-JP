@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 76%
+source-wordcount: 373
+ht-degree: 84%
 
 ---
 
@@ -35,8 +30,8 @@ ht-degree: 76%
 
 >[!PREREQUISITES]
 >
->* [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ja)
->* [リクエストフローの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ja)
+>* [Workfrontでリクエストキューを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ja)
+>* [Workfrontでリクエストフローを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ja)
 >* ルーティングルールとカスタムフォームを使用するリクエストキューの作成に既に慣れている
 
 このビデオでは、システム管理者向けのフィードバックリクエストキューの作成に関するステップバイステップガイドを提供します。
@@ -45,7 +40,7 @@ ht-degree: 76%
 &#x200B;レポートとカスタムフォームの作成に関するチュートリアルへのリンクを提供しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450498/?captions=jpn&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 
@@ -56,7 +51,7 @@ ht-degree: 76%
 * **テストとアクセシビリティ：**&#x200B;キューはサンプルリクエストでテストされ、機能性が確保されます。 これは、すべてのユーザーがアクセスできるヘルプリクエストキューとして公開され、デフォルトの完了期間は 10 日です。
 
 
-ビデオで使用する **管理者チームのフィードバックレポート** の作成方法については、**タスクレポートの作成 [&#x200B; チュートリアルの** 管理者チームのフィードバックレポートの作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) アクティビティを参照してください。
+ビデオで使用する **管理者チームのフィードバックレポート** の作成方法については、**タスクレポートの作成 [ チュートリアルの** 管理者チームのフィードバックレポートの作成 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) アクティビティを参照してください。
 
 カスタムフォームの作成方法について詳しくは、[カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ja)チュートリアルを参照してください。
 
