@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:15:20.972Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 17%
+source-wordcount: 163
+ht-degree: 12%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 17%
 
 >[!PREREQUISITES]
 >
->* [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [WorkfrontのCanvas ダッシュボードを見る](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 カンバスダッシュボード **レポート**&#x200B;を作成する前に最初に行う必要があることは、次のとおりです。
 
 * Canvas ダッシュボード ベータ版に登録し、および
 * キャンバスダッシュボードの作成
 
-[&#x200B; カンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)では、両方の方法をステップバイステップで説明しています。
+Workfrontの[Explore Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)には、両方の方法をステップバイステップで示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474976/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
@@ -51,8 +51,8 @@ ht-degree: 17%
 
 ## このトピックに関する推奨チュートリアル
 
-* [キャンバスダッシュボードの概要](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [WorkfrontのCanvas ダッシュボードを見る](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Canvas ダッシュボードでのKPI レポートの作成](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Canvas ダッシュボードでグラフ レポートを作成](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [カンバスダッシュボードでのテーブルレポートの作成](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-* [カンバスダッシュボードレポートでのOR フィルターの使用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+* [カンバスダッシュボードレポートでのOR フィルターの適用](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

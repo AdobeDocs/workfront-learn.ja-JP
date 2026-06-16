@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:58:34.198Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 87%
+source-wordcount: 78
+ht-degree: 62%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 87%
 
 ## このトピックに関する推奨チュートリアル
 
-* [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [プロジェクトテンプレートの作成とブループリントの探索](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [プロジェクトをテンプレートから直接作成する](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [既存のプロジェクトのコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [既存のプロジェクトを効率的にコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [テンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

@@ -1,6 +1,6 @@
 ---
 title: リクエストキューに関するよくある質問へ回答
-description: ' [!DNL  Workfront] でリクエストキューに関するよくある質問への回答を示します。'
+description: ' [!DNL &#x200B; Workfront] でリクエストキューに関するよくある質問への回答を示します。'
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:40:23.244Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 709
-ht-degree: 100%
+source-wordcount: 714
+ht-degree: 96%
 
 ---
 
@@ -95,8 +95,8 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [リクエストキューについて](/help/manage-work/request-queues/understand-request-queues.md)
-* [リクエストキューの作成](/help/manage-work/request-queues/create-a-request-queue.md)
-* [リクエストフローの設定について](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [リクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Workfrontのリクエストキューの詳細](/help/manage-work/request-queues/understand-request-queues.md)
+* [Workfrontでのリクエストキューの作成](/help/manage-work/request-queues/create-a-request-queue.md)
+* [リクエストフロー設定の整理](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Workfrontでのリクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
 * [システム管理者のフィードバックリクエストキューの作成](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

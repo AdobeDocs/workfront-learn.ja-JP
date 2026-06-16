@@ -20,10 +20,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:34:43.851Z'
-source-git-commit: 082aa48e99d6c772c973f9bbbc90b0544103e0d5
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 159
-ht-degree: 66%
+source-wordcount: 161
+ht-degree: 63%
 
 ---
 
@@ -42,5 +42,5 @@ ht-degree: 66%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
+* [Workfrontでタスクを効率的に管理](/help/manage-work/tasks/work-with-tasks.md)
 * [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

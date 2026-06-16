@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 41%
+source-wordcount: 201
+ht-degree: 36%
 
 ---
 
@@ -37,10 +37,10 @@ ht-degree: 41%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## 重要な留意点
+## 主な要点
 
-* **わかりやすいプロジェクト名を使用：**&#x200B;一般的なタイトルを使用するのではなく、わかりやすい名前でプロジェクトを命名することで、混乱を避けます。 &#x200B; プロジェクトをポートフォリオやプログラムに整理することで、レポートと一貫性が向上します。 &#x200B;
-* **プロジェクトの適切な状態を設定：** プロジェクトの作成時に「計画」ステータスで始め、プロジェクトの公開時に「現在」に切り替えます。 &#x200B; 「現在」以外のステータスは一時停止の通知で、中断することなく再計画できます。 &#x200B;
+* **わかりやすいプロジェクト名を使用：**&#x200B;一般的なタイトルを使用するのではなく、わかりやすい名前でプロジェクトを命名することで、混乱を避けます。&#x200B; プロジェクトをポートフォリオやプログラムに整理することで、レポートと一貫性が向上します。&#x200B;
+* **プロジェクトの適切な状態を設定：** プロジェクトの作成時に「計画」ステータスで始め、プロジェクトの公開時に「現在」に切り替えます。&#x200B; 「現在」以外のステータスは、通知を一時停止し、中断することなく再計画できます。&#x200B;
 * **テンプレートとカスタム Formsを活用：** プロジェクトテンプレートを使用して一貫性を保ち、カスタムフォームを使用して一意のプロジェクトデータを保存します。 &#x200B;れらのツールは設定を簡素化し、重要な情報が確実に取り込まれます。
 * **リソースプールとスケジュールの利用：** リソース管理を効果的にするためにリソースプールをプロジェクトに割り当て、作業日、時間、祝日を反映するために正しいスケジュールを適用します。 &#x200B;これにより、プロジェクトの実行とリソースの割り当てがスムーズになります。
 
@@ -48,8 +48,8 @@ ht-degree: 41%
 
 ## このトピックに関する推奨チュートリアルと記事
 
-* [基本的なプロジェクト作成について](/help/manage-work/projects/understand-basic-project-creation.md)
+* [プロジェクトをゼロから作成、管理する](/help/manage-work/projects/understand-basic-project-creation.md)
 * [プロジェクトページのナビゲーション](/help/manage-work/projects/navigate-the-project-page.md)
-* [プロジェクトを作成する 4 つの方法を学ぶ](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [プロジェクトの計画の基本を学ぶ](/help/manage-work/projects/getting-started-plan-a-project.md)
+* [プロジェクトを作成するための4つの方法を検討する](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Workfrontによる効果的なプロジェクト計画](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [プロジェクトの編集](https://experienceleague.adobe.com/ja/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)

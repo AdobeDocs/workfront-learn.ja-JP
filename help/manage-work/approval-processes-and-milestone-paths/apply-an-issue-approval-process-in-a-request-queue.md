@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 65%
+source-wordcount: 291
+ht-degree: 84%
 
 ---
 
@@ -36,12 +36,12 @@ ht-degree: 65%
 
 >[!PREREQUISITES]
 >
->* [リクエストフローの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [グローバルおよび単一使用承認プロセスの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Workfrontでリクエストフローを作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [承認プロセスの作成と管理](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
-このビデオでは、リクエストキューを作成する際にデフォルトの承認プロセスを適用するプロセスについて説明します。 &#x200B; リクエストが作成されると、ステータス「新規 – 承認保留中」で開始され、承認通知が指定された承認者に送信されます。 &#x200B;承認されると、ステータスは「新規」に変わり、割り当てられた個人が作業を開始できるようになります。 &#x200B;却下された場合、承認プロセスの設定でよくある間違いにより、ステータスが「新規」に誤って戻る可能性があります。 &#x200B;
-このビデオでは、ステータスが「新規」に設定されている場合に承認プロセスがトリガーされることを強調しています。これは、新規リクエストのデフォルトです。 &#x200B;拒否された場合、システムはデフォルトでステータスを前のステータスに戻します。これは新しいリクエストには適していません。 代わ&#x200B;、「解決しない」などの別のステータスを選択する必要があります。 &#x200B;このビデオでは、デフォルトで「却下」ステータスが提供されていないことにも注意していますが、必要に応じてシステム管理者がステータスを作成できます。 &#x200B;
+このビデオでは、リクエストキューを作成する際にデフォルトの承認プロセスを適用するプロセスについて説明します。&#x200B; リクエストが作成されると、ステータス「新規 – 承認保留中」で開始され、承認通知が指定された承認者に送信されます。&#x200B;承認されると、ステータスは「新規」に変わり、割り当てられた個人が作業を開始できるようになります。&#x200B;却下された場合、承認プロセスの設定でよくある間違いにより、ステータスが「新規」に誤って戻る可能性があ&#x200B;ます。
+このビデオでは、ステータスが「新規」に設定されている場合に承認プロセスがトリガーされることを強調しています。これは、新規リクエストのデフォルトです。&#x200B;拒否された場合、システムはデフォルトでステータスを前のステータスに戻します。これは新しいリクエストには適していません。代わ&#x200B;、「解決しない」などの別のステータスを選択する必要があります。&#x200B;また、デフォルトで「却下」ステータスが指定されていないことにも注意していますが、必要に応じてシステム管理者がステータスを作成でき&#x200B;す。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455025/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
@@ -56,7 +56,7 @@ ht-degree: 65%
 
 ## このトピックに関する推奨チュートリアル
 
-* [タスク、イシュー、承認の委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [グループ特有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [リクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
-* [グローバルおよび単一使用承認プロセスの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [タスク、イシュー、承認の効果的な委任](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [グループ固有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Workfrontでのリクエストフローの作成](/help/manage-work/request-queues/create-a-request-flow.md)
+* [承認プロセスの作成と管理](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

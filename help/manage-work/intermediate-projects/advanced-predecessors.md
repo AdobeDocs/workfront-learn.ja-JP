@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:54.939Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 162
-ht-degree: 95%
+source-wordcount: 163
+ht-degree: 75%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 95%
 
 >[!PREREQUISITES]
 >
->* [タスクの順序付けを学ぶ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ja)
+>* [Workfrontでタスクを効果的に順序付け](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ja)
 >* プロジェクトで先行タスクの使用に既に慣れている
 
 
@@ -51,6 +51,6 @@ ht-degree: 95%
 
 先行タスクの使用について詳しくは、[タスク先行タスクを使用](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ja)を参照してください。
 
-タスクの制約について詳しくは、[期間のタイプとタスクの制約の理解と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
+タスクの制約について詳しくは、[マスター期間の種類とタスクの制約](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
 
-プロジェクト間の先行タスクについて詳しくは、[プロジェクト間先行タスクについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ja)を参照してください。
+プロジェクト間の先行タスクについて詳しくは、[&#x200B; プロジェクト間の先行タスクとの依存関係の確立](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ja)を参照してください。

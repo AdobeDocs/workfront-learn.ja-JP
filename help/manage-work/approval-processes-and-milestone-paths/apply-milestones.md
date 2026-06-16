@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:57:57.918Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 100
-ht-degree: 79%
+source-wordcount: 124
+ht-degree: 62%
 
 ---
 
@@ -47,6 +47,6 @@ ht-degree: 79%
 
 ## このトピックに関する推奨チュートリアル
 
-* [マイルストーンの表示](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [プロジェクトでのマイルストーンの表示](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [プロジェクトとタスクへのマイルストーンパスの適用](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [基本ビューの作成のマイルストーンビューアクティビティ](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [基本ビューの作成のマイルストーンビューアクティビティ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)

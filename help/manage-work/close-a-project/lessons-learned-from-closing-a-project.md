@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 84%
+source-wordcount: 82
+ht-degree: 67%
 
 ---
 
@@ -45,6 +45,6 @@ ht-degree: 84%
 ## このトピックに関する推奨チュートリアル
 
 * [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
-* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
-* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [タスクと問題の承認を解決](/help/manage-work/close-a-project/complete-approvals.md)
+* [プロジェクトアセットのアップロードと管理](/help/manage-work/close-a-project/upload-assets.md)
+* [プロジェクト時間の記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)

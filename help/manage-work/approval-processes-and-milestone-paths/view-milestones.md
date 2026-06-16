@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:03:56.827Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 78
-ht-degree: 87%
+source-wordcount: 83
+ht-degree: 79%
 
 ---
 
@@ -46,6 +46,6 @@ ht-degree: 87%
 
 ## このトピックに関する推奨チュートリアル
 
-* [マイルストーンの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+* [プロジェクトとタスクへのマイルストーンパスの適用](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 * [マイルストーンの作成](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 

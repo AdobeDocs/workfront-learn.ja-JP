@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:01.715Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 187
-ht-degree: 100%
+source-wordcount: 186
+ht-degree: 89%
 
 ---
 
@@ -52,6 +52,6 @@ ht-degree: 100%
 
 ## このトピックに関する推奨チュートリアル
 
-* [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [プロジェクトテンプレートの作成とブループリントの探索](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [プロジェクトテンプレートの効果的な共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [テンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
