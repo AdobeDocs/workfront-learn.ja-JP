@@ -13,11 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
 source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
@@ -65,8 +70,8 @@ ht-degree: 82%
 5. **[!UICONTROL 完了率]：**&#x200B;これは、プロジェクトで完了したタスクに基づいて自動的に更新されます。
 6. **[!UICONTROL プロジェクト所有者]：**&#x200B;ほとんどの組織では、これはプロジェクト管理者です。 これは、[!DNL Workfront] でプロジェクトを管理し、確実に完了する担当者です。
 7. **[!UICONTROL 予定完了日]：**&#x200B;プロジェクトの予定完了日は、プロジェクトタイムラインを通じてプロジェクト管理者が設定します。
-8. **[!UICONTROL 条件]：**[!UICONTROL 条件]は、プロジェクトの進捗を視覚的に表現したものです。 [!DNL Workfront] は、プロジェクト内のタスクの進捗ステータスに基づいて[!UICONTROL 条件]を自動的に設定できます。 または[!UICONTROL 条件]は、プロジェクトの詳細から手動で設定できます。
-9. **[!UICONTROL ステータス]：**[!UICONTROL ステータス]は、プロジェクトがプロセスのどの段階にあるかを示します。つまり、プロジェクトがまだ予定段階か、処理中か、完了しているかを示します。
+8. **[!UICONTROL 条件]：**&#x200B;[!UICONTROL 条件]は、プロジェクトの進捗を視覚的に表現したものです。 [!DNL Workfront] は、プロジェクト内のタスクの進捗ステータスに基づいて[!UICONTROL 条件]を自動的に設定できます。 または[!UICONTROL 条件]は、プロジェクトの詳細から手動で設定できます。
+9. **[!UICONTROL ステータス]：**&#x200B;[!UICONTROL ステータス]は、プロジェクトがプロセスのどの段階にあるかを示します。つまり、プロジェクトがまだ予定段階か、処理中か、完了しているかを示します。
 10. **[!UICONTROL 新規タスク]：**&#x200B;クリックして、プロジェクトにタスクを作成します。 タスクがリストの下部に生成されます。
 11. **[!UICONTROL 書き出し]：**&#x200B;タスクリストまたは選択したタスクを PDF、スプレッドシート、タブ区切りのファイルに書き出します。
 12. **左側のパネルメニュー：** 左側のパネルを使用して、プロジェクトに関する別の情報に移動します。 画面にもう少しスペースが必要な場合は、上部のタスクアイコンをクリックしてパネルを折りたたみます。 アイコンをドラッグ＆ドロップすると、効率的に作業できるようになります。 表示されるオプションは、[!DNL Workfront] システム管理者が設定します。
