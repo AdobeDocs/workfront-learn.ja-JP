@@ -36,7 +36,7 @@ ht-degree: 16%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-詳しくは、[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)の記事を参照してください。
+詳しくは、[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)の記事を参照してください。
 
 ## このトピックに関する推奨チュートリアル
 

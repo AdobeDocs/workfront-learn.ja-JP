@@ -46,8 +46,8 @@ Workfrontの[Explore Canvas Dashboards](/help/reporting/canvas-dashboards/introd
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **詳細については、次のヘルプ記事を参照してください。**
-[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[&#x200B; キャンバスダッシュボードでKPI レポートを作成](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[&#x200B; キャンバスダッシュボードでKPI レポートを作成](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## このトピックに関する推奨チュートリアル
 

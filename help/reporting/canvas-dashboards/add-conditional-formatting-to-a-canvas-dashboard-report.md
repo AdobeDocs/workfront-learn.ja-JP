@@ -46,8 +46,8 @@ Workfrontの[Explore Canvas Dashboards](/help/reporting/canvas-dashboards/introd
 >[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **詳細については、次のヘルプ記事を参照してください。**
-[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[&#x200B; キャンバスダッシュボードでテーブルレポートを作成する](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Canvas ダッシュボードの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[&#x200B; キャンバスダッシュボードでテーブルレポートを作成する](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## このトピックに関する推奨チュートリアル
 
