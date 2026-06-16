@@ -36,7 +36,7 @@ ht-degree: 44%
 このビデオでは、プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法について説明します。&#x200B;同じ担当業務に対して複数の請求レートを設定し、正確な時間ベースの調整を確保する柔軟性を重視して&#x200B;ます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457653/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

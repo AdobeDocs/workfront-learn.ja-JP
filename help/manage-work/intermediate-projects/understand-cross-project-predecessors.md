@@ -46,6 +46,6 @@ ht-degree: 74%
 * プロジェクト間先行タスクの作成方法
 * レポートでのプロジェクト間先行タスクの追跡方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422837/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ビデオで使用されている&#x200B;**プロジェクト間の先行タスクと後継タスク** ビューと&#x200B;**プロジェクト間の先行タスクと後継タスク** レポートの作成方法については、「[Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ja)」のビューの基本テキストモードを調べるチュートリアルを参照し、必要に応じてそこに記載されている前提条件チュートリアルを確認してください。

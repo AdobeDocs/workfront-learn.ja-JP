@@ -43,7 +43,7 @@ ht-degree: 12%
 
 Workfrontの[Explore Canvas Dashboards](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)には、両方の方法をステップバイステップで示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474976/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 **詳細については、次のヘルプ記事を参照してください。**
 [Canvas ダッシュボードの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)

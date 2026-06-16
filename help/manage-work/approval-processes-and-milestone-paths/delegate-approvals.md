@@ -38,7 +38,7 @@ ht-degree: 40%
 委任された承認はシステム内でマークされ、誰が誰に委任したかを示します。&#x200B;承認に関連する更新は「更新」タブに表示され、システムアクティビティは「システムアクティビティ」タブに表示でき&#x200B;す。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446377/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

@@ -45,7 +45,7 @@ ht-degree: 84%
 &#x200B;レポートとカスタムフォームの作成に関するチュートリアルへのリンクを提供しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450498/?captions=jpn&quality=12&learn=on&enablevpops=0)
 
 ## 重要な留意点
 
