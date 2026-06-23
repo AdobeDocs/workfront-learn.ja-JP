@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 251
 ht-degree: 98%
@@ -50,3 +50,4 @@ ht-degree: 98%
 >[!VIDEO](https://video.tv.adobe.com/v/3422837/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 **プロジェクト間先行タスクと後続タスク**&#x200B;ビューおよびビデオで使用される&#x200B;**プロジェクト間先行タスクと後続タスク**&#x200B;レポートを作成する方法については、[ビューの基本的なテキストモードについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ja)のチュートリアルを参照し、必要に応じて、そこでリストされている必須のチュートリアルを必ず完了してください。
+

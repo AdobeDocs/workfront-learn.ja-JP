@@ -20,7 +20,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 199
 ht-degree: 50%
@@ -46,3 +46,4 @@ ht-degree: 50%
 * [イシューまたはリクエストをプロジェクトに変換する](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [イシューまたはリクエストをタスクに変換する](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 * [リクエストを効率的に検索および管理](/help/manage-work/issues-requests/find-requests.md)
+
