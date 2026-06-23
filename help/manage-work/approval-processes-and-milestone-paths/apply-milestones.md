@@ -49,5 +49,5 @@ ht-degree: 62%
 
 * [プロジェクトでのマイルストーンの表示](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [プロジェクトとタスクへのマイルストーンパスの適用](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [基本ビューの作成のマイルストーンビューアクティビティ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [基本ビューの作成のマイルストーンビューアクティビティ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
 
