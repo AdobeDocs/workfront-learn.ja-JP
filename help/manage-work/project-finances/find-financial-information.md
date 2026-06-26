@@ -35,7 +35,7 @@ ht-degree: 57%
 
 このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。 &#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを管理し、理解するための包括的な概要を提供します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415897/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

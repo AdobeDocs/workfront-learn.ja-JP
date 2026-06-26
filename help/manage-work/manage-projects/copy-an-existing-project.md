@@ -38,7 +38,7 @@ ht-degree: 25%
 イシューは計画された作業とは見なされないため、このプロセス中に直接コピーすることはできません。 &#x200B; イシューをコピーするには、「イシュー」タブに移動し、目的のイシューを選択して「コピー先」オプションを使用して、新しいプロジェクトにイシューを転送します。 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456039/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

@@ -36,7 +36,7 @@ ht-degree: 20%
 
 ビデオでは、イシューまたはリクエストをプロジェクトに変換する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446623/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
