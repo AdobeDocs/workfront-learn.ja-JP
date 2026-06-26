@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 84%
+source-wordcount: 431
+ht-degree: 73%
 
 ---
 
@@ -39,10 +39,7 @@ ht-degree: 84%
 >* [Workfrontでリクエストフローを作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ja)
 >* ルーティングルールとカスタムフォームを使用するリクエストキューの作成に既に慣れている
 
-このビデオでは、システム管理者向けのフィードバックリクエストキューの作成に関するステップバイステップガイドを提供します。
-&#x200B;このキューの目的は、システム管理者が作成したプロセスとワークフローに関するユーザーからのフィードバックを収集し、改善と最適化を可能にすることです。
-この動画では、プロセス改善におけるユーザー参加と透明性の重要性を強調し、管理者がフィードバックレポートをユーザーと共有することを促しています。
-&#x200B;レポートとカスタムフォームの作成に関するチュートリアルへのリンクを提供しています。
+このビデオでは、システム管理者向けのフィードバックリクエストキューの作成に関するステップバイステップガイドを提供します。&#x200B;このキューの目的は、システム管理者が作成したプロセスとワークフローに関するユーザーからのフィードバックを収集し、改善と最適化を可能にすることです。この動画では、プロセス改善におけるユーザー参加と透明性の重要性を強調し、管理者がフィードバックレポートをユーザーと共有することを促しています。&#x200B;レポートとカスタムフォームの作成に関するチュートリアルへのリンクを提供しています。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450498/?captions=jpn&quality=12&learn=on&enablevpops=0)
@@ -63,3 +60,4 @@ ht-degree: 84%
 ## このトピックに関する推奨チュートリアル
 
 * [リクエストキューに関するよくある質問へ回答](/help/manage-work/request-queues/request-queue-faq.md)
+

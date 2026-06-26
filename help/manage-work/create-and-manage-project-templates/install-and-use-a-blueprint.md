@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
 exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 45%
@@ -41,3 +41,4 @@ ht-degree: 45%
 * [既存のプロジェクトを効率的にコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [テンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

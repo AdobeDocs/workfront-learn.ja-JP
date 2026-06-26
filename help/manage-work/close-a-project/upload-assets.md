@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: 88
 ht-degree: 70%
@@ -49,3 +49,4 @@ ht-degree: 70%
 * [タスクと問題の承認を解決](/help/manage-work/close-a-project/complete-approvals.md)
 * [今後のプロジェクトで学んだ教訓を記録する](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
 * [プロジェクト時間の記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
+
