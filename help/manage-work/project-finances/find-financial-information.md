@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 203
-ht-degree: 62%
+source-wordcount: 220
+ht-degree: 57%
 
 ---
 
 # プロジェクトとタスクの財務情報へのアクセスと管理
 
-このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。&#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを操作し、理解するための包括的な概要を提供&#x200B;ます。
+このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。 &#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを管理し、理解するための包括的な概要を提供します。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415897/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
@@ -51,4 +51,5 @@ ht-degree: 62%
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
 * [顧客プロジェクトの財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
 * [担当業務の請求率のカスタマイズ](/help/manage-work/project-finances/multiple-billing-rates.md)
+
 

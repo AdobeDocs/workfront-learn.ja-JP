@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:54.939Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 163
 ht-degree: 75%
@@ -54,3 +54,4 @@ ht-degree: 75%
 タスクの制約について詳しくは、[マスター期間の種類とタスクの制約](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
 
 プロジェクト間の先行タスクについて詳しくは、[&#x200B; プロジェクト間の先行タスクとの依存関係の確立](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ja)を参照してください。
+
