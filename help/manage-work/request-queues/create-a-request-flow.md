@@ -13,11 +13,17 @@ last-substantial-update: '2024-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:59.860Z'
 source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
@@ -31,7 +37,7 @@ ht-degree: 26%
 >[!PREREQUISITES]
 >
 >* [Workfrontでリクエストキューを作成](/help/manage-work/request-queues/create-a-request-queue.md)
->* [ リクエストフロー設定の整理](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [&#x200B; リクエストフロー設定の整理](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 このビデオでは、キューのトピック、トピックグループ、ルーティングルールを設定して、リクエストフローを作成する手順を説明します。 &#x200B; プロセスは、リクエストの割り当て方法を定義するルーティングルールの作成から始まります。&#x200B;次に、トピックグループを作成してリクエストを整理します。&#x200B;これらのグループはキューに追加でき、作成できるトピックグループの数に制限はありません。次に、ビデオでは、ルーティングルール、トピックグループ、カスタムフォーム、承認プロセス、デフォルトの期間にリンクされるキュートピックを作成する方法について説明します。最後に、ビデオでは、正しくルーティングされていることを確認するためにリクエストを送信して設定をテストする方法を示します。 &#x200B;問題が発生した場合は、キューを調整できます。 &#x200B;このビデオでは、適切なルーティングと整理を確保するために、リクエストフローの構造と機能を検証することの重要性を強調しています。
 
