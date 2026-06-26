@@ -14,36 +14,31 @@ jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
 TQID: https://experienceleague.adobe.com/wRwzeRNQN5ub6hmHX7fjeqsfckB3oilTdUsMRBbT-pU
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 167
-ht-degree: 79%
+source-wordcount: 222
+ht-degree: 26%
 
 ---
 
 # プロジェクトをテンプレートから直接作成
 
-このビデオでは、テンプレートからプロジェクトを作成する方法を説明します。&#x200B; テンプレートを開く権限がある場合は、テンプレートをショートカットとして使用してプロジェクトを作成できます。&#x200B;これを行うには、テンプレートを開き、3点メニューにアクセスし、「プロジェクトを作成」を選択します。&#x200B;これにより、プロジェクトの詳細を編集できる画面に移動します。準備が整&#x200B;たら、「プロジェクトを作成」をクリックして確定します。&#x200B;
+このビデオでは、テンプレートからプロジェクトを作成する方法を説明します。 &#x200B; テンプレートを開く権限がある場合は、テンプレートをショートカットとして使用してプロジェクトを作成できます。 &#x200B;これを行うには、テンプレートを開き、3 ドットメニューにアクセスして「プロジェクトを作成」を選択します。 &#x200B; プロジェクトの詳細を編集できる画面が表示されます。 準備が整&#x200B;たら、「プロジェクトを作成」をクリックして確定します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456014/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
-## 主な要点
+## 重要な留意点
 
-* **テンプレートアクセス：**&#x200B;テンプレートからプロジェクトを作成するには、テンプレートを開く権限が必要です。
-* **ショートカットオプション：**&#x200B;プロジェクトを最初から開始する場合と比較して、テンプレートを使用すると便利なショートカットになります。
-* **3 つのドットのメニュー：**&#x200B;テンプレートを開き、3 つのドットのメニューから「プロジェクトを作成」を選択します。
-* **プロジェクト詳細の編集：**「プロジェクトを作成」を選択した後、完了する前にプロジェクト詳細を編集できます。
-* **作成の完了：**&#x200B;プロセスを完了する準備が整った際、「プロジェクトを作成」をクリックします。
+* **テンプレート アクセス：** テンプレートからプロジェクトを作成するには、テンプレートを開く権限が必要です。 &#x200B;
+* **ショートカット オプション：** テンプレートを使用すると、プロジェクトをゼロから開始する場合と比較して、便利なショートカットになります。 &#x200B;
+* **3点メニュー：** テンプレートを開き、3点メニューから「プロジェクトを作成」を選択します。 &#x200B;
+* **プロジェクトの詳細を編集：** 「プロジェクトを作成」を選択すると、プロジェクトの詳細を編集してから最終処理を行うことができます。 &#x200B;
+* **作成を完了：** プロセスを完了する準備ができたら、「プロジェクトを作成」をクリックします。 &#x200B;
 
 
 ## このトピックに関する推奨チュートリアル
@@ -53,3 +48,4 @@ ht-degree: 79%
 * [既存のプロジェクトを効率的にコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [テンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+
