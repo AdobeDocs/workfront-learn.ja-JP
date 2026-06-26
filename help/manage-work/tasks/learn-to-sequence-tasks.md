@@ -36,7 +36,7 @@ ht-degree: 35%
 ビデオでは、先行タスクと期間を使用して Workfront でタスクを順序付け、プロジェクトのタイムラインを効果的に管理する方法について説明します。このビデオでは、新しいタスクの先行タスクを設定し、順序付けと正確な開始日を確保する方法を説明します。&#x200B;先行者と協力してプロジェクトのタイムラインへの影響を把握する重要性を強調し、効率的なプロジェクト計画のために期間と先行者を使用することを推奨しています。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447321/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

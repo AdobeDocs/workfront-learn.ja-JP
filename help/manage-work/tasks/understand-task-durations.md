@@ -36,7 +36,7 @@ ht-degree: 27%
 このビデオでは、Workfront でのタスク期間、タスクの開始日と完了日への影響、プロジェクトのタイムライン、期間を効果的に使用するベストプラクティスについて説明します。Workfrontでは、制約によって自動調整が妨げられることがあるため、手動で制約を設定するのではなく、期間と先行タスクを使用してタスクタイムラインを設定することをお勧めします。&#x200B;効果的なプロジェクト計画とリソース管理には、正確な期間が不可欠です。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449344/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

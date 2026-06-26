@@ -36,7 +36,7 @@ ht-degree: 50%
 ビデオでは、タスクを完了するために必要な時間の見積もりである、予定時間数の概念について説明します。予定時間数は、Workfront でのリソース管理に重要で、リソースの割り当て超過または割り当て不足を特定するのに役立ちます。また、タスクに費やした時間を追跡し、今後の見積もりを改善し、作業者への期待を明確にするのにも役立ちます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445334/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## 重要な留意点
