@@ -36,4 +36,4 @@ ht-degree: 100%
 * 予算情報の調整
 * コスト情報の調整
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412644/?captions=jpn&quality=12&learn=on&enablevpops=1)

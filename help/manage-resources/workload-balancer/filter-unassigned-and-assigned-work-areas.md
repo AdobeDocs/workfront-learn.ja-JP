@@ -36,4 +36,4 @@ ht-degree: 100%
 * 割り当て済み作業エリアでユーザーリストをフィルタリングする
 * 未割り当ての作業エリアでフィルタリングする
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413858/?captions=jpn&quality=12&learn=on&enablevpops=1)

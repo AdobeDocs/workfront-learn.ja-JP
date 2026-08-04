@@ -36,7 +36,7 @@ ht-degree: 100%
 * プルーフとは
 * [!DNL Workfront] でデジタルプルーフを使用するメリット
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439089/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## プルーフの用語
 
