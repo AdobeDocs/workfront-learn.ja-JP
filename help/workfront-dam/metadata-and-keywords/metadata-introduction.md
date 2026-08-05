@@ -1,6 +1,6 @@
 ---
-title: メタデータについて
-description: '[!UICONTROL Workfront DAM] 管理者、第 2 部、メタデータとキーワードコースで取り上げる内容について説明します。'
+title: メタデータとキーワードの概要
+description: メタデータは、アセットの記述に使用されるすべてのデータです。 キーワードは、メタデータのサブセットであり、アセットの内容に関する説明的な用語を含みます。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 100%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
-# メタデータについて
+# メタデータとキーワードの概要
 
 メタデータは、アセットの記述に使用されるすべてのデータです。 メタデータフィールドには名前が付けられており、ユーザーは、多くのフィールドの情報を編集または変更することができます。 一部のメタデータフィールドは、アセットの取得元のアプリケーションまたはデバイスによって入力されており、編集することができません。
 

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: '2657'
+source-wordcount: '2659'
 ht-degree: 78%
 
 ---
@@ -525,7 +525,7 @@ ht-degree: 78%
     + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + メタデータとキーワード {#metadata-and-keywords}
-    + [メタデータについて](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [&#x200B; メタデータとキーワードの概要](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [キーワード分類の有効化と適用](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [メタデータの用語のレビュー](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [メタデータとキーワードを使用したアセットの検索](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
