@@ -38,7 +38,7 @@ ht-degree: 34%
 また、タスクの所要時間の追跡、今後の見積もりの改善、チームメンバーとの期待値の明確化にも役立ちます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445334/?captions=jpn&learn=on)
 
 
 ## 重要な留意点
