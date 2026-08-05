@@ -35,7 +35,7 @@ ht-degree: 15%
 このビデオでは、Workfrontでフィルターを作成して使用し、特定の条件に基づいてリストレポートをカスタマイズする方法を説明します。 &#x200B; フィルターを使用すると、条件を定義することで、タスク、プロジェクト、ドキュメントなどのリストを絞り込むことができます。 &#x200B; フィルター条件に一致し、ログインユーザーがアクセス可能な項目のみがリストに表示されます。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431674/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

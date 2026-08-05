@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-06-15T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 213
 ht-degree: 35%
@@ -33,7 +33,9 @@ ht-degree: 35%
 
 # Workfrontでタスクを効果的に順序付け
 
-ビデオでは、先行タスクと期間を使用して Workfront でタスクを順序付け、プロジェクトのタイムラインを効果的に管理する方法について説明します。このビデオでは、新しいタスクの先行タスクを設定し、順序付けと正確な開始日を確保する方法を説明します。&#x200B;先行者と協力してプロジェクトのタイムラインへの影響を把握する重要性を強調し、効率的なプロジェクト計画のために期間と先行者を使用することを推奨しています。
+ビデオでは、先行タスクと期間を使用して Workfront でタスクを順序付け、プロジェクトのタイムラインを効果的に管理する方法について説明します。
+このビデオでは、新しいタスクの先行タスクを設定し、順序付けと正確な開始日を確保する方法を説明します。
+&#x200B;先行者と協力してプロジェクトのタイムラインへの影響を把握する重要性を強調し、効率的なプロジェクト計画のために期間と先行者を使用することを推奨しています。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447321/?captions=jpn&quality=12&learn=on&enablevpops=1)
