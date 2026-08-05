@@ -1,41 +1,36 @@
 ---
-title: プロジェクトとタスクの財務情報へのアクセスと管理
-description: プロジェクトとタスクの両方のレベルで予算、収益、コスト、パフォーマンス指標を対象とした、プロジェクトとタスクの財務データに効率的にアクセス、分析、管理する方法について説明します。
+title: プロジェクトの財務情報へのアクセスと管理
+description: 予算、収益、コスト、パフォーマンス指標など、プロジェクトやタスクの財務データにアクセスし、分析および管理する方法をご確認ください。
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
-doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+doc-type: Feature Video
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: ecdbfe97f711f985c41a40ff6d37cd748c765f8e
 workflow-type: tm+mt
-source-wordcount: 220
-ht-degree: 57%
+source-wordcount: 211
+ht-degree: 46%
 
 ---
 
-# プロジェクトとタスクの財務情報へのアクセスと管理
+# プロジェクトの財務情報へのアクセスと管理
 
-このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。 &#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを管理し、理解するための包括的な概要を提供します。 
+このビデオでは、プロジェクトとタスクの財務情報へのアクセス方法と管理方法について説明します。 &#x200B;プロジェクトレベルとタスクレベルの両方で、財務データを管理し、理解するための包括的な概要を提供します。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415897/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

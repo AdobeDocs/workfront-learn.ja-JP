@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
 workflow-type: tm+mt
-source-wordcount: '2659'
+source-wordcount: '2658'
 ht-degree: 78%
 
 ---
@@ -120,7 +120,7 @@ ht-degree: 78%
     + [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
     + [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
     + [効果的なコミュニケーションによるプロジェクトの成功の向上](/help/manage-work/projects/understand-project-communication.md)
-    + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
+    + [ プロジェクト管理のフィルター、ビュー、グループ化を探る](/help/manage-work/projects/view-project-information.md)
     + [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
     + [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
     + [プロジェクト管理におけるガントチャートの活用](/help/manage-work/projects/understand-the-gantt-view.md)
@@ -191,7 +191,7 @@ ht-degree: 78%
     + [プロジェクト時間の記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + プロジェクトの財務（ユーザー向け） {#project-finances-users}
-    + [プロジェクトとタスクの財務情報へのアクセスと管理](/help/manage-work/project-finances/find-financial-information.md)
+    + [プロジェクトの財務情報へのアクセスと管理](/help/manage-work/project-finances/find-financial-information.md)
     + [顧客プロジェクトの財務の更新](/help/manage-work/project-finances/update-and-review-finances.md)
     + [担当業務の請求率のカスタマイズ](/help/manage-work/project-finances/multiple-billing-rates.md)
 
@@ -516,16 +516,16 @@ ht-degree: 78%
 
 + Workfront DAM {#workfront-dam-program}
   + システム設定 {#system-setup}
-    + [&#x200B; [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+    + [ [!DNL Workfront DAM]について](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [システム設定について](/help/workfront-dam/system-setup/system-setup-system-settings.md)
     + [[!UICONTROL Brand Portal] について](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-    + [&#x200B; [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [ [!DNL Workfront DAM] 戦略の分析とプラン](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [グループとユーザーの設定](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
     + [Workfront での統合の設定](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-    + [&#x200B; [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+    + [ [!DNL Workfront DAM]のカスタマイズ](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + メタデータとキーワード {#metadata-and-keywords}
-    + [&#x200B; メタデータとキーワードの概要](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [ メタデータとキーワードの概要](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [キーワード分類の有効化と適用](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [メタデータの用語のレビュー](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [メタデータとキーワードを使用したアセットの検索](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
