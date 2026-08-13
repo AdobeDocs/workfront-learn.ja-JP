@@ -8,23 +8,18 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 264
 ht-degree: 35%
@@ -35,13 +30,13 @@ ht-degree: 35%
 
 ビデオでは、Workfront 内でリクエストを作成および管理する方法について説明します。 メインメニューから「リクエスト」を選択し、「新しいリクエスト」ボタンをクリックすることから始まる、リクエストを作成するプロセスについて説明します。 &#x200B; ユーザーは、組織のワークフローに合わせてカスタマイズされたカスタムデザインのキューから、リクエストタイプを選択できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413116/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
 * **効率的なリクエスト作成：** メインメニューから「リクエスト」を選択し、リクエストタイプを選択し、必須フィールドに入力し、関連ドキュメントを添付することで、ユーザーは簡単にリクエストを作成できます。 &#x200B;
 * **カスタマイズ可能なワークフロー：**&#x200B;リクエストキューとフォームは、組織のワークフローに合わせて調整されているので、ユーザーは詳細（例：店舗内、屋外、ソーシャルメディア）と優先度を指定できます。
-* **ドラフト自動保存機能：** ユーザーが件名フィールドに入力すると、ドラフトは自動的に保存され、一時停止したり移動したりするとデータが失われることはありません。 &#x200B; ドラフトは、後で完了用にアクセスするか、必要に応じて破棄することができます。 
+* **ドラフト自動保存機能：** ユーザーが件名フィールドに入力すると、ドラフトは自動的に保存され、一時停止したり移動したりするとデータが失われることはありません。 &#x200B; ドラフトは、後で完了用にアクセスするか、必要に応じて破棄することができます。 &#x200B;
 * **要求のトラッキングとフィルタリング：**&#x200B;送信された要求は、「送信済み」ページで追跡できます。フィルターを使用して、ユーザーの権限に基づいて、オープン要求、未解決要求、またはすべての要求を表示できます。 &#x200B;
 * **リクエストのコピーと再利用：**&#x200B;ユーザーは、既存のリクエストをコピーして新しいリクエストを作成できるので、最初から開始することなく同様のリクエストをより簡単に送信できます。
 
