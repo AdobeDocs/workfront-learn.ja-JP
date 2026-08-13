@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -22,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -43,7 +44,8 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 >[!NOTE]
 >
->シナリオを保存した後、将来アクセスする必要がある場合、「...」メニューから新しいバージョンを使用できます。 以前に保存したシナリオのバージョンは 60 日間のみ使用できます。 監査目的で 60 日を超える以前のバージョンにアクセスする必要がある場合、Workfront では、シナリオのブループリントを保存し、同意された場所にアーカイブすることをお勧めします。
+>シナリオを保存すると、Workfront Fusionは以前のシナリオバージョンを60日間保持します。 バージョンの保持期間は、そのバージョンが新しいバージョンに置き換えられたときに始まり、そのバージョンが最初に作成されたときではありません。
+>監査の目的で60日を超えるシナリオのバージョン履歴を保持するには、シナリオの設計図を合意された場所に保存してアーカイブします。
 
 
 ## 用語の追加
