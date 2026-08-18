@@ -31,7 +31,7 @@ ht-degree: 50%
 
 このビデオでは、イシューの状態と、それらを使用するためのベストプラクティスについて学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3472966/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
