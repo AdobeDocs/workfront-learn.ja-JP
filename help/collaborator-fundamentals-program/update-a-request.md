@@ -20,7 +20,7 @@ ht-degree: 100%
 * 送信したリクエストの検索
 * リクエストの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497597/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 <!--
 Guide
