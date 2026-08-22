@@ -41,7 +41,7 @@ ht-degree: 100%
 * リクエストページを開く
 * [!UICONTROL 更新]パネルのリクエストの更新
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497597/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## このトピックに関する推奨チュートリアル
 

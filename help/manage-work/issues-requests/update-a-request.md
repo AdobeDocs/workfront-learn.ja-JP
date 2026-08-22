@@ -35,7 +35,7 @@ ht-degree: 13%
 
 このビデオでは、Adobe Workfrontでリクエストを見つけて更新する方法について説明します。 リクエストを送信した後&#x200B;、情報を追加したり、質問したりすることで、そのリクエストを担当している人が最新の詳細情報を利用できるようにすることができます。 &#x200B;  &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497597/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
