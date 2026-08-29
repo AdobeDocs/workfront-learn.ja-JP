@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront チュートリアル
 user-guide-description: Workfront の機能と設定をより深く理解できるように設計されたトレーニングビデオと記事のライブラリ。
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
-ht-degree: 78%
+source-wordcount: '2670'
+ht-degree: 77%
 
 ---
 
@@ -563,6 +563,10 @@ ht-degree: 78%
 
 + ホーム {#home}
   + [ホームのウィジェットを削除、追加、並べ替え](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ 優先度 {#priorities}
+  + [優先順位を使って1日を集中させましょう](/help/priorities/focus-your-day-using-priorities.md)
+  + [行動を起こし、作品を見せる](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + アジャイル {#agile}
