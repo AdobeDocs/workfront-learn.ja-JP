@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Workfront Prioritiesは、ユーザーに直接割り当てられたタスクと問題を管理するための個人管理センターとして機能します。 複数のプロジェクトからの作業を単一のビューに統合し、タスクの効果的な優先順位付けを支援します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502459/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502461/?captions=jpn&learn=on&enablevpops)
 
 「優先度」を使用する場合は、次の点に注意してください。
 
