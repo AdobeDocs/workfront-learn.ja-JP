@@ -24,5 +24,5 @@ ht-degree: 3%
 ## このトピックに関する推奨チュートリアル
 
 * [プロジェクトとタスクの財務情報へのアクセスと管理](/help/manage-work/project-finances/find-financial-information.md)
-* [ クライアントプロジェクトの財務を更新](/help/manage-work/project-finances/update-and-review-finances.md)
+* [&#x200B; クライアントプロジェクトの財務を更新](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
