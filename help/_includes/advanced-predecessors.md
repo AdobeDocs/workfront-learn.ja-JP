@@ -28,4 +28,4 @@ ht-degree: 73%
 
 タスクの制約について詳しくは、[マスター期間の種類とタスクの制約](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
 
-プロジェクト間の先行タスクについて詳しくは、[ プロジェクト間の先行タスクとの依存関係の確立](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ja)を参照してください。
+プロジェクト間の先行タスクについて詳しくは、[&#x200B; プロジェクト間の先行タスクとの依存関係の確立](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ja)を参照してください。
