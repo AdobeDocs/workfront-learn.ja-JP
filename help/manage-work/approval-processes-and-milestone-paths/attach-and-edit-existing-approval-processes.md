@@ -11,22 +11,13 @@ team: Technical Marketing
 jira: KT-8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '52'
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '27'
 ht-degree: 100%
 
 ---
 
 # 既存の承認プロセスの添付と編集
 
-このビデオでは、次の方法を学習します：
-
-* 既存の承認プロセスの使用
-* 特定のプロジェクト、タスクまたは問題用に既存の承認プロセスを編集
-
->[!VIDEO](https://video.tv.adobe.com/v/3414475/?quality=12&learn=on&enablevpops=1&captions=jpn)
-
-<!--
-learn more URLS
--->
+{{$include /help/_includes/attach-and-edit-existing-approval-processes.md}}

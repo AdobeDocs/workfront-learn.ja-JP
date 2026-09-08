@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # プロジェクトタイムラインについて
 
-このビデオでは、次のことについて説明します。
-
-* 基本的なプロジェクトタイムライン管理
-* 開始日または完了日からのプロジェクトのスケジュール
-* タスクの制約
-
->[!VIDEO](https://video.tv.adobe.com/v/3435836/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->期間のタイプとタスクの制約について詳しくは、[期間のタイプとタスクの制約の理解と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
+{{$include /help/_includes/understand-project-timelines.md}}

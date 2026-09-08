@@ -13,44 +13,19 @@ last-substantial-update: '2026-07-28'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: Feature Video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: 974178416cf6b743c3c5f3d7297bc221707daa54
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 264
-ht-degree: 32%
+source-wordcount: 29
+ht-degree: 0%
 
 ---
 
 # 親子タスクの関係について
 
-このビデオでは、Workfront のタスク構造について説明します。 タスクは、プロジェクトの重要な要素であり、完了に必要な作業項目を表します。&#x200B;このビデオでは、プロジェクトの計画と管理の重要なステップとして、タスクを正確に整理することの重要性を強調しています。 タスクの操作を開始する方法を示し、親子タスクの関係について説明します。
-親タスクはオーガナイザーとして機能し、プロジェクトをフェーズ、ステージ、マイルストーンにグループ化しますが、個人には割り当てられません。 子タスクまたはサブタスクは、チームメンバーに割り当てられた実行可能な作業を表します。
-
->[!VIDEO](https://video.tv.adobe.com/v/3445597/?captions=jpn&learn=on)
-
-## 重要な留意点
-
-* プロジェクトのバックボーンとしての&#x200B;**タスク：** タスクは、プロジェクトを完了するために必要な作業項目を表し、効果的なプロジェクト計画と管理に不可欠です。 &#x200B;
-* **親子タスク構造：**&#x200B;親タスクは、プロジェクトをフェーズ、ステージ、またはマイルストーンにグループ化し、子タスク（サブタスク）は、チームメンバーに割り当てられた実用的な作業を表します。 &#x200B;
-* **親タスクの自動完了：**&#x200B;親タスクは、関連するすべての子タスクが完了すると、自動的に完了とマークされます。 &#x200B;
-* **タスク整理ツール：**&#x200B;インデントボタンとアウトデントボタンを使用してタスクを整理し、最大 7 レベルの親子関係をサポートする階層構造を作成できます。
-* **柔軟なタスク構造化：** プロジェクトでは、プロジェクトの特定のニーズに応じて、親子構造を使用するか、すべてのタスクを同じレベルに保つことができます。 &#x200B;
-
-
-## このトピックに関する推奨チュートリアル
-
-* [Workfrontで効率的にタスクを作成](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Workfrontでタスクを効率的に管理](/help/manage-work/tasks/work-with-tasks.md)
-* [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-
-
+{{$include /help/_includes/understand-parent-child-tasks.md}}

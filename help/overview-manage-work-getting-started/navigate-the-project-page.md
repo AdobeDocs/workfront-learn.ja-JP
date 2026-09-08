@@ -14,59 +14,19 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:08.501Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: 36
 ht-degree: 100%
 
 ---
 
 # プロジェクトページの移動
 
-このビデオでは、次の内容を説明します。
-
-* プロジェクトの詳細の表示方法
-* どのような情報がタスクリストに表示されるか
-* ドキュメントをアップロードする場所
-* 更新履歴の表示方法
-
->[!VIDEO](https://video.tv.adobe.com/v/3449727/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## プロジェクトページの主要な部分
-
-プロジェクトページには、作業を管理するのに役立つ多くの機能が用意されています。 必要なオプションが [!DNL Workfront] のインスタンスに表示されない場合は、システム管理者にお問い合わせください。 注目すべきメインのプロジェクトページの機能の一部を以下に示します。
-
-![プロジェクトページのスクリーンショット](assets/project-page-graphic-for-planner-v2.png)
-
-1. **パンくずリスト：**&#x200B;プロジェクトの背後にあるプログラムとポートフォリオの階層を移動します。
-2. **オブジェクトタイプ：**&#x200B;ランディングページにオブジェクトタイプを表示すると、[!DNL Workfront] で表示されているものを識別するのに役立ちます。 「プロジェクト」という用語は、[!DNL Workfront] システム管理者がカスタマイズできます。
-3. **プロジェクト名：**&#x200B;表示しているプロジェクトの名前です。 名前をクリックして編集します。
-4. **プロジェクトヘッダー：**&#x200B;すべてのプロジェクトページで使用できる標準情報です。
-5. **[!UICONTROL 完了率]：**&#x200B;これは、プロジェクトで完了したタスクに基づいて自動的に更新されます。
-6. **[!UICONTROL プロジェクト所有者]：**&#x200B;ほとんどの組織では、これはプロジェクト管理者です。 これは、[!DNL Workfront] でプロジェクトを管理し、確実に完了する担当者です。
-7. **[!UICONTROL 予定完了日]：**&#x200B;プロジェクトの予定完了日は、プロジェクトタイムラインを通じてプロジェクト管理者が設定します。
-8. **[!UICONTROL 条件]：**[!UICONTROL 条件]は、プロジェクトの進捗を視覚的に表現したものです。 [!DNL Workfront] は、プロジェクト内のタスクの進捗ステータスに基づいて[!UICONTROL 条件]を自動的に設定できます。 または[!UICONTROL 条件]は、プロジェクトの詳細から手動で設定できます。
-9. **[!UICONTROL ステータス]：**[!UICONTROL ステータス]は、プロジェクトがプロセスのどの段階にあるかを示します。つまり、プロジェクトがまだ予定段階か、処理中か、完了しているかを示します。
-10. **[!UICONTROL 新規タスク]：**&#x200B;クリックして、プロジェクトにタスクを作成します。 タスクがリストの下部に生成されます。
-11. **[!UICONTROL 書き出し]：**&#x200B;タスクリストまたは選択したタスクを PDF、スプレッドシート、タブ区切りのファイルに書き出します。
-12. **左側のパネルメニュー：** 左側のパネルを使用して、プロジェクトに関する別の情報に移動します。 画面にもう少しスペースが必要な場合は、上部のタスクアイコンをクリックしてパネルを折りたたみます。 アイコンをドラッグ＆ドロップすると、効率的に作業できるようになります。 表示されるオプションは、[!DNL Workfront] システム管理者が設定します。
-13. **タスクリスト：**&#x200B;タスクリストには、プロジェクトプランを構成するすべてのタスクが表示されます。 各タスクについて表示される情報は、選択したビューによって決まります。
-14. **概要パネル：**&#x200B;概要パネルでは、選択したタスクに関する情報を素早く確認できます。 概要パネルのアイコンをクリックして、開いたり、閉じたりします。
-15. **さらにタスクを追加** インライン編集を使用してタスクリストの最後に別のタスクを追加するには、ここをクリックします。
-
-## このトピックに関する推奨チュートリアル
-
-* [基本的なプロジェクト作成について](/help/manage-work/projects/understand-basic-project-creation.md)
-* [プロジェクトを作成する 4 つの方法を学ぶ](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [プロジェクト詳細の入力](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/navigate-the-project-page.md}}
