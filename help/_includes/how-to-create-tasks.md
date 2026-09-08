@@ -10,7 +10,7 @@ ht-degree: 68%
 ビデオでは、Workfront プロジェクトでタスクを作成する方法に関するチュートリアルを提供し、長い方法と便利なショートカットの両方について説明します。 タスク作成の柔軟性を強調し、効率的なタスク管理のヒントを提供します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3496179/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 主な要点
 

@@ -9,7 +9,7 @@ ht-degree: 16%
 
 このビデオでは、プロジェクトを簡単に検索するいくつかの方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439549/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

@@ -31,7 +31,7 @@ Workfrontは請求可能な商品を追跡しますが、実際の請求は処�
 
 このビデオでは、クライアントの請求プロセスを合理化するための適切なセットアップと追跡の重要性を強調しています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457649/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
