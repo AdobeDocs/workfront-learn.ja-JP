@@ -23,34 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 246
-ht-degree: 31%
+source-wordcount: 35
+ht-degree: 100%
 
 ---
 
 # プロジェクト全体の進捗の追跡
 
-ビデオでは、完了率、見込み日、状況と進捗ステータス、未解決のイシュー、状況の更新列など、Workfront の様々なインジケーターを使用して、プロジェクト全体の進捗を追跡する方法について説明します。
-
-この動画では、正確な追跡とタイムリーなプロジェクト完了を確実におこなうために、チームメンバーによる定期的なアップデートと積極的な問題管理の重要性が強調されています。 &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3447411/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## 重要な留意点
-
-* **完了率の計算：** プロジェクト全体の進捗状況は、個々のタスクの完了率の値に基づいて計算され、期間または予定時間数で重み付けされます。 &#x200B;
-* **予定日と予定日：** Workfrontでは、タスクの期間と先行者に基づいて、予定日と予定開始日/完了日が計算されます。 &#x200B;これらの日付の違いは、潜在的な遅延を示しています。 
-* **プロジェクトの状況ステータス：**&#x200B;条件フィールド（例：目標時、リスク時、トラブル時）は、プロジェクトの状況を反映し、進捗ステータスモードを使用して手動または自動的に設定できます。 &#x200B;
-* **未解決の問題の管理：**&#x200B;未解決の問題は、潜在的なリスクを示します。 &#x200B; プロジェクトのタイムラインを維持するには、タイムラインのレビューとタスクへの迅速な変換が不可欠です。 
-* **状況の更新列：**&#x200B;状況の更新列のプロジェクトマネージャーによる毎週の更新では、進捗状況の明確な概要が提供され、最新の動向を追跡するのに役立ちます。 &#x200B;
-
-
-## このトピックに関する推奨チュートリアル
-
-* [現在のステータスを持つプロジェクトの管理](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [プロジェクト管理におけるガントチャートの活用](/help/manage-work/projects/understand-the-gantt-view.md)
-* [タスク管理のボードビューを確認する](/help/manage-work/projects/understand-the-board-view.md)
-
+{{$include /help/_includes/track-overall-project-progress.md}}

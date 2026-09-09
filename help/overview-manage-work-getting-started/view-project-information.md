@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:24:40.146Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 64
+source-wordcount: 23
 ht-degree: 100%
 
 ---
 
 # プロジェクト情報の表示
 
-このビデオでは、フィルター、表示、グループ化を使用して以下を表示する方法を説明します。
-
-* プロジェクトレベルの情報
-* タスクレベルの情報
-* イシューレベルの情報
-
->[!VIDEO](https://video.tv.adobe.com/v/3453067/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [基本フィルターの作成アクティビティ](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
-* [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
-* [基本グループの作成](/help/reporting/basic-reporting/create-a-basic-grouping.md)
+{{$include /help/_includes/view-project-information.md}}

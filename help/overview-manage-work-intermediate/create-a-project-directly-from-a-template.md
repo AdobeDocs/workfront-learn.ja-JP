@@ -23,39 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:21:41.427Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # プロジェクトをテンプレートから直接作成する
 
-テンプレートで作業中に、そのテンプレートを使用してプロジェクトを作成する必要がある場合は、テンプレート名の横にある「...」メニューをクリックします。 次に「プロジェクトを作成」を選択します。
-
-![メニューの「プロジェクトを作成」オプション](assets/direct-template-01.png)
-
-詳細ウィンドウでは、新しいプロジェクトの設定を変更できます。
-
-![プロジェクト作成ページ](assets/direct-template-02.png)
-
->[!NOTE]
->
->この方法でプロジェクトを作成するには、Workfront のテンプレートエリアにアクセスする必要があります。 テンプレートにアクセスできない場合でも、プロジェクトエリアから、またはイシューやタスクを変換する際に、テンプレートを使用してプロジェクトを作成することができます。
-
->[!TIP]
->
->頻繁に使用するテンプレートがある場合は、お気に入りに追加します。 お気に入りに追加したテンプレートは、ナビゲーションバーのお気に入りメニューの下に表示されるだけでなく、新規プロジェクトメニューにも表示されます。
-
-
-![新しいプロジェクトのお気に入りのテンプレート](assets/direct-template-03.png)
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [既存のプロジェクトのコピー](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [プロジェクトテンプレートの非アクティブ化](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/create-a-project-directly-from-a-template.md}}

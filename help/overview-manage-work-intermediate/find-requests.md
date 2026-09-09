@@ -25,32 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:17:10.423Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
-# リクエストを検索と管理
+# リクエストの検索と管理
 
-このビデオでは、割り当てられているリクエスト、作成済みのリクエスト、管理対象のリクエストの検索方法を説明します。
-
-これらのリクエストを次の場所で検索する方法を説明します。
-
-* Workfront [!UICONTROL ホーム]
-* [!UICONTROL リクエスト]エリア
-* [!UICONTROL チーム]ページ
-* カスタムダッシュボード内
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3441655/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-
-## このトピックに関する推奨チュートリアル
-
-* [リクエストキューについて](/help/manage-work/request-queues/understand-request-queues.md)
-* [リクエストの作成](/help/manage-work/issues-requests/make-a-request.md)
-* [リクエストの更新](/help/manage-work/issues-requests/update-a-request.md)
-* [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/find-requests.md}}

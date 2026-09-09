@@ -23,24 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:33:22.173Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # タスクを作成
 
-このビデオでは、以下について説明します。
-
-* Workfront プロジェクトでタスクを作成するまでの長い道のり
-* タスクを作成するための便利なショートカット
-
->[!VIDEO](https://video.tv.adobe.com/v/3423159/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [親子タスクについて](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [タスクの操作](/help/manage-work/tasks/work-with-tasks.md)
-* [プロジェクトプランからのタスクの割り当て](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/how-to-create-tasks.md}}

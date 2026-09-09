@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:30:48.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 67
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # プロジェクト全体の進捗の追跡
 
-このビデオでは、以下を使用してプロジェクトの進捗を追跡する方法を説明します。
-
-* 完了率
-* 見込日
-* 状態と進捗ステータス
-* 未解決イシュー
-* 「状況の更新」列
-
->[!VIDEO](https://video.tv.adobe.com/v/3447411/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL ガント]ビューについて](/help/manage-work/projects/understand-the-gantt-view.md)
-* [[!UICONTROL ボード]ビューについて](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/track-overall-project-progress.md}}

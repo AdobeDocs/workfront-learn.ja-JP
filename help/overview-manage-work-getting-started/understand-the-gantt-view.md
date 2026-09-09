@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL ガント]表示について
+# [!UICONTROL ガント]ビューについて
 
-このビデオでは、以下の使用方法を説明します。
-
-* プロジェクトのガントチャート
-* タスクのガントチャート
-
->[!VIDEO](https://video.tv.adobe.com/v/3448007/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-詳しくは、オンラインで[ガントチャートの基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=)の記事を参照してください。
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクト全体の進捗の追跡](/help/manage-work/projects/track-overall-project-progress.md)
-* [プロジェクト指標を使用した作業の進捗の追跡](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL ボード]ビューについて](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/understand-the-gantt-view.md}}

@@ -24,33 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 23%
+source-wordcount: 37
+ht-degree: 62%
 
 ---
 
 # プロジェクトをゼロから作成、管理する
 
-このビデオでは、プロジェクトをゼロから作成および管理する方法を説明します。 &#x200B;プロジェクトの作成手順は、新しいプロジェクトを作成し、名前を変更して、目標（説明、開始日、目標完了日）を設定することから始まります。 プロジェクトをタスクに分割し、予定期間と割り当てを設定して作業を計画します。 &#x200B; タスクは先行タスクを使用して順序付けし、プロジェクトのステータスを「現在」に設定してチームに通知し、レポートに含めることができます。 
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3435897/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## 重要な留意点
-
-* **プロジェクトの作成：**&#x200B;まず、新しいプロジェクトを作成し、名前を変更し、目標、説明、開始日、ターゲット完了日を設定します。
-* **作業の分割：** プロジェクトを個々のタスクに分割し、期間を見積もり、責任を割り当て、先行者を使用してタスクを順序付けします。 &#x200B;
-* **問題の処理：**&#x200B;予期しない問題をタスクに変換するか、別のプロジェクトに移動するか、「解決しない」とマークして管理します。 &#x200B;
-* **タイムラインの調整：** タスクを追加すると、プロジェクトのタイムラインに影響を与える可能性がありますが、重複するタスクは、元の完了日を維持するのに役立ちます。 &#x200B;
-* **完了条件：**&#x200B;すべてのタスクが完了し、問題が解決されると、プロジェクトは完了したと見なされます。 &#x200B;初心者は、シンプルなプロジェクトから始め、徐々に高度な機能を探す必要があります。 
-
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクトページのナビゲーション](/help/manage-work/projects/navigate-the-project-page.md)
-* [プロジェクトを作成するための4つの方法を検討する](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [プロジェクトの基本情報を入力](/help/manage-work/projects/fill-in-the-project-details.md)
-
-
+{{$include /help/_includes/understand-basic-project-creation.md}}

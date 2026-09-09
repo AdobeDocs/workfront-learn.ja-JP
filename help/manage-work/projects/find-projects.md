@@ -24,32 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 175
-ht-degree: 28%
+source-wordcount: 30
+ht-degree: 80%
 
 ---
 
 # プロジェクトを効率的に探す
 
-このビデオでは、プロジェクトを簡単に検索するいくつかの方法について説明します。
-
->[!VIDEO](https://video.tv.adobe.com/v/3439549/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## 重要な留意点
-
-* **フィルターと検索オプション：**&#x200B;高度な検索を含むフィルターと検索ツールを使用して、名前、説明、またはカスタムデータフィールドに基づいて特定のプロジェクトをすばやく検索します。 &#x200B;
-* **最近閲覧したプロジェクトのリスト：**&#x200B;最近閲覧したプロジェクトは、最近閲覧したプロジェクトのリストに自動的に表示されます。このリストには、最大20件のプロジェクトを表示して、すばやくアクセスできます。 &#x200B;
-* **お気に入り：**&#x200B;星アイコンをクリックして、プロジェクトをお気に入りにマークします。 お気に入り&#x200B;手動で削除するまでアクセス可能であり、頻繁にアクセスされるプロジェクトに最適です。 
-* **プロジェクトをピン留めしています：** プロジェクトをピン留めして、簡単にアクセスできるようにします。 ピン留めしたプロジェクト&#x200B;ピン留めを解除するまで表示されたままになります。
-* **カスタムレポートとダッシュボード：** カスタムレポートとダッシュボードを作成して、関連するすべてのプロジェクトを効率的に整理し、アクセスします。 &#x200B;
-
-
-## このトピックに関する推奨チュートリアル
-
-* [現在のステータスを持つプロジェクトの管理](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
-* [プロジェクトチームについて](/help/manage-work/projects/understand-the-project-team.md)
-* [効果的なコミュニケーションによるプロジェクトの成功の向上](/help/manage-work/projects/understand-project-communication.md)
-
+{{$include /help/_includes/find-projects.md}}

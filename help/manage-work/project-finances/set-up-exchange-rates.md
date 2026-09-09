@@ -27,32 +27,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:54:38.081Z'
-source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 277
-ht-degree: 28%
+source-wordcount: 29
+ht-degree: 100%
 
 ---
 
 # 為替レートの設定
 
-このビデオでは、Workfrontの金融追跡システムでの通貨管理に関するガイドを提供します。 &#x200B; デフォルトの通貨は米ドルですが、追加の通貨はグローバルまたは個々のプロジェクトや担当業務に設定できます。
-この動画では、システムが現在の為替レートを提供していないことを強調しているため、ユーザーは外部から為替レートを調達する必要があります。 設定&#x200B;ると、為替レートはプロジェクトまたは担当業務のデフォルトになりますが、自動的には更新されません。適切な権限を持つユーザーは手動で更新する必要があります。 &#x200B;通貨を設定した後、ユーザーは新しいプロジェクトを作成し、利用可能な通貨オプションから選択できます。また、各プロジェクトの為替レートをカスタマイズすることもできます。 &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3457694/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## 重要な留意点
-
-* **既定の通貨：** システムの既定の通貨は米ドルですが、これはグローバルに変更することも、個々のプロジェクトや担当業務に対して変更することもできます。 &#x200B;
-* **追加通貨：**&#x200B;追加通貨は、設定領域で為替レートと共に設定できます。 &#x200B;
-* **手動の為替レート更新：** システムは現在の為替レートを提供しません。ユーザーは外部から為替レートを調達し、手動で入力する必要があります。 &#x200B;
-* **プロジェクト固有のカスタマイズ：**&#x200B;設定エリアで設定された為替レートはデフォルトとして使用されますが、ユーザーは各プロジェクトの為替レートをカスタマイズできます。 &#x200B;
-* **更新と権限：**&#x200B;設定エリアで変更を行うと、既存のプロジェクトは自動的に更新されません。 プロジェクトまたは担当業務の為替レートを更新するには、適切なユーザー権限が必要です。
-
-## このトピックに関する推奨チュートリアル
-
-* [パフォーマンス指標について](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [タスクの収益とコストのデフォルトの設定](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [費用タイプを設定する](/help/manage-work/project-finances/set-up-expense-types.md)
-* [財務アクセスについて](/help/manage-work/project-finances/understand-financial-access.md)
-* [担当業務とレートカードの作成](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
+{{$include /help/_includes/set-up-exchange-rates.md}}

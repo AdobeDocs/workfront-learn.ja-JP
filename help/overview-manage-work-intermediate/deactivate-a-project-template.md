@@ -25,28 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:18:38.976Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # プロジェクトテンプレートの非アクティブ化
 
-このビデオでは、以下について説明します。
-
-* プロジェクトテンプレートを共有してアクティブ化および非アクティブ化する権限を付与する方法。
-* プロジェクトテンプレートをアクティブ化および非アクティブ化する方法。
-
->[!VIDEO](https://video.tv.adobe.com/v/3444991/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## プロジェクトテンプレートのアクティブなステータスを表示および編集するためのカスタムビューを作成する方法について説明します。
-
-アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の「**プロジェクトテンプレートのアクティブなステータスビュー**」アクティビティを参照してください。
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクトテンプレートの作成と、ブループリントの詳細](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [プロジェクトテンプレートの共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [プロジェクトテンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+{{$include /help/_includes/deactivate-a-project-template.md}}

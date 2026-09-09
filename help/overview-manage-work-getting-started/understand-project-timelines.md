@@ -23,23 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:48.210Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # プロジェクトタイムラインについて
 
-このビデオでは、次のことについて説明します。
-
-* 基本的なプロジェクトタイムライン管理
-* 開始日または完了日からのプロジェクトのスケジュール
-* タスクの制約
-
->[!VIDEO](https://video.tv.adobe.com/v/3435836/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->期間のタイプとタスクの制約について詳しくは、[期間のタイプとタスクの制約の理解と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ja)を参照してください。
+{{$include /help/_includes/understand-project-timelines.md}}

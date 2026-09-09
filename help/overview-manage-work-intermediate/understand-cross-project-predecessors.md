@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 251
-ht-degree: 98%
+source-wordcount: 23
+ht-degree: 100%
 
 ---
 
 # プロジェクト間先行タスクについて
 
-プロジェクト間先行タスクは、異なるプロジェクト内のタスク間の依存関係を確立する簡単な方法です。 例えば、ある建設会社に、「**Summerhill 住宅開発へのアクセス道路の建設**」というプロジェクトと、「**Summerhill のモデルホームの建設**」という別のプロジェクトがあるとします。 「**モデルホームの建設**」の最初のタスクに「**アクセス道路の建設**」の最後のタスクのプロジェクト間先行タスクを含めることで、住宅の建設を開始する前にアクセス道路を確実に敷設することができます。 タスクはリンクされているので、**アクセス道路の建設**&#x200B;プロジェクトが遅れると、それに応じて&#x200B;**モデルホームの建設**&#x200B;予定開始日も自動的にずれます。
-
->[!PREREQUISITES]
->
->* [Workfrontでタスクを効果的に順序付け](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ja)
->* プロジェクトで先行タスクの使用に既に慣れている
-
-
-このビデオでは、以下について説明します。
-
-* プロジェクト間先行タスクとは何か、それがどのように役に立つか
-* プロジェクト間先行タスクの作成方法
-* レポートでのプロジェクト間先行タスクの追跡方法
-
->[!VIDEO](https://video.tv.adobe.com/v/3422837/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-**プロジェクト間先行タスクと後続タスク**&#x200B;ビューおよびビデオで使用される&#x200B;**プロジェクト間先行タスクと後続タスク**&#x200B;レポートを作成する方法については、[ビューの基本的なテキストモードについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ja)のチュートリアルを参照し、必要に応じて、そこでリストされている必須のチュートリアルを必ず完了してください。
-
+{{$include /help/_includes/understand-cross-project-predecessors.md}}

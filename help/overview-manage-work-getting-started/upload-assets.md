@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:24:06.686Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # アセットのアップロード
 
-このビデオでは、次の方法を学習します：
-
-* プルーフの承認を確認
-* ドキュメントの承認を確認
-* ドキュメントをアップロード
-* プルーフのアップロードに関するトレーニングを検索
-
->[!VIDEO](https://video.tv.adobe.com/v/3440371/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [基本ワークフローでのプルーフのアップロード](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
-* [教訓の記録](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/upload-assets.md}}

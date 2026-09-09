@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:19:24.972Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # タスク、イシュー、承認を委任する
 
-タスクとイシューの割り当て、およびプロジェクト、タスク、イシューの承認を別の Workfront ユーザーにデリゲートする方法について説明します。
-
-このビデオでは、次の方法を学習します：
-
-* 設定でデリゲーションを有効にする
-* タスクとイシューの割り当てを委任する
-* プロジェクト、タスク、イシューの承認をデリゲートする
-* デリゲートされた承認を特定する
-
->[!VIDEO](https://video.tv.adobe.com/v/3446377/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [イベント通知の設定](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [グローバルおよび単一使用承認プロセスの作成](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [グループ特有の承認プロセスについて](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-
+{{$include /help/_includes/delegate-approvals.md}}

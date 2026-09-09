@@ -23,22 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:22:53.898Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 52
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # 既存の承認プロセスの添付と編集
 
-このビデオでは、次の方法を学習します：
-
-* 既存の承認プロセスの使用
-* 特定のプロジェクト、タスクまたは問題用に既存の承認プロセスを編集
-
->[!VIDEO](https://video.tv.adobe.com/v/3414475/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-<!--
-learn more URLS
--->
+{{$include /help/_includes/attach-and-edit-existing-approval-processes.md}}

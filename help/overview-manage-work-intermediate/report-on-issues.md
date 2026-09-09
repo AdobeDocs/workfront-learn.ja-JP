@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:14:42.100Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # イシューに関するレポート
 
-このビデオでは、以下の作成方法を説明します。
-
-* 解決中のオブジェクトを示すイシューレポート
-* 変換済みイシュー情報を示すプロジェクトレポート
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
-
-
-## このトピックに関する推奨チュートリアル
-
-* [基本ビューの作成](/help/reporting/basic-reporting/create-a-basic-view.md)
-* [シンプルなレポートの作成](/help/reporting/basic-reporting/create-a-simple-report.md)
-* [リクエストの検索と管理](/help/manage-work/issues-requests/find-requests.md)
+{{$include /help/_includes/report-on-issues.md}}

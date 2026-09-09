@@ -1,6 +1,6 @@
 ---
 title: イシューの割り当ての管理
-description: 個々のユーザー、複数のユーザーまたはチームにイシューを割り当てて、イシューを解決する方法を説明します。
+description: 個人ユーザー、複数のユーザーまたはチームにイシューを割り当てて、イシューを解決する方法を説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:13:29.079Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # イシューの割り当ての管理
 
-イシューの管理は、プロジェクトマネージャーや、イシューに関する作業に割り当てられたユーザーの重要な責務です。
-
-このビデオでは、以下の方法を説明します。
-
-* イシューの割り当て
-* イシュー割り当てを検索
-* イシューの進捗の更新
-* イシューステータスの更新
-
->[!VIDEO](https://video.tv.adobe.com/v/3446956/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
-* [イシュー／リクエストのプロジェクトへの変換](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/manage-issue-assignments.md}}

@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:59.903Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # 教訓の記録
 
-このビデオでは、次のメリットを確認します。
-
-* 「教訓」タスクの作成
-* 「教訓」カスタムフォームのプロジェクトへの添付
-* 「教訓」カスタムレポートの作成
-* 「教訓」プロジェクトの作成
-
->[!VIDEO](https://video.tv.adobe.com/v/3441013/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクトステータスを完了に変更](/help/manage-work/projects/change-the-project-status.md)
-* [承認の完了](/help/manage-work/close-a-project/complete-approvals.md)
-* [アセットのアップロード](/help/manage-work/close-a-project/upload-assets.md)
-* [時間のログ記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
+{{$include /help/_includes/lessons-learned-from-closing-a-project.md}}

@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:52.285Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 87
-ht-degree: 75%
+source-wordcount: 27
+ht-degree: 100%
 
 ---
 
 # プロジェクトステータスを完了に変更
 
-このビデオでは、以下について説明します。
-
-* プロジェクトのステータスを「[!UICONTROL 完了]」に変更する方法
-* プロジェクトのステータスを「[!UICONTROL 完了]」に変更する理由
-* プロジェクトのステータスを「[!UICONTROL 完了]」に変更できない場合の対処方法
-
->[!VIDEO](https://video.tv.adobe.com/v/3439355/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [タスクと問題の承認を解決](/help/manage-work/close-a-project/complete-approvals.md)
-* [プロジェクトアセットのアップロードと管理](/help/manage-work/close-a-project/upload-assets.md)
-* [今後のプロジェクトで学んだ教訓を記録する](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [プロジェクト時間の記録とレビュー](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/change-the-project-status.md}}

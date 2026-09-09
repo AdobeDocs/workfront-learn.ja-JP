@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:01.715Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 186
-ht-degree: 89%
+source-wordcount: 31
+ht-degree: 100%
 
 ---
 
 # プロジェクトテンプレートの非アクティブ化
 
-このビデオでは、以下について説明します。
-
-* プロジェクトテンプレートを共有してアクティブ化および非アクティブ化する権限を付与する方法。
-* プロジェクトテンプレートをアクティブ化および非アクティブ化する方法。
-
->[!VIDEO](https://video.tv.adobe.com/v/3444991/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->テンプレートを削除することを決定した場合、そのテンプレートを使用して作成したプロジェクトには影響を与えません。 削除されたテンプレートは 30 日間ごみ箱に移動され、復元することができるのはシステム管理者のみとなります。
-
-
-
-## プロジェクトテンプレートのアクティブなステータスを表示および編集するためのカスタムビューを作成する方法について説明します。
-
-アクティブなステータス列を含むプロジェクトテンプレートビューを作成するには、[基本ビューの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view)の「**プロジェクトテンプレートのアクティブなステータスビュー**」アクティビティを参照してください。
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクトテンプレートの作成とブループリントの探索](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [プロジェクトテンプレートの効果的な共有](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [テンプレートでのプロジェクトチームの編集](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/deactivate-a-project-template.md}}

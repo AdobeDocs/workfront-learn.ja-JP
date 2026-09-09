@@ -24,26 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:36:21.501Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 33
 ht-degree: 100%
 
 ---
 
 # イシュー／リクエストのプロジェクトへ変換
 
-このビデオでは、以下の方法を説明します。
-
-* リクエストからプロジェクトへの変換を開始する
-* 適切なプロジェクトテンプレートを選択する
-* リクエストからプロジェクトへの変換を実施する
-
->[!VIDEO](https://video.tv.adobe.com/v/3446623/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-
-## このトピックに関する推奨チュートリアル
-
-* [リクエストを検索と管理](/help/manage-work/issues-requests/find-requests.md)
-* [イシュー／リクエストのタスクへの変換](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [予定外作業の処理](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/create-a-project-from-a-request.md}}

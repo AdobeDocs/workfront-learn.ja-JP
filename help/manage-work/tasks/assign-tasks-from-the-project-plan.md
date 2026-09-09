@@ -24,33 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 191
-ht-degree: 82%
+source-wordcount: 39
+ht-degree: 100%
 
 ---
 
 # プロジェクトプランからのタスクの割り当て
 
-ビデオでは、プロジェクト計画でタスクを割り当てる様々な方法について説明します。 フィルター、テンプレート、リソース管理機能などのツールを使用して、タスクの割り当てを効率化し、プロジェクトのワークフローの最適化を強調しています。
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3445734/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## 主な要点
-
-* **クイック割り当てのインライン編集：**&#x200B;名前を入力してリストから選択することで、タスクを簡単に割り当てることができます。先行入力機能を使用すると、選択を高速化できます。
-* **効率のための一括編集：**&#x200B;タスクを選択し、一括編集を使用して、リストから名前を選択することで、複数のタスクを同じユーザーに割り当てます。
-* **合理化された割り当ての担当業務：**&#x200B;担当業務を使用して、タスクの割り当てを促進します。特に、プロジェクトテンプレートの場合に役立ちます。&#x200B;担当業務は、リソース管理とキャパシティプランニングのために別々に記録され&#x200B;す。
-* **Collaborationのチーム割り当て：** チーム名を選択してチームにタスクを割り当てます（チームアイコンで表示）。チームメンバー&#x200B;タスクを自動的に割り当てたり、チームリードを再割り当てしたりできます。ただし、レポート用にチーム名は維持&#x200B;ます。
-* **リソース管理の統合：**&#x200B;担当業務とチームの割り当ては、リソースの処理能力と可用性の計算をサポートし、プロジェクトの計画と実行を強化します。
-
-
-## このトピックに関する推奨チュートリアル
-
-* [タスク期間について](/help/manage-work/tasks/understand-task-durations.md)
-* [タスクの順序付けを学ぶ](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [予定時間数について](/help/manage-work/tasks/understand-planned-hours.md)
-* [[!UICONTROL 作業量]について](/help/manage-work/tasks/understand-work-effort.md)
-
+{{$include /help/_includes/assign-tasks-from-the-project-plan.md}}

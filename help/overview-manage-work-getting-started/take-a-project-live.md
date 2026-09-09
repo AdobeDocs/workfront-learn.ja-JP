@@ -24,23 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:31:02.064Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 52
+source-wordcount: 21
 ht-degree: 100%
 
 ---
 
 # プロジェクトを稼動させる
 
-このビデオでは、次の方法を学習します：
-
-* プロジェクトのステータスを使用してプロジェクトを稼動させる
-
->[!VIDEO](https://video.tv.adobe.com/v/3438984/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## このトピックに関する推奨チュートリアル
-
-* [プロジェクト管理の基本を学ぶ](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクトの検索](/help/manage-work/projects/find-projects.md)
-* [プロジェクトの共有](/help/manage-work/projects/share-a-project.md)
+{{$include /help/_includes/take-a-project-live.md}}

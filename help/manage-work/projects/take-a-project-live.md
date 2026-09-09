@@ -24,31 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: dca6f8510edc49351593fb73d0d5f2b0ac9be53e
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 168
-ht-degree: 81%
+source-wordcount: 33
+ht-degree: 100%
 
 ---
 
 # プロジェクトを稼動させる
 
-このビデオでは、ステータスを「current」に変更して、プロジェクトを公開するための最後の手順を説明します。&#x200B;その前に、タスク名、期間、予定時間、先行タスク、開始日と完了日、割り当てなどの主要なプロジェクト要素を確認して、すべてが正確で適切に設定されていることを確認することを重視します。&#x200B; プロジェクトがライブになると、プロジェクトマネージャーはグローバル設定と個人設定に基づく通知を受け取り、アクティブなプロジェクトのレポートとフィルターにプロジェクトが表示されます。&#x200B;これは正式な作業の始まりです。&#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3438984/?captions=jpn&quality=12&learn=on&enablevpops=1)
-
-## 主な要点
-
-* **プロジェクト詳細の確認：**&#x200B;タスク名、期間、予定時間数、先行タスク、開始日と完了日、割り当てが正確で適切に設定されていることを確認します。
-* **プロジェクトステータスの変更：**&#x200B;プロジェクトを稼動させるには、プロジェクトヘッダーまたは詳細でプロジェクトのステータスを「現在」に更新します。
-* **通知の受信：**&#x200B;プロジェクトを稼動させると、プロジェクトマネージャーは、グローバル設定と個人用設定に基づいて通知を受信します。
-* **アクティブなプロジェクトのトラッキング：**&#x200B;プロジェクトは、稼動、現在、進行中のプロジェクトのレポートとフィルターに表示されるので、監視が簡単になります。
-* **作業の開始：**&#x200B;プロジェクトを稼動させると、作業と実行のフェーズが正式に開始されます。
-
-
-
-## このトピックに関する推奨チュートリアル
-
-* [現在のステータスを持つプロジェクトの管理](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [プロジェクトを効率的に探す](/help/manage-work/projects/find-projects.md)
-* [Workfrontでのプロジェクトの効果的な共有](/help/manage-work/projects/share-a-project.md)
+{{$include /help/_includes/take-a-project-live.md}}
