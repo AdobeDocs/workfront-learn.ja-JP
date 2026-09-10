@@ -7,7 +7,7 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2024-09-03T00:00:00.000Z'
+last-substantial-update: '2026-09-09T00:00:00.000Z'
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:33:15.445Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: 199
 ht-degree: 4%
 
 ---
@@ -45,4 +45,5 @@ ht-degree: 4%
 * [&#x200B; タスクの収益とコストのデフォルトを設定](set-up-task-revenue-and-cost-defaults.md) – 収益タイプとコスト タイプを使用して、タスクの計画および実際の財務情報を計算する方法を説明します。
 * [為替レートの設定](set-up-exchange-rates.md) – 為替レートをプロジェクトやレポートで使用して、世界中の様々な通貨の財務情報を反映する方法について説明します。
 * [費用タイプの設定](set-up-expense-types.md) – 事前定義済みの費用タイプを使用して新しい費用タイプを作成する方法を説明します。
+* [担当業務とレートカードの作成](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md) – 担当業務とレートカードの作成方法、およびプロジェクトからレートカードを添付および削除する方法について説明します。
 * [金融アクセスについて](understand-financial-access.md) – 金融アクセス権によって、管理者がWorkfrontで追跡される財務情報を誰が表示および編集できるかを制御する方法について説明します。

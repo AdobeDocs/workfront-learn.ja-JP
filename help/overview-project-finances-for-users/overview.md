@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Workfrontは、現在使用している財務追跡ツールや請求ツ�
 >* 財務データを編集する権限を持つ標準ライセンスタイプ
 
 
-* [財務の更新とレビュー](update-and-review-finances.md) - プロジェクトに関連付けられている財務情報のレビュー方法を説明します。
-* [財務情報の検索](find-financial-information.md) - プロジェクトに関する財務情報を検索し、その財務情報の出所を把握する方法を説明します。
-* [複数の請求レートについて](multiple-billing-rates.md) – 特定のプロジェクト内でシステムの請求レートを上書きする方法について説明します。
+* [&#x200B; プロジェクトの財務情報にアクセスして管理する](find-financial-information.md) - プロジェクトに関する財務情報を見つけ、その財務情報の出所を把握する方法を説明します。
+* [&#x200B; クライアントプロジェクトの財務情報の更新](update-and-review-finances.md) - プロジェクトに関連付けられている財務情報を確認する方法を説明します。
+* [担当業務の請求レートをカスタマイズ &#x200B;](multiple-billing-rates.md) – 特定のプロジェクト内でシステムの請求レートを上書きする方法を説明します。
