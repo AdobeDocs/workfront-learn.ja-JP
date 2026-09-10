@@ -45,7 +45,7 @@ ht-degree: 19%
     + [Workfrontでのプロジェクトの効果的な共有](share-a-project.md)
     + [プロジェクトチームについて](understand-the-project-team.md)
     + [効果的なコミュニケーションによるプロジェクトの成功の向上](understand-project-communication.md)
-    + [ プロジェクト管理のフィルター、ビュー、グループ化を探る](view-project-information.md)
+    + [&#x200B; プロジェクト管理のフィルター、ビュー、グループ化を探る](view-project-information.md)
     + [プロジェクト全体の進捗の追跡](track-overall-project-progress.md)
     + [プロジェクト指標を使用した作業の進捗の追跡](track-work-progress-with-project-metrics.md)
     + [完了率と進捗状況を使用して進捗状況を追跡する](track-work-progress-from-the-project-timeline.md)
