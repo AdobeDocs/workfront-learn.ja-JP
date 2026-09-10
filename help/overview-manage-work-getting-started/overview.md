@@ -37,7 +37,7 @@ ht-degree: 6%
 
 このチュートリアルでは、プロジェクトの作成方法、プロジェクトの計画方法、プロジェクトの管理方法、プロジェクトを終了する方法について説明します。
 
-このチュートリアルを完了した後は、[作業の管理 – 中間](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)を使用して、プロジェクト管理スキルをさらに磨くことをお勧めします。
+このチュートリアルを完了した後は、[作業の管理 – 中間](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=ja)を使用して、プロジェクト管理スキルをさらに磨くことをお勧めします。
 
 >[!PREREQUISITES]
 >
