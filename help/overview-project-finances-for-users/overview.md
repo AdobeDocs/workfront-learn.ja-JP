@@ -24,14 +24,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 22fda31ea84297a2d407fad691b863aa22130dbb
 workflow-type: tm+mt
-source-wordcount: 154
-ht-degree: 24%
+source-wordcount: 153
+ht-degree: 27%
 
 ---
 
-# ユーザー向けプロジェクト財務の概要
+# プロジェクトの財務（ユーザー向け）
 
 プロジェクトの財務情報の追跡、コストと収益のタイプの設定、請求率の上書きの方法を説明します。 このチュートリアルは、プロジェクトに関連する財務データを追跡するユーザー向けに設計されています。
 
