@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # ルーターの演習
 
 ルーターの重要性と、異なるモジュールを条件付きで処理するためにルーターを使用する方法を理解します。
@@ -64,14 +68,14 @@ ht-degree: 100%
 
    **次に、新しく複製されたモジュールでマッピングされた値を変更します。**
 
-1. <https://www.superheroapi.com/> に移動し、facebook アカウントを使用してアクセストークンを取得します。
+1. <https://superheroapi.com/>に移動し、**GitHub**&#x200B;でログインをクリックして、アクセストークンを取得します。
 
    >[!NOTE]
    >
    >独自のスーパーヒーロートークンへのアクセスで問題が発生した場合は、共有トークン「10110256647253588」を使用できます。 スーパーヒーロー API の呼び出し回数に気を配って、この共有トークンが引き続き全員に対して機能するようにしてください。
 
-1. 「スーパーヒーローの姿を手に入れる」設定を開き、URL を `https://www.superheroapi.com/api/[access- token]/332/appearance` に変更します。 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
-1. 「スーパーヒーローの能力を手に入れる」設定を開き、URL を `https://www.superheroapi.com/api/[access- token]/332/powerstats` に変更します。 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
+1. 「スーパーヒーローの姿を手に入れる」設定を開き、URL を `https://superheroapi.com/api/[access- token]/332/appearance` に変更します。 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
+1. 「スーパーヒーローの能力を手に入れる」設定を開き、URL を `https://superheroapi.com/api/[access- token]/332/powerstats` に変更します。 必ず URL にアクセストークンを含めてください。 「OK」をクリックします。
 1. 各スーパーヒーローモジュールを右クリックし、「このモジュールのみ実行」を選択します。 これにより、マッピングに必要なデータ構造が生成されます。
 1. 両方を実行した後、各 URL フィールドの数値「332」を、「CSV を解析」モジュールからマッピングされた列 4 に変更します。
 
@@ -79,7 +83,7 @@ ht-degree: 100%
 
    **これで、スーパーヒーローのパスの「複数の変数を設定」モジュールをクリックして、名前、高さ、重さ、能力を更新できます。**
 
-1. 「スーパーヒーローの能力を手に入れる」モジュール（モジュール 8）の「名前」フィールドと「能力」フィールドを更新します。
+1. Get superhero abilities モジュールの名前フィールドと機能フィールド（モジュール 8）を更新します。
 
    ![ルーター画像 5](../12-exercises/assets/routers-walkthrough-5.png)
 

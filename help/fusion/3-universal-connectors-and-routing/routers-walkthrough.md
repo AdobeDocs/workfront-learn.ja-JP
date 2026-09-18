@@ -1,6 +1,6 @@
 ---
 title: ルーターのチュートリアル
-description: ' [!DNL Adobe Workfront Fusion] でルーターを使用して、ポケモンとスーパーヒーローのバンドルを正しいパスに渡す方法を学びます。'
+description: ルーターを使用して、ポケモンとスーパーヒーローのバンドルを[!DNL Adobe Workfront Fusion]の正しいパスに渡す方法を説明します。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 100%
-
+source-wordcount: '873'
+ht-degree: 98%
 ---
-
 # ルーターのチュートリアル
 
 ルーターを使用して、正しいパスにポケモンとスーパーヒーローのバンドルを渡し、各キャラクターのタスクを作成します。
@@ -43,9 +47,9 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 ## 演習 URL
 
-* スーパーヒーロー API Web サイト： `https://www.superheroapi.com/`
-* 演習の最初の URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* 演習の 2 番目の URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* スーパーヒーロー API Web サイト： `https://superheroapi.com/`
+* 演習の最初の URL：`https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 演習の 2 番目の URL：`https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 独自のスーパーヒーロートークンへのアクセスで問題が発生した場合は、共有トークン「10110256647253588」を使用できます。 スーパーヒーロー API の呼び出し回数に気を配って、この共有トークンが引き続き全員に対して機能するようにしてください。
 
