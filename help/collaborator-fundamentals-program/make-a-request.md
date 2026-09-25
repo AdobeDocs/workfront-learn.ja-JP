@@ -29,7 +29,7 @@ ht-degree: 100%
 * 送信されたリクエストを表示する
 * リクエストの下書きを検索する
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413116/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## リクエストキューのパスに迅速かつ容易にアクセスする
 

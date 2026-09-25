@@ -41,7 +41,7 @@ ht-degree: 78%
 * [!DNL Gmail] からの Workfront の作業の表示と更新
 * [!DNL Gmail] からの Workfront の作業の承認
 
->[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3450154/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## G Suite 用の Adobe Workfront のインストール
 

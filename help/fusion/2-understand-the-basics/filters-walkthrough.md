@@ -45,7 +45,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 * モジュール内の 2 つのモジュール間にフィルターを追加する
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416486/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## やってみよう

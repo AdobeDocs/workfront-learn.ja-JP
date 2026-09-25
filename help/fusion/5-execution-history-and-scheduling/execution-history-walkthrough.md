@@ -41,7 +41,7 @@ ht-degree: 94%
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417317/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## 「履歴」タブのフルテキスト検索

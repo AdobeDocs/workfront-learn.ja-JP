@@ -41,7 +41,7 @@ Workfront のプロジェクトに関する情報を検索し、関連情報を�
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417275/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## やってみよう

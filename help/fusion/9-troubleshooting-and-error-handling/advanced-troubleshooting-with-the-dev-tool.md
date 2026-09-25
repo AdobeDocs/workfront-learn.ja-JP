@@ -38,4 +38,4 @@ ht-degree: 68%
 * Workfront Fusion 開発ツールのインストールと使用方法
 * 様々な詳細なシナリオデザインツールのレビュー方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418120/?captions=jpn&quality=12&learn=on&enablevpops=1)

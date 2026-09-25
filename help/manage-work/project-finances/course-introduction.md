@@ -34,4 +34,4 @@ ht-degree: 59%
 * コストや収益を追跡する
 * 費用を処理する
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436408/?captions=jpn&quality=12&learn=on&enablevpops=1)

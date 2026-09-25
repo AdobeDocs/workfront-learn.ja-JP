@@ -24,4 +24,4 @@ ht-degree: 70%
 
 このビデオでは、レビューライセンスで [!DNL &#x200B; Workfront] を使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438687/?captions=jpn&quality=12&learn=on&enablevpops=1)

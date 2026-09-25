@@ -45,7 +45,7 @@ Workfront では、独自の環境で演習を再現する前に、演習のチ�
 
 * シナリオ内で JSON を作成および解析して、デザインのニーズに応えます
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418114/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 

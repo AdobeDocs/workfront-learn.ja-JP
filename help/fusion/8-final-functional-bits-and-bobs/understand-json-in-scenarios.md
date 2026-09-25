@@ -41,4 +41,4 @@ JSON（JavaScript Object Notation）は、データの保存と交換に使わ�
 * JSON の読み取り方法と、シナリオ内で使用するために JSON をデータに変換する方法
 * JSON を作成、変更、操作する際の JSON モジュールの使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418108/?captions=jpn&quality=12&learn=on&enablevpops=1)

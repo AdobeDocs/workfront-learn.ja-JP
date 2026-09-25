@@ -36,7 +36,7 @@ ht-degree: 93%
 
 * [!UICONTROL Pulse] 更新ストリームで個人の目標を表示する
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415931/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## Pulse ストリーム内で情報をフィルターする
 

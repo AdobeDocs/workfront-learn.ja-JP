@@ -37,4 +37,4 @@ ht-degree: 65%
 
 * 相互に排他的なルーターパスと非排他的なルーターパスの違い。
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417257/?captions=jpn&quality=12&learn=on&enablevpops=1)
