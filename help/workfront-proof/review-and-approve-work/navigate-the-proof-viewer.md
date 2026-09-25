@@ -1,6 +1,6 @@
 ---
 title: プルーフビューアの操作
-description: '[!DNL  Workfront] プルーフビューアで、プルーフの移動、コンテンツのズームイン/ズームアウト、サムネール列の使用、プルーフコメントのフィルタリングなどを行う方法について説明します。'
+description: '[!DNL &#x200B; Workfront] プルーフビューアで、プルーフの移動、コンテンツのズームイン/ズームアウト、サムネール列の使用、プルーフコメントのフィルタリングなどを行う方法について説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial

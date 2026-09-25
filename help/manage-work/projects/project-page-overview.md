@@ -1,6 +1,6 @@
 ---
 title: プロジェクトページについて
-description: プロジェクトの計画と管理に役立つ[!DNL  Workfront]のプロジェクト ページの主な機能について説明します。
+description: プロジェクトの計画と管理に役立つ[!DNL &#x200B; Workfront]のプロジェクト ページの主な機能について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management

@@ -1,6 +1,6 @@
 ---
 title: キュー管理コースの概要
-description: '[!DNL  Workfront] リクエストキューで需要管理を一元化する方法について説明します。'
+description: '[!DNL &#x200B; Workfront] リクエストキューで需要管理を一元化する方法について説明します。'
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 70%
 ---
 # キュー管理コースの概要
 
-このビデオでは、[!DNL  Workfront] リクエストキューでデマンド管理を一元化する方法を説明します。
+このビデオでは、[!DNL &#x200B; Workfront] リクエストキューでデマンド管理を一元化する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

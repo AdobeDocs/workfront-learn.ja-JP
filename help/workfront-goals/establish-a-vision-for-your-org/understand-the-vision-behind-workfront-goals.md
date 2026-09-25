@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Workfront Goals] の背後にあるビジョンについて'
-description: 製品チームから[!DNL  Workfront]の[!DNL Workfront Goals]について学びます。
+description: 製品チームから[!DNL &#x200B; Workfront]の[!DNL Workfront Goals]について学びます。
 activity: use
 feature: Workfront Goals
 type: Tutorial

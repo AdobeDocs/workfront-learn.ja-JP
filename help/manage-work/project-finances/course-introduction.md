@@ -1,6 +1,6 @@
 ---
 title: コースの概要
-description: プロジェクトの予算を使用する方法、コストと収益を追跡する方法、[!DNL  Workfront]での費用の処理方法について説明します。
+description: プロジェクトの予算を使用する方法、コストと収益を追跡する方法、[!DNL &#x200B; Workfront]での費用の処理方法について説明します。
 activity: use
 feature: Work Management
 type: Tutorial

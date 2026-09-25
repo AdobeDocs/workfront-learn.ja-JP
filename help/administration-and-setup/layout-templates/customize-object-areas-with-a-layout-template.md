@@ -1,6 +1,6 @@
 ---
 title: レイアウトテンプレートを使用したオブジェクトエリアのカスタマイズ
-description: レイアウトテンプレートを使用して、[!DNL  Workfront]の左側のパネルメニューで項目を追加、削除、並べ替えする方法について説明します。
+description: レイアウトテンプレートを使用して、[!DNL &#x200B; Workfront]の左側のパネルメニューで項目を追加、削除、並べ替えする方法について説明します。
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

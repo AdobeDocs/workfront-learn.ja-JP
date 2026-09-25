@@ -1,6 +1,6 @@
 ---
 title: プルーフの詳細について
-description: 概要パネルと[!UICONTROL  ドキュメントの詳細] ページを通じて、[!DNL  Workfront]のプルーフの詳細を詳しく説明します。
+description: 概要パネルと[!UICONTROL &#x200B; ドキュメントの詳細] ページを通じて、[!DNL &#x200B; Workfront]のプルーフの詳細を詳しく説明します。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ ht-degree: 95%
 
 これにより、[!UICONTROL ドキュメントの詳細]ページが表示され、左側のパネルに様々な追加オプションが表示されます。
 
-![[!DNL  Workfront] でのプルーフのページの画像。](assets/document-details.png)
+![[!DNL &#x200B; Workfront] でのプルーフのページの画像。](assets/document-details.png)
 
 プルーフプロセスに関連する情報を表示できるかどうかは、[!DNL Workfront] のプルーフ権限に依存することに注意してください。
 

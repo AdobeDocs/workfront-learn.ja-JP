@@ -1,6 +1,6 @@
 ---
 title: 既存の承認プロセスの添付と編集
-description: '[!DNL  Workfront]のプロジェクト、タスク、または問題に対して既存の承認プロセスを使用して編集する方法について説明します。'
+description: '[!DNL &#x200B; Workfront]のプロジェクト、タスク、または問題に対して既存の承認プロセスを使用して編集する方法について説明します。'
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

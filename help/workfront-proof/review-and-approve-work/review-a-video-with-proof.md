@@ -1,6 +1,6 @@
 ---
 title: プルーフによるビデオのレビュー
-description: '[!DNL  Workfront]のプルーフを使用して、ビューア設定を調整し、タイムスタンプ付きのコメントをビデオに追加する方法を説明します。'
+description: '[!DNL &#x200B; Workfront]のプルーフを使用して、ビューア設定を調整し、タイムスタンプ付きのコメントをビデオに追加する方法を説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial

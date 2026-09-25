@@ -1,6 +1,6 @@
 ---
 title: プルーフのコメントの管理
-description: コメント アクションを適用し、コメントを解決し、コメント列をフィルタリングすることで、[!DNL  Workfront]でプルーフ コメントを管理する方法について説明します。
+description: コメント アクションを適用し、コメントを解決し、コメント列をフィルタリングすることで、[!DNL &#x200B; Workfront]でプルーフ コメントを管理する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

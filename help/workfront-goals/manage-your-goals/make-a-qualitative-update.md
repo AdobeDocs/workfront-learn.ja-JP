@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront Goals]で定性的な更新を行います'
-description: 定性的または手書きの更新を[!DNL   Goals]で行う方法について説明します。
+description: 定性的または手書きの更新を[!DNL &#x200B;  Goals]で行う方法について説明します。
 activity: use
 feature: Workfront Goals
 type: Tutorial

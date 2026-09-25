@@ -1,6 +1,6 @@
 ---
 title: 自動ワークフローの概要
-description: '[!DNL  Workfront]の自動プルーフワークフローの概要と、基本的なワークフローとの違いについて説明します。'
+description: '[!DNL &#x200B; Workfront]の自動プルーフワークフローの概要と、基本的なワークフローとの違いについて説明します。'
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

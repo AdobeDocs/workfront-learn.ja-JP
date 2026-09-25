@@ -37,7 +37,7 @@ ht-degree: 98%
 
 目標をアクティベートし、アクティビティまたは結果に関する更新を投稿すると、[!DNL Workfront Goals] では、実際の完了率、予想される完了率、進捗ステータスを使用して、その目標の進捗の計算を開始します。 [!UICONTROL チェックイン]は、定期的に目標をレビューし、順調に進んでいるか、遅れているか、調整が必要かどうかを評価する優れた方法です。 チェックインとは、目標の進捗についてレポートする時点のことです。
 
-![ の[!UICONTROL チェックイン]エリアのスクリーンショット[!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
+![&#x200B; の[!UICONTROL チェックイン]エリアのスクリーンショット[!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
 
 個人レベルまたは「[!UICONTROL チェックイン]」セクションで目標をチェックインできますが、目標はアクティブである必要があります。
 
@@ -60,7 +60,7 @@ ht-degree: 98%
 
 1. 「[!UICONTROL **チェックイン**]」をクリックします。 結果とアクティビティの進捗が編集可能になります。
 
-   ![ の「[!UICONTROL チェックイン]」ボタンのスクリーンショット[!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
+   ![&#x200B; の「[!UICONTROL チェックイン]」ボタンのスクリーンショット[!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
 
 1. 各結果の現在の進捗を更新します。 選択した結果のタイプに応じて、次のいずれかを実行できます。
 
@@ -69,7 +69,7 @@ ht-degree: 98%
    * 完了率の更新
 
 1. 手動進捗バーアクティビティの完了率を更新します。
-   ![ の[!UICONTROL 目標の詳細]パネルのスクリーンショット[!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
+   ![&#x200B; の[!UICONTROL 目標の詳細]パネルのスクリーンショット[!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
 
 1. 「[!UICONTROL 概要に戻る]」をクリックして、[!UICONTROL 目標の詳細]パネルに戻ります。 目標の結果とアクティビティを更新すると、目標の進捗が更新されます。
 

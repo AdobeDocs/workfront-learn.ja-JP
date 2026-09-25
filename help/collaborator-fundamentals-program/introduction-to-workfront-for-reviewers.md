@@ -1,6 +1,6 @@
 ---
 title: レビュアー用 [!DNL Workfront] の概要
-description: レビューライセンスを持つユーザーが[!DNL  Workfront]を使用する方法について説明します。
+description: レビューライセンスを持つユーザーが[!DNL &#x200B; Workfront]を使用する方法について説明します。
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -22,6 +22,6 @@ ht-degree: 70%
 ---
 # レビュアー用 [!DNL Workfront] の概要
 
-このビデオでは、レビューライセンスで [!DNL  Workfront] を使用する方法について説明します。
+このビデオでは、レビューライセンスで [!DNL &#x200B; Workfront] を使用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)

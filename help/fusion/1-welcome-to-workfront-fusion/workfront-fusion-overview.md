@@ -50,7 +50,7 @@ ht-degree: 85%
 
 Workfront Fusion トレーニングチュートリアルの演習を完了するには、このトレーニング全体を通して「**Workfront テストドライブ**」とも呼ばれるWorkfront イネーブルメント環境が必要です。 既に体験版がある場合は、このトレーニング用に新しい体験版を使用することをお勧めします。
 
-[こちらのフォーム](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg)に入力して体験版をリクエストします。 フォームに入力すると、**Adobe認定プロフィールの電子メール**&#x200B;の提供を求められます。 まだ持っていない場合は、[Adobe認定サイト ](https://certification.adobe.com/#)にアクセスして、ユーザープロファイルを作成してください。
+[こちらのフォーム](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg)に入力して体験版をリクエストします。 フォームに入力すると、**Adobe認定プロフィールの電子メール**&#x200B;の提供を求められます。 まだ持っていない場合は、[Adobe認定サイト &#x200B;](https://certification.adobe.com/#)にアクセスして、ユーザープロファイルを作成してください。
 
 ### プラクティス用の Workfront Fusion へのアクセス
 

@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront Goals]での目標の個別の更新を表示します'
-description: '[!DNL   Goals]の[!UICONTROL Pulse]更新ストリームで個々の目標を表示する方法について説明します。'
+description: '[!DNL &#x200B;  Goals]の[!UICONTROL Pulse]更新ストリームで個々の目標を表示する方法について説明します。'
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -50,7 +50,7 @@ ht-degree: 93%
    * フィルターの名前にポインタを合わせて、その名前の横にある&#x200B;**編集**&#x200B;アイコンをクリックしてカスタマイズし、ユーザー、チーム、グループの特定の名前、または組織の名前を追加します。
    * 「[!UICONTROL **新しいフィルター**]」をクリックして新しいフィルターを作成し、オプションのリストから選択してカスタマイズし、[!UICONTROL 期間]、[!UICONTROL ステータス]、[!UICONTROL 進行]、[!UICONTROL 所有者]でフィルターします。
 
-   ![ の[!UICONTROL フィルター]パネルの画像[!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
+   ![&#x200B; の[!UICONTROL フィルター]パネルの画像[!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
 **メモ**：フィルターの選択内容は保持され、[!DNL Goals] の他のセクションの情報は、この情報に従って表示されます。 [!DNL Workfront] の [!DNL Goals] エリアの様々なセクションで、目標を見つけてフィルターできます。
 

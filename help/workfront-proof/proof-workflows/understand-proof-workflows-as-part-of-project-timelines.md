@@ -1,6 +1,6 @@
 ---
 title: プロジェクトタイムラインの一部としてのプルーフワークフロー
-description: レビューと承認プロセスを[!DNL  Workfront]のプロジェクト タイムラインと併用するための推奨事項について説明します。
+description: レビューと承認プロセスを[!DNL &#x200B; Workfront]のプロジェクト タイムラインと併用するための推奨事項について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

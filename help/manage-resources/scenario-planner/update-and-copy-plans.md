@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Scenario Planner]のプランの更新とコピー'
-description: '[!DNL  Workfront] [!DNL Scenario Planner]でプランを更新またはコピーする方法について説明します。'
+description: '[!DNL &#x200B; Workfront] [!DNL Scenario Planner]でプランを更新またはコピーする方法について説明します。'
 feature: Resource Management
 type: Tutorial
 role: Leader, User

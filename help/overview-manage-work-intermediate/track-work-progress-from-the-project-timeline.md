@@ -1,6 +1,6 @@
 ---
 title: プロジェクトタイムラインからの進捗の追跡
-description: 完了率、状態、割り当て、または制約を使用して、[!DNL  Workfront]のプロジェクトタイムラインから作業の進捗状況を追跡する方法について説明します。
+description: 完了率、状態、割り当て、または制約を使用して、[!DNL &#x200B; Workfront]のプロジェクトタイムラインから作業の進捗状況を追跡する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management

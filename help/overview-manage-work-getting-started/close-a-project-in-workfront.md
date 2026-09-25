@@ -1,6 +1,6 @@
 ---
 title: プロジェクトを閉じる
-description: '[!DNL  Workfront]でデータを閉じる前に、プロジェクトでどのような情報を確認すべきか、なぜデータを更新することが重要なのかについて説明します。'
+description: '[!DNL &#x200B; Workfront]でデータを閉じる前に、プロジェクトでどのような情報を確認すべきか、なぜデータを更新することが重要なのかについて説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg

@@ -1,6 +1,6 @@
 ---
 title: マイルストーンコースの概要
-description: マイルストーンが[!DNL  Workfront] プロジェクトを前進させるのに役立つ方法について説明します。
+description: マイルストーンが[!DNL &#x200B; Workfront] プロジェクトを前進させるのに役立つ方法について説明します。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 84%
 
 このコースは、プロジェクトマネージャー、プランナー、および [!DNL Workfront] でプロジェクトを管理するその他のユーザーを対象としています。 このコースを始める前に、プランナーの基本プログラムを完了するか、[!DNL Workfront] でプロジェクトを作成する際の強力な基盤を持つことをお勧めします。
 
-このビデオでは、マイルストーンが [!DNL  Workfront] プロジェクトを進めるのに役立つ仕組みを学びます。
+このビデオでは、マイルストーンが [!DNL &#x200B; Workfront] プロジェクトを進めるのに役立つ仕組みを学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)

@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL シナリオプランナー]でのプランへのアクセス'
-description: ユーザーが[!UICONTROL  シナリオプランナー]でプランにアクセスするために必要な[!DNL  Workfront]権限について説明します。
+description: ユーザーが[!UICONTROL &#x200B; シナリオプランナー]でプランにアクセスするために必要な[!DNL &#x200B; Workfront]権限について説明します。
 feature: Resource Management
 type: Tutorial
 role: Leader, User

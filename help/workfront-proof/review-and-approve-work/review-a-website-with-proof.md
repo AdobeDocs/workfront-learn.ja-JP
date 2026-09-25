@@ -1,6 +1,6 @@
 ---
 title: プルーフによる web サイトのレビュー
-description: '[!DNL  Workfront]で静的またはインタラクティブなweb サイトのプルーフを開き、コメントを作成する方法について説明します。'
+description: '[!DNL &#x200B; Workfront]で静的またはインタラクティブなweb サイトのプルーフを開き、コメントを作成する方法について説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial

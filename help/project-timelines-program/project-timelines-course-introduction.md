@@ -1,6 +1,6 @@
 ---
 title: プロジェクトタイムラインの概要
-description: '[!DNL  Workfront]でプロジェクトのタイムラインを構築および管理する際に、日付の種類やタスクの制約などの要素を使用する方法について説明します。'
+description: '[!DNL &#x200B; Workfront]でプロジェクトのタイムラインを構築および管理する際に、日付の種類やタスクの制約などの要素を使用する方法について説明します。'
 activity: use
 feature: Work Management
 type: Tutorial
@@ -28,6 +28,6 @@ ht-degree: 62%
 ---
 # プロジェクトのタイムライン：コースの概要
 
-このビデオでは、[!DNL  Workfront] でプロジェクトのタイムラインを作成し管理する際に使用する要素（日付タイプやタスクの制約など）について説明します。
+このビデオでは、[!DNL &#x200B; Workfront] でプロジェクトのタイムラインを作成し管理する際に使用する要素（日付タイプやタスクの制約など）について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

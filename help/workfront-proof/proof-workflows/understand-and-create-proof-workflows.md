@@ -1,6 +1,6 @@
 ---
 title: プロジェクトタイムラインの一部としてのプルーフワークフローについて
-description: プルーフワークフローを作成するために収集する情報と、[!DNL  Workfront]の基本プルーフワークフローと高度なプルーフワークフローの違いについて説明します。
+description: プルーフワークフローを作成するために収集する情報と、[!DNL &#x200B; Workfront]の基本プルーフワークフローと高度なプルーフワークフローの違いについて説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

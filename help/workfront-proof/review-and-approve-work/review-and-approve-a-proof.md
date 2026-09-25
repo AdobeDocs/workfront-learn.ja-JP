@@ -50,7 +50,7 @@ ht-degree: 96%
 
 アセットの確認と承認の準備が整うと、メール通知が届きます。
 
-![[!DNL  Workfront] で 2 つのプルーフの確認と承認を求める新しいプルーフメール](assets/new-proof-emails.png)
+![[!DNL &#x200B; Workfront] で 2 つのプルーフの確認と承認を求める新しいプルーフメール](assets/new-proof-emails.png)
 
 このプルーフのリンクは、あなたに固有のものであることに注意が必要です。 リンクを他のユーザーと共有すると、そのユーザーが行ったコメントやマークアップには、あなたの名前が付けられます。
 
@@ -67,7 +67,7 @@ ht-degree: 96%
 
 [!DNL Workfront] で作業しているとき、プルーフの承認依頼を受けていれば、[!DNL Workfront] [!UICONTROL ホーム]の[!UICONTROL マイ承認]ウィジェットに割り当てが表示されます。
 
-![[!DNL Workfront] の [!UICONTROL  ホーム [!UICONTROL  の ] マイ承認 ] ウィジェットの画像 ](assets/open-proof-from-home.png)
+![[!DNL Workfront] の [!UICONTROL &#x200B; ホーム [!UICONTROL &#x200B; の &#x200B;] マイ承認 &#x200B;] ウィジェットの画像 &#x200B;](assets/open-proof-from-home.png)
 
 プルーフが [!DNL Workfront] [!UICONTROL ホーム]に表示されるのは、承認するように割り当てられている場合のみです。 プルーフの確認依頼のみを受けた場合は、[!DNL Workfront] [!UICONTROL ホーム]には表示されません。
 
@@ -81,7 +81,7 @@ ht-degree: 96%
 
 通常、[!DNL Workfront] でプロジェクト、タスク、またはイシューを処理している場合は、そのアイテムの [!DNL Documents] セクションから直接プルーフを開くのがよいでしょう。
 
-![[!DNL  Workfront] タスクで見つかった「[!UICONTROL ドキュメント]」セクションで「[!UICONTROL プルーフを開く]」リンクが強調表示されているところを示す画像。](assets/open-proof-from-documents.png)
+![[!DNL &#x200B; Workfront] タスクで見つかった「[!UICONTROL ドキュメント]」セクションで「[!UICONTROL プルーフを開く]」リンクが強調表示されているところを示す画像。](assets/open-proof-from-documents.png)
 
 1. プロジェクト、タスク、またはイシューの名前をクリックします。
 2. アイテムのページの左側のパネルメニューで「[!UICONTROL ドキュメント]」をクリックします。

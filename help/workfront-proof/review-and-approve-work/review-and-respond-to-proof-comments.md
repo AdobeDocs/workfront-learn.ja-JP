@@ -1,6 +1,6 @@
 ---
 title: プルーフコメントを確認して返信する
-description: プルーフビューアおよび[!DNL  Workfront]の[!UICONTROL 更新] セクションから、プルーフコメントを表示して対応する方法について説明します。
+description: プルーフビューアおよび[!DNL &#x200B; Workfront]の[!UICONTROL 更新] セクションから、プルーフコメントを表示して対応する方法について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

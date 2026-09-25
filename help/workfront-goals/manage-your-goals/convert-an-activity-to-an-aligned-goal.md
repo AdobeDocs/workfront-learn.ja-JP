@@ -1,6 +1,6 @@
 ---
 title: 整列した目標へのアクティビティの変換
-description: '[!DNL   Goals]でアクティビティまたは結果を調整された目標に変換する方法を説明します。'
+description: '[!DNL &#x200B;  Goals]でアクティビティまたは結果を調整された目標に変換する方法を説明します。'
 activity: use
 feature: Workfront Goals
 type: Tutorial
