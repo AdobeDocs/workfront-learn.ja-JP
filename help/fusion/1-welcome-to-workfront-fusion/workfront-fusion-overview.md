@@ -76,4 +76,4 @@ Workfront では、Workfront Fusion 体験版を提供していません。 チ�
 
 [Workfront Fusion のドキュメント](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-質問を投稿できる [Workfront Fusion 2.0 コミュニティ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)もあります。
+質問を投稿できる [Workfront Fusion 2.0 コミュニティ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=ja)もあります。
