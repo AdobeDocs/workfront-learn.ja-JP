@@ -8,30 +8,41 @@ level: Beginner,Intermediate,Experienced
 activity: use
 jira: KT-11747
 team: Technical Marketing
-thumbnail: null
+thumbnail:
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-TQID: https://experienceleague.adobe.com/-l24VZKcCqwHrotADh0jzpbVTCnrSU7cPDoJj7bwCbI
+TQID: 'https://experienceleague.adobe.com/-l24VZKcCqwHrotADh0jzpbVTCnrSU7cPDoJj7bwCbI'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 825
+source-wordcount: '825'
 ht-degree: 96%
-
 ---
-
 # 既存の Adobe Workfront インスタンスの管理
 
 Workfront の優れた点として、カスタマイズ可能なことがあります。 Workfront の難しい点として、カスタマイズ可能なことがあります。 既存の Workfront インスタンスを引き継ぐ新規システム（またはグループ）管理者であれば、それが元々どのように構成され、設定されていたかを把握するのは大変なことでしょう。
@@ -113,7 +124,7 @@ Workfront の優れた点として、カスタマイズ可能なことがあり�
 </br>
 
 追加情報については、以下を参照してください。
-* [ウェビナー：継承されたインスタンスを引き継ぐためのヒント](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=ja)
+* [ウェビナー：継承されたインスタンスを引き継ぐためのヒント](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Workfront導入の目標を定義する](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=ja)
-* [ブログ記事：経営陣のスポンサーシップとリーダーシップへの価値](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=ja)
-* [ブログ記事：Adobe Workfront KPIの概要](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=ja)
+* [ブログ記事：経営陣のスポンサーシップとリーダーシップへの価値](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
+* [ブログ記事：Adobe Workfront KPIの概要](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

@@ -1,6 +1,6 @@
 ---
 title: プロジェクトを閉じる
-description: ' [!DNL  Workfront] でプロジェクトを終了する前に、プロジェクトでレビューする情報と、データ更新が重要な理由を説明します。'
+description: '[!DNL  Workfront]でデータを閉じる前に、プロジェクトでどのような情報を確認すべきか、なぜデータを更新することが重要なのかについて説明します。'
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,13 +11,23 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 100%
-
+ht-degree: 23%
 ---
-
 # プロジェクトを閉じる
 
 {{$include /help/_includes/close-a-project-in-workfront.md}}

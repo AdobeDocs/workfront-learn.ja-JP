@@ -7,22 +7,31 @@ level: Intermediate
 jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-TQID: https://experienceleague.adobe.com/6IUD-XvNYXT1aAB1ZHXqyA0lDo8OVlkCv19ICAD1ZHQ
+TQID: 'https://experienceleague.adobe.com/6IUD-XvNYXT1aAB1ZHXqyA0lDo8OVlkCv19ICAD1ZHQ'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 559
+source-wordcount: '559'
 ht-degree: 100%
-
 ---
-
 # アジャイルへの移行
 
 ## 切り替えを行う前に尋ねる質問
@@ -62,7 +71,7 @@ ht-degree: 100%
 
 ## アジャイル開始後の注意点
 
-移行手順を確立し、誰もが新しいスタイルの作業に慣れてきたことを確認したら、進捗と成功を監視し、追跡します。 以前と同じような速度で走ることに苦労しているようであれば、何が原因でそのイシューが発生しているのでしょうか？ チームが現在のステータスに基づいてストーリーを更新していないようであれば、そのステータスは明確に定義されているでしょうか？
+移行手順を確立し、誰もが新しいスタイルの作業に慣れてきたことを確認したら、進捗と成功をモニタリングし、追跡します。 以前と同じような速度で走ることに苦労しているようであれば、何が原因でそのイシューが発生しているのでしょうか？ チームが現在のステータスに基づいてストーリーを更新していないようであれば、そのステータスは明確に定義されているでしょうか？
 
 新しいアジャイルチームの進捗や成功を追跡すると、チームが取り入れる変更に自信を持たせるのに非常に役立ちます。 また、これらの指標があれば、より高レベルの会議体で、チームをアジャイルに移行するメリットを正当化できます。
 

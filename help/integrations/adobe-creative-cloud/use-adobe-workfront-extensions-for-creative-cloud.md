@@ -14,24 +14,29 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="統合" type="positive"
 feature-set: Workfront
 topic: Integrations
+autotag-review: '2026-05-06T16:04:47.729Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: d1807669-3cb9-4c7d-8433-600aa390c92f
+    internal-label: Adobe Workfront for Creative Cloud Plugin
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:04:47.729Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 209
+source-wordcount: '209'
 ht-degree: 100%
-
 ---
-
 # Adobe Workfront プラグインを使用して Creative Cloud と統合
 
 Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud アプリケーションを離れることなく、自分に割り当てられた作業を Adobe Workfront で検索したり更新したりできます。
@@ -58,4 +63,4 @@ Workfront を Creative Cloud と統合すると、次の Adobe Creative Cloud �
 * 時間のログ記録
 * 作業の完了のマーク
 
->[!VIDEO](https://video.tv.adobe.com/v/3420646/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)

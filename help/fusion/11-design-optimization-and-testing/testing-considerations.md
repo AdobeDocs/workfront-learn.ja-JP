@@ -1,6 +1,6 @@
 ---
 title: テストと起動
-description: ' [!DNL Adobe Workfront Fusion] を使用して、設計とテストを一貫して反復し、詳細で共有可能なドキュメントを作成する方法を説明します。'
+description: デザインとテストを一貫して繰り返し行い、[!DNL Adobe Workfront Fusion]を使用する際に詳細で共有可能なドキュメントを作成する方法について説明します。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:47:07.248Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:07.248Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 333
-ht-degree: 100%
-
+source-wordcount: '333'
+ht-degree: 94%
 ---
-
 # テストと起動
 
 Workfront Fusion のテストでは、接続されたソフトウェアプラットフォーム間の入出力データの確認と、Workfront Fusion シナリオ内で実行されるデータ変換に焦点を当てます。 また、Workfront Fusion の統合テストを実施し、特定のビジネス要件を満たすためにシナリオの適合性を評価します。 基本的には、Workfront Fusion テストを実行することにより、統合が期待どおりに動作することを確認します。
@@ -43,7 +45,7 @@ Workfront Fusion のテストでは、接続されたソフトウェアプラッ
 * 詳細で共有可能なドキュメントを作成する
 * 深さ、広さ、複雑さ、負荷をテストする
 
->[!VIDEO](https://video.tv.adobe.com/v/3418734/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## テストに関する考慮事項のチェックリスト
 

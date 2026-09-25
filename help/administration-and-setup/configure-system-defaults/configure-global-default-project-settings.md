@@ -11,13 +11,23 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
-
 ---
-
 # グローバルなデフォルトのプロジェクト設定の指定
 
 <!--
@@ -30,11 +40,11 @@ ht-degree: 100%
 * グローバルプロジェクト環境設定の指定
 * スケジュールの作成と使用
 
->[!VIDEO](https://video.tv.adobe.com/v/3423350/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## グローバルおよびグループのプロジェクト、タスク、イシューの設定
 
-[!DNL Workfront] で[!UICONTROL プロジェクト]設定を開くと、ウィンドウ上部の検索バーに「[!UICONTROL システムプロジェクト環境設定]」と表示されていることがわかります。これにより、これらの設定が [!DNL Workfront] システム内の全員に影響することがわかります。これはグローバル設定です。
+[!DNL Workfront] で[!UICONTROL プロジェクト]設定を開くと、ウィンドウ上部の検索バーに「[!UICONTROL システムプロジェクト環境設定]」と表示されていることがわかります。 これにより、これらの設定が [!DNL Workfront] システム内の全員に影響することがわかります。これはグローバル設定です。
 
 ![[!UICONTROL [!UICONTROL 設定]](assets/admin-fund-system-project-preferences-1.png)のプロジェクト環境設定]ページ
 
@@ -42,9 +52,9 @@ ht-degree: 100%
 
 ![[!UICONTROL [!UICONTROL 設定]](assets/admin-fund-task-issue-preferences-2.png)のタスクとイシューの環境設定]
 
-ただし、[!DNL Workfront] のすべてのグループが同じプロジェクト、タスク、イシューの環境設定を必要とするわけではありません。例えば、マーケティンググループは新しいプロジェクトのステータスを「計画中」することを望んでいますが、プロジェクトマネージャーグループはステータスを「リクエスト」とすることを望んでいるとします。
+ただし、[!DNL Workfront] のすべてのグループが同じプロジェクト、タスク、イシューの環境設定を必要とするわけではありません。 例えば、マーケティンググループは新しいプロジェクトのステータスを「計画中」にすることを望んでいますが、プロジェクトマネージャーグループはステータスを「リクエスト」とすることを望んでいるとします。
 
-[!DNL Workfront] を使用すると、グループ管理者はグループの特定のプロジェクト、タスク、イシューの環境設定を調整できます。調整する環境設定は、[!DNL Workfront] システム管理者がロック／ロック解除の切替スイッチを使用して決定します。
+[!DNL Workfront] を使用すると、グループ管理者はグループの特定のプロジェクト、タスク、イシューの環境設定を調整できます。 調整する環境設定は、[!DNL Workfront] システム管理者がロック／ロック解除の切替スイッチを使用して決定します。
 
 最初に、[!UICONTROL 設定]エリアに移動します。
 
@@ -66,7 +76,7 @@ ht-degree: 100%
 
 ### グループとサブグループの環境設定の指定
 
-システム管理者がロック解除した設定について、グループ管理者は、管理するグループとそれらのグループの下にネストされたサブグループを調整できます。さらに、グループ管理者は、サブグループ管理者が変更できる設定を制御できます。
+システム管理者がロック解除した設定について、グループ管理者は、管理するグループとそれらのグループの下にネストされたサブグループを調整できます。 さらに、グループ管理者は、サブグループ管理者が変更できる設定を制御できます。
 
 1. **[!UICONTROL メインメニュー]**&#x200B;で「**[!UICONTROL 設定]**」を選択します。
 1. 左側のメニューで **[!DNL Groups]** をクリックします。

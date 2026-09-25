@@ -12,30 +12,35 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
+autotag-review: '2026-05-06T14:31:13.412Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:31:13.412Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 277
+source-wordcount: '277'
 ht-degree: 28%
-
 ---
-
 # ポートフォリオ管理と最適化について詳しく見る
 
 この動画では、マネージャーが自社の目標に合わせてプロジェクトの選択を最適化する方法に焦点を当て、ポートフォリオ管理について解説しています。 &#x200B; ポートフォリオとは、共有リソース、予算、スケジュールを巡って争うプロジェクトの集まりのことです。 &#x200B; Managerは、Portfolio Optimizerなどのツールを使用して、労力、費用、リスク、ROI、ポートフォリオ目標との整合性などの基準にもとづいてプロジェクトを比較できます。 &#x200B;プロジェクトを比較のために準備するには、それぞれにビジネスケースを作成します。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442829/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

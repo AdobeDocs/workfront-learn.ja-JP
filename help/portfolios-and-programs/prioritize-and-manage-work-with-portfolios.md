@@ -12,31 +12,36 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
+autotag-review: '2026-05-06T14:31:42.945Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:31:42.945Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '284'
 ht-degree: 14%
-
 ---
-
 # Portfolio Optimization Toolでプロジェクトの優先順位を最適化する
 
 このビデオでは、WorkfrontのPortfolio Optimization Toolを使用して、ポートフォリオ内のプロジェクトを評価し、優先順位付けする方法を説明します。 &#x200B; プロジェクトのビジネスケースを提出し、ステータスを「リクエスト済み」に変更し、承認または却下するオプションを有効にすることから始まります。 &#x200B;承認する前に、Portfolio Optimization Toolを使用して、プロジェクトをポートフォリオ内の他のプロジェクトと比較できます。 &#x200B;
 
 この動画では、正確な比較を行うためにビジネスケースを完了することの重要性を強調し、プロジェクトの優先順位を効果的に最適化および管理するためのステップバイステップの手順を説明しています。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446276/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 

@@ -1,6 +1,6 @@
 ---
 title: 基本マッピングを超えるチュートリアル
-description: ' [!DNL Adobe Workfront Fusion] のマッピングパネル式を使用して、以前に作成したシナリオのいくつかのプロジェクトフィールドを変更します。'
+description: '[!DNL Adobe Workfront Fusion]のマッピングパネルの数式を使用して、以前に作成したシナリオの一部のプロジェクトフィールドを変更します。'
 short-description: このビデオチュートリアルでは、マッピングパネル式を使用して、最初のチュートリアルで作成した「最初のシナリオデザイン」から、プロジェクト名、開始予定日、優先度を変更できます。
 activity: use
 team: Technical Marketing
@@ -12,24 +12,26 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:38:20.183Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:38:20.183Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 311
-ht-degree: 100%
-
+source-wordcount: '311'
+ht-degree: 94%
 ---
-
 # 基本マッピングを超えるチュートリアル
 
 マッピングパネル式を使用して、最初のチュートリアルで作成した「最初のシナリオデザイン」から、プロジェクト名、開始予定日、優先度を変更します。
@@ -40,7 +42,7 @@ ht-degree: 100%
 
 Workfront では、独自の環境で演習を再現する前に、演習のチュートリアルのビデオを見ることをお勧めします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416462/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on&enablevpops=1)
 
 
 ## やってみよう

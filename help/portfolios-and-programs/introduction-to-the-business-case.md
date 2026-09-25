@@ -12,29 +12,34 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
+autotag-review: '2026-05-06T14:30:40.425Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:30:40.425Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 28%
-
 ---
-
 # 包括的なビジネスケースの構築
 
 ビデオでは、プロジェクト管理でのビジネスケースの重要性について説明します。 ビジネスケースを徹底的に記入することで、マネージャーが同じリソースを競うプロジェクトを分析し、優先順位付けするのに役立つことを強調しています。 ビジネ&#x200B;ケースを送信すると、プロジェクトのステータスが「リクエスト済み」に変わり、Portfolio Optimization Toolで比較するための全体的なスコアが計算されます。 &#x200B;どのフィールドも必須ではありませんが、より詳細な情報は意思決定を向上させます。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442845/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 重要な留意点
 
