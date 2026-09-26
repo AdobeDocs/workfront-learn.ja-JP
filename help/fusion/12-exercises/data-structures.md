@@ -11,24 +11,26 @@ jira: KT-11054
 thumbnail: KT11054.png
 recommendations: noDisplay,catalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+autotag-review: '2026-05-06T16:44:39.897Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:44:39.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1080
+source-wordcount: '1080'
 ht-degree: 99%
-
 ---
-
 # データ構造の演習
 
 ソースファイルのデータを宛先ファイルに変換します。
@@ -42,7 +44,7 @@ ht-degree: 99%
 ![データ構造画像 2](../12-exercises/assets/data-structures-walkthrough-2.png)
 
 
-このシナリオでは、日時、入力された分単位の時間数、入力者のメールアドレスなど、分単位の作業時間エントリのリストを含んだファイルを開きます。 100 回のエントリがありますが、同じユーザーが作ったものもあれば、同じ日に他のユーザーによって作られたものもあります。
+このシナリオでは、日時、入力された分単位の時間数、入力者のメールアドレスなど、分単位の作業時間エントリのリストを含んだファイルを開きます。 100 回のエントリがありますが、同じ個人が作ったものもあれば、同じ日に他の人によって作られたものもあります。
 
 各個人の 1 日の合計作業時間（時間単位）を示すファイルを作成するには、次の手順に従います。
 

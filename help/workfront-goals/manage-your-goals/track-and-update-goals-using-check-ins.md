@@ -1,6 +1,6 @@
 ---
 title: チェックインを使用した目標の追跡と更新
-description: ' [!DNL Workfront Goals] で目標の進捗を追跡、更新、計算する方法について説明します。'
+description: '[!DNL Workfront Goals]の目標の追跡、更新、および進捗状況の計算方法について説明します。'
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '756'
-ht-degree: 100%
-
+ht-degree: 98%
 ---
-
 # [!UICONTROL チェックイン]を使用した目標の追跡と更新
 
 目標をアクティベートしたら、目標を達成するために作業を開始できます。 ただし、目標の進捗をどのように追跡、更新、計算するのでしょうか？ 自分の立ち位置と、自分の仕事が目標の達成にどのように貢献しているかをどのように把握していますか？ 目標の進捗を更新するための[!UICONTROL チェックイン]から始めて、目標のステータスを表示して理解する方法を見てみましょう。
@@ -24,7 +37,7 @@ ht-degree: 100%
 
 目標をアクティベートし、アクティビティまたは結果に関する更新を投稿すると、[!DNL Workfront Goals] では、実際の完了率、予想される完了率、進捗ステータスを使用して、その目標の進捗の計算を開始します。 [!UICONTROL チェックイン]は、定期的に目標をレビューし、順調に進んでいるか、遅れているか、調整が必要かどうかを評価する優れた方法です。 チェックインとは、目標の進捗についてレポートする時点のことです。
 
-![ の[!UICONTROL チェックイン]エリアのスクリーンショット[!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
+![&#x200B; の[!UICONTROL チェックイン]エリアのスクリーンショット[!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
 
 個人レベルまたは「[!UICONTROL チェックイン]」セクションで目標をチェックインできますが、目標はアクティブである必要があります。
 
@@ -39,15 +52,15 @@ ht-degree: 100%
 * [!DNL Workfront] の「[!UICONTROL **メインメニュー**]」アイコンをクリックし、「[!UICONTROL **Gals**]」をクリックします。 これにより、[!DNL Workfront Goals] エリアが開きます。 デフォルトでは、「[!UICONTROL 目標リスト]」セクションが表示され、自分、チーム、グループ、組織に属するすべての目標が表示されます。
 * 左側のパネルで次のセクションのいずれかをクリックして、目標のリストにアクセスします。
 
-   * [!UICONTROL 目標の整合性]
-   * [!UICONTROL Pulse]
-   * [!UICONTROL チェックイン]
+  * [!UICONTROL 目標の整合性]
+  * [!UICONTROL Pulse]
+  * [!UICONTROL チェックイン]
 
 目標のリストがあるセクションに移動したら、目標の名前をクリックして[!UICONTROL 目標の詳細]パネルを開きます。 目標を更新するには、次の手順に従います。
 
 1. 「[!UICONTROL **チェックイン**]」をクリックします。 結果とアクティビティの進捗が編集可能になります。
 
-   ![ の「[!UICONTROL チェックイン]」ボタンのスクリーンショット[!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
+   ![&#x200B; の「[!UICONTROL チェックイン]」ボタンのスクリーンショット[!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
 
 1. 各結果の現在の進捗を更新します。 選択した結果のタイプに応じて、次のいずれかを実行できます。
 
@@ -56,7 +69,7 @@ ht-degree: 100%
    * 完了率の更新
 
 1. 手動進捗バーアクティビティの完了率を更新します。
-   ![ の[!UICONTROL 目標の詳細]パネルのスクリーンショット[!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
+   ![&#x200B; の[!UICONTROL 目標の詳細]パネルのスクリーンショット[!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
 
 1. 「[!UICONTROL 概要に戻る]」をクリックして、[!UICONTROL 目標の詳細]パネルに戻ります。 目標の結果とアクティビティを更新すると、目標の進捗が更新されます。
 

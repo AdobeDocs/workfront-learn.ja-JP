@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Workfront Goals]  の仕組みについて'
+title: '[!DNL Workfront Goals] の仕組みについて'
 description: 計画段階での「何」と「理由」の関連付け、目標の例、影響力の範囲について説明します。
 activity: use
 feature: Workfront Goals,Get Started with Workfront
@@ -10,24 +10,29 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
+autotag-review: '2026-05-05T20:16:05.888Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:16:05.888Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 100%
-
 ---
-
 # [!DNL Workfront Goals] の仕組みについて
 
 このビデオでは、次のことについて説明します。

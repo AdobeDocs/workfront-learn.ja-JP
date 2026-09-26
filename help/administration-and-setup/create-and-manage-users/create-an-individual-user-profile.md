@@ -1,5 +1,5 @@
 ---
-title: 個々のユーザープロファイルの作成
+title: 個人ユーザープロファイルの作成
 description: 単一のユーザープロファイルを最初から作成するか、既存のユーザーをコピーして、ユーザーを追加する方法を説明します。
 feature: System Setup and Administration
 activity: deploy
@@ -10,14 +10,24 @@ level: Beginner
 thumbnail: 10036.jpeg
 jira: KT-10036
 exl-id: 91ac3283-c2ad-493e-869c-9cfccfae35dd
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
-
 ---
-
-# 個々のユーザープロファイルの作成
+# 個人ユーザープロファイルの作成
 
 新規従業員が採用されたとき、または、[!DNL Workfront] を使用する部門に誰かが異動する場合、システム管理者はユーザーを 1 人だけ作成する必要があります。 この操作は、[!DNL Workfront] の[!UICONTROL ユーザー]エリアからすばやく簡単に実行できます。
 

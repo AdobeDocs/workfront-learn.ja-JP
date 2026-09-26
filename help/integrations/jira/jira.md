@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Jira] 統合による表示の作成'
-description: ' [!DNL Jira] 統合によって、チームが行っていることを可視化する方法を説明します。'
+title: '[!DNL Jira] 統合による表示の作成'
+description: '[!DNL Jira]統合によって、チームの作業を可視化する方法を説明します。'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,24 +9,29 @@ level: Beginner
 team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
+autotag-review: '2026-05-06T16:03:35.649Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: b8ea32d4-f1fe-4c71-8871-afe5a702a009
+    internal-label: Adobe Workfront for Jira
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:03:35.649Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 100%
-
+source-wordcount: '374'
+ht-degree: 95%
 ---
-
 # [!DNL Jira] 統合による表示の作成
 
 [!DNL Jira] という製品を使用すると、開発チームや技術サポートチームのプロジェクトやイシューをトラッキングできます。 多くのチームは Jira を使用してタスクレベルの進捗を追跡していますが、[!DNL Workfront] を使用するとハイレベルの進捗を表示できるので、真のプロジェクト管理を行うことができます。 [!DNL Jira] のネイティブ統合により、この情報は 2 つのアプリケーション間で自動的に転送されます。

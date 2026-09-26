@@ -1,18 +1,25 @@
 ---
 title: リクエストの作成方法
-description: '[!UICONTROL リクエスト]エリアを見つけて、リクエストを作成する方法を説明します。送信されたリクエストと下書きのリクエストを表示する方法を説明します。'
+description: '[!UICONTROL リクエスト]エリアを見つけて、リクエストを作成する方法を説明します。 送信されたリクエストと下書きのリクエストを表示する方法を説明します。'
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
-
 ---
-
 # リクエストする
 
 このビデオでは、次の方法を学習します：
@@ -22,17 +29,17 @@ ht-degree: 100%
 * 送信されたリクエストを表示する
 * リクエストの下書きを検索する
 
->[!VIDEO](https://video.tv.adobe.com/v/3413116/?quality=12&learn=on&enablevpops=1&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3413116/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 ## リクエストキューのパスに迅速かつ容易にアクセスする
 
-「[!UICONTROL リクエストタイプ]」フィールドをクリックすると、最近送信した 3 つのリクエストパスが自動的にリストの一番上に表示されます。同じキューに別のリクエストを送信するオプションを選択します。
+「[!UICONTROL リクエストタイプ]」フィールドをクリックすると、最近送信した 3 つのリクエストパスが自動的にリストの一番上に表示されます。 同じキューに別のリクエストを送信するオプションを選択します。
 
 ![最近のリクエストパスのリストを表示するリクエストタイプメニュー](assets/collaborator-fundamentals-1.png)
 
-リストの下部には、アクセス権のあるすべてのリクエストキューが表示されます。リクエストにどのキューを使用するか不明な場合は、キーワード検索を使用すると、必要なキューをすばやく簡単に見つけることができます。
+リストの下部には、アクセス権のあるすべてのリクエストキューが表示されます。 リクエストにどのキューを使用するか不明な場合は、キーワード検索を使用すると、必要なキューをすばやく簡単に見つけることができます。
 
-キーワードを入力すると、[!DNL Workfront] に一致するものが表示されるので、ニーズに合ったリクエストキューのパスを見つけることができます。例えば、ソーシャルメディアへの投稿をリクエストするには、「[!UICONTROL リクエストタイプ]」フィールドに「ソーシャルメディア」と入力し始めると、リストが動的に更新されて一致するものが表示されます。
+キーワードを入力すると、[!DNL Workfront] に一致するものが表示されるので、ニーズに合ったリクエストキューのパスを見つけることができます。 例えば、ソーシャルメディアへの投稿をリクエストするには、「[!UICONTROL リクエストタイプ]」フィールドに「ソーシャルメディア」と入力し始めると、リストが動的に更新されて一致するものが表示されます。
 
 ![最近のリクエストパスを表示するために、フィールドに入力された単語を含むリクエストタイプメニュー](assets/collaborator-fundamentals-2.png)
 

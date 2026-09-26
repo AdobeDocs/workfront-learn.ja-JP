@@ -1,6 +1,6 @@
 ---
 title: プルーフのメリットを学ぶ
-description: プルーフの概要と、 [!DNL  Workfront] でデジタルプルーフを使用するメリットについて説明します。
+description: '[!DNL &#x200B; Workfront]でデジタル校正を利用するメリットとプルーフについて説明します。'
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -11,24 +11,29 @@ thumbnail: 336095.png
 jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
+autotag-review: '2026-05-05T20:02:03.579Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:02:03.579Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 100%
-
+source-wordcount: '169'
+ht-degree: 92%
 ---
-
 # プルーフのメリットを学ぶ
 
 このビデオでは、次のことを学習します。
@@ -40,7 +45,7 @@ ht-degree: 100%
 
 ## プルーフの用語
 
-[!DNL  Workfront] でプルーフの設定に進む前に、使用するプルーフ固有の用語について理解します。 このチュートリアル全体で頻繁に使用する用語を以下に示します。
+[!DNL &#x200B; Workfront] でプルーフの設定に進む前に、使用するプルーフ固有の用語について理解します。 このチュートリアル全体で頻繁に使用する用語を以下に示します。
 
 * **プルーフ -** [!DNL Workfront's] プルーフビューアを使用してレビュー、マークアップ、承認できるデジタルバージョンのファイルです。
 * **プルーフワークフロー -** [!DNL Workfront] 内でプルーフを作成、ルーティング、管理するプロセスです。 これらのアクションを完了するために従う手順です。
