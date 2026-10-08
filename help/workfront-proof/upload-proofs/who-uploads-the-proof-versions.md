@@ -1,6 +1,6 @@
 ---
 title: プルーフのバージョンをアップロードするユーザー
-description: '[!DNL  Workfront]でプルーフ バージョンをアップロードする担当者は異なる場合があります。 組織での理想的な設定を識別するために、一般的なユースケースから説明します。'
+description: '[!DNL &#x200B; Workfront]でプルーフ バージョンをアップロードする担当者は異なる場合があります。 組織での理想的な設定を識別するために、一般的なユースケースから説明します。'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

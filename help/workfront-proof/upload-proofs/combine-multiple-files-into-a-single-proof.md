@@ -1,6 +1,6 @@
 ---
 title: 複数ファイルを単一プルーフに結合
-description: '[!DNL  Workfront]で複数のファイルを1つのプルーフに結合して、プルーフ プロセスを効率化する方法を説明します。'
+description: '[!DNL &#x200B; Workfront]で複数のファイルを1つのプルーフに結合して、プルーフ プロセスを効率化する方法を説明します。'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

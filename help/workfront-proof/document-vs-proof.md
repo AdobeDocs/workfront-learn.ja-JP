@@ -1,6 +1,6 @@
 ---
 title: ドキュメントとプルーフの違いについて
-description: '[!DNL  Workfront]のドキュメントとプルーフの違いを説明します。'
+description: '[!DNL &#x200B; Workfront]のドキュメントとプルーフの違いを説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial

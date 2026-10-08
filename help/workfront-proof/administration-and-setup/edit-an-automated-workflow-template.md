@@ -1,6 +1,6 @@
 ---
 title: 自動ワークフローテンプレートの編集
-description: '[!DNL  Workfront]で既存の自動校正ワークフローテンプレートを変更する方法について説明します。'
+description: '[!DNL &#x200B; Workfront]で既存の自動校正ワークフローテンプレートを変更する方法について説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial

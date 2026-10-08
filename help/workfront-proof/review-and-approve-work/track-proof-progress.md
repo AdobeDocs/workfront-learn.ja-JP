@@ -1,6 +1,6 @@
 ---
 title: プルーフの進捗状態を追跡する
-description: '[!UICONTROL SOCD]指標、プルーフの進行状況、レポートを使用して、[!DNL  Workfront]でのプルーフの進行状況を追跡する方法について説明します。'
+description: '[!UICONTROL SOCD]指標、プルーフの進行状況、レポートを使用して、[!DNL &#x200B; Workfront]でのプルーフの進行状況を追跡する方法について説明します。'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -41,7 +41,7 @@ ht-degree: 97%
 
 [!UICONTROL ドキュメント]リストの [!UICONTROL SOCD] アイコンを使用して、プルーフがレビューと承認プロセスでどのように進行しているかの概要を表示します。 これらのアイコンは、プルーフに対して実行された特定のアクションを示します。
 
-![[!UICONTROL SOCD] アイコンが強調表示された、[!DNL  Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-socd.png)
+![[!UICONTROL SOCD] アイコンが強調表示された、[!DNL &#x200B; Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-socd.png)
 
 アイコンは、プルーフを受信者に送信してから受信者がプルーフで決定を下すまでに、プルーフで行われた作業を示します。
 
@@ -73,7 +73,7 @@ ht-degree: 97%
 
 プルーフのステータスは、ステージのプルーフ受信者のステータスに基づきます。 [!UICONTROL SOCD] インジケーターの右側にある[!UICONTROL ドキュメント]ページに全体的なプルーフステータスが表示されるため、プルーフに関する決定があるかどうかを簡単に確認できます。
 
-![全体的なプルーフステータスが強調表示されている、[!DNL  Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-overall-status.png)
+![全体的なプルーフステータスが強調表示されている、[!DNL &#x200B; Workfront]プロジェクトの[!UICONTROL ドキュメント]リストの画像](assets/manage-proofs-overall-status.png)
 
 このプルーフのステータスは、プルーフの全体的なステータスを示します。 例えば、2 人の受信者がプルーフを承認した場合、個々のステータスが[!UICONTROL 承認済み]として示されます。 ただし、3 人目の受信者はまだ決定していないので、その人のステータスは「[!UICONTROL 保留中]」になります。 したがって、全体のステータスは[!UICONTROL 保留中]になります。
 
@@ -93,11 +93,11 @@ ht-degree: 97%
 
 プルーフ承認レポートを使用すると、未処理の承認を追跡して、期限に間に合わせることができます。
 
-![[!DNL  Workfront] のプルーフ承認レポートの画像](assets/proof-approval-report.png)
+![[!DNL &#x200B; Workfront] のプルーフ承認レポートの画像](assets/proof-approval-report.png)
 
 ドキュメントのバージョンレポートでは、プルーフのバージョンを管理および追跡できます。
 
-![[!DNL  Workfront] のドキュメントのバージョンレポートの画像 ](assets/document-version-report.png)
+![[!DNL &#x200B; Workfront] のドキュメントのバージョンレポートの画像 &#x200B;](assets/document-version-report.png)
 
 [!DNL Workfront] コンサルタントと協力して、組織の要件を満たすレポートを作成することをお勧めします。 一部のレポートでは、[!DNL Workfront's] テキストモードレポートの知識が必要です。
 

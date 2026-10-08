@@ -1,6 +1,6 @@
 ---
 title: プルーフワークフローの編集
-description: プルーフの期限を更新する方法、既存のワークフローにユーザーを追加する方法、既存のワークフローを[!DNL  Workfront]の自動ワークフローに切り替える方法について説明します。
+description: プルーフの期限を更新する方法、既存のワークフローにユーザーを追加する方法、既存のワークフローを[!DNL &#x200B; Workfront]の自動ワークフローに切り替える方法について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

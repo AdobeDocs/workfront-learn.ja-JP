@@ -1,6 +1,6 @@
 ---
 title: Web サイトのプルーフのアップロード
-description: Web サイトを静的プルーフおよびインタラクティブ プルーフとして[!DNL  Workfront]にアップロードする方法について説明します。
+description: Web サイトを静的プルーフおよびインタラクティブ プルーフとして[!DNL &#x200B; Workfront]にアップロードする方法について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

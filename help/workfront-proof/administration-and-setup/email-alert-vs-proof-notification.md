@@ -1,6 +1,6 @@
 ---
 title: メールアラートとプルーフ通知について
-description: '[!DNL  Workfront]でのメール アラートとプルーフ通知の違いを理解します。'
+description: '[!DNL &#x200B; Workfront]でのメール アラートとプルーフ通知の違いを理解します。'
 feature: Workfront Proof
 type: Tutorial
 role: User

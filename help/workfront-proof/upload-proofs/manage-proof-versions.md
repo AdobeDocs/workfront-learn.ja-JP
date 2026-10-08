@@ -1,6 +1,6 @@
 ---
 title: プルーフのバージョンの管理
-description: プルーフがアップロードされたタイミングの詳細を確認する方法、プルーフのすべてのバージョンをダウンロードする方法、プルーフバージョンを[!DNL  Workfront]で削除する方法について説明します。
+description: プルーフがアップロードされたタイミングの詳細を確認する方法、プルーフのすべてのバージョンをダウンロードする方法、プルーフバージョンを[!DNL &#x200B; Workfront]で削除する方法について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

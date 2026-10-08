@@ -39,7 +39,7 @@ ht-degree: 93%
 1. リストでドキュメントを選択します。
 1. 次に、「**[!UICONTROL 送信先]**」アイコンをクリックし、「**[!UICONTROL Workfront DAM]**」を選択します。
 
-   ![ の「[!UICONTROL 共有先]」アイコンの画像[!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
+   ![&#x200B; の「[!UICONTROL 共有先]」アイコンの画像[!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
 
 1. ウィンドウが表示され、[!UICONTROL Workfront DAM] で権限を持つフォルダーが表示されます。 ファイルの保存先フォルダーを選択します。
 

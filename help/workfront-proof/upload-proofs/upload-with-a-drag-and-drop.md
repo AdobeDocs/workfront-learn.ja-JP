@@ -1,6 +1,6 @@
 ---
 title: ドラッグ＆ドロップでアップロード
-description: ドラッグ&ドロップを使用して[!DNL  Workfront]にファイルをアップロードするメリットと制限について説明します。
+description: ドラッグ&ドロップを使用して[!DNL &#x200B; Workfront]にファイルをアップロードするメリットと制限について説明します。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -35,10 +35,10 @@ ht-degree: 92%
 
 「[!UICONTROL ドキュメント]」セクションに直接ファイルをドラッグ＆ドロップして、[!DNL Workfront] にアップロードできます。 これは、プルーフをアップロードする簡単な方法ですが、同時にプルーフのワークフローを割り当てることはできません。
 
-![カーソルがドキュメントリストの上に置かれ、「[!UICONTROL ここにドキュメントをドラッグ＆ドロップ]」メッセージが表示されている、[!DNL  Workfront] プロジェクトの[!UICONTROL ドキュメント]エリアの画像](assets/drag-and-drop-1.png)
+![カーソルがドキュメントリストの上に置かれ、「[!UICONTROL ここにドキュメントをドラッグ＆ドロップ]」メッセージが表示されている、[!DNL &#x200B; Workfront] プロジェクトの[!UICONTROL ドキュメント]エリアの画像](assets/drag-and-drop-1.png)
 
 一部の [!DNL Workfront] のお客さまでは、これは通常のプルーフのワークフローです。 クリエイティブデザイナーまたはチームメンバーはファイルをアップロードしますが、適切な受信者が作業をレビューできるように、プルーフワークフローを割り当てるのはプルーフマネージャーまたはプロジェクトマネージャーの責任です。
 
 [!DNL Workfront] のシステム設定によっては、ドラッグ＆ドロップでアップロードしたときにプルーフが生成されない可能性があります。 その場合、「[!UICONTROL プルーフの生成]」オプションを使用して「[!UICONTROL 詳細]」を選択し、プルーフを生成してワークフローを割り当てる必要があります。 そこから、プルーフのワークフローを設定できます。
 
-![[!UICONTROL プルーフの生成]が強調表示された、[!DNL  Workfront] プロジェクトの[!UICONTROL ドキュメント]エリアの画像](assets/drag-and-drop-2.png)
+![[!UICONTROL プルーフの生成]が強調表示された、[!DNL &#x200B; Workfront] プロジェクトの[!UICONTROL ドキュメント]エリアの画像](assets/drag-and-drop-2.png)

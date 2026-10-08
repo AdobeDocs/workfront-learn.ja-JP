@@ -1,6 +1,6 @@
 ---
 title: プルーフのバージョンのアップロード
-description: プルーフの新しいバージョンをアップロードし、[!DNL  Workfront]のバージョンにプルーフワークフローを適用する方法について説明します。
+description: プルーフの新しいバージョンをアップロードし、[!DNL &#x200B; Workfront]のバージョンにプルーフワークフローを適用する方法について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial

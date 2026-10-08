@@ -1,6 +1,6 @@
 ---
 title: ビデオのプルーフのアップロード
-description: '[!DNL  Workfront]でプルーフ用のビデオをアップロードする方法について説明します。'
+description: '[!DNL &#x200B; Workfront]でプルーフ用のビデオをアップロードする方法について説明します。'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: プルーフへのドキュメントの変換
-description: '[!DNL  Workfront]に既に存在するドキュメントのプルーフを生成し、プルーフにワークフローを追加し、プルーフ作成後にワークフローを追加または編集する方法について説明します。'
+description: '[!DNL &#x200B; Workfront]に既に存在するドキュメントのプルーフを生成し、プルーフにワークフローを追加し、プルーフ作成後にワークフローを追加または編集する方法について説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial

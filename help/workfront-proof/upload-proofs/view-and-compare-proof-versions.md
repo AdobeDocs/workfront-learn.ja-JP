@@ -1,6 +1,6 @@
 ---
 title: プルーフのバージョンの表示と比較
-description: '[!DNL  Workfront]でプルーフ バージョンを開く、識別、マークアップ、コメント付け、比較する方法について説明します。'
+description: '[!DNL &#x200B; Workfront]でプルーフ バージョンを開く、識別、マークアップ、コメント付け、比較する方法について説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial
