@@ -39,7 +39,7 @@ ht-degree: 93%
 * Web サイトを静的プルーフとしてアップロード
 * Web サイトをインタラクティブなプルーフとしてアップロード
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445068/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 ## インタラクティブコンテンツの考慮事項
