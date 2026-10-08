@@ -10,25 +10,29 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
+autotag-review: '2026-05-05T20:30:20.706Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:30:20.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Workfront DAM] について
 
 [!UICONTROL Workfront DAM] は、デジタルアセット管理（DAM）ソリューションであり、特に、マーケティングアセットやクリエイティブアセットの管理、コントロール、公開を行います。 プロジェクト、タスクの割り当て、およびその他の作業を管理している、既に [!DNL Workfront] にあるワークフローと組み合わせて使用できます。 [!DNL Workfront] を使用してアセットリクエストを作成し、アセットの作成とレビューを管理します。 [!UICONTROL Workfront DAM] を使用して、完成し承認されたアセットを調整、保存、配布します。
@@ -47,4 +51,4 @@ ht-degree: 100%
 * アセットを検索して表示する
 * フォルダー構造がアセットの編成とアクセスに与える影響を確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/3420104/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)

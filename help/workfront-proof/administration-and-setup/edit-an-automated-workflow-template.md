@@ -1,6 +1,6 @@
 ---
 title: 自動ワークフローテンプレートの編集
-description: ' [!DNL  Workfront] で既存の自動プルーフワークフローテンプレートに変更を加える方法を説明します。'
+description: '[!DNL  Workfront]で既存の自動校正ワークフローテンプレートを変更する方法について説明します。'
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 578
-ht-degree: 100%
-
+source-wordcount: '578'
+ht-degree: 97%
 ---
-
 # 自動ワークフローテンプレートの編集
 
 プルーフのレビューや承認のプロセスが改善されたり、組織が変更されたりしたら、Workfront を使用しているチームの現在の業務の進め方が反映されるように、自動ワークフローテンプレートを更新する必要があります。
@@ -56,7 +60,7 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL ワークフロー]エリアで実行できる変更のいくつかを実演します。 このビデオの下にある箇条書きリストを参照してください。このビデオでは、これらの設定を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432615/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 確認として、「[!UICONTROL ワークフロー]」セクションで実行できるプルーフテンプレートの変更は次の通りです。
 
@@ -65,8 +69,8 @@ ht-degree: 100%
 * 受信者リストで、「[!UICONTROL 役割]」フィールドまたは「[!UICONTROL 電子メールアラート]」フィールドをクリックすると、別のオプションを選択できます。
 * 受信者の名前の右端にある点が 3 つ並んだメニューに移動すると、受信者をリストから削除したり、そのワークフローステージのメインの意思決定者にしたり、プルーフの役割とメールアラートに関する情報を編集したりできます。
 * 受信者をリストに追加する方法は 2 つあります。
-   1. 各ステージセクションの右上隅で、「[!UICONTROL 詳細]」メニューに移動して「[!UICONTROL ステージにユーザーを追加]」を選択します。 「[!UICONTROL ステージにユーザーを追加]」ウィンドウを開いたら、そのユーザーを追加するステージをクリックします。 次に、受信者リストにそのユーザーの名前または電子メールアドレスを入力し、プルーフの役割とメールアラートを割り当てます。 完了したら「[!UICONTROL ユーザーを追加]」ボタンをクリックします。
-   1. [!UICONTROL ワークフロー]エリアの上部で、「[!UICONTROL ステージにユーザーを追加]」を選択します。
+  1. 各ステージセクションの右上隅で、「[!UICONTROL 詳細]」メニューに移動して「[!UICONTROL ステージにユーザーを追加]」を選択します。 「[!UICONTROL ステージにユーザーを追加]」ウィンドウを開いたら、そのユーザーを追加するステージをクリックします。 次に、受信者リストにそのユーザーの名前または電子メールアドレスを入力し、プルーフの役割とメールアラートを割り当てます。 完了したら「[!UICONTROL ユーザーを追加]」ボタンをクリックします。
+  1. [!UICONTROL ワークフロー]エリアの上部で、「[!UICONTROL ステージにユーザーを追加]」を選択します。
 
 ## テンプレートを共有する
 

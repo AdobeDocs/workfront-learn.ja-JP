@@ -1,6 +1,6 @@
 ---
 title: プルーフワークフローの編集
-description: ' [!DNL  Workfront] で、プルーフの期限を更新し、既存のワークフローにユーザーを追加し、既存のワークフローを自動ワークフローに切り替える方法について説明します。'
+description: プルーフの期限を更新する方法、既存のワークフローにユーザーを追加する方法、既存のワークフローを[!DNL  Workfront]の自動ワークフローに切り替える方法について説明します。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,25 +11,29 @@ thumbnail: 335138.png
 jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
+autotag-review: '2026-05-05T20:01:16.425Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:01:16.425Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 130
-ht-degree: 100%
-
+source-wordcount: '130'
+ht-degree: 82%
 ---
-
 # プルーフワークフローの編集
 
 このビデオでは、次の方法を学習します：
@@ -38,7 +42,7 @@ ht-degree: 100%
 * 既存のワークフローにユーザーを追加する
 * 既存のワークフローを自動ワークフローに切り替える
 
->[!VIDEO](https://video.tv.adobe.com/v/3445453/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
 
 ## やってみよう
 

@@ -1,6 +1,6 @@
 ---
 title: プルーフの役割とメールアラート
-description: プルーフの受信者がプルーフへのアクセス権を持ち、 [!DNL  Workfront] で行われている作業を確認できるように、プルーフの役割とメールアラートを適切に有効にする方法を説明します。
+description: プルーフの受信者がプルーフにアクセスし、[!DNL  Workfront]で行われている作業を可視化できるように、適切なプルーフの役割とメールのアラートを有効にする方法を説明します。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,25 +10,29 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
+autotag-review: '2026-05-05T20:05:31.746Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:05:31.746Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 552
-ht-degree: 100%
-
+source-wordcount: '552'
+ht-degree: 95%
 ---
-
 # プルーフの役割とメールアラート
 
 プルーフの役割とメールアラートを使用すると、受信者がプルーフに適切にアクセスし、実行中の作業を視覚的に確認することができ、プルーフのワークフローを推進できるようになります。
@@ -52,7 +56,7 @@ ht-degree: 100%
 
 [!DNL Workfront] では、プルーフの受信者にメールアラートを割り当てる際に、以下の一般的なレコメンデーションを提供します。
 
-* **最終決定 -** 最後の人物がプルーフを決定したときにメールを送信します。 プルーフワークフローをモニタリングするユーザー （プルーフマネージャー、プルーフオーナー、プルーフ作成者、プロジェクトマネージャー、またはその他の [!DNL Workfront] ユーザー）に割り当てます。 [!DNL Workfront] では、基本的なワークフローを使用する場合にこのアラートを推奨しています。これにより、プルーフを監視する人は、すべての決定がなされたことを知ることができます。
+* **最終決定 -** 最後の人物がプルーフを決定したときにメールを送信します。 プルーフワークフローをモニタリングするユーザー （プルーフマネージャー、プルーフオーナー、プルーフ作成者、プロジェクトマネージャー、またはその他の [!DNL Workfront] ユーザー）に割り当てます。 [!DNL Workfront] では、基本的なワークフローを使用する場合にこのアラートを推奨しています。これにより、プルーフをモニタリングする人は、すべての決定がなされたことを知ることができます。
 * **決定 -** これにより、プルーフワークフローの各関係者がプルーフに関する決定を下す際にアラートが送信されます。 このオプションは、自動化されたワークフローで、いくつかの決定を行う場合に最適です。 プルーフワークフローをモニタリングするユーザー （プルーフマネージャー、プルーフオーナー、プルーフ作成者、プロジェクトマネージャー、またはその他の [!DNL Workfront] ユーザー）に割り当てます。
 * **無効 -** ゲストのプルーフユーザーがプルーフに関するメールを受け取る回数を制限するために使用します。 受信者には、新しいプルーフ、新しいバージョン、遅延プルーフについて、引き続き通知が届きます。さらに、プルーフのコメントで作成されたダイレクトメッセージを、[!DNL Workfront] ユーザーは @username を使用して、ゲスト受信者は @emailaddress を使用して受け取ります。
 
