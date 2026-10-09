@@ -9,24 +9,27 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
+autotag-review: '2026-05-05T20:32:27.177Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:32:27.177Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 411
+source-wordcount: '411'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Workfront DAM] 戦略の分析とプラン
 
 組織の [!UICONTROL Workfront DAM] の設定を開始する前に、組織戦略とメタデータ／キーワード戦略を確立することが重要です。
@@ -41,13 +44,13 @@ ht-degree: 100%
 * **キーワード分類** - キーワードは、アセットに関する説明的な単語です。 分類とは、ユーザーがアセットにキーワードを追加するために選択できる定義済みの用語のリストです。 分類は、キーワードの取り組みにおいてコントロールと一貫性を維持するための鍵となります。
 * **ワークフロープロセス** - [!UICONTROL Workfront DAM] をうまく使用するためのもう 1 つの重要な手順は、組織のワークフロープロセスを確立することです。 誰がアセットをアップロードするかだけを決めればよいわけではありません。 考慮すべき事項を以下に示します（このリストは包括的ではありません）。
 
-   * アセットをアップロードするフォルダーはどれですか？
-   * 各アセットに必要なメタデータ フィールドはどれですか？
-   * メタデータはアップロードの前または後に追加しますか？
-   * アセットをアップロードできるのは誰ですか？
-   * メタデータを追加できるのは誰ですか？
-   * キーワード分類の使用は必須ですか？ または、ユーザーはキーワードを追加できますか？
-   * メタデータの追加に関するベストプラクティスは何ですか？ 日付の形式はどうすればよいですか？ 会社名やクライアント名は入れますか？
-   * 新規ユーザーが [!UICONTROL Workfront DAM] ログインを取得するにはどうすればよいですか？
+  * アセットをアップロードするフォルダーはどれですか？
+  * 各アセットに必要なメタデータ フィールドはどれですか？
+  * メタデータはアップロードの前または後に追加しますか？
+  * アセットをアップロードできるのは誰ですか？
+  * メタデータを追加できるのは誰ですか？
+  * キーワード分類の使用は必須ですか？ または、ユーザーはキーワードを追加できますか？
+  * メタデータの追加に関するベストプラクティスは何ですか？ 日付の形式はどうすればよいですか？ 会社名やクライアント名は入れますか？
+  * 新規ユーザーが [!UICONTROL Workfront DAM] ログインを取得するにはどうすればよいですか？
 
 長期的な成功を実現するには、設定を開始する前にシステム構造、メタデータスキーマ、エンドユーザーのトレーニン、継続的なメンテナンスを計画することが重要です。
