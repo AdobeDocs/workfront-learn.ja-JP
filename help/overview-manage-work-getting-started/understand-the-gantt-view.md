@@ -1,5 +1,5 @@
 ---
-title: プロジェクト管理用の[!UICONTROL  ガント ] ビューを探索
+title: プロジェクト管理用の[!UICONTROL &#x200B; ガント &#x200B;] ビューを探索
 description: ガントチャートを使用してプロジェクトの効率を最大化します。ガントチャートは、全体像ビュー、進捗のトラッキング、マイルストーンの管理、先行タスクのインサイト、カスタマイズ可能なオプションを提供して、タスクとリソースの管理を効率化します。
 activity: use
 team: Technical Marketing
@@ -34,6 +34,6 @@ workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 64%
 ---
-# プロジェクト管理用の[!UICONTROL  ガント ] ビューを探索
+# プロジェクト管理用の[!UICONTROL &#x200B; ガント &#x200B;] ビューを探索
 
 {{$include /help/_includes/understand-the-gantt-view.md}}
