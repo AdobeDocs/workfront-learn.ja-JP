@@ -1,6 +1,6 @@
 ---
-title: 承認の完了
-description: 不完全な承認を特定して解決し、 [!DNL  Workfront] でプロジェクトを閉じることができるようにする方法について説明します。
+title: タスクと問題の承認を解決
+description: 不完全な承認を特定して解決し、プロジェクトを閉じることができるようにする方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,catalog
-last-substantial-update: '2024-08-05T00:00:00.000Z'
+last-substantial-update: '2026-10-27T00:00:00.000Z'
 jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:36:38.984Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '25'
+ht-degree: 60%
 ---
-
-# 承認の完了
+# タスクと問題の承認を解決
 
 {{$include /help/_includes/complete-approvals.md}}

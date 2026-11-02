@@ -1,6 +1,6 @@
 ---
-title: プロジェクトのコミュニケーションについて
-description: 適切なプロジェクト計画、更新、タスクのステータス、完了率、イシューおよびレポートを使用して、プロジェクトの作業についてコミュニケーションを行う方法を説明します。
+title: 効果的なコミュニケーションによるプロジェクトの成功の向上
+description: 関係者との効果的なコミュニケーション、タスクの明確化、一元化されたディスカッション、正確なステータスレポート、プロアクティブなイシュー解決により、整合性と効率を維持し、プロジェクトの成功を強化します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-05T00:00:00.000Z'
+last-substantial-update: '2026-07-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
@@ -29,13 +29,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:27:31.448Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 25
-ht-degree: 100%
-
+source-wordcount: '35'
+ht-degree: 65%
 ---
-
-# プロジェクトのコミュニケーションについて
+# 効果的なコミュニケーションによるプロジェクトの成功の向上
 
 {{$include /help/_includes/understand-project-communication.md}}
+

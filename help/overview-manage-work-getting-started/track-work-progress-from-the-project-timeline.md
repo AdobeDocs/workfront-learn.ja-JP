@@ -1,13 +1,14 @@
 ---
-title: プロジェクトタイムラインからの進捗の追跡
-description: ' [!DNL  Workfront]  で、完了率や、ステータス、割り当て、制約を使用して、プロジェクトタイムラインから進捗を追跡する方法を説明します。'
+title: 完了率と進捗状況を使用して進捗状況を追跡する
+description: 完了率と進捗ステータスを使用して、プロジェクトタイムラインから作業の進捗を追跡する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
-last-substantial-update: '2023-08-16T00:00:00.000Z'
+last-substantial-update: '2024-11-15T00:00:00.000Z'
+recommendations: noDisplay,catalog
 level: Beginner
 jira: KT-10150
 hide: true
@@ -28,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:29:57.735Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 31
-ht-degree: 100%
-
+source-wordcount: '35'
+ht-degree: 54%
 ---
-
-# プロジェクトタイムラインからの進捗の追跡
+# 完了率と進捗状況を使用して進捗状況を追跡する
 
 {{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

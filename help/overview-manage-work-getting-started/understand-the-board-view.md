@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL ボード]ビューについて'
-description: プロジェクトのランディングページにおける[!UICONTROL ボード]ビューの使用方法について説明します。
+title: タスク管理のボードビューを確認する
+description: '[!UICONTROL 掲示板] ビューの[!DNL Kanban] インターフェイスを使用して、Workfrontでタスク管理を合理化し、タスクの並べ替え、作成、カスタマイズ、およびタスクリストビューとのシームレスな統合を提供して、効率的なプロジェクトの整理を実現します。'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 0%
 ---
-
-# [!UICONTROL ボード]ビューについて
+# タスク管理のボードビューを確認する
 
 {{$include /help/_includes/understand-the-board-view.md}}

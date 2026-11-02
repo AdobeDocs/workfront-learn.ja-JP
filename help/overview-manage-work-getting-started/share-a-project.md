@@ -1,6 +1,6 @@
 ---
-title: プロジェクトの共有
-description: プロジェクトを共有し、関係者やプロジェクトに関心のある他のユーザーが  [!DNL  Workfront] を使用して行われている作業を確認できるようにする方法を説明します。
+title: Workfrontでのプロジェクトの効果的な共有
+description: 自動アクセス権、柔軟なオプション、チームベースの管理、テンプレートの共有、カスタマイズ可能なシステムデフォルトにより、Workfront でのプロジェクト共有が簡素化され、共同作業が効率化されます。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-07-21T00:00:00.000Z'
+last-substantial-update: '2026-07-06T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
@@ -29,13 +29,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:31:33.943Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 29
-ht-degree: 100%
-
+source-wordcount: '33'
+ht-degree: 69%
 ---
-
-# プロジェクトの共有
+# Workfrontでのプロジェクトの効果的な共有
 
 {{$include /help/_includes/share-a-project.md}}
+

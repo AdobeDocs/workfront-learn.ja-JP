@@ -1,6 +1,6 @@
 ---
-title: 時間のログ記録とレビュー
-description: ' [!DNL  Workfront] でプロジェクトを終了する前に、未処理の時間を記録し、記録された時間を確認します。'
+title: プロジェクト時間の記録とレビュー
+description: プロジェクトを終了する前に、未処理の時間を記録し、記録された時間を確認します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '21'
+ht-degree: 52%
 ---
-
-# 時間のログ記録とレビュー
+# プロジェクト時間の記録とレビュー
 
 {{$include /help/_includes/log-and-review-hours.md}}

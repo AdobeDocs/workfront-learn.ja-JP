@@ -1,6 +1,6 @@
 ---
-title: 教訓の記録
-description: うまくいったこと、次に改善できることを特定する「教訓」タスクを含める方法を説明します。
+title: 今後のプロジェクトで学んだ教訓を記録する
+description: プロジェクトを終了する際に「教訓」を活用する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-29T00:00:00.000Z'
 jira: KT-10135
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
 product_v2:
@@ -29,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:59.903Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 27
-ht-degree: 100%
-
+source-wordcount: '23'
+ht-degree: 47%
 ---
-
-# 教訓の記録
+# 今後のプロジェクトで学んだ教訓を記録する
 
 {{$include /help/_includes/lessons-learned-from-closing-a-project.md}}
