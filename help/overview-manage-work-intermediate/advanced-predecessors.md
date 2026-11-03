@@ -1,5 +1,5 @@
 ---
-title: 高度な先行タスク
+title: マスターの高度なタスクの依存関係
 description: 先行タスクの依存関係タイプ、ラグタイプ、強制的な先行タスク、依存関係ループエラー、いくつかのショートカットとベストプラクティスについて説明します。
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 70%
 ---
-
-# 高度な先行タスク
+# マスターの高度なタスクの依存関係
 
 {{$include /help/_includes/advanced-predecessors.md}}

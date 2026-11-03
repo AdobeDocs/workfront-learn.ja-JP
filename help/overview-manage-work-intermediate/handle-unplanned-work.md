@@ -1,6 +1,6 @@
 ---
-title: 予定外作業の処理
-description: Adobe Workfront で予定外の作業を処理する方法を説明します。
+title: 予定外の作業を効果的に処理する
+description: イシューを効果的に追跡および解決し、ログツールを利用し、ベストプラクティスを実装し、コミュニケーションを促進し、イシューをシームレスにタスクに変換して効率的に実行することで、Workfront でのプロジェクト管理を改善します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-06-26T00:00:00.000Z'
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 hide: true
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:15:26.822Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 15
-ht-degree: 100%
-
+source-wordcount: '36'
+ht-degree: 77%
 ---
-
-# 予定外作業の処理
+# 予定外の作業を効果的に処理する
 
 {{$include /help/_includes/handle-unplanned-work.md}}

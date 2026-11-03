@@ -1,5 +1,5 @@
 ---
-title: プロジェクトテンプレートでのプロジェクトチームの編集
+title: テンプレートでのプロジェクトチームの編集
 description: テンプレートプロジェクトチームの編集方法を学び、テンプレートプロジェクトチームにプロジェクトチームのメンバーを意図せず含めないようにします。
 activity: use
 feature: Work Management
@@ -7,11 +7,11 @@ thumbnail: 3426803.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-01-09T00:00:00.000Z'
+last-substantial-update: '2026-10-13T00:00:00.000Z'
+recommendations: noDisplay,catalog
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
-recommendations: noDisplay,catalog
 hide: true
 exl-id: c2f06ee1-efbd-4c65-aca7-d844cb08f52f
 product_v2:
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:16:52.908Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 36
-ht-degree: 100%
-
+source-wordcount: '34'
+ht-degree: 58%
 ---
-
-# プロジェクトテンプレートでのプロジェクトチームの編集
+# テンプレートでのプロジェクトチームの編集
 
 {{$include /help/_includes/edit-the-project-team-in-a-project-template.md}}
