@@ -1,5 +1,5 @@
 ---
-title: プロジェクトテンプレートの作成と、[!UICONTROL ブループリント]の詳細
+title: プロジェクトテンプレートの作成とブループリントの探索
 description: プロジェクトテンプレートを最初から作成する方法と、既存のプロジェクトから作成する方法を説明します。また、[!UICONTROL ブループリント]を使用して Workfront のエキスパートが作成した便利なプロジェクトテンプレートを利用する方法を紹介します。
 activity: use
 feature: Work Management
@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2023-08-31T00:00:00.000Z'
-jira: KT-8950
+last-substantial-update: '2026-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
+jira: KT-8950
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:21:02.093Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 48
-ht-degree: 100%
-
+source-wordcount: '46'
+ht-degree: 69%
 ---
-
-# プロジェクトテンプレートの作成と、[!UICONTROL ブループリント]の詳細
+# プロジェクトテンプレートの作成とブループリントの探索
 
 {{$include /help/_includes/create-a-project-template.md}}

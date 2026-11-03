@@ -1,6 +1,6 @@
 ---
-title: イシューに関するレポート
-description: 未解決のイシューとコンバージョン情報を示すレポートを作成する方法について説明します。
+title: イシュー管理用のカスタムレポートの作成
+description: 未解決のイシューを一元管理および追跡する方法、列とフィルターをカスタマイズする方法、プロジェクトとイシューの管理を最適化する方法など、イシューとプロジェクトの管理に関するカスタムレポートを作成する方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:14:42.100Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 17
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 70%
 ---
-
-# イシューに関するレポート
+# イシュー管理用のカスタムレポートの作成
 
 {{$include /help/_includes/report-on-issues.md}}

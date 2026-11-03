@@ -1,6 +1,6 @@
 ---
 title: プロジェクト時間の記録とレビュー
-description: プロジェクトを終了する前に、未処理の時間を記録し、記録された時間を確認します。
+description: Workfrontでプロジェクト時間をレビュー、記録、編集、承認する方法について説明します。 この初心者向けのチュートリアルでは、時間セクション、ログ時間、インライン編集、時間承認の使用方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10136
 recommendations: noDisplay,catalog
+last-substantial-update: '2026-11-2T00:00:00.000Z'
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
@@ -29,10 +30,10 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 52%
+source-wordcount: '41'
+ht-degree: 0%
 ---
 # プロジェクト時間の記録とレビュー
 

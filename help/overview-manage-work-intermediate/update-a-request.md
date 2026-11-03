@@ -1,13 +1,13 @@
 ---
-title: リクエストの更新
-description: 送信したリクエストを検索し、[!DNL  Workfront] で更新する方法について説明します。
+title: Workfrontでのリクエストの更新
+description: フィルターを使用してリクエストを検索し、ステータスと詳細を効率的に更新し、完全な情報にアクセスし、効率化されたワークフローの一元化された共同作業を促進することで、Workfront でのリクエスト管理を簡素化します。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 72%
 ---
-# リクエストの更新
+# Workfrontでのリクエストの更新
 
 {{$include /help/_includes/update-a-request.md}}

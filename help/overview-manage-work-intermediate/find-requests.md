@@ -1,6 +1,6 @@
 ---
-title: リクエストを検索と管理
-description: ダッシュボード、[!UICONTROL ホーム]、[!UICONTROL リクエスト]エリア、および[!UICONTROL チーム]ページを使用して、リクエストキューを通じて作成された受信リクエストを確認する方法を説明します。
+title: リクエストを効率的に検索および管理
+description: フィルターの使用方法、チーム割り当ての管理方法、カスタムレポートとダッシュボードの作成方法、様々なコンテキストでの「マイ」の意味を明確にして、効果的なリクエスト管理を行う方法について説明します。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 72%
 ---
-# リクエストの検索と管理
+# リクエストを効率的に検索および管理
 
 {{$include /help/_includes/find-requests.md}}

@@ -1,14 +1,15 @@
 ---
-title: 財務情報の検索
-description: プロジェクトの財務情報を見つけ、その情報の出所を把握する方法を説明します。
+title: プロジェクトの財務情報へのアクセスと管理
+description: 予算、収益、コスト、パフォーマンス指標など、プロジェクトやタスクの財務データにアクセスし、分析および管理する方法をご確認ください。
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
@@ -28,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:03:25.349Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 21
-ht-degree: 100%
-
+source-wordcount: '36'
+ht-degree: 0%
 ---
-
-# 財務情報の検索
+# プロジェクトの財務情報へのアクセスと管理
 
 {{$include /help/_includes/find-financial-information.md}}
