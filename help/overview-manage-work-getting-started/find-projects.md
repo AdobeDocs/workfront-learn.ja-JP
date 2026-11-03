@@ -1,6 +1,6 @@
 ---
-title: プロジェクトの検索
-description: プロジェクトを簡単に検索するいくつかの方法について説明します。
+title: プロジェクトを効率的に探す
+description: フィルター、検索ツール、最近使用したものリスト、お気に入り、ピン留めされたプロジェクト、カスタムレポートやダッシュボードを使用してプロジェクト管理を簡素化し、プロジェクトにすばやく整理してアクセスできます。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -32,11 +32,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '13'
-ht-degree: 100%
+source-wordcount: '30'
+ht-degree: 80%
 ---
-# プロジェクトの検索
+# プロジェクトを効率的に探す
 
 {{$include /help/_includes/find-projects.md}}
+

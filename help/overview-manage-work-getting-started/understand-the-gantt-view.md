@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL ガント]表示について'
-description: ガントチャートを使用して、高いレベルのタスクやプロジェクトを、驚くほど詳細に表示する方法を説明します。
+title: プロジェクト管理用の[!UICONTROL &#x200B; ガント &#x200B;] ビューを探索
+description: ガントチャートを使用してプロジェクトの効率を最大化します。ガントチャートは、全体像ビュー、進捗のトラッキング、マイルストーンの管理、先行タスクのインサイト、カスタマイズ可能なオプションを提供して、タスクとリソースの管理を効率化します。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 32
-ht-degree: 100%
-
+source-wordcount: '39'
+ht-degree: 64%
 ---
-
-# [!UICONTROL ガント]ビューについて
+# プロジェクト管理用の[!UICONTROL &#x200B; ガント &#x200B;] ビューを探索
 
 {{$include /help/_includes/understand-the-gantt-view.md}}

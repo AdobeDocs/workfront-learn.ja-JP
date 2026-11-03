@@ -1,6 +1,6 @@
 ---
-title: 財務の更新とレビュー
-description: ' [!DNL  Workfront] で、プロジェクトに関連する財務情報を確認する方法を学びます。'
+title: 顧客プロジェクトの財務の更新
+description: レートの定義、タスクへのコストと収益タイプの割り当て、費用の管理、請求記録の作成により、コストのトラッキングと請求を効率化します。 Workfront では、実際の請求は行いません。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -27,13 +27,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:25:38.036Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '38'
+ht-degree: 73%
 ---
-
-# 財務の更新とレビュー
+# 顧客プロジェクトの財務の更新
 
 {{$include /help/_includes/update-and-review-finances.md}}

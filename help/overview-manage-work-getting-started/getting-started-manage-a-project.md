@@ -1,6 +1,6 @@
 ---
-title: プロジェクト管理の基本を学ぶ
-description: プロジェクトの進捗を監視する方法、ドリルダウンしてタスクの詳細を表示する方法、関係者とのコミュニケーションを図る方法について説明します。
+title: 現在のステータスを持つプロジェクトの管理
+description: レポートを使用してプロジェクトの進捗を効果的に追跡し、ガントビューを通じて依存関係を管理し、タスクと承認を監視し、チームのコミュニケーションを強化し、頻繁な更新でスムーズなワークフローを確保します。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-04-22T00:00:00.000Z'
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: true
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '37'
+ht-degree: 67%
 ---
-# プロジェクト管理の基本を学ぶ
+# 現在のステータスを持つプロジェクトの管理
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}

@@ -1,6 +1,6 @@
 ---
-title: プロジェクト情報の表示
-description: フィルター、表示、グループ化を使用してプロジェクト情報を簡単に表示し、プロジェクトの管理に役立てる方法を学びます。
+title: プロジェクト管理のフィルター、ビュー、グループ化について詳しく見る
+description: カスタマイズ可能なフィルター、詳細ビュー、効率的なグループ化、タスク管理ツール、イシュートラッキング機能を使用してプロジェクトワークフローを効率化し、組織化と明確性を強化します。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -31,11 +31,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 57%
 ---
-# プロジェクト情報の表示
+# プロジェクト管理のフィルター、ビュー、グループ化について詳しく見る
 
 {{$include /help/_includes/view-project-information.md}}
