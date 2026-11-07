@@ -50,6 +50,6 @@ Workfront の他のほとんどの機能と同様に、メインメニューか�
 このビデオでは、システム管理者とグループ管理者が Workfront で [!UICONTROL Analytics] へのアクセス権を付与する方法について説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3507899/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 Workfront ライセンス（[!UICONTROL Workfront Business] プランかそれより上位のプラン）を持っているユーザーなら誰でも、割り当てられているレイアウトテンプレートに追加されたら、[!UICONTROL Analytics] を利用できます。 ただし、Workfront のアクセスレベルや、特定のプロジェクトおよびユーザーに対する共有権限で許可されている場合に、プロジェクトとユーザー情報のみが表示されます。
