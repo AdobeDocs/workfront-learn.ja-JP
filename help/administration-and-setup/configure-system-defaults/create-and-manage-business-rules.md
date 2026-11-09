@@ -37,4 +37,4 @@ ht-degree: 100%
 
 ビジネスルールの作成および管理方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508025/?captions=jpn&quality=12&learn=on&enablevpops=1)
