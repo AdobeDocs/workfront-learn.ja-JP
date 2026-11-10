@@ -32,4 +32,4 @@ ht-degree: 84%
 
 このビデオでは、マイルストーンが [!DNL &#x200B; Workfront] プロジェクトを進めるのに役立つ仕組みを学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508016/?captions=jpn&quality=12&learn=on&enablevpops=1)
