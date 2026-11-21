@@ -19,7 +19,7 @@ ht-degree: 80%
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
-期間タイプとタスク制約のビューを作成する方法について詳しくは、[基本ビューの作成](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)の&#x200B;**期間タイプとタスク制約のビュー**&#x200B;のアクティビティを参照してください。
+期間タイプとタスク制約のビューを作成する方法について詳しくは、[基本ビューの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)の&#x200B;**期間タイプとタスク制約のビュー**&#x200B;のアクティビティを参照してください。
 
 期間タイプについて詳しくは、[タスク期間と期間タイプ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=ja)を参照してください。
 
