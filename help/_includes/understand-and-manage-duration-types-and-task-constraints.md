@@ -16,7 +16,7 @@ ht-degree: 80%
 * 使用上のベストプラクティス
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508291/?captions=jpn&quality=12&learn=on&enablevpops=1)
 
 
 期間タイプとタスク制約のビューを作成する方法について詳しくは、[基本ビューの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)の&#x200B;**期間タイプとタスク制約のビュー**&#x200B;のアクティビティを参照してください。
