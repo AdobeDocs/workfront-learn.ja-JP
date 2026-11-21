@@ -1,9 +1,8 @@
 ---
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: bd651d786270bc9ef2a4ae08efbd84be90916fe6
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 95%
-
+source-wordcount: '167'
+ht-degree: 80%
 ---
 # マスター期間の種類とタスクの制約 – 共有
 
@@ -17,10 +16,10 @@ ht-degree: 95%
 * 使用上のベストプラクティス
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422827/?captions=jpn&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
-期間タイプとタスク制約のビューを作成する方法について詳しくは、[基本ビューの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ja)の&#x200B;**期間タイプとタスク制約のビュー**&#x200B;のアクティビティを参照してください。
+期間タイプとタスク制約のビューを作成する方法について詳しくは、[基本ビューの作成](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)の&#x200B;**期間タイプとタスク制約のビュー**&#x200B;のアクティビティを参照してください。
 
 期間タイプについて詳しくは、[タスク期間と期間タイプ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=ja)を参照してください。
 
